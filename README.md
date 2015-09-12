@@ -4,7 +4,7 @@ Just a collection of IPTV links collected over the web!
 ##URLS
 pt.m3u = http://git.io/vZoe7
 
-ru.m3u = http://git.io/vZoer
+ru.m3u = http://git.io/vZoha
 
 music.m3u = http://git.io/vZohs
 
