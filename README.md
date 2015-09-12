@@ -15,6 +15,7 @@ hindi.m3u = http://git.io/vZoJg
 
 ###Canais da Russia
 http://fixzen.3dn.ru/load/video/iptv_playlist/7-1-0-36
+http://dump-sat.blogspot.pt/
 
 ###Canais do Hushan
 https://github.com/hmemar/husham.com/tree/master/Lists
