@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:0,HITS ALL THE HITS 24/7
+#EXTINF:0, HITS ALL THE HITS 24/7
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:0,NRJ TV
+#EXTINF:0, NRJ TV
 rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
-#EXTINF:0,M6 MUSIC
+#EXTINF:0, M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:0,Music Box RU
+#EXTINF:0, Music Box RU
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
-#EXTINF:0,Music Box TV
+#EXTINF:0, Music Box TV
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
-#EXTINF:0,Vevo Music TV
+#EXTINF:0, Vevo Music TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0,Vevo Hip Hop TV
+#EXTINF:0, Vevo Hip Hop TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0,VEVO FLOW RAP AND R&B NONSTOP
+#EXTINF:0, VEVO Flow RAP AND R&B NONSTOP
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
-#EXTINF:0,VEVO NASHVILLE THE BEST COUNTRY 24/7
+#EXTINF:0, VEVO NASHVILLE The BEST COUNTRY 24/7
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-#EXTINF:-1Vevo HD 1
+#EXTINF:-1, VEVO HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 Vevo HD 2
+#EXTINF:-1, VEVO HD 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 Vevo HD 3
+#EXTINF:-1, VEVO HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Vevo Music
+#EXTINF:-1, VEVO Music
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
