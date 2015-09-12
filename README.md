@@ -1,26 +1,29 @@
 # myIPTVchannels
-Just a collection of IPTV links collected over the web!
+Just a private collection of IPTV links collected over the web!
+Opened to all the IPTV community.
 
-##URLS
-pt.m3u = http://git.io/vZohP
+##URLS myIPTVChannels (Kodi/VLC, etc)
+PT Channels: pt.m3u = http://git.io/vZohP
 
-ru.m3u = http://git.io/vZoha
+RU Channels: ru.m3u = http://git.io/vZoha
 
-music.m3u = http://git.io/vZohs
+IN Channels: hindi.m3u = http://git.io/vZoJg
 
-hindi.m3u = http://git.io/vZoJg
+Music Channels: music.m3u = http://git.io/vZohs
 
 
-##Fontes dos Canais
 
-###Canais da Russia
+
+##Channels Sources
+
+###Russia Channels
 http://fixzen.3dn.ru/load/video/iptv_playlist/7-1-0-36
 http://dump-sat.blogspot.pt/
 
-###Canais do Hushan
+###Hushan
 https://github.com/hmemar/husham.com/tree/master/Lists
 
-###Canais India (Husham)
+###Indian Channels (Husham)
 https://github.com/hmemar/husham.com/blob/master/Lists/hindi.m3u
 
 ##Utilities
