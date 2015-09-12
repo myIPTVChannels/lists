@@ -6,7 +6,7 @@ pt.m3u = http://git.io/vZoe7
 
 ru.m3u = http://git.io/vZoer
 
-music.m3u = http://git.io/vZrjH
+music.m3u = http://git.io/vZohs
 
 hindi.m3u = http://git.io/vZoJg
 
