@@ -10,6 +10,10 @@ http://198.179.31.198:80/live/303.high.stream/303.high.stream/index.m3u8
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1, RTP2
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
+#EXTINF:-1, RTP Informação
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+#EXTINF:-1, RTP Informação (2)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
 #EXTINF:-1, SIC
 http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
 #EXTINF:-1, SIC (2)
@@ -48,3 +52,5 @@ http://213.13.26.7:1936/live/santuario.stream/livestream.m3u8
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 #EXTINF:-1, EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1, SYFY
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
