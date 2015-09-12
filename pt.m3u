@@ -1,1 +1,50 @@
 
+#EXTM3U
+#EXTINF:-1, RTP1 HD
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1, RTP1 SD
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1, RTP INTERNACIONAL
+http://198.179.31.198:80/live/303.high.stream/303.high.stream/index.m3u8
+#EXTINF:-1, RTP INTERNACIONAL (2)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1, RTP2
+http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
+#EXTINF:-1, SIC
+http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
+#EXTINF:-1, SIC (2)
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+#EXTINF:-1, SIC NOTICIAS
+http://213.13.26.7:1936/live/_definst_/sicnoticias/magellan.m3u8
+#EXTINF:-1, SIC NOTICIAS (2)
+http://213.13.26.7:1936/live/_definst_/sicnoticias/chunklist_w656214511.m3u8
+#EXTINF:-1, SIC KIDS
+http://84.74.247.12:8001/1:0:1:7f:65:53:ce40000:0:0:0:
+#EXTINF:-1, SIC RADICAL
+http://84.74.247.12:8001/1:0:1:516:67:53:CE40000:0:0:0:
+#EXTINF:-1, TVI
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:-1, TVI (2)
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+#EXTINF:-1, TVI (3)
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+#EXTINF:-1, TVI +
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
+#EXTINF:-1, TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1, TPA Africa
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF:-1, CANAL ECONOMICA
+http://213.13.26.7:1936/live/etv_direto/livestream.m3u8
+#EXTINF:-1, CANAL PARLAMENTO
+rtsp://www.canal.parlamento.pt/Live
+#EXTINF:-1, TV CIENCIA
+mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
+#EXTINF:-1, FASHION TV
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:-1, SANTU?RIO DE F?TIMA
+http://213.13.26.7:1936/live/santuario.stream/livestream.m3u8
+#EXTINF:-1, EURONEWS (PT)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1, EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
