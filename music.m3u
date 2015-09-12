@@ -11,17 +11,17 @@ http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
 #EXTINF:0, VEVO Music TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0, Vevo Hip Hop TV
+#EXTINF:0, VEVO Hip Hop TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:0, VEVO Flow RAP AND R&B NONSTOP
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 #EXTINF:0, VEVO NASHVILLE The BEST COUNTRY 24/7
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-#EXTINF:-1, VEVO HD 1
+#EXTINF:0, VEVO HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1, VEVO HD 2
+#EXTINF:0, VEVO HD 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1, VEVO HD 3
+#EXTINF:0, VEVO HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1, VEVO Music
+#EXTINF:0, VEVO Music
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
