@@ -8,6 +8,7 @@ ru.m3u = http://git.io/vZoer
 
 music.m3u = http://git.io/vZrjH
 
+hindi.m3u = http://git.io/vZofd
 
 
 ##Fontes dos Canais
