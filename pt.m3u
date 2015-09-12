@@ -28,7 +28,7 @@ http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 #EXTINF:-1, TVI (3)
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-#EXTINF:-1, TVI +
+#EXTINF:-1, TVI (4)
 http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
 #EXTINF:-1, TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
