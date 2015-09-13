@@ -81,7 +81,7 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
 #EXTINF:0 group-title="Russia", A-One Россия
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
-#EXTINF:0 group-title="Музыка",JuCeTV Россия
+#EXTINF:0 group-title="Russia",JuCeTV Россия
 http://zhegal.com.ua/tv/triolan?id=47
-#EXTINF:0 group-title="Музыка",JuCeTV HD Россия
+#EXTINF:0 group-title="Russia",JuCeTV HD Россия
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
