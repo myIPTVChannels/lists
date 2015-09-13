@@ -2,6 +2,45 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:13
 #EXT-X-MEDIA-SEQUENCE:546798
+
+#EXTINF:0 group-title="TEMPORARIOS_PORTUGAL", Sports Portugal
+http://0.0.0.1234
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-logo="sporttv1.png" group-title="TEMPORARIOS_PORTUGAL",  SPORT TV 1 
+http://satznt.mine.nu:7002/sptv1
+#EXTINF:0 tvg-id="sporttv2.pt" tvg-logo="sporttv2.png" group-title="TEMPORARIOS_PORTUGAL",  SPORT TV 2
+http://satznt.mine.nu:7003/sptv2
+#EXTINF:0 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png" group-title="TEMPORARIOS_PORTUGAL",  SPORT TV 3
+http://satznt.mine.nu:7003/sptv3
+#EXTINF:-1 group-title="TEMPORARIOS_PORTUGAL"  tvg-logo="sporttv4.png", SPORT TV 4
+http://satznt.mine.nu:7001/sptv4
+#EXTINF:-1 group-title="TEMPORARIOS_PORTUGAL"  tvg-logo="sporttv5.png", SPORT TV 5
+http://satznt.mine.nu:7004/sptv5
+#EXTINF:-1 group-title="TEMPORARIOS_PORTUGAL" tvg-logo="Benfica TV 2.png",BENFICA_TV_2 
+http://satznt.mine.nu:7001/btv2
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 1 [/COLOR]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 1 [/COLOR]
+rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 1 [/COLOR]
+rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
+#EXTINF:-1 group-title=DESPORTO, SPORT TV 2 opc1
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 2 [/COLOR]
+rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 2 SD [/COLOR]
+rtmp://146.185.25.186:1935/stream/ playpath=0qZjb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
+#EXTINF:-1 group-title=DESPORTO, SPORT TV 3 opc1
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 3 [/COLOR]
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 4 [/COLOR]
+rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2438444741354t2y234w2s2r2&adx=&stream=h564f4d4.a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y343z2z3q2b49434c4q2t26424n234n4q5e3h44494v213p4v2x4o4x585j3k5.b4u2r5m293j4j4t574l3v3a4j52406q5y334j4o234z3n244s2k5e4z2h5i533v2r213c4a4b4j5z2f5v2s2l523t24454c45444z223g5p2e4242434p2o234z3n204.&sooor=MTA=&str=is&ok=&cat=1&link=4&idom=www.gofeed2all.eu
+
+#EXTINF:0 group-title="others", Others
+http://0.0.0.1234
 #EXTINF:12.012, mastersportTV
 20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00798.ts
 #EXTINF:12.012, mastersportTV
