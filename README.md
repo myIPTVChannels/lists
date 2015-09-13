@@ -13,14 +13,12 @@ IN Channels: hindi.m3u = http://git.io/vZoJg
 
 Music Channels: music.m3u = http://git.io/vZohs
 
+NASA Channels: nasa.m3u = http://git.io/vZPFO
+
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
-
-##Contributors
-Surikata, Magellan, 
-
-<place your name here>
-
+##Rules
+Keep it as simple as possible!
 
 ##Channels Sources
 
