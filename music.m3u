@@ -9,49 +9,57 @@ http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
 #EXTINF:0", О2 HD
 http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
-#EXTINF:0, JuCeTV US
-http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", VOX TV 
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1 tvg-logo="rmc.png" group-title="MUSICA", RADIO MONTE CARLO TV  
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1 tvg-logo="Capital TV.png" group-title="MUSICA", CAPITAL TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="Heart TV.png" group-title="MUSICA", HEART TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="Virgin TV.png" group-title="MUSICA", VIRGIN TV 
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:-1 tvg-logo="radioutv.png" group-title="MUSICA", RADIO U TV 
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
+#EXTINF:-1 tvg-logo="radioutv.png" group-title="MUSICA", RADIO U TV 
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+#EXTINF:-1 tvg-logo="PIK.png" group-title="MUSICA", PIK  
+http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="dreamtv.png" group-title="MUSICA", DREAM TV 
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="eska_best_music_tv_pl.png" group-title="MUSICA", ESKA BEST MUSIC 
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1 tvg-logo="Clubland_tv.png" group-title="MUSICA", CLUBLAND 
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="NOW-MUSIC.png" group-title="MUSICA", NOW MUSIC  
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="Radio 105 TV.png" group-title="MUSICA", RADIO 5 TV 
+rtmp://fms.105.net/live/105Test1
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", INDIES LIVE 
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="kiss tv.png" group-title="MUSICA", KISS TV 
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", ULTRAFIESTA 
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", AMAZING TV 
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", REAL HIP HOP TV 
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", OH TV 
+http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", BIG POND MUSIC 
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", HARD LIFE 
+http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MELODY CHANNEL TV 
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", URBAN MUSIC TV 
+http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 
-#EXTINF:-1, [COLOR green]--VEVO--[/COLOR]  
+#EXTINF:-1, [COLOR blue]--Djing--[/COLOR]  
 http://
-#EXTINF:0, VEVO HD 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:0, VEVO HD 1 (2)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0, VEVO HD 1 (3)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0, VEVO HD 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0, VEVO HD 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0, VEVO Music
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
-#EXTINF:0, VEVO Hip Hop TV
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0, VEVO Flow RAP AND R&B NONSTOP
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
-#EXTINF:0, VEVO NASHVILLE The BEST COUNTRY 24/7
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-
-#EXTINF:-1, [COLOR yellow]--ONE/ESKA--[/COLOR]  
-http://
-#EXTINF:0, One.by HD
-http://rtmp.one.by:1300
-#EXTINF:0, One.by UHD
-http://rtmp.one.by:1400
-#EXTINF:0, Eska Best Music HD
-rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
-#EXTINF:0, Eska Rock TV HD
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
-#EXTINF:0, Eska Party TV HD
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:0, Eska Wawa HD
-rtmp://stream.smcloud.net/live2/wawa/wawa_720p
-#EXTINF:0, POLO Party HD
-rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
-
-#EXTINF:-1, [COLOR yellow]--Djing--[/COLOR]  
-http://
+#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA", Djing  
+http://cdn.djing.com/tv/05.m3u8
 #EXTINF:0 group-title="Djing", Djing HD
 http://www.djing.com/tv/h-05.m3u8
 #EXTINF:0 group-title="Djing", Djing Ibiza HD
@@ -64,15 +72,102 @@ http://www.djing.com/tv/a-05.m3u8
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 #EXTINF:0 group-title="Djing", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA", Djind HOT HOT HOT 
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",  Djind UNDERGROUND 
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA", Djind DANCEFLOOR 
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1, [COLOR yellow]--ESKA--[/COLOR]  
+http://
+#EXTINF:0, Eska Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
+#EXTINF:0, Eska Rock TV HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Eska.rock.png" group-title="MUSICA", Eska Rock TV
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:0, Eska Party TV HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0, Eska Wawa HD
+rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+#EXTINF:0, POLO Party HD
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+
+#EXTINF:-1, [COLOR green]--JuCeTV--[/COLOR]
+http://
+#EXTINF:0 group-title="JuCeTV", JuCeTV US
+http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="JuCeTV", JUICE TV 
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+#EXTINF:0 group-title="JuCeTV",JuCeTV Россия
+http://zhegal.com.ua/tv/triolan?id=47
+#EXTINF:0 group-title="JuCeTV",JuCeTV HD Россия
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
+http://
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV LIVE HD  
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key&stream_id=0
+#EXTINF:-1 tvg-logo="MTV HITS.png" group-title="MUSICA", MTV HITS  
+http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8
+
+#EXTINF:-1, [COLOR yellow]--ONE--[/COLOR]  
+http://
+#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="ONE", ONE 1 
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="ONE", ONE 2 
+http://rtmp.one.by:1400
+#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="ONE", ONE 3 
+http://rtmp.one.by:1499
+#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="ONE", ONE 4 
+http://rtmp.one.by:2300
+#EXTINF:0 group-title="ONE", One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:0 group-title="ONE", One.by Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1, [COLOR green]--VEVO--[/COLOR]  
+http://
+#EXTINF:0, VEVO HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:0, VEVO HD 1 (2)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0, VEVO HD 1 (3)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA", VEVO 1 (4)
+http://pvr.tvip.ga/9001.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA", VEVO 1 (5)
+http://pvr.tvip.ga/9002.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA", VEVO 2 
+http://pvr.tvip.ga/9003.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA", VEVO 2 (2)
+http://pvr.tvip.ga/9004.m3u8
+#EXTINF:0, VEVO HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA", VEVO 3
+http://pvr.tvip.ga/9005.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA", VEVO 3 (2) 
+http://pvr.tvip.ga/9006.m3u8
+#EXTINF:0, VEVO HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0, VEVO Music
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+#EXTINF:0, VEVO Hip Hop TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0, VEVO Flow RAP AND R&B NONSTOP
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:0, VEVO NASHVILLE The BEST COUNTRY 24/7
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
 
 #EXTINF:-1, [COLOR red]--Russia--[/COLOR]  
 http://
 #EXTINF:0 group-title="Russia", Первый HDльный HD (1HD)
 http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0 group-title="Russia", One.by Россия
-http://rtmp.one.by:2200
-#EXTINF:0 group-title="Russia", One.by Россия HD
-http://rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="1hd.png" group-title="MUSICA", 1 HD 
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="1hd.png" group-title="MUSICA", 1 HD 
+rtmp://109.239.142.62/live/livestream3
 #EXTINF:0 group-title="Russia", Первый Интернет канал HD 
 http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", MTV AM HD
@@ -81,7 +176,3 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
 #EXTINF:0 group-title="Russia", A-One Россия
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
-#EXTINF:0 group-title="Russia",JuCeTV Россия
-http://zhegal.com.ua/tv/triolan?id=47
-#EXTINF:0 group-title="Russia",JuCeTV HD Россия
-http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
