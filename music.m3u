@@ -7,6 +7,8 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
 #EXTINF:0, Music Box TV
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:0, POLO Party HD
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
 
 #EXTINF:0, VEVO HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
@@ -31,7 +33,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
 http://rtmp.one.by:1300
 #EXTINF:0, One.by UHD
 http://rtmp.one.by:1400
-
 #EXTINF:0, Eska Best Music HD
 rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
 #EXTINF:0, Eska Rock TV HD
@@ -40,6 +41,7 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:0, Eska Wawa HD
 rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+
 
 #EXTINF:0 group-title="Djing",Djing HD
 http://www.djing.com/tv/h-05.m3u8
