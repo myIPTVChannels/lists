@@ -9,8 +9,6 @@ http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
 #EXTINF:0", О2 HD
 http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", VOX TV 
-rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:-1 tvg-logo="rmc.png" group-title="MUSICA", RADIO MONTE CARLO TV  
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:-1 tvg-logo="Capital TV.png" group-title="MUSICA", CAPITAL TV 
@@ -93,6 +91,8 @@ rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 rtmp://stream.smcloud.net/live2/wawa/wawa_720p
 #EXTINF:0, POLO Party HD
 rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", VOX TV 
+rtmp://stream.smcloud.net/live2/vox/vox_720p
 
 #EXTINF:-1, [COLOR green]--JuCeTV--[/COLOR]
 http://
