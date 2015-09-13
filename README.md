@@ -18,6 +18,10 @@ Adult Channels: adult.m3u = http://git.io/vZiiP
 
 ##Channels Sources
 
+###Portugal
+http://kodiportugal.com/iptv.html
+Based on Kitina, by Magellan
+
 ###Russia Channels
 http://fixzen.3dn.ru/load/video/iptv_playlist/7-1-0-36
 
