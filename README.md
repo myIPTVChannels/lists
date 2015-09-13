@@ -11,6 +11,8 @@ IN Channels: hindi.m3u = http://git.io/vZoJg
 
 Music Channels: music.m3u = http://git.io/vZohs
 
+Adult Channels: adult.m3u = http://git.io/vZiiP
+
 
 
 
