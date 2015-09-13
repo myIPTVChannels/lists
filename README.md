@@ -5,6 +5,8 @@ Opened to all the IPTV community.
 ##URLS myIPTVChannels (Kodi/VLC, etc)
 PT Channels: pt.m3u = http://git.io/vZohP
 
+Sports Channels: sports.m3u = http://git.io/vZPSM
+
 RU Channels: ru.m3u = http://git.io/vZoha
 
 IN Channels: hindi.m3u = http://git.io/vZoJg
@@ -14,6 +16,10 @@ Music Channels: music.m3u = http://git.io/vZohs
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
 
+##Contributors
+Surikata, Magellan, 
+
+<place your name here>
 
 
 ##Channels Sources
