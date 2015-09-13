@@ -7,6 +7,7 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
 #EXTINF:0, Music Box TV
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
+
 #EXTINF:0, VEVO HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:0, VEVO HD 1 (2)
@@ -25,3 +26,43 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 #EXTINF:0, VEVO NASHVILLE The BEST COUNTRY 24/7
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+
+#EXTINF:0, One.by HD
+http://rtmp.one.by:1300
+#EXTINF:0, One.by UHD
+http://rtmp.one.by:1400
+
+#EXTINF:0, Eska Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
+#EXTINF:0, Eska Rock TV HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
+#EXTINF:0, Eska Party TV HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0, Eska Wawa HD
+rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+
+#EXTINF:0 group-title="Djing",Djing HD
+http://www.djing.com/tv/h-05.m3u8
+#EXTINF:0 group-title="Djing",Djing Ibiza HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0 group-title="Djing",Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:0 group-title="Djing",Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:0 group-title="Djing",Djind DJS HD
+http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
+#EXTINF:0 group-title="Djing",Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:0 group-title="Russia", Первый HDльный HD (1HD)
+http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:0 group-title="Russia", One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:0 group-title="Russia", JuCeTV HD Россия
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+#EXTINF:0 group-title="Russia", Первый Интернет канал HD 
+http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:0 group-title="Russia",MTV AM HD
+http://94.125.187.18/hlsam/hd/playlist.m3u8
+#EXTINF:0 group-title="Russia",Для Двоих HD
+http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
