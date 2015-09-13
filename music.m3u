@@ -56,12 +56,14 @@ http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 
 #EXTINF:-1, [COLOR blue]--Djing--[/COLOR]  
 http://
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA", Djing  
+#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djing  
 http://cdn.djing.com/tv/05.m3u8
 #EXTINF:0 group-title="Djing", Djing HD
 http://www.djing.com/tv/h-05.m3u8
 #EXTINF:0 group-title="Djing", Djing Ibiza HD
 http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind Underground
+http://www.djing.com/tv/underground.m3u8
 #EXTINF:0 group-title="Djing", Djing Underground HD
 http://www.djing.com/tv/u-05.m3u8
 #EXTINF:0 group-title="Djing", Djing Animation HD
@@ -70,11 +72,9 @@ http://www.djing.com/tv/a-05.m3u8
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 #EXTINF:0 group-title="Djing", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA", Djind HOT HOT HOT 
+#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind HOT HOT HOT 
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",  Djind UNDERGROUND 
-http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA", Djind DANCEFLOOR 
+#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind DANCEFLOOR 
 http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:-1, [COLOR yellow]--ESKA--[/COLOR]  
@@ -89,10 +89,10 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:0, Eska Wawa HD
 rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", Eska VOX TV 
+rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:0, POLO Party HD
 rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", VOX TV 
-rtmp://stream.smcloud.net/live2/vox/vox_720p
 
 #EXTINF:-1, [COLOR green]--JuCeTV--[/COLOR]
 http://
@@ -100,9 +100,9 @@ http://
 http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JuCeTV", JUICE TV 
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
-#EXTINF:0 group-title="JuCeTV",JuCeTV Россия
+#EXTINF:0 group-title="JuCeTV", JuCeTV Россия
 http://zhegal.com.ua/tv/triolan?id=47
-#EXTINF:0 group-title="JuCeTV",JuCeTV HD Россия
+#EXTINF:0 group-title="JuCeTV", JuCeTV HD Россия
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
