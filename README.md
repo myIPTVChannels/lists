@@ -21,7 +21,7 @@ Adult Channels: adult.m3u = http://git.io/vZiiP
 Keep it as simple as possible!
 
 template:
-#EXTINF:0 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://mylogos.domain/Sporttv1.png" group-title="TDT", RTP 1
+EXTINF:0 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://mylogos.domain/Sporttv1.png" group-title="TDT", RTP 1
 http://server.name/stream/to/video2
 
 group-title= Sugiro categorias clean para a organização dos canais.Evitar a criação de novas categorias
