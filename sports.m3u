@@ -8,7 +8,7 @@ rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
 #EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 1
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
-#EXTINF:0 tvg-id="sporttv1.pt" tvg-logo="sporttv1.png" group-title="TEMPORARIOS_PORTUGAL",  SPORT TV 1 - OFF
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-logo="sporttv1.png" group-title="TEMPORARIOS_PORTUGAL",  SPORT TV 1 - OFF 14/09
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/2.ts
 #EXTINF:-1 group-title=DESPORTO, SPORT TV 2
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
