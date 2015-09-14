@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, BBC1 (1) (576i)
+#EXTINF:-1, BBC1 SD
 http://37.187.248.101:8080/bbc1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
-#EXTINF:-1, BBC1 (2) (576i)
+#EXTINF:-1, BBC1 SD (2)
 http://82.135.224.134:80/udp/239.100.3.1:1234
-#EXTINF:-1, BBC1 Scotland (1) (576i)
+#EXTINF:-1, BBC1 Scotland SD
 http://82.135.224.134:80/udp/239.100.3.2:1234
 #EXTINF:-1, BBC2 (1) (576i)
 http://37.187.248.101:8080/bbc2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
