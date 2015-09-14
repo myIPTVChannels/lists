@@ -25,7 +25,7 @@ Adult Channels: adult.m3u = http://git.io/vZiiP
 
 1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets).
 
-1.2) Se existir mais que um canal/ligação, diferenciar através de HD (para 1080p), SD (720p ou menos), ou então um número sequencial entre parentisis. Ex: RTP (2)
+1.2) Se existir mais que um canal/ligação, diferenciar através da qualidade do canal a seguir ao nome do memso, com FHD (para 1080p) HD (para 720p), SD (578i ou menos), ou então um número sequencial entre parentisis. Ex: RTP FHD / RTP (2)
 
 1.3) Nomes dos canais sem referências, créditos e cores.
 
