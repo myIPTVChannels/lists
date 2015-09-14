@@ -25,12 +25,18 @@ EXTINF:0 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://mylogos.domain/Spo
 http://server.name/stream/to/video2
 
 2.1)group-title= Sugiro categorias clean para a organização dos canais.Evitar a criação de novas categorias
+
 2.2)tvg name pode consultar-se o xml do epg.kodiportugal.com
+
 2.3)tvg-id is value of channel id in EPG xml file. If the tag is absent then addon will use tvg-name for map channel to EPG;
+
 2.4)tvg-name is value of display-name in EPG there all space chars replaced to _ (underscore char) if this value is not found in xml then addon will use the channel name to find correct EPG.
+
 2.5)tvg-shift is value in hours to shift EPG time. This tag can be used in #EXTM3U for apply shift to all channels or in #EXTINF for apply shift only to current channel.
+
 2.6)group-name is channels group name. If the tag is absent then addon will use group name from the previous channel.
 radio is flag that indicate what group or cahnnel is radio. If the tag is absent then addon will use value from current group (if exists).
+
 2.7)tvg-logo - Display name or logo of this channel
 audio-track - Audio track definition of this channel, if it's supported by stream. Write language codes in ISO 639-2 standard, you may use several codes separated by comma (e.g.: "eng, rus, deu"). The first item in the list will be defined as default.
 
