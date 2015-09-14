@@ -21,11 +21,17 @@ UK Channels : uk.m3u = http://git.io/vZMmP
 
 ##Rules
 1) Keep it as simple as possible!
+
 1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets)
+
 1.2) Nomes dos canais sem referências, créditos e cores.
+
 1.3) Respeitar a estrutura previamente adoptada.
+
 1.4) Verificar se a categoria já existe, e adicionar respeitando a mesma se já existir. Podem ser usadas cores.
+
 1.5) Tentar organizar por ordem alfabética dos nomes dos canais.
+
 
 2) Template:
 EXTINF:0 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://mylogos.domain/Sporttv1.png" group-title="TDT", RTP 1
