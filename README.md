@@ -1,6 +1,8 @@
 # myIPTVchannels
-Just a private collection of IPTV links collected over the web!
-Opened to all the IPTV community.
+Just a public collection of IPTV links collected over the web!
+Open to all the IPTV community.
+
+Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as partilha. Não detemos qualquer servidor e/ou re-emitimos qualquer tipo de sinal</b>.
 
 ##URLS myIPTVChannels (Kodi/VLC, etc)
 Portugal PT Channels: pt.m3u = http://git.io/vZohP
