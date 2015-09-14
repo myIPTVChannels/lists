@@ -1,121 +1,159 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:13
-#EXT-X-MEDIA-SEQUENCE:546798
 
-#EXTINF:0 group-title="TEMPORARIOS_PORTUGAL", Sports Portugal
+#EXTINF:0 group-title="Sports Portugal", Sports Portugal
 http://0.0.0.1234
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 1 [/COLOR]
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 1
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 1 [/COLOR]
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 1
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 1 [/COLOR]
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 1
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
-#EXTINF:-1 group-title=DESPORTO, SPORT TV 2 opc1
-http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 2 [/COLOR]
-rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 2 SD [/COLOR]
-rtmp://146.185.25.186:1935/stream/ playpath=0qZjb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
-#EXTINF:-1 group-title=DESPORTO, SPORT TV 3 opc1
-http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 3 [/COLOR]
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 4 [/COLOR]
-rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2438444741354t2y234w2s2r2&adx=&stream=h564f4d4.a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y343z2z3q2b49434c4q2t26424n234n4q5e3h44494v213p4v2x4o4x585j3k5.b4u2r5m293j4j4t574l3v3a4j52406q5y334j4o234z3n244s2k5e4z2h5i533v2r213c4a4b4j5z2f5v2s2l523t24454c45444z223g5p2e4242434p2o234z3n204.&sooor=MTA=&str=is&ok=&cat=1&link=4&idom=www.gofeed2all.eu
-http://satznt.mine.nu:7004/sptv5
-#EXTINF:-1 group-title="TEMPORARIOS_PORTUGAL" tvg-logo="Benfica TV 2.png",BENFICA_TV_2 
-http://satznt.mine.nu:7001/btv2
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV 5 [/COLOR]
-rtmp://198.144.153.145:443/flash playpath=21177?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=15
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] BTV 1 [/COLOR]
-rtmp://199.195.194.220:1935/stream/ playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] BTV 1 [/COLOR]
-rtmp://179.43.158.196:1935/stream playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ timeout=15 conn=S:OK –live
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] BTV 2 & SPORTV3 [/COLOR]
-rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to timeout=15 conn=S:OK –live
-#EXTINF:0 tvg-id="sporttv1.pt" tvg-logo="sporttv1.png" group-title="TEMPORARIOS_PORTUGAL",  SPORT TV 1 [COLOR green][I][B]XUXAQUEEDEUVA[/B][/I][/COLOR]
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-logo="sporttv1.png" group-title="TEMPORARIOS_PORTUGAL",  SPORT TV 1 
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/2.ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png" group-title="TEMPORARIOS_PORTUGAL", [COLOR beige][I][B]BENFICA_TV_1[/B][/I][/COLOR] [COLOR green][I][B]XUXAQUEEDEUVA[/B][/I][/COLOR]
+#EXTINF:-1 group-title=DESPORTO, SPORT TV 2
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 2
+rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 2 (2)
+rtmp://146.185.25.186:1935/stream/ playpath=0qZjb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
+#EXTINF:-1 group-title=DESPORTO, SPORT TV 3
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 3 (2)
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 4
+rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2438444741354t2y234w2s2r2&adx=&stream=h564f4d4.a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y343z2z3q2b49434c4q2t26424n234n4q5e3h44494v213p4v2x4o4x585j3k5.b4u2r5m293j4j4t574l3v3a4j52406q5y334j4o234z3n244s2k5e4z2h5i533v2r213c4a4b4j5z2f5v2s2l523t24454c45444z223g5p2e4242434p2o234z3n204.&sooor=MTA=&str=is&ok=&cat=1&link=4&idom=www.gofeed2all.eu
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 5
+rtmp://198.144.153.145:443/flash playpath=21177?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=15
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png" group-title="TEMPORARIOS_PORTUGAL", BENFICA TV 
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png" group-title="TEMPORARIOS_PORTUGAL", [COLOR beige][I][B]BENFICA_TV_1 opc1[/B][/I][/COLOR] [COLOR green][I][B]XUXAQUEEDEUVA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png" group-title="TEMPORARIOS_PORTUGAL", BENFICA TV (2) 
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
+#EXTINF:-1 group-title=INSPIRATIONLINKS, BTV 1
+rtmp://199.195.194.220:1935/stream/ playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/
+#EXTINF:-1 group-title=INSPIRATIONLINKS, BTV 1
+rtmp://179.43.158.196:1935/stream playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ timeout=15 conn=S:OK –live
+#EXTINF:-1 group-title=INSPIRATIONLINKS, BTV 2 & SPORTV3
+rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to timeout=15 conn=S:OK –live
 
+#EXTINF:0 group-title="Plexus", [COLOR yellow][I][B]PLEXUS Plugin[/B][/I][/COLOR]
+http://0.0.0.1234
+#EXTINF:-1 group-title="PLEXUS", TELEDEPORTE
+plugin://program.plexus/?mode=1&url=c6635313ebda29534b908d1e67d724d443236a0a&mode=1&name=acestream&mode=1&name=TELEDEPORTE
+#EXTINF:-1 group-title="PLEXUS", SPORTMANIA
+plugin://program.plexus/?mode=1&url=07a06e487ff5b56f8f9036c8cd547f9331d56b4e&mode=1&name=acestream&mode=1&name=SPORTMANIA
+#EXTINF:-1 group-title="PLEXUS", MOVISTAR F1
+plugin://program.plexus/?mode=1&url=98b327d19a16be09070212124826e9209cb97540&mode=1&name=acestream&mode=1&name=MOVISTAR F1
+#EXTINF:-1 group-title="PLEXUS", MOVISTAR MOTOGP
+plugin://program.plexus/?mode=1&url=7c01784bfeba11565fce3626e155da1fcdb45976&mode=1&name=acestream&mode=1&name=MOVISTAR MOTOGP
+#EXTINF:-1 group-title="PLEXUS", MOTORS TV
+plugin://program.plexus/?mode=1&url=84c27a15472ee950e0567667dfd270cc81b01498&mode=1&name=acestream&mode=1&name=MOTORS TV
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 1
+plugin://program.plexus/?mode=1&url=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream&mode=1&name=SKY SPORTS 1
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 2
+plugin://program.plexus/?mode=1&url=e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream&mode=1&name=SKY SPORTS 2
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 3
+plugin://program.plexus/?mode=1&url=2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 4
+plugin://program.plexus/?mode=1&url=5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream&mode=1&name=SKY SPORTS 4 
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 5
+plugin://program.plexus/?mode=1&url=37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream&mode=1&name=SKY SPORTS 5 
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS F1
+plugin://program.plexus/?mode=1&url=02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
+#EXTINF:-1 group-title="PLEXUS", BT SPORT 1
+plugin://program.plexus/?mode=1&url=dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream&mode=1&name=BT SPORT 1
+#EXTINF:-1 group-title="PLEXUS", BT SPORT 2
+plugin://program.plexus/?mode=1&url=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream&mode=1&name=BT SPORT 2 
+#EXTINF:-1 group-title="PLEXUS", BT SPORT/ESPN
+plugin://program.plexus/?mode=1&url=585352b149c4aae30c1da013f0fe378430fb7c7e&mode=1&name=acestream&mode=1&name=BT SPORT/ESPN
+#EXTINF:-1 group-title="PLEXUS", BT SPORT EUROPE
+plugin://program.plexus/?mode=1&url=46f1a7f1774400e6b7b73990edb89803f98a4215&mode=1&name=acestream&mode=1&name=BT SPORT EUROPE
+#EXTINF:-1 group-title="PLEXUS", EUROSPORT BRITISH
+plugin://program.plexus/?mode=1&url=268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH
+#EXTINF:-1 group-title="PLEXUS", EUROSPORT BRITISH 2
+plugin://program.plexus/?mode=1&url=7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH_2 
+#EXTINF:-1 group-title="PLEXUS",SPORT TV1 
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
+#EXTINF:-1 group-title="PLEXUS",SPORT TV1 opc1 
+plugin://program.plexus/?mode=1&url=acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59&mode=1&name=acestream&mode=1&name=SPORT TV1
+#EXTINF:-1 group-title="PLEXUS",SPORT TV2 
+plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV2
+#EXTINF:-1 group-title="PLEXUS",SPORT TV2 opc1
+plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream&mode=1&name=SPORT TV2
+#EXTINF:-1 group-title="PLEXUS",SPORT TV3 
+plugin://program.plexus/?mode=1&url=acestream://cf8ff2d9d89f482de9127591c5781216d60368ae&mode=1&name=acestream&mode=1&name=SPORT TV3
+#EXTINF:-1 group-title="PLEXUS",SPORT TV3 opc1 
+plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream&mode=1&name=SPORT TV3
+#EXTINF:-1 group-title="PLEXUS",SPORT TV4 
+plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV4
+#EXTINF:-1 group-title="PLEXUS",SPORT TV4 opc1 
+plugin://program.plexus/?mode=1&url=acestream://d2a63635273232fc7710bb28c8775d18179c4038&mode=1&name=acestream&mode=1&name=SPORT TV4
+#EXTINF:-1 group-title="PLEXUS",SPORT TV5 
+plugin://program.plexus/?mode=1&url=acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad&mode=1&name=acestream&mode=1&name=SPORT TV5
+#EXTINF:-1 group-title="PLEXUS",SPORT TV5 opc1 
+plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
+#EXTINF:-1 group-title="PLEXUS", ARENA SPORT 1
+plugin://program.plexus/?mode=1&url=6471e6c7e981d8c52b6f8c564e4422c0bfcb98eb&mode=1&name=acestream&mode=1&name=ARENA SPORT 1
+#EXTINF:-1 group-title="PLEXUS", ARENA SPORT 3
+plugin://program.plexus/?mode=1&url=6ed12ba9bc5c244f41ddb44e3dfe0e27ccc797c1&mode=1&name=acestream&mode=1&name=ARENA SPORT 3
+#EXTINF:-1 group-title="PLEXUS", ARENA SPORT
+plugin://program.plexus/?mode=1&url=cd042c51300eb693de3c85cb9894217db0000f90&mode=1&name=acestream&mode=1&name=ARENA SPORT 
+#EXTINF:-1 group-title="PLEXUS", C+ SPORT FRANCE
+plugin://program.plexus/?mode=1&url=93ef37b1880c4d8b76d9c7ff48789ee12acedad3&mode=1&name=acestream&mode=1&name=C+ SPORT FRANCE
+#EXTINF:-1 group-title="PLEXUS", BEIN SPORT 1 FR
+plugin://program.plexus/?mode=1&url=6aee464bcf506d9b72e57e13acead0ba1ef74cfd&mode=1&name=acestream&mode=1&name=BEIN SPORT 1 FR
+#EXTINF:-1 group-title="PLEXUS", BEIN SPORT 2 FR
+plugin://program.plexus/?mode=1&url=a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mode=1&name=acestream&mode=1&name=BEIN SPORT 2 FR
+#EXTINF:-1 group-title="PLEXUS", POLSAT SPORT
+plugin://program.plexus/?mode=1&url=dfb1115adb7c8740bea94431bdadf2e19fc9bd99&mode=1&name=acestream&mode=1&name=POLSAT SPORT
+#EXTINF:-1 group-title="PLEXUS", POLSAT SPORT EXTRA
+plugin://program.plexus/?mode=1&url=4c0c928a085aaa180288be1d749ccfd4aed253be&mode=1&name=acestream&mode=1&name=POLSAT SPORT_EXTRA
 
 #EXTINF:0 group-title="others", Others
 http://0.0.0.1234
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
+#EXTINF:10, BEIN SPORTS 1 transmite alguns jogos liga portuguesa
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
+#EXTINF:14, BEIN SPORTS 2 transmite alguns jogos liga portuguesa
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1 group-title="PLEXUS", TELEDEPORTE[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=c6635313ebda29534b908d1e67d724d443236a0a&mode=1&name=acestream&mode=1&name=TELEDEPORTE
-#EXTINF:-1 group-title="PLEXUS", SPORTMANIA[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=07a06e487ff5b56f8f9036c8cd547f9331d56b4e&mode=1&name=acestream&mode=1&name=SPORTMANIA
-#EXTINF:-1 group-title="PLEXUS", MOVISTAR F1[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=98b327d19a16be09070212124826e9209cb97540&mode=1&name=acestream&mode=1&name=MOVISTAR F1
-#EXTINF:-1 group-title="PLEXUS", MOVISTAR MOTOGP[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=7c01784bfeba11565fce3626e155da1fcdb45976&mode=1&name=acestream&mode=1&name=MOVISTAR MOTOGP
-#EXTINF:-1 group-title="PLEXUS", MOTORS TV[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=84c27a15472ee950e0567667dfd270cc81b01498&mode=1&name=acestream&mode=1&name=MOTORS TV
-#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 1[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream&mode=1&name=SKY SPORTS 1
-#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 2[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream&mode=1&name=SKY SPORTS 2
-#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 3[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
-#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 4[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream&mode=1&name=SKY SPORTS 4 
-#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 5[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream&mode=1&name=SKY SPORTS 5 
-#EXTINF:-1 group-title="PLEXUS", SKY SPORTS F1[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
-#EXTINF:-1 group-title="PLEXUS", BT SPORT 1[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream&mode=1&name=BT SPORT 1
-#EXTINF:-1 group-title="PLEXUS", BT SPORT 2[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream&mode=1&name=BT SPORT 2 
-#EXTINF:-1 group-title="PLEXUS", BT SPORT/ESPN[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=585352b149c4aae30c1da013f0fe378430fb7c7e&mode=1&name=acestream&mode=1&name=BT SPORT/ESPN
-#EXTINF:-1 group-title="PLEXUS", BT SPORT EUROPE[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=46f1a7f1774400e6b7b73990edb89803f98a4215&mode=1&name=acestream&mode=1&name=BT SPORT EUROPE
-#EXTINF:-1 group-title="PLEXUS", EUROSPORT BRITISH[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH
-#EXTINF:-1 group-title="PLEXUS", EUROSPORT BRITISH 2[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH_2 
-#EXTINF:-1 group-title="PLEXUS",SPORT TV1 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
-#EXTINF:-1 group-title="PLEXUS",SPORT TV1 opc1 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59&mode=1&name=acestream&mode=1&name=SPORT TV1
-#EXTINF:-1 group-title="PLEXUS",SPORT TV2 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV2
-#EXTINF:-1 group-title="PLEXUS",SPORT TV2 opc1[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream&mode=1&name=SPORT TV2
-#EXTINF:-1 group-title="PLEXUS",SPORT TV3 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://cf8ff2d9d89f482de9127591c5781216d60368ae&mode=1&name=acestream&mode=1&name=SPORT TV3
-#EXTINF:-1 group-title="PLEXUS",SPORT TV3 opc1 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream&mode=1&name=SPORT TV3
-#EXTINF:-1 group-title="PLEXUS",SPORT TV4 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV4
-#EXTINF:-1 group-title="PLEXUS",SPORT TV4 opc1 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://d2a63635273232fc7710bb28c8775d18179c4038&mode=1&name=acestream&mode=1&name=SPORT TV4
-#EXTINF:-1 group-title="PLEXUS",SPORT TV5 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad&mode=1&name=acestream&mode=1&name=SPORT TV5
-#EXTINF:-1 group-title="PLEXUS",SPORT TV5 opc1 [COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
-#EXTINF:-1 group-title="PLEXUS", ARENA SPORT 1[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=6471e6c7e981d8c52b6f8c564e4422c0bfcb98eb&mode=1&name=acestream&mode=1&name=ARENA SPORT 1
-#EXTINF:-1 group-title="PLEXUS", ARENA SPORT 3[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=6ed12ba9bc5c244f41ddb44e3dfe0e27ccc797c1&mode=1&name=acestream&mode=1&name=ARENA SPORT 3
-#EXTINF:-1 group-title="PLEXUS", ARENA SPORT[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=cd042c51300eb693de3c85cb9894217db0000f90&mode=1&name=acestream&mode=1&name=ARENA SPORT 
-#EXTINF:-1 group-title="PLEXUS", C+ SPORT FRANCE[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=93ef37b1880c4d8b76d9c7ff48789ee12acedad3&mode=1&name=acestream&mode=1&name=C+ SPORT FRANCE
-#EXTINF:-1 group-title="PLEXUS", BEIN SPORT 1 FR[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=6aee464bcf506d9b72e57e13acead0ba1ef74cfd&mode=1&name=acestream&mode=1&name=BEIN SPORT 1 FR
-#EXTINF:-1 group-title="PLEXUS", BEIN SPORT 2 FR[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mode=1&name=acestream&mode=1&name=BEIN SPORT 2 FR
-#EXTINF:-1 group-title="PLEXUS", POLSAT SPORT[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=dfb1115adb7c8740bea94431bdadf2e19fc9bd99&mode=1&name=acestream&mode=1&name=POLSAT SPORT
-#EXTINF:-1 group-title="PLEXUS", POLSAT SPORT EXTRA[COLOR yellow][I][B]PLEXUS[/B][/I][/COLOR]
-plugin://program.plexus/?mode=1&url=4c0c928a085aaa180288be1d749ccfd4aed253be&mode=1&name=acestream&mode=1&name=POLSAT SPORT_EXTRA
+#EXTINF:0,beIN 1 HD
+http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:-1,FR_BEIN 2 HD
+http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:-1 group-title=DESPORTO_INTERNACIONAL, FOX MOTOR SPORT
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 group-title=DESPORTO_INTERNACIONAL, EUROSPORT 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,EUROSPORT
+http://82.135.224.134:88/udp/239.255.1.186:1234
+#EXTINF:-1,EUROSPORT 2
+http://82.135.224.134:88/udp/239.255.1.183:1234
+#EXTINF:0,D+ CANAL LIGA HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/937.ts
+#EXTINF:-1,Sport1 Select NL
+http://iptv.bot.nu:8000/live/test380/12345/178.m3u8
+#EXTINF:-1,Sport1 golf NL
+http://iptv.bot.nu:8000/live/test380/12345/167.m3u8
+#EXTINF:-1,Fox Sports 1 NL
+http://iptv.bot.nu:8000/live/test380/12345/26.m3u8
+#EXTINF:-1,Fox Sports 3 NL
+http://iptv.bot.nu:8000/live/test380/12345/28.m3u8
+#EXTINF:-1,SILK SPORT 1
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1,SILK SPORT 2
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+#EXTINF:-1,SILK SPORT 3
+http://80.77.52.6:3719/udp/226.0.0.9:12345
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,BT NET WORK
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:0 group-title="test", Test
+http://0.0.0.1234
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:546798
 #EXTINF:12.012, mastersportTV
 20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00798.ts
 #EXTINF:12.012, mastersportTV
