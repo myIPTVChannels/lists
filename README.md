@@ -17,6 +17,8 @@ NASA Channels: nasa.m3u = http://git.io/vZPFO
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
+UK Channels : uk.m3u = http://git.io/vZMmP
+
 ##Rules
 1)Keep it as simple as possible!
 
