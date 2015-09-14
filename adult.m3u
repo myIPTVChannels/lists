@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:0 group-title="XXX",=== Adult 18+ ===
+#EXTINF:0 group-title="Adult",=== Adult 18+ ===
 http://
-#EXTINF:0 group-title="XXX", Bella Club 
-http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
-#EXTINF:0 group-title="XXX", Jasmin TV HD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0 group-title="XXX", Livething Premium 
-http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
-#EXTINF:0 group-title="XXX", Sexstation 
-http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
-#EXTINF:0 group-title="XXX", Корея 1 
-http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
-#EXTINF:0 group-title="XXX", ButGo
-http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
-#EXTINF:0 group-title="XXX", Spice
-http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
-#EXTINF:0 group-title="XXX", Playy
-http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
-#EXTINF:0 group-title="XXX", Adulto Premium
+#EXTINF:0 group-title="Adult", Adulto Premium
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:0 group-title="Adult", Bella Club 
+http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
+#EXTINF:0 group-title="Adult", BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0 group-title="Adult", ButGo
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+#EXTINF:0 group-title="Adult", HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:0 group-title="Adult", Jasmin TV HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 group-title="Adult", Корея 1 
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#EXTINF:0 group-title="Adult", Livething Premium 
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:0 group-title="Adult", SAKURA
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:0 group-title="Adult", Sexstation 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:0 group-title="Adult", Spice
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+#EXTINF:0 group-title="Adult", PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:0 group-title="Adult", Playy
+http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
+#EXTINF:0 group-title="Adult", Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
