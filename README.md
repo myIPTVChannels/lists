@@ -3,25 +3,25 @@ Just a private collection of IPTV links collected over the web!
 Opened to all the IPTV community.
 
 ##URLS myIPTVChannels (Kodi/VLC, etc)
-PT Channels: pt.m3u = http://git.io/vZohP
+Portugal PT Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
-UK Channels : uk.m3u = http://git.io/vZMmP
+United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP
 
-RU Channels: ru.m3u = http://git.io/vZoha
+Russia RU Channels: ru.m3u = http://git.io/vZoha
 
-IN Channels: hindi.m3u = http://git.io/vZoJg
+Indian IN Channels: hindi.m3u = http://git.io/vZoJg
 
 Music Channels: music.m3u = http://git.io/vZohs
 
-NASA Channels: nasa.m3u = http://git.io/vZPFO
+NASA Space Channels: nasa.m3u = http://git.io/vZPFO
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
 
 ##Rules
-1) KISS = Keep it as simple (as possible)!
+1) KISS = Keep it simple, stupid (as possible)!
 
 1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets).
 
