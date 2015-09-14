@@ -153,7 +153,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 ---------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,[COLOR green] --Desporto Internacional - EM TESTES --[/COLOR]
-
+http://0.0.0.1234
 #EXTINF:-1,BT SPORTS 1
 rtmp://www1.iguide.to/iguide playpath=ie7ny249k7lrkfv swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31510&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1,BT SPORTS 2
