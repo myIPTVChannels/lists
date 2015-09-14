@@ -7,6 +7,8 @@ PT Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
+UK Channels : uk.m3u = http://git.io/vZMmP
+
 RU Channels: ru.m3u = http://git.io/vZoha
 
 IN Channels: hindi.m3u = http://git.io/vZoJg
@@ -17,7 +19,6 @@ NASA Channels: nasa.m3u = http://git.io/vZPFO
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
-UK Channels : uk.m3u = http://git.io/vZMmP
 
 ##Rules
 1) Keep it as simple as possible!
