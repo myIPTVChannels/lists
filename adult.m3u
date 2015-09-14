@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 group-title="Adult",=== Adult 18+ ===
 http://
-#EXTINF:0 group-title="Adult", Adulto Premium
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:0 group-title="Adult", Bella Club 
 http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
 #EXTINF:0 group-title="Adult", BRAZZERS
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0 group-title="Adult", Boys Mania
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:0 group-title="Adult", ButGo
 http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
 #EXTINF:0 group-title="Adult", erotic 1
