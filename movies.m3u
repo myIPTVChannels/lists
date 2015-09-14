@@ -11,3 +11,6 @@ http://teleclub.fr/cinqplus.mp4
 http://teleclub.fr/club1.mp4
 #EXTINF:-1, Filmbox HD
 http://lag1.tv-mobile.org/prgw.m3u8
+#EXTINF:-1 tvg-logo="omeletelogo.jpg" tvg-logo="http://logos.iptvglobal.com.br/omeletelogo.jpg" group-title="Movies", Omelete Cinema  HD
+http://wowza1.videos.movile.com:8080/live/smil:cinema_1.smil/playlist.m3u8?iptvjonas
+#EXTINF:-1 tvg-id="jonasiptv-TelecinePipoca" tvg-logo="http://logos.iptvglobal.com.br/Telecine%20Pipoca.jpg" tvg-logo="http://logos.iptvglobal.com.br/Telecine%20Pipoca.jpg" group-title="Movies", Telecine Pipoca HD
