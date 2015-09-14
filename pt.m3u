@@ -1,26 +1,25 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png", RTP1 HD
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201" , RTP1 HD
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png", RTP1 SD
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
-#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png",RTP INTERNACIONAL
+#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png", RTP INTERNACIONAL
 http://198.179.31.198:80/live/303.high.stream/303.high.stream/index.m3u8
-#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png",RTP INTERNACIONAL (2)
+#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png", RTP INTERNACIONAL (2)
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png",RTP 2
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png", RTP 2
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
-#EXTINF:-1, RTP Informação
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png", RTP Informação
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
-#EXTINF:-1, RTP Informação (2)
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png", RTP Informação (2)
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
-#EXTINF:-1, SIC
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png", SIC
 http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
-#EXTINF:-1, SIC (2)
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png", SIC (2)
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-#EXTINF:-1, SIC NOTICIAS
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Sic%20Noticias.png", SIC NOTICIAS
 http://213.13.26.7:1936/live/_definst_/sicnoticias/magellan.m3u8
-#EXTINF:-1, SIC NOTICIAS (2)
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Sic%20Noticias.png", SIC NOTICIAS (2)
 http://213.13.26.7:1936/live/_definst_/sicnoticias/chunklist_w656214511.m3u8
 #EXTINF:-1, SIC KIDS
 http://84.74.247.12:8001/1:0:1:7f:65:53:ce40000:0:0:0:
