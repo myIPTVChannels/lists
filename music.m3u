@@ -67,6 +67,8 @@ http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovis
 http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
 #EXTINF:0 group-title="Музыка", Now Music UK
 http://rrr.sz.xlcdn.com/?
+#EXTINF:-1 tvg-logo="Multishow.jpg" tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg" group-title="Musicas", MULTISHOW
+http://bit.ly/IPTVGlobal-multshow
 
 #EXTINF:-1, [COLOR blue]--Djing--[/COLOR]  
 http://
