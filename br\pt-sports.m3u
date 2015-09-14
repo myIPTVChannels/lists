@@ -99,12 +99,6 @@ http://lihattv.toh.info/jhos/beib3.m3u8?iptvglobal
 
 #EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" group-title="Esportes internacionais",Bein Sports
 
-#EXTINF:-1 tvg-id="" tvg-logo="benficatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/benficatv.jpg" group-title="Esportes internacionais",Benfica TV 1
-rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o timeout=17
-
-#EXTINF:-1 tvg-logo="benficatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/benficatv.jpg" group-title="Esportes internacionais",Benfica TV 2
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="eurosports.jpg" tvg-logo="http://logos.iptvglobal.com.br/eurosports.jpg" group-title="Esportes internacionais",CANAL EUROSPORT  HD
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
@@ -191,6 +185,15 @@ http://satznt.mine.nu:7003/sptv3
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 #EXTINF:-1 tvg-logo="sporttv.jpg" tvg-logo="http://logos.iptvglobal.com.br/sporttv.jpg" group-title="Esportes internacionais",SPORT TV 3
 rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title="DESPORTO", SPORTV AMERICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV Americas" tvg-logo="SPORT TV AMERICAS.png" group-title="DESPORTO", SPORT TV AMÉRICAS SD
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="benficatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/benficatv.jpg" group-title="Esportes internacionais",Benfica TV 1
+rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o timeout=17
+#EXTINF:-1 tvg-logo="benficatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/benficatv.jpg" group-title="Esportes internacionais",Benfica TV 2
+#EXTINF:-1 group-title="DESPORTO", BTV 2 & SPORTV3
+rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to timeout=15 conn=S:OK –live
 
 
 
