@@ -21,17 +21,19 @@ Adult Channels: adult.m3u = http://git.io/vZiiP
 
 
 ##Rules
-1) Keep it as simple as possible!
+1) KISS = Keep it as simple (as possible)!
 
-1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets)
+1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets).
 
-1.2) Nomes dos canais sem referências, créditos e cores.
+1.2) Se existir mais que um canal/ligação, diferenciar através de HD (para 1080P), SD (720p ou menos), ou então um número sequencial entre parentisis. Ex: RTP (2)
 
-1.3) Respeitar a estrutura previamente adoptada.
+1.3) Nomes dos canais sem referências, créditos e cores.
 
-1.4) Verificar se a categoria já existe, e adicionar respeitando a mesma se já existir. Podem ser usadas cores.
+1.4) Respeitar a estrutura previamente adoptada.
 
-1.5) Tentar organizar por ordem alfabética dos nomes dos canais.
+1.5) Verificar se a categoria já existe, e adicionar respeitando a mesma se já existir. Podem ser usadas cores para as diferênciar.
+
+1.6) Tentar organizar por ordem alfabética dos nomes dos canais, dentro de cada categoria.
 
 
 2) Template:
