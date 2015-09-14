@@ -1,6 +1,13 @@
 #EXTM3U
 
+<<<<<<< HEAD
 #EXTINF:-1 group-title="DESPORTO", SPORTV 1
+=======
+#EXTINF:-1 group-title=DESPORTO, MARITIMO TV
+http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
+
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORTV 1
+>>>>>>> origin/master
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
 #EXTINF:-1 group-title="DESPORTO", SPORTV 1
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
