@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1, BBC1 (1) (576i)
+http://37.187.248.101:8080/bbc1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, BBC1 (2) (576i)
+http://82.135.224.134:80/udp/239.100.3.1:1234
+#EXTINF:-1, BBC1 Scotland (1) (576i)
+http://82.135.224.134:80/udp/239.100.3.2:1234
+#EXTINF:-1, BBC2 (1) (576i)
+http://37.187.248.101:8080/bbc2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, BBC2 (2) (576i)
+http://82.135.224.134:80/udp/239.100.3.3:1234
+#EXTINF:-1, BBC3 (1) (576i)
+http://37.187.248.101:8080/bbc3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, BBC3 (2) (576i)
+http://82.135.224.134:80/udp/239.100.3.4:1234
+#EXTINF:-1, BBC4 (1) (576i)
+http://37.187.248.101:8080/bbc4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, BBC4 (2) (576i)
+http://82.135.224.134:80/udp/239.100.3.5:1234
+#EXTINF:-1, ITV 1 (1) (576i)
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:-1, ITV 1 (2) (576i)
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:-1, ITV 2 (1) (576i)
+http://37.187.248.101:8080/itv2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, ITV 3 (1) (576i)
+http://37.187.248.101:8080/itv3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, ITV 4 (1) (576i)
+http://37.187.248.101:8080/itv4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, London Live (1) (480i)
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
