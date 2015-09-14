@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, NRJ TV
 rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+#EXTINF:0 group-title="Музыка", NRJ (2)
+http://rtmp.infomaniak.ch/livecast/energytv/playlist.m3u8
 #EXTINF:0, M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0, Music Box RU
@@ -15,8 +17,6 @@ rtmp://fms.105.net:1935/live/rmc1
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="Heart TV.png" group-title="MUSICA", HEART TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="Virgin TV.png" group-title="MUSICA", VIRGIN TV 
-rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:-1 tvg-logo="radioutv.png" group-title="MUSICA", RADIO U TV 
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:-1 tvg-logo="radioutv.png" group-title="MUSICA", RADIO U TV 
@@ -25,8 +25,6 @@ rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swf
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="dreamtv.png" group-title="MUSICA", DREAM TV 
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="eska_best_music_tv_pl.png" group-title="MUSICA", ESKA BEST MUSIC 
-rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1 tvg-logo="Clubland_tv.png" group-title="MUSICA", CLUBLAND 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1 tvg-logo="NOW-MUSIC.png" group-title="MUSICA", NOW MUSIC  
@@ -37,6 +35,8 @@ rtmp://fms.105.net/live/105Test1
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="kiss tv.png" group-title="MUSICA", KISS TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:0 group-title="Музыка", Kiss TV (2)
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", ULTRAFIESTA 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", AMAZING TV 
@@ -53,6 +53,20 @@ http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", URBAN MUSIC TV 
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
+#EXTINF:0 group-title="Музыка", ELECTROSOUND TV
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:0 group-title="Музыка", Dream
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0 group-title="Музыка", Go TV
+http://stream1.gotv.at:1935/live/gotvlive_360p/chunklist.m3u8
+#EXTINF:0 group-title="Музыка", Clubland
+http://rrr.sz.xlcdn.com/?
+#EXTINF:0 group-title="Музыка", RTL TV 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:0 group-title="Музыка", Radio 105 TV
+http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
+#EXTINF:0 group-title="Музыка", Now Music UK
+http://rrr.sz.xlcdn.com/?
 
 #EXTINF:-1, [COLOR blue]--Djing--[/COLOR]  
 http://
@@ -74,23 +88,25 @@ http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/ind
 http://www.djing.com/tv/i-05.m3u8
 #EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind HOT HOT HOT 
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind DANCEFLOOR 
+#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind Dancefloor 
 http://www.djing.com/tv/dancefloor.m3u8
 
-#EXTINF:-1, [COLOR yellow]--ESKA--[/COLOR]  
+#EXTINF:0, [COLOR yellow]--ESKA--[/COLOR]  
 http://
 #EXTINF:0, Eska Best Music HD
 rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
 #EXTINF:0, Eska Rock TV HD
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
-#EXTINF:-1 tvg-logo="Eska.rock.png" group-title="MUSICA", Eska Rock TV
+#EXTINF:0 tvg-logo="Eska.rock.png" group-title="MUSICA", Eska Rock TV
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:0, Eska Party TV HD
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:0, Eska Wawa HD
 rtmp://stream.smcloud.net/live2/wawa/wawa_720p
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Eska VOX TV 
+#EXTINF:0 tvg-logo="" group-title="MUSICA", Eska VOX TV 
 rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:0 group-title="ESKA", POLO 
+rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0, POLO Party HD
 rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
 
@@ -111,6 +127,8 @@ http://
 http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key&stream_id=0
 #EXTINF:-1 tvg-logo="MTV HITS.png" group-title="MUSICA", MTV HITS  
 http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8
+#EXTINF:0 group-title="Музыка",MTV Vietnam
+http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8
 
 #EXTINF:-1, [COLOR yellow]--ONE--[/COLOR]  
 http://
@@ -126,6 +144,11 @@ http://rtmp.one.by:2300
 http://rtmp.one.by:2200
 #EXTINF:0 group-title="ONE", One.by Россия HD
 http://rtmp.one.by:2300
+
+#EXTINF:-1, [COLOR pink]--VIVA--[/COLOR]  
+http://
+#EXTINF:0 group-title="VIVA", VIVA DE
+http://81.201.52.159:8007
 
 #EXTINF:-1, [COLOR green]--VEVO--[/COLOR]  
 http://
@@ -160,6 +183,18 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 #EXTINF:0, VEVO NASHVILLE The BEST COUNTRY 24/7
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
 
+#EXTINF:-1, [COLOR red]--VIRGIN--[/COLOR]  
+http://
+#EXTINF:-1 tvg-logo="Virgin TV.png" group-title="MUSICA", VIRGIN TV 
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:0 group-title="Музыка", Virgin TV Radio
+http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:-1, [COLOR brown]--Asia--[/COLOR]  
+http://
+#EXTINF:0 group-title="Asia", Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+
 #EXTINF:-1, [COLOR red]--Russia--[/COLOR]  
 http://
 #EXTINF:0 group-title="Russia", Первый HDльный HD (1HD)
@@ -176,3 +211,17 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
 #EXTINF:0 group-title="Russia", A-One Россия
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Музыка", Муз ТВ
+http://188.128.118.189:4020
+#EXTINF:0 group-title="Музыка", Туган Тел
+rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
+#EXTINF:0 group-title="Музыка", 9 Волна
+rtmp://176.9.127.102/live/myStream_1
+#EXTINF:0 group-title="Музыка", Русская Эстрада
+rtmp://78.140.209.20:1935/tv/ruestrada2
+#EXTINF:0 group-title="Музыка", Первый Балтийский Музыкальный
+http://embedcdnb.cloudy.services/play/135/chunklist_bw1800000.m3u8
+#EXTINF:0 group-title="Музыка", Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0 group-title="Музыка", Курай
+http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
