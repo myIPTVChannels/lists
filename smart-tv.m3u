@@ -101,19 +101,17 @@ http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
+#EXTINF:-1,HD Fashion
+rtmp://95.67.8.43:1935/live/fashionhd
 
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,Private
-http://62.210.88.244:8081/private/private/chunklist_w89743146.m3u8
 #EXTINF:0,Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,Japao Hot
 rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1,BabeStation X-Treme 18+
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-#EXTINF:-1,HD Fashion
-rtmp://95.67.8.43:1935/live/fashionhd
 #EXTINF:0,But Go
 http://edge2.everyon.tv:1935/etv2sb/phd772/master.m3u8
 #EXTINF:0,Hot Shots
