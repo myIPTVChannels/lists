@@ -1,177 +1,244 @@
-#EXTM3U
-#EXTINF:0, RTP 1
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:0, RTP 2
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:0, SIC
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:0, TVI
-http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:0, CMTV
-rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
-#EXTINF:0, TVI FICCAO
-http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
-#EXTINF:0, SPORT TV 1 
+#EXTINF:0, By: REIVAN 14/09/2015 SSiptv e Kodi
+http://0.0.0.0
+#EXTINF:0, --- Desporto Portugal ---
+http://0.0.0.0
+#EXTINF:0, SPORT TV 1 SD
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
-#EXTINF:0, SPORT TV AMERICAS HD
+#EXTINF:0, SPORT TV 2 SD
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
+#EXTINF:0, SPORT TV 3 SD
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
+#EXTINF:0, SPORTV AMERICAS HD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:0 tvg-id="SPORT.TV Americas" tvg-logo="SPORT TV AMERICAS.png", SPORT TV AMÉRICAS SD
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:0 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png", BENFICA TV - OFF 14/09
+http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
+#EXTINF:0 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png", BENFICA TV (2) - OFF 14/09
+http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
+#EXTINF:0, BTV 1
+rtmp://199.195.194.220:1935/stream/ playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/
+#EXTINF:0, BTV 1
+rtmp://179.43.158.196:1935/stream playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ timeout=15 conn=S:OK –live
+#EXTINF:0 tvg-id="" tvg-logo="benficatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/benficatv.jpg" group-title="Esportes internacionais", Benfica TV 1
+rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o timeout=17
+#EXTINF:0, BTV 2 & SPORTV3
+rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to timeout=15 conn=S:OK –live
 #EXTINF:0 group-title=DESPORTO, MARITIMO TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
-#EXTINF:0, BEIN SPORTS 1 
-http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:0, BEIN SPORTS 2
-http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:0, Telekanal Futbol (Campeonato Portugues)
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:0, Eurosport 
-http://195.154.226.186:1935/livee/vesplsh/playlist.m3u8
-#EXTINF:0, SILK SPORT 1
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:0, SPORT MAX (UK)
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-#EXTINF:0, TODO DEPORTES (MEX) 
-http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
-#EXTINF:0, VH1 Classic
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
-#EXTINF:0, Club
-http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0, ONE 1
-http://rtmp.one.by:1300
-#EXTINF:0, Eska Best Music HD
-rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
-#EXTINF:0, Music Box TV
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
-#EXTINF:0, О2
-http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
-#EXTINF:0, CLUBLAND 
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, ESKA ROCK TV 
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:0, HEART TV 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, HOT HOT HOT 
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:0, Africa Music 
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-#EXTINF:0, Discovery
-http://telemost-bg.com/include/channelStream.php?channel=65
-#EXTINF:0, FOX M#EXTM3U
-#EXTINF:0, RTP 1
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:0, RTP 2
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:0, SIC
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:0, TVI
-http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:0, CMTV
-rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
-#EXTINF:0, TVI FICCAO
-http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
-#EXTINF:0, SPORT TV 1 
-http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
-#EXTINF:0, SPORT TV AMERICAS HD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:0 group-title=DESPORTO, MARITIMO TV
-http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
-#EXTINF:0, BEIN SPORTS 1 
-http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:0, BEIN SPORTS 2
-http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:0, Telekanal Futbol (Campeonato Portugues)
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:0, Eurosport 
-http://195.154.226.186:1935/livee/vesplsh/playlist.m3u8
-#EXTINF:0, SILK SPORT 1
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:0, SPORT MAX (UK)
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-#EXTINF:0, TODO DEPORTES (MEX) 
-http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
-#EXTINF:0, VH1 Classic
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
-#EXTINF:0, Club
-http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0, ONE 1
-http://rtmp.one.by:1300
-#EXTINF:0, Eska Best Music HD
-rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
-#EXTINF:0, Music Box TV
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
-#EXTINF:0, О2
-http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
-#EXTINF:0, CLUBLAND 
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, ESKA ROCK TV 
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:0, HEART TV 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, HOT HOT HOT 
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:0, Africa Music 
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-#EXTINF:0, Discovery
-http://telemost-bg.com/include/channelStream.php?channel=65
-#EXTINF:0, FOX MOVIES 
-http://185.5.222.227:4242/bysid/5608
-#EXTINF:0, EUROSPORT 
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:0, Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:0, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:0, SkySport 1 HD
-http://pub.yocast.tv:1935/live/ss1/playlist.m3u8
-#EXTINF:0, REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?
-#EXTINF:0, SkySport f1 HD
-http://pub.yocast.tv:1935/live/sssf1/playlist.m3u8
-#EXTINF:0, LIVE SPORT (CARS)
-mms://100automoto.tv/100livesport
-#EXTINF:0, Discovery ID
-http://mnogo-tv.com/ott-tv/1730/1442223360/ee12b24dff4685bbb7cbc2cf7ff60335/hls/id/index.m3u8
-#EXTINF:0, ARENA 1
-http://www.nasatv.eu:80/live?channelId=16&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0, FOX MOTOR SPORT
-http://motorsport.hopto.org:8080/
-#EXTINF:0, SUPER PRORT HD 1
-http://81.7.13.162/hls/ss1/index.m3u8  
-#EXTINF:0, SUPER PRORT HD2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0, SUPER PRORT HD3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:0, Sport Klub 1 HD 
-http://77.76.140.251/prgr.m3u8 
-#EXTINF:0, EUROSPORT 
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8OVIES 
-http://185.5.222.227:4242/bysid/5608
-#EXTINF:0, EUROSPORT 
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:0, Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:0, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:0, SkySport 1 HD
-http://pub.yocast.tv:1935/live/ss1/playlist.m3u8
-#EXTINF:0, REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?
-#EXTINF:0, SkySport f1 HD
-http://pub.yocast.tv:1935/live/sssf1/playlist.m3u8
-#EXTINF:0, LIVE SPORT (CARS)
-mms://100automoto.tv/100livesport
-#EXTINF:0, Discovery ID
-http://mnogo-tv.com/ott-tv/1730/1442223360/ee12b24dff4685bbb7cbc2cf7ff60335/hls/id/index.m3u8
-#EXTINF:0, ARENA 1
-http://www.nasatv.eu:80/live?channelId=16&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0, FOX MOTOR SPORT
-http://motorsport.hopto.org:8080/
-#EXTINF:0, SUPER PRORT HD 1
-http://81.7.13.162/hls/ss1/index.m3u8  
-#EXTINF:0, SUPER PRORT HD2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0, SUPER PRORT HD3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:0, Sport Klub 1 HD 
-http://77.76.140.251/prgr.m3u8 
-#EXTINF:0, EUROSPORT 
+
+
+#EXTINF:0, --- Desporto Brasil ---
+http://0.0.0.0
+#EXTINF:0 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes Brasileiros", Canal Combate [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-combate
+#EXTINF:0 tvg-id="jonasiptv-ESPNn" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes Brasileiros", ESPN
+http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
+#EXTINF:0 tvg-id="jonasiptv-ESPN Brasill" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espnbr.m3u8
+#EXTINF:0 tvg-id="jonasiptv-ESPN Brasill" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-espnbrasil
+#EXTINF:0 tvg-id="jonasiptv-ESPNHD" tvg-logo="espnhd.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnhd.jpg" group-title="Esportes Brasileiros",ESPN+
+http://bit.ly/IPTVGlobal-espnplus
+#EXTINF:0 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I HD [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eitv720.m3u8
+#EXTINF:0 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-ei
+#EXTINF:0 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx HD [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://ei.live-ss-cct.stormsec.com.br/live/smil:Evento3.smil/playlist.m3u8
+#EXTINF:0 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I MAXX SD[COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-eimaxx
+#EXTINF:0 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx2 HD [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
+#EXTINF:0 tvg-id="jonasiptv-Fox Sportss" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes Brasileiros",Fox Sports [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-foxsports
+#EXTINF:0 tvg-id="jonasiptv-Fox Sportss" tvg-logo="foxsports2.jpg" tvg-logo="http://logos.iptvglobal.com.br/foxsports2.jpg" group-title="Esportes Brasileiros",Fox Sports 2 [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-foxsports2
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="Esportes Brasileiros", PFC 24Hrs [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-pfc24horas
+#EXTINF:0 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://62.210.83.152:1935/liverepeat/201020/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-sportv
+#EXTINF:0 tvg-id="jonasiptv-SporTV2" tvg-logo="sportv2.png" tvg-logo="http://logos.iptvglobal.com.br/sportv2.png" group-title="Esportes Brasileiros",SPORTV 2 [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-sportv2
+#EXTINF:0 tvg-id="jonasiptv-SporTV 3s" tvg-logo="sportv3.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 [COLOR green][I][B] ON [/B][/I][/COLOR]
+http://bit.ly/IPTVGlobal-sportv3
+#EXTINF:0 tvg-logo="terraesportes.jpg" tvg-logo="http://logos.iptvglobal.com.br/terraesportes.jpg" group-title="Esportes Brasileiros",TERRA ESPORTES
+http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
+#EXTINF:0 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",TVU Ei
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC", PFC 24 Hrs
+http://bit.ly/IPTVGlobal-pfc24horas
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 1 | dias de Jogos
+http://62.210.82.241:1935/liverepeat/fut01/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 2 | dias de Jogos
+http://62.210.88.208:1935/liverepeat/fut02/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC", PFC 3 | dias de Jogos
+http://62.210.88.232:1935/liverepeat/101010/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC", PFC 4 | dias de Jogos
+http://62.210.83.154:1935/liverepeat/101010/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 5 | dias de Jogos
+http://62.210.88.232:1935/liverepeat/fut05/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 6 | dias de Jogos
+http://62.210.83.154:1935/liverepeat/fut06/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 7 | dias de Jogos
+http://62.210.88.232:1935/liverepeat/fut07/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 8 | dias de Jogos
+http://62.210.83.152:1935/liverepeat/201020/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 9 | dias de Jogos
+http://62.210.88.232:1935/liverepeat/fut09/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 10 | dias de Jogos
+http://62.210.83.154:1935/liverepeat/fut1022842/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 11 | dias de Jogos
+http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 12 | dias de Jogos
+http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
+
+
+#EXTINF:0, --- Desporto internacional ---
+http://0.0.0.1234
+
+#EXTINF:0 tvg-id="" tvg-logo="TVAzteca.jpg" tvg-logo="http://logos.iptvglobal.com.br/TVAzteca.jpg" group-title="Esportes internacionais",Azteca desportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="TVAzteca.jpg" tvg-logo="http://logos.iptvglobal.com.br/TVAzteca.jpg" group-title="Esportes internacionais", Azteca 7
+http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" group-title="Esportes internacionais", BEIN SPORTS 1
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8?iptvglobal
+#EXTINF:0 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" group-title="Esportes internacionais", BEIN SPORTS 2
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8?iptvglobal
+#EXTINF:0 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" group-title="Esportes internacionais", BEIN SPORTS 3 HD
+http://180.250.29.12/jhos/beib3_3/1424681986/playlist.m3u8?iptvglobal
+#EXTINF:0 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" group-title="Esportes internacionais", BEIN SPORTS USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8?iptvglobal
+#EXTINF:0 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" group-title="Esportes internacionais", BEIN SPORTS USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8?iptvglobal
+#EXTINF:0 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" group-title="Esportes internacionais", BEIN SPORTS USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8?iptvglobal
+#EXTINF:0 tvg-id="" tvg-logo="eurosports.jpg" tvg-logo="http://logos.iptvglobal.com.br/eurosports.jpg" group-title="Esportes internacionais", CANAL EUROSPORT  HD
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0 group-title="DESPORTO_INTERNACIONAL", EUROSPORT 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais", ESPN
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais", ESPN 2
+http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais", ESPN 3
+http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais", ESPN HD
+http://stalker.darkuzdev.cf:8080/streamer/389.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais", ESPN
+http://stalker.darkuzdev.cf:8080/streamer/405.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN 2
+http://stalker.darkuzdev.cf:8080/streamer/409.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN 3
+http://stalker.darkuzdev.cf:8080/streamer/393.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg" group-title="Esportes internacionais", Extreme Sports HD
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg" group-title="Esportes internacionais", Extreme Sports HD
+http://en356.edem.tv/iptv/D3MBMTV79H9TYM/144/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="idmantv.jpg" tvg-logo="http://logos.iptvglobal.com.br/idmantv.jpg" group-title="Esportes internacionais", Idman TV
+http://149.255.152.70/idman/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais", Fox Sports
+http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais", Fox Sports Latino
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais", Fox Sports HD (es)
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais", FOX SPORT
+http://stalker.darkuzdev.cf:8080/streamer/397.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais", FOX SPORT 2
+http://stalker.darkuzdev.cf:8080/streamer/401.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="goltv.jpg" tvg-logo="http://logos.iptvglobal.com.br/goltv.jpg" group-title="Esportes internacionais", GOL tv
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ArizonaPac.jpg" tvg-logo="http://logos.iptvglobal.com.br/ArizonaPac.jpg" group-title="Esportes internacionais",PAC 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8?iptvjonas
+#EXTINF:0 tvg-id="" tvg-logo="real.jpg" tvg-logo="http://logos.iptvglobal.com.br/real.jpg" group-title="Esportes internacionais", Real Madrid TV  HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="" tvg-logo="sevillafc.jpg" tvg-logo="http://logos.iptvglobal.com.br/sevillafc.jpg" group-title="Esportes internacionais", Sevilla FC TV  HD
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:0 tvg-id="" tvg-logo="xtremeimpacts.jpg" tvg-logo="http://logos.iptvglobal.com.br/xtremeimpacts.jpg" group-title="Esportes internacionais", XTREME IMPACTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/xtreme_impacts-tablet.3gp/xtreme_impacts-tablet.3gp-mr647k.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="ufc2.jpg" tvg-logo="http://logos.iptvglobal.com.br/ufc2.jpg" group-title="Esportes internacionais", UFC  HD
+rtmp://rtmpvid.ufc.tv/cfx/st/ playpath=mp4:2015/01/05/mcgregor-UI-Texted-01h01m04s-CLID114260VT520.dsk.mp4 swfUrl=http://media.ufc.tv/ufc_system_assets/ufc_201501051434/js/jwplayer6/jwplayer.flash.swf pageUrl=http://uk.ufc.com/
+#EXTINF:0 tvg-id="" tvg-logo="wweNetwork.jpg" tvg-logo="http://logos.iptvglobal.com.br/wweNetwork.jpg" group-title="Esportes internacionais", WWE Network
+rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+
+#EXTINF:0, --- Outros ---
+http://0.0.0.0
+#EXTINF:10, BEIN SPORTS 1 transmite alguns jogos liga portuguesa
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
+#EXTINF:14, BEIN SPORTS 2 transmite alguns jogos liga portuguesa
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+#EXTINF:0, beIN 1 HD
+http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:0, FR_BEIN 2 HD
+http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:0, FOX MOTOR SPORT
+http://motorsport.hopto.org:8080/
+#EXTINF:0, SILK SPORT 1
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:0, SILK SPORT 2
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+#EXTINF:0, SILK SPORT 3
+http://80.77.52.6:3719/udp/226.0.0.9:12345
+#EXTINF:0, REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, Viasat Sport 
+http://mnogo-tv.com/ott-tv/1730/1442223360/ee12b24dff4685bbb7cbc2cf7ff60335/hls/viaspttv/index.m3u8
+#EXTINF:0, Diema Sport
+http://telemost-bg.com/include/channelStream.php?channel=106
+#EXTINF:0, Sport Klub 1 HD 
+http://77.76.140.251/prgr.m3u8 
+#EXTINF:0, Sport Klub 2 HD 
+http://77.76.140.251/prgs.m3u8
+#EXTINF:0, Sport Klub 3 HD 
+http://77.76.140.251/prg.m3u8
+
+
+
+#EXTINF:0, --- Temporarios ---
+http://0.0.0.1234
+
+#EXTINF:0, BRASIL sports
+http://bit.ly/IPTVGlobal-espnplus
+#EXTINF:0, BRASIL sports
+http://live-cdn.direct-stream.org:1935/liverepeat/fut1022842/playlist.m3u8
+PREMIERE BRASIL
+http://4.31.30.159:9119
+#EXTINF:0, PREMIERE BRASIL
+http://live-cdn.direct-stream.org:1935/liverepeat/fut01/playlist.m3u8
+#EXTINF:0, PREMIERE BRASIL
+http://62.210.83.180:1935/liverepeat/fut1123402/playlist.m3u8
+#EXTINF:0, PREMIERE BRASIL
+http://tinyurl.com/oek4eod 
+#EXTINF:0, AD Sports
+rtmp://dssxsz-7631.live.kxcdn.com/live//dssxsz-7631
+#EXTINF:0, ESPN
+http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8?JONASIPTV
+#EXTINF:0, ESPN
+rtmp://217.23.12.111/livepkgrr/espnbr
+
+
+#EXTINF:0, Super Sport1 HD
+http://proxiiptv.dyndns.tv:8000/live/haris/haris/293.m3u8
+#EXTINF:0, Super Sport2 HD
+http://proxiiptv.dyndns.tv:8000/live/haris/haris/294.m3u8
+#EXTINF:0, Super Sport3 HD
+http://proxiiptv.dyndns.tv:8000/live/haris/haris/295.m3u8
+#EXTINF:0, Super Sport4 HD
+http://proxiiptv.dyndns.tv:8000/live/haris/haris/296.m3u8
+#EXTINF:0, Super Sport Kosovo1 HD
+http://proxiiptv.dyndns.tv:8000/live/haris/haris/446.m3u8
+#EXTINF:0, Super Sport Kosovo2 HD
+http://proxiiptv.dyndns.tv:8000/live/haris/haris/447.m3u8
+
+#EXTINF:0, SUPER PRORT HD 1
+http://81.7.13.162/hls/ss1/index.m3u8  
+#EXTINF:0, SUPER PRORT HD2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:0, SUPER PRORT HD3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:0, SUPER PRORT HD4
+http://81.7.13.162/hls/ss4/index.m3u8
