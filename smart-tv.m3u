@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, --- Portugal ---
+http://0.0.0.0
+
 #EXTINF:0, RTP 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:0, RTP 2
@@ -88,10 +91,10 @@ http://77.76.140.251/prgr.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
 #EXTINF:-1, By REIVAN 14/09/2015 SSiptv e Kodi
-http://0.0.0.1234
+http://0.0.0.0
 
-#EXTINF:-1, Desporto Portugal
-http://0.0.0.1234
+#EXTINF:-1, --- Desporto Portugal ---
+http://0.0.0.0
 
 #EXTINF:-1, SPORT TV 1 SD
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
@@ -134,8 +137,8 @@ http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 
 
 
-#EXTINF:-1, Desporto Brasil
-http://0.0.0.1234
+#EXTINF:-1, --- Desporto Brasil ---
+http://0.0.0.0
 
 #EXTINF:-1 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes Brasileiros",Canal Combate [COLOR green][I][B] ON [/B][/I][/COLOR]
 http://bit.ly/IPTVGlobal-combate
@@ -225,9 +228,8 @@ http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
 
 
 
-#EXTINF:-1, Desporto internacional
-http://0.0.0.1234
-
+#EXTINF:0, --- Desporto Internacional ---
+http://0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="TVAzteca.jpg" tvg-logo="http://logos.iptvglobal.com.br/TVAzteca.jpg" group-title="Esportes internacionais",Azteca desportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8?sd=10&rebase=on
@@ -379,27 +381,27 @@ http://77.76.140.251/prg.m3u8
 
 
 
-#EXTINF:0, Temporarios
-http://0.0.0.1234
+#EXTINF:0, --- Temporarios ---
+http://0.0.0.0
 
-#EXTINF:-1, BRASIL sports
- http://bit.ly/IPTVGlobal-espnplus
-#EXTINF:-1, BRASIL sports
- http://live-cdn.direct-stream.org:1935/liverepeat/fut1022842/playlist.m3u8
+#EXTINF:-1, BRASIL Sports
+http://bit.ly/IPTVGlobal-espnplus
+#EXTINF:-1, BRASIL Sports
+http://live-cdn.direct-stream.org:1935/liverepeat/fut1022842/playlist.m3u8
 #EXTINF:-1, PREMIERE BRASIL
- http://4.31.30.159:9119
+http://4.31.30.159:9119
 #EXTINF:-1, PREMIERE BRASIL
- http://live-cdn.direct-stream.org:1935/liverepeat/fut01/playlist.m3u8
+http://live-cdn.direct-stream.org:1935/liverepeat/fut01/playlist.m3u8
 #EXTINF:-1, PREMIERE BRASIL
- http://62.210.83.180:1935/liverepeat/fut1123402/playlist.m3u8
+http://62.210.83.180:1935/liverepeat/fut1123402/playlist.m3u8
 #EXTINF:-1, PREMIERE BRASIL
 http://tinyurl.com/oek4eod 
 #EXTINF:-1, AD Sports
- rtmp://dssxsz-7631.live.kxcdn.com/live//dssxsz-7631
+rtmp://dssxsz-7631.live.kxcdn.com/live//dssxsz-7631
 #EXTINF:-1, ESPN
-  http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8?JONASIPTV
+http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8?JONASIPTV
 #EXTINF:-1, ESPN
- rtmp://217.23.12.111/livepkgrr/espnbr
+rtmp://217.23.12.111/livepkgrr/espnbr
 
 
 #EXTINF:-1,Super Sport1 HD
