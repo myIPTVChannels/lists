@@ -21,6 +21,8 @@ NASA Space Channels: nasa.m3u = http://git.io/vZPFO
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
+Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
+
 
 ##Rules
 1) KISS = Keep it simple, stupid (as possible)!
