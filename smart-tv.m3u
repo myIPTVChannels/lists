@@ -72,10 +72,6 @@ http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:-1,Bein Sports 2
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1,Bongda Tv
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Thethao Tv
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Rete Sport 8
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 #EXTINF:-1,Turmen Sports
