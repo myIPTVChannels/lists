@@ -31,7 +31,7 @@ Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
 
 1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets).
 
-1.2) Se existir mais que um canal/ligação, diferenciar através da qualidade do canal a seguir ao nome do memso, com FHD (para 1080p) HD (para 720p), SD (576i ou menos), ou então um número sequencial entre parentisis. Ex: RTP FHD / RTP (2)
+1.2) Se existir mais que um canal/ligação, diferenciar através da qualidade do canal a seguir ao nome do mesmo, com FHD (para 1080p) HD (para 720p), FSD (entre 480i e 576i) e SD (Menos de 480i), ou então um número sequencial entre parentisis. Ex: RTP FHD / RTP (2). Resoluções abaixo de 720p porém acima de 576i deverão ser consideradas "FSD". Para avaliar a resolução de uma stream, poderão usar o VLC.
 
 1.3) Nomes dos canais sem referências, créditos e cores.
 
