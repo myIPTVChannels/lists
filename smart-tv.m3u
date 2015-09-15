@@ -101,18 +101,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
-#EXTINF:-1,Oh La La
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,Playboy TV
-http://62.210.82.241:8081/pboytv/pboytv/live.m3u8
-#EXTINF:-1,Hustler
-http://62.210.82.241:8081/hustlertv/hustlertv/live.m3u8
-#EXTINF:-1,Brasileirinhas 1
-http://62.210.82.241:8081/brasileirinhas/brasileirinhas/live.m3u8
-#EXTINF:-1,Brasileirinhas 2
-http://62.210.82.241:8081/brasileirinhas2/brasileirinhas2/live.m3u8
-#EXTINF:-1,Sexy Hot
-http://62.210.82.241:8081/sexhothd/sexhothd/live.m3u8
+
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,Private
