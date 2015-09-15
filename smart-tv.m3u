@@ -6,7 +6,8 @@ http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 #EXTINF:0, SIC
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:0, TVI
-http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8#EXTINF:0 ,CMTV 
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:0, CMTV OFF
 #EXTINF:0, TVI FICCAO
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
 #EXTINF:0, SPORT TV 1 
