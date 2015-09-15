@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Ericeira
+rtmp://213.13.26.12/live playpath=ericeira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/DTlId9ym9TZc7rOhKECF timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Espinho
+rtmp://213.13.26.42/live playpath=espinho.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/MkomIV8Fr0pEGnMRJCr1 timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Jardim do Mar
+rtmp://213.13.26.13/live playpath=jardim.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/zpUGwd4ZUrfvFIDb0Vco timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Lagide e Baía - Peniche
+rtmp://213.13.26.11/live playpath=peniche.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/gf8BDWe7fWzQO92jHbBk timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Leça da Palmeira
+rtmp://213.13.26.43/live playpath=leca.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/OF4ntVhaeSihG8JIWV8n timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Liga Moche Surf
+rtmp://213.13.26.11/live playpath=surfstream.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/AF98tRzyzpZfvdfvv6rU timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Matosinhos
+rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Odeceixe
+rtmp://213.13.26.43/live playpath=odeceixe.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/4a5Z6eksoLkviSD5gf5Z timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia Bordeira
+rtmp://213.13.26.13/live playpath=bordeira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/EffCAdudjYZLSOsqM4zj timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia Costa da Caparica
+rtmp://213.13.26.41/live playpath=costa.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/mQFYGs9wRn2H30nvzQbd timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia da Luz - Algarve
+rtmp://213.13.26.11/live playpath=luz.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia de Carcavelos
+rtmp://213.13.26.41/live playpath=carcavelos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/N1ZOaY48idM6hNTjL7qC timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia do Guincho
+rtmp://213.13.26.42/live playpath=guincho.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/lhla7bAtgyT97RZYZrER timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia do Norte
+rtmp://213.13.26.13/live playpath=norte.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/oCjzVigYoFkJHSjgTbkl timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia Grande
+rtmp://213.13.26.41/live playpath=grande.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/grfBgAQdvMI3zCGZzPrF timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia São Pedro e Bafureira
+rtmp://213.13.26.43/live playpath=saopedro.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/jenFJoJ9B0cZqIEylUvI timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia São Torpes
+rtmp://213.13.26.11/live playpath=saotorpes.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/zzodtq8OUtUfIeLHTjvC timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Praia Super Tubos
+rtmp://213.13.26.12/live playpath=supertubos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/cj18gCcQce1w7DBykbof timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Ribeira
+rtmp://213.13.26.43/live playpath=ribeira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/JBVNouMY9PAovZa1dpLU timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO", Portugal: Beachcam - Santa Cruz
+rtmp://213.13.26.43/live playpath=santacruz.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/2qs77WWaNsGO8kC47ArQ timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Anguilla Cam
+rtmp://video4.earthcam.com:80/fecnetwork/7393.flv playpath=7393.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/world/anguilla/meadsbay/?cam=aletapool
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Belmont Cam
+rtmp://video4.earthcam.com:1935/fecnetwork/5324.flv playpath=5324.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/usa/northcarolina/belmont/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Brooklyn Bridge
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=3983.flv swfUrl=http://www.earthcam.com/swf/images/stream_viewer.swf?anticache=20140212&imageOverlay=&path=rtmp://video4.earthcam.com/fecnetwork/3983.flv&loadingimage=&buffer=2&volume=0 live=1 pageUrl=http://www.earthcam.com/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Budapest Cam
+rtmp://video2.earthcam.com:80/fecnetwork/hotelvictoria2.flv playpath=hotelvictoria2.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140602 live=1 pageUrl=http://www.earthcam.com/world/hungary/budapest/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Dublin Cam
+rtmp://video4.earthcam.com:1935/fecnetwork/4054.flv playpath=4054.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140918 live=1 pageUrl=http://www.earthcam.com/world/ireland/dublin/?cam=templebar
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Eiffel Tower Cam
+rtmp://video2.earthcam.com/fecnetwork/eiffelcamHD.flv playpath=eiffelcamHD.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140409 live=1 pageUrl=http://www.earthcam.com/france/paris/?cam=eiffeltower_hd
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Estacao Espacial Internacional
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Hawaii Surf Cam
+rtmp://video4.earthcam.com/fecnetwork/5204.flv playpath=5204.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140710 live=1 pageUrl=http://www.earthcam.com/usa/hawaii/kauai/koloa/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Hollywood Blvd Cam
+rtmp://video4.earthcam.com:80/fecnetwork playpath=lacitytours1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150520 live=1 pageUrl=http://www.earthcam.com/usa/california/losangeles/hollywoodblvd/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Jackson Hole Cam
+rtmp://video4.earthcam.com:1935/fecnetwork/6954.flv playpath=6954.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/usa/wyoming/jackson/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Live From Mulberry Street Cam
+rtmp://video4.earthcam.com:80/fecnetwork/5775.flv playpath=5775.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/usa/newyork/littleitaly/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Palm Beach
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=6391.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20141121 live=1 pageUrl=http://www.earthcam.com/usa/florida/manalapan/palmbeach/?cam=manalapan_palmbeach
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Peregrine Falcon Cam
+rtmp://video2.earthcam.com/fecnetwork/370.flv playpath=370.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140409 live=1 pageUrl=http://www.earthcam.com/usa/illinois/falcon/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Safari Africa
+http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",San Francisco California
+rtmp://video4.earthcam.com:80/fecnetwork playpath=6603.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20141121 live=1 pageUrl=http://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Seattle Cam
+rtmp://video2.earthcam.com:80/fecnetwork/5019.flv playpath=5019.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140602 live=1 pageUrl=http://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Tau 9 Africa
+http://206.190.152.218:1935/rtsp-distribution/mp4:tau-lodge-01.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Wildwoods Cam
+rtmp://video4.earthcam.com/fecnetwork/5732.flv playpath=5732.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140710 live=1 pageUrl=http://www.earthcam.com/usa/newjersey/wildwood/
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="PRAIAS DE PORTUGAL E WEBCAMS DO MUNDO",Wrigley Field Cam
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=3186.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150520 live=1 pageUrl=http://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd  
