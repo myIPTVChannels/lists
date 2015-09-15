@@ -85,5 +85,7 @@ rtmp://195.168.51.178/live/ss1HD
 #EXTINF:0,Slovak Sport 2
 rtmp://195.168.51.178/live/ss2hd
 
+#EXTINF:-1,BT Sport/ESPN HD
+rtmp://secure.hdcast.org/justforvip/llive1
 
 
