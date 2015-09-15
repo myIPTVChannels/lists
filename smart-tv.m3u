@@ -1,17 +1,10 @@
 #EXTM3U
 
-
-#EXTINF:0, RTP 1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png",Rtp 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:0, RTP 2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png",Rtp 2
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:0, SIC
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png",Sic
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:0, TVI
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="TVI.png",Tvi
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:0, TVI FICCAO
-http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
-#EXTINF:0, SPORT TV 1 
-http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
-#EXTINF:0, SPORT TV AMERICAS HD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
