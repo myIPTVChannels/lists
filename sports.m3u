@@ -42,7 +42,6 @@ http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/2.ts
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png" group-title="Portugal", BENFICA TV (2) - OFF 14/09
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
-------------------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:0 group-title="Plexus", --- PLEXUS Plugin ---
@@ -117,7 +116,8 @@ plugin://program.plexus/?mode=1&url=a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mod
 plugin://program.plexus/?mode=1&url=dfb1115adb7c8740bea94431bdadf2e19fc9bd99&mode=1&name=acestream&mode=1&name=POLSAT SPORT
 #EXTINF:-1 group-title="PLEXUS", POLSAT SPORT EXTRA
 plugin://program.plexus/?mode=1&url=4c0c928a085aaa180288be1d749ccfd4aed253be&mode=1&name=acestream&mode=1&name=POLSAT SPORT_EXTRA
--------------------------------------------------------------------------------------------------------------------------------------------
+
+
 #EXTINF:0 group-title="others", --- Outros ---
 http://0.0.0.1234
 #EXTINF:10, BEIN SPORTS 1 transmite alguns jogos liga portuguesa
@@ -157,7 +157,8 @@ http://80.77.52.6:3719/udp/226.0.0.9:12345
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,BT NET WORK
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
----------------------------------------------------------------------------------------------------------------
+
+
 #EXTINF:-1,[COLOR red] --Desporto Internacional - EM TESTES --[/COLOR]
 http://0.0.0.1234
 #EXTINF:-1,BT SPORTS 1
@@ -371,7 +372,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:-1,ARABIC-KTV Sport Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
----------------------------------------------------------------------------------------------------------------
+
 #EXTINF:0 group-title="test", --- Test ---
 http://0.0.0.1234
 #EXT-X-VERSION:3
@@ -397,4 +398,3 @@ http://0.0.0.1234
 20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00806.ts
 #EXTINF:12.012, mastersportTV
 20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00807.ts
-----------------------------------------------------------------------------------------------------------
