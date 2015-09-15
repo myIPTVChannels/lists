@@ -7,7 +7,8 @@ http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:0, TVI
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:0, CMTV OFF
+#EXTINF:0, CMTV
+rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 #EXTINF:0, TVI FICCAO
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
 #EXTINF:0, SPORT TV 1 
@@ -89,7 +90,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 
 #EXTINF:0, By: REIVAN 14/09/2015 SSiptv e Kodi
 http://0.0.0.0
-#EXTINF:0, Desporto Portugal
+#EXTINF:0, --- Desporto Portugal ---
 http://0.0.0.0
 #EXTINF:0, SPORT TV 1 SD
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
@@ -255,7 +256,7 @@ rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers
 
 
 #EXTINF:0, --- Outros ---
-http://0.0.0.1234
+http://0.0.0.0
 #EXTINF:10, BEIN SPORTS 1 transmite alguns jogos liga portuguesa
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:14, BEIN SPORTS 2 transmite alguns jogos liga portuguesa
