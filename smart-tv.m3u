@@ -101,7 +101,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
-#EXTINF:-1Oh La La
+#EXTINF:-1,Oh La La
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:-1,Playboy TV
 http://62.210.82.241:8081/pboytv/pboytv/live.m3u8
