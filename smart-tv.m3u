@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, --- Portugal ---
-http://
 
 #EXTINF:0, RTP 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
@@ -91,11 +89,6 @@ http://77.76.140.251/prgr.m3u8
 #EXTINF:0, EUROSPORT 
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
-#EXTINF:-1, By REIVAN 14/09/2015 SSiptv e Kodi
-http://
-
-#EXTINF:-1, --- Desporto Portugal ---
-http://
 
 #EXTINF:-1, SPORT TV 1 SD
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
@@ -107,26 +100,10 @@ EXTINF:-1 group-title="DESPORTO", SPORTV AMERICAS HD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV Americas" tvg-logo="SPORT TV AMERICAS.png" group-title="DESPORTO", SPORT TV AMÉRICAS SD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png" group-title="DESPORTO", BENFICA TV - OFF 14/09
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png" group-title="DESPORTO", BENFICA TV (2) - OFF 14/09
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
-#EXTINF:-1 group-title="DESPORTO", BTV 1
-rtmp://199.195.194.220:1935/stream/ playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/
-#EXTINF:-1 group-title="DESPORTO", BTV 1
-rtmp://179.43.158.196:1935/stream playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ timeout=15 conn=S:OK –live
-#EXTINF:-1 tvg-id="" tvg-logo="benficatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/benficatv.jpg" group-title="Esportes internacionais",Benfica TV 1
-rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o timeout=17
-#EXTINF:-1 group-title="DESPORTO", BTV 2 & SPORTV3
-rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to timeout=15 conn=S:OK –live
 #EXTINF:-1 group-title=DESPORTO, MARITIMO TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 
 
-
-
-#EXTINF:-1, --- Desporto Brasil ---
-http://
 #EXTINF:-1 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes Brasileiros",Canal Combate [COLOR green][I][B] ON [/B][/I][/COLOR]
 http://bit.ly/IPTVGlobal-combate
 #EXTINF:-1 tvg-id="jonasiptv-ESPNn" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes Brasileiros",ESPN
@@ -194,9 +171,6 @@ http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8?JONASIPTV
 http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
 
 
-
-#EXTINF:0, --- Desporto Internacional ---
-http://
 #EXTINF:-1 tvg-id="" tvg-logo="TVAzteca.jpg" tvg-logo="http://logos.iptvglobal.com.br/TVAzteca.jpg" group-title="Esportes internacionais",Azteca desportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="TVAzteca.jpg" tvg-logo="http://logos.iptvglobal.com.br/TVAzteca.jpg" group-title="Esportes internacionais",Azteca 7
@@ -215,7 +189,7 @@ http://lihattv.toh.info/jhos/beib2.m3u8?iptvglobal
 http://lihattv.toh.info/jhos/beib3.m3u8?iptvglobal
 #EXTINF:-1 tvg-id="" tvg-logo="eurosports.jpg" tvg-logo="http://logos.iptvglobal.com.br/eurosports.jpg" group-title="Esportes internacionais",CANAL EUROSPORT  HD
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 group-title="DESPORTO_INTERNACIONAL", EUROSPORT 1
+#EXTINF:-1, EUROSPORT 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
@@ -223,14 +197,6 @@ http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN 3
 http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN HD
-http://stalker.darkuzdev.cf:8080/streamer/389.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN
-http://stalker.darkuzdev.cf:8080/streamer/405.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN 2
-http://stalker.darkuzdev.cf:8080/streamer/409.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes internacionais",ESPN 3
-http://stalker.darkuzdev.cf:8080/streamer/393.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg" group-title="Esportes internacionais",Extreme Sports HD
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg" group-title="Esportes internacionais",Extreme Sports HD
@@ -243,10 +209,6 @@ http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais",Fox Sports HD (es)
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais",FOX SPORT
-http://stalker.darkuzdev.cf:8080/streamer/397.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes internacionais",FOX SPORT 2
-http://stalker.darkuzdev.cf:8080/streamer/401.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="goltv.jpg" tvg-logo="http://logos.iptvglobal.com.br/goltv.jpg" group-title="Esportes internacionais",GOL tv
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ArizonaPac.jpg" tvg-logo="http://logos.iptvglobal.com.br/ArizonaPac.jpg" group-title="Esportes internacionais",PAC 12 Washington
@@ -295,9 +257,6 @@ http://77.76.140.251/prgs.m3u8
 http://77.76.140.251/prg.m3u8
 
 
-
-#EXTINF:0, --- Temporarios ---
-http://
 #EXTINF:-1, BRASIL Sports
 http://bit.ly/IPTVGlobal-espnplus
 #EXTINF:-1, BRASIL Sports
@@ -316,18 +275,6 @@ rtmp://dssxsz-7631.live.kxcdn.com/live//dssxsz-7631
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8?JONASIPTV
 #EXTINF:-1, ESPN
 rtmp://217.23.12.111/livepkgrr/espnbr
-#EXTINF:-1,Super Sport1 HD
-http://proxiiptv.dyndns.tv:8000/live/haris/haris/293.m3u8
-#EXTINF:-1,Super Sport2 HD
-http://proxiiptv.dyndns.tv:8000/live/haris/haris/294.m3u8
-#EXTINF:-1,Super Sport3 HD
-http://proxiiptv.dyndns.tv:8000/live/haris/haris/295.m3u8
-#EXTINF:-1,Super Sport4 HD
-http://proxiiptv.dyndns.tv:8000/live/haris/haris/296.m3u8
-#EXTINF:-1,Super Sport Kosovo1 HD
-http://proxiiptv.dyndns.tv:8000/live/haris/haris/446.m3u8
-#EXTINF:-1,Super Sport Kosovo2 HD
-http://proxiiptv.dyndns.tv:8000/live/haris/haris/447.m3u8
 #EXTINF:-1,SUPER PRORT HD 1
 http://81.7.13.162/hls/ss1/index.m3u8  
 #EXTINF:-1,SUPER PRORT HD2
