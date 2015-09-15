@@ -386,7 +386,7 @@ http://0.0.0.1234
  http://bit.ly/IPTVGlobal-espnplus
 #EXTINF:-1, BRASIL sports
  http://live-cdn.direct-stream.org:1935/liverepeat/fut1022842/playlist.m3u8
-PREMIERE BRASIL
+#EXTINF:-1, PREMIERE BRASIL
  http://4.31.30.159:9119
 #EXTINF:-1, PREMIERE BRASIL
  http://live-cdn.direct-stream.org:1935/liverepeat/fut01/playlist.m3u8
