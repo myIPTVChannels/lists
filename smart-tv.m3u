@@ -78,7 +78,7 @@ http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 http://tv.online.tm/hls/ch004_md/index.m3u8
 #EXTINF:-1,NSport+
 rtmp://178.16.220.163:1935/live/n2sport
-#EXTINF:-1,Ntv Sport
+#EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:0,Slovak Sport 1
 rtmp://195.168.51.178/live/ss1HD
