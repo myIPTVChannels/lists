@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 group-title="Portugal", --- Portugal ---
+http://0.0.0.0
+
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png",Rtp 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png",Rtp 2
