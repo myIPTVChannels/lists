@@ -19,6 +19,8 @@ Music Channels: music.m3u = http://git.io/vZohs
 
 NASA Space Channels: nasa.m3u = http://git.io/vZPFO
 
+SMART TV (LG, Samsung): smart-tv.m3u = http://git.io/vZQlR
+
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
 Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
