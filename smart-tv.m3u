@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0, RTP 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:0, RTP 2
@@ -16,9 +15,9 @@ http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:0 group-title=DESPORTO, MARITIMO TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
-#EXTINF:10, BEIN SPORTS 1 
+#EXTINF:0, BEIN SPORTS 1 
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:14, BEIN SPORTS 2
+#EXTINF:0, BEIN SPORTS 2
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
 #EXTINF:0, Telekanal Futbol (Campeonato Portugues)
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
@@ -88,9 +87,9 @@ http://77.76.140.251/prgr.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
 #EXTINF:0, By: REIVAN 14/09/2015 SSiptv e Kodi
-http://0.0.0.1234
+http://0.0.0.0
 #EXTINF:0, Desporto Portugal
-http://0.0.0.1234
+http://0.0.0.0
 #EXTINF:0, SPORT TV 1 SD
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 #EXTINF:0, SPORT TV 2 SD
@@ -105,20 +104,20 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
 #EXTINF:0 tvg-id="BenficaTV.pt" tvg-logo="Benfica tv.png", BENFICA TV (2) - OFF 14/09
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
-#EXTINF:0 , BTV 1
+#EXTINF:0, BTV 1
 rtmp://199.195.194.220:1935/stream/ playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/
-#EXTINF:0 , BTV 1
+#EXTINF:0, BTV 1
 rtmp://179.43.158.196:1935/stream playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ timeout=15 conn=S:OK –live
 #EXTINF:0 tvg-id="" tvg-logo="benficatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/benficatv.jpg" group-title="Esportes internacionais", Benfica TV 1
 rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o timeout=17
-#EXTINF:0 , BTV 2 & SPORTV3
+#EXTINF:0, BTV 2 & SPORTV3
 rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to timeout=15 conn=S:OK –live
 #EXTINF:0 group-title=DESPORTO, MARITIMO TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 
 
-#EXTINF:0, Desporto Brasil
-http://0.0.0.1234
+#EXTINF:0, --- Desporto Brasil ---
+http://0.0.0.0
 #EXTINF:0 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes Brasileiros", Canal Combate [COLOR green][I][B] ON [/B][/I][/COLOR]
 http://bit.ly/IPTVGlobal-combate
 #EXTINF:0 tvg-id="jonasiptv-ESPNn" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes Brasileiros", ESPN
@@ -185,7 +184,7 @@ http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8?JONASIPTV
 http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
 
 
-#EXTINF:0, Desporto internacional
+#EXTINF:0, --- Desporto internacional ---
 http://0.0.0.1234
 
 #EXTINF:0 tvg-id="" tvg-logo="TVAzteca.jpg" tvg-logo="http://logos.iptvglobal.com.br/TVAzteca.jpg" group-title="Esportes internacionais",Azteca desportes
@@ -254,6 +253,8 @@ rtmp://rtmpvid.ufc.tv/cfx/st/ playpath=mp4:2015/01/05/mcgregor-UI-Texted-01h01m0
 rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 
+#EXTINF:0, --- Outros ---
+http://0.0.0.1234
 #EXTINF:10, BEIN SPORTS 1 transmite alguns jogos liga portuguesa
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:14, BEIN SPORTS 2 transmite alguns jogos liga portuguesa
@@ -285,7 +286,7 @@ http://77.76.140.251/prg.m3u8
 
 
 
-#EXTINF:0, Temporarios
+#EXTINF:0, --- Temporarios ---
 http://0.0.0.1234
 
 #EXTINF:0, BRASIL sports
