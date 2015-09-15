@@ -371,30 +371,3 @@ rtmp://alayam.netromedia.net/btv3/btv3
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:-1,ARABIC-KTV Sport Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
-
-
-#EXTINF:0 group-title="test", --- Test ---
-http://0.0.0.1234
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:13
-#EXT-X-MEDIA-SEQUENCE:546798
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00798.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00799.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00800.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00801.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00802.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00803.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00804.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00805.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00806.ts
-#EXTINF:12.012, mastersportTV
-20150629T220234/mastersportTV_1300kbps/00273/mastersportTV_1300kbps_00807.ts
