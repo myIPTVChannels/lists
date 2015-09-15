@@ -9,7 +9,6 @@ http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:0, TVI
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:0 ,CMTV OFF
 #EXTINF:0, TVI FICCAO
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
 #EXTINF:0, SPORT TV 1 
@@ -261,8 +260,6 @@ http://77.76.140.251/prg.m3u8
 http://bit.ly/IPTVGlobal-espnplus
 #EXTINF:-1, BRASIL Sports
 http://live-cdn.direct-stream.org:1935/liverepeat/fut1022842/playlist.m3u8
-#EXTINF:-1, PREMIERE BRASIL OFF
-http://
 #EXTINF:-1, PREMIERE BRASIL
 http://live-cdn.direct-stream.org:1935/liverepeat/fut01/playlist.m3u8
 #EXTINF:-1, PREMIERE BRASIL
