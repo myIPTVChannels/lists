@@ -68,12 +68,10 @@ http://193.194.107.10:4022/udp/225.1.3Футбол 1
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 #EXTINF:-1,Tyc Sports
 http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Bein 1
+#EXTINF:-1,Bein Sports 1
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:-1,Bein 2
+#EXTINF:-1,Bein Sports 2
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1,Supersport 2
-http://81.7.13.162/hls/ss2/index.m3u8
 #EXTINF:-1,Bongda Tv
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Thethao Tv
