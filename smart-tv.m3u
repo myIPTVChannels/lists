@@ -60,10 +60,10 @@ http://77.76.140.251/prgt.m3u8
 http://193.194.107.10:4022/udp/225.1.3.101:4001
 #EXTINF:-1,Viasat Sport
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:0,Russian 1
-http://193.194.107.10:4022/udp/225.1.3.103:4001
-#EXTINF:0,Russian 2
-http://193.194.107.10:4022/udp/225.1.3.102:4001
+#EXTINF:0,Футбол 1
+http://193.194.107.10:4022/udp/225.1.3Футбол 1.103:4001
+#EXTINF:0,Футбол 2
+http://193.194.107.10:4022/udp/225.1.3Футбол 1
 #EXTINF:-1,Sport Max
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 #EXTINF:-1,Tyc Sports
