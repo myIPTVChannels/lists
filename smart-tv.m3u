@@ -11,3 +11,23 @@ http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-logo="TVI.png",Tvi
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+
+#EXTINF:0 group-title="Desporto", --- Desporto ---
+http://0.0.0.0
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png",Sport TV 1 
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png",Sport TV 2 
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png",Sport TV 3 
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
+#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="sport_tv_americas.png",Sport Tv Americas
+http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="sport_tv_americas.png",Sport Tv Americas
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8	
+
+#EXTINF:0 group-title="Desporto Internacional", --- Desporto Internacional---
+
+#EXTINF:-1,NbcSn HD
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NbcSn SD
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
