@@ -25,3 +25,29 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,NbcSn SD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,Fox Sports
+http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1,Fox Sports 2
+http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1,Sportv
+http://live-cdn.direct-stream.org:1935/live/_definst_/201020/playlist.m3u8
+#EXTINF:-1,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="silk sport.png",Silk Sport 1
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 tvg-id="" tvg-logo="silk sport.png",Silk Sport 2
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+#EXTINF:-1 tvg-id="" tvg-logo="silk sport.png",Silk Sport 3
+http://80.77.52.6:3719/udp/226.0.0.9:12345
+#EXTINF:-1 tvg-id="" tvg-logo="telekanal_futbol.png",Telekanal
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1,Bein Sport 1
+http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/chunklist.m3u8?wowzasessionid=1124649939
+#EXTINF:-1,Sport Klub 1 HD
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,Sport Klub 2 HD
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,Sport Klub 3 HD
+http://77.76.140.251/prgt.m3u8
