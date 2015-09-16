@@ -84,6 +84,8 @@ http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 http://tv.online.tm/hls/ch004_md/index.m3u8
 #EXTINF:-1,NSport+
 rtmp://178.16.220.163:1935/live/n2sport
+ESPN Brasil
+http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8?JONASIPTV
 
 #EXTINF:0,Спорт
 http://79.133.125.42:8888/udp/239.191.254.80:13343
