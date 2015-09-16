@@ -741,7 +741,9 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
 #EXTINF:-1,TK
-http://www1.nasatv.eu:80/live?channelId=11&uid=49&deviceUser=alena&devicePass=alena
+http://www.nasatv.eu:80/live?channelId=10&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,TL
+http://www.nasatv.eu:80/live?channelId=11&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:-1,Face
 http://www.nasatv.eu:80/live?channelId=21&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:-1,Pink
