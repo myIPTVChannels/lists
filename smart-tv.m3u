@@ -24,6 +24,7 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 #EXTINF:-1, Maritimo TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN HD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN SD
@@ -773,8 +774,4 @@ http://78.37.122.116:8802/hls/CH_C04_AXNSCIFI/playlist.m3u8?version=2&utcstart=1
 #EXTINF:-1,Raxa TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-
-
-#EXTINF:-1,Disney Junior
-http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/806.m3u8
 
