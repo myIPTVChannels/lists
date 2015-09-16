@@ -563,8 +563,6 @@ http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,Twit Tech News
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
-#EXTINF:-1,Nasa TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
@@ -592,7 +590,7 @@ http://149.255.152.70/idman/index.m3u8
 #EXTINF:-1,WGN News Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
-#EXTINF:-1,Aegnt TV
+#EXTINF:-1,Argent TV
 rtmp://cp39414.live.edgefcs.net:1935/live/argent@9751
 #EXTINF:-1,BFMTV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
