@@ -579,6 +579,7 @@ http://tv.ut.cx/musicbox.mp4
 
 #EXTINF:-1,RT Documentaries
 http://rt-lh.akamaihd.net/i/ch_05@325609/index_720p_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1,Mbc Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,Mbc Max
@@ -587,9 +588,8 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,Mbc 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1,Nasa TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1,Mbc Bollywood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1,Canal Rural
 http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8
