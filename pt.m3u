@@ -78,3 +78,8 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
 #EXTINF:-1 group-title="ANIMAÇAO", DISNEY JR
 http://bit.ly/1KdOg1n
+#EXTINF:-1 group-title="ANIMAÇAO", Disney Junior
+http://bit.ly/IPTVGlobal-disneyjr
+#EXTINF:-1 group-title="ANIMAÇAO", Zoomoo
+http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
+
