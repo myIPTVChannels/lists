@@ -283,31 +283,31 @@ http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
 http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1, SAKURA 
+#EXTINF:-1, Sakura
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8 
-#EXTINF:-1, HOT GIRL 
+#EXTINF:-1, Hot Girl 
 http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8 
-#EXTINF:-1, THE O 
+#EXTINF:-1, The O 
 http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8 
-#EXTINF:-1, CINERO 
+#EXTINF:-1, Cinero 
 http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8 
-#EXTINF:-1, OKADAI HD 
+#EXTINF:-1, Okdai HD 
 http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8 
-#EXTINF:-1, PINK TV 
+#EXTINF:-1, Pink TV 
 http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8 
-#EXTINF:-1, GIRLS TV 
+#EXTINF:-1, Girls TV 
 http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8 
-#EXTINF:-1, DELIGHT EMPIRE 
+#EXTINF:-1, Delight Empire 
 http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8 
-#EXTINF:-1, PLUS 
+#EXTINF:-1, Plus
 http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8 
-#EXTINF:-1, OHDEOK 
+#EXTINF:-1, Ohdeok 
 http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8 
-#EXTINF:-1, LIVETHING 
+#EXTINF:-1, Livething 
 http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8 
-#EXTINF:-1, PREMIUM 
+#EXTINF:-1, Premium 
 http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8 
-#EXTINF:-1, ASK TV 
+#EXTINF:-1, Ask TV 
 http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8  
 
 #EXTINF:-1, Adult 4K: VOD1
