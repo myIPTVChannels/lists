@@ -100,11 +100,9 @@ http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
 http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espnbr.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I 
 http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx HD off 14/09
-http://ei.live-ss-cct.stormsec.com.br/live/smil:Evento3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I MAXX SD[COLOR green][I][B] ON [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I MAXX SD
 http://37.203.209.34:443/mobile/flash48/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx2 HD [COLOR green][I][B] ON [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx2 HD 
 http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Fox Sportss" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes Brasileiros",Fox Sports 
 http://37.203.209.34:443/mobile/flash57sd/IPTVGLOBAL.m3u8
@@ -118,7 +116,7 @@ http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-logo="terraesportes.jpg" tvg-logo="http://logos.iptvglobal.com.br/terraesportes.jpg" group-title="Esportes Brasileiros",TERRA ESPORTES 
 http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",TVU Ei
+#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
 #EXTINF:-1,PREMIERE BRASIL
 http://4.31.30.159:9119
