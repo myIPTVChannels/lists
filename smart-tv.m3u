@@ -303,42 +303,42 @@ http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
 http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1, Sakura
+#EXTINF:-1,Sakura
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8 
-#EXTINF:-1, Hot Girl 
+#EXTINF:-1,Hot Girl 
 http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8 
-#EXTINF:-1, The O 
+#EXTINF:-1,The O 
 http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8 
-#EXTINF:-1, Cinero 
+#EXTINF:-1,Cinero 
 http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8 
-#EXTINF:-1, Okdai HD 
+#EXTINF:-1,Okdai HD 
 http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8 
-#EXTINF:-1, Pink TV 
+#EXTINF:-1,Pink TV 
 http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8 
-#EXTINF:-1, Girls TV 
+#EXTINF:-1,Girls TV 
 http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8 
-#EXTINF:-1, Delight Empire 
+#EXTINF:-1,Delight Empire 
 http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8 
-#EXTINF:-1, Plus
+#EXTINF:-1,Plus
 http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8 
-#EXTINF:-1, Ohdeok 
+#EXTINF:-1,Ohdeok 
 http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8 
-#EXTINF:-1, Livething 
+#EXTINF:-1,Livething 
 http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8 
-#EXTINF:-1, Premium 
+#EXTINF:-1,Premium 
 http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8 
-#EXTINF:-1, Ask TV 
+#EXTINF:-1,Ask TV 
 http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:-1, Playy
+#EXTINF:-1,Playy
 http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
 
-#EXTINF:-1, Erotic 1
+#EXTINF:-1,Erotic 1
 http://www.nasatv.eu:80/live?channelId=66&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:-1, Erotic 2
+#EXTINF:-1,Erotic 2
 http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0 group-title="Adult", erotic 3
+#EXTINF:0,Erotic 3
 http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0 group-title="Adult", erotic 4
+#EXTINF:0,Erotic 4
 http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
 
 #EXTINF:-1, Adult 4K: VOD1
