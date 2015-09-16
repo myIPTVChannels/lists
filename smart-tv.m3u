@@ -1,7 +1,5 @@
 #EXTM3U
 
-atualizado 16/09
-
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png",RTP 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
