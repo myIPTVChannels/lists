@@ -424,8 +424,6 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 #EXTINF:-1,Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1,Telemundo
-http://209.133.208.162:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
-#EXTINF:-1,Telemundo
 http://69.46.21.170:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
 #EXTINF:-1,Telemundo
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
