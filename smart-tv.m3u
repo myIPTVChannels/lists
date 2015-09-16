@@ -778,4 +778,18 @@ http://www.nasatv.eu:80/live?channelId=33&uid=49&deviceUser=alena&devicePass=ale
 http://www.nasatv.eu:80/live?channelId=34&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:-1,Pink Hits 2
 http://www.nasatv.eu:80/live?channelId=35&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Koncert
+http://www.nasatv.eu:80/live?channelId=36&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink BH
+http://www.nasatv.eu:80/live?channelId=38&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,BN
+http://www.nasatv.eu:80/live?channelId=39&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,TV1
+http://www.nasatv.eu:80/live?channelId=40&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Eurosport
+http://www.nasatv.eu:80/live?channelId=42&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Eurosport 2
+http://www.nasatv.eu:80/live?channelId=43&uid=49&deviceUser=alena&devicePass=alena
+
+
 
