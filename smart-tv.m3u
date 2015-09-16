@@ -427,8 +427,6 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Canal 7
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Canal 4
-rtmp://159.16.243.10/live/canal4/canal4
 #EXTINF:-1,Ocho Tv
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,multimedios
