@@ -119,8 +119,6 @@ http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
 http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
-#EXTINF:-1, BRASIL sports off 15-09
-http://live-cdn.direct-stream.org:1935/liverepeat/fut1022842/playlist.m3u8
 #EXTINF:-1,PREMIERE BRASIL
 http://4.31.30.159:9119
 #EXTINF:-1, PREMIERE BRASIL
@@ -132,35 +130,35 @@ http://tinyurl.com/oek4eod
 #EXTINF:-1, AD Sports off 15-9
 rtmp://dssxsz-7631.live.kxcdn.com/live//dssxsz-7631
 #EXTINF:-1, ESPN 
-http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8?JONASIPTV
+http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
 #EXTINF:-1, ESPN off 15-9
 rtmp://217.23.12.111/livepkgrr/espnbr
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="Esportes Brasileiros", PFC 24Hrs 
 http://bit.ly/IPTVGlobal-pfc24horas
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 1 | dias de Jogos
-http://62.210.82.241:1935/liverepeat/fut01/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.82.241:1935/liverepeat/fut01/IPTVGLOBAL.m3u8?
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 2 | dias de Jogos
-http://62.210.88.208:1935/liverepeat/fut02/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.88.208:1935/liverepeat/fut02/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC", PFC 3 | dias de Jogos
-http://62.210.88.232:1935/liverepeat/101010/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.88.232:1935/liverepeat/101010/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC", PFC 4 | dias de Jogos
-http://62.210.83.154:1935/liverepeat/101010/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.83.154:1935/liverepeat/101010/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 5 | dias de Jogos
-http://62.210.88.232:1935/liverepeat/fut05/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.88.232:1935/liverepeat/fut05/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 6 | dias de Jogos
-http://62.210.83.154:1935/liverepeat/fut06/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.83.154:1935/liverepeat/fut06/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 7 | dias de Jogos
-http://62.210.88.232:1935/liverepeat/fut07/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.88.232:1935/liverepeat/fut07/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 8 | dias de Jogos
-http://62.210.83.152:1935/liverepeat/201020/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.83.152:1935/liverepeat/201020/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 9 | dias de Jogos
-http://62.210.88.232:1935/liverepeat/fut09/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.88.232:1935/liverepeat/fut09/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 10 | dias de Jogos
-http://62.210.83.154:1935/liverepeat/fut1022842/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.83.154:1935/liverepeat/fut1022842/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 11 | dias de Jogos
-http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 12 | dias de Jogos
-http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8
 
 #EXTINF:-1 tvg-id=,ESPN Deportes
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
