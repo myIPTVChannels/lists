@@ -740,3 +740,13 @@ http://78.37.122.116:8802/hls/CH_C04_AXNSCIFI/playlist.m3u8?version=2&utcstart=1
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
+#EXTINF:-1,TK
+http://www1.nasatv.eu:80/live?channelId=11&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Face
+http://www.nasatv.eu:80/live?channelId=21&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink
+http://www.nasatv.eu:80/live?channelId=22&uid=49&deviceUser=alena&devicePass=alena
+
+
+
+
