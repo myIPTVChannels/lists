@@ -11,30 +11,16 @@ http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv1.png",Sport TV 1 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
-#EXTINF:0,PT: SporTV 1 HD TEMP
-http://bit.ly/1FdW8mO
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv2.png",Sport TV 2 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
-#EXTINF:0,PT: SporTV 2 HD TEMP
-http://bit.ly/1iNjJRo
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv3.png",Sport TV 3 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
-#EXTINF:0,PT: SporTV 3 HD TEMP
-http://bit.ly/1Qg2aUl
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:0,PT: SporTV 4 HD TEMP
-http://bit.ly/1gpssqV
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:0,PT: SporTV 5 HD TEMP
-http://bit.ly/1FdW32t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/maritimotv.jpg",Maritimo TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rmfc.jpg",Real Madrid TV
@@ -154,9 +140,7 @@ http://live-cdn.direct-stream.org:1935/liverepeat/fut01/playlist.m3u8
 #EXTINF:-1, PREMIERE BRASIL
 http://62.210.83.180:1935/liverepeat/fut1123402/playlist.m3u8
 #EXTINF:-1, PREMIERE BRASIL
-http://tinyurl.com/oek4eod 
-#EXTINF:-1, AD Sports off 15-9
-rtmp://dssxsz-7631.live.kxcdn.com/live//dssxsz-7631
+http://live-cdn.direct-stream.org:1935/liverepeat/fut05/playlist.m3u8
 #EXTINF:-1, ESPN 
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
 #EXTINF:-1, ESPN off 15-9
