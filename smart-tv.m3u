@@ -13,13 +13,13 @@ http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%TV%1.png",Sport TV 1 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%TV%2.png",Sport TV 2 
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT TV 2.png",Sport TV 2 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%TV%3.png",Sport TV 3 
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT TV 3.png",Sport TV 3 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%TV%AMERICAS.png",Sport Tv Americas
+#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT TV AMERICAS.png",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%TV%AMERICAS.png",Sport Tv Americas
+#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT TV AMERICAS.png",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 #EXTINF:-1, Maritimo TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
