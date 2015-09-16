@@ -60,7 +60,6 @@ rtmp://31.220.0.86/pull playpath=deportes1114?keys=_7_1D_XTUuHGCMIoIxdpPw&keyt=1
 rtmp://31.220.2.55/pull playpath=deportes2525?keys=CO63AzQ0xTVF4Uv_vwqOVg&keyt=1441420298 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
 
-
 #EXTINF:0 group-title="Plexus", --- PLEXUS Plugin ---
 http://0.0.0.0
 #EXTINF:-1 group-title="PLEXUS", TELEDEPORTE
