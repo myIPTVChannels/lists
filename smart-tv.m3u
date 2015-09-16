@@ -166,8 +166,6 @@ http://lag2.tv-mobile.org/prgd.m3u8
 http://lag2.tv-mobile.org/prgp.m3u8 
 #EXTINF:-1,Filmbox 
 http://lag1.tv-mobile.org/prgw.m3u8
-#EXTINF:-1,FOX 
-http://lag1.tv-mobile.org/prgl.m3u8 
 
 #EXTINF:-1,TVE1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
@@ -405,3 +403,7 @@ http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/
 http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
 #EXTINF:-1,Golspel TV 
 rtmp://188.165.135.22/gospeltv/livestream
+
+#EXTINF:-1,FOX 
+http://lag1.tv-mobile.org/prgl.m3u8
+
