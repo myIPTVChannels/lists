@@ -10,7 +10,7 @@ http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-logo="TVI.png",Tvi
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
-#EXTINF:0, TVI FICCAO
+#EXTINF:0, Tvi Ficcao
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png",Sport TV 1 
@@ -23,7 +23,7 @@ http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="sport_tv_americas.png",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:0 group-title=DESPORTO, MARITIMO TV
+#EXTINF:-1, Maritimo TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 
 #EXTINF:-1,NbcSn HD
@@ -46,7 +46,7 @@ http://80.77.52.6:3719/udp/226.0.0.7:12345
 http://80.77.52.6:3719/udp/226.0.0.8:12345
 #EXTINF:-1 tvg-id="" tvg-logo="silk sport.png",Silk Sport 3
 http://80.77.52.6:3719/udp/226.0.0.9:12345
-#EXTINF:-1 tvg-id="" tvg-logo="telekanal_futbol.png",Telekanal
+#EXTINF:-1 tvg-logo="telekanal_futbol.png",Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
 http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/chunklist.m3u8?wowzasessionid=1124649939
