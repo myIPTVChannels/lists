@@ -343,7 +343,18 @@ http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
 #EXTINF:-1, Premium 
 http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8 
 #EXTINF:-1, Ask TV 
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8  
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+#EXTINF:-1, Playy
+http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
+
+#EXTINF:-1, Erotic 1
+http://www.nasatv.eu:80/live?channelId=66&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1, Erotic 2
+http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0 group-title="Adult", erotic 3
+http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0 group-title="Adult", erotic 4
+http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
 
 #EXTINF:-1, Adult 4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
