@@ -95,11 +95,8 @@ rtmp://178.16.220.163:1935/live/n2sport
 
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
-
 #EXTINF:-1 tvg-id="jonasiptv-ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil 
 http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espnbr.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil off 14/09
-http://bit.ly/IPTVGlobal-espnplus
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I 
 http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx HD off 14/09
@@ -111,13 +108,13 @@ http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Fox Sportss" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes Brasileiros",Fox Sports 
 http://37.203.209.34:443/mobile/flash57sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Fox Sportss" tvg-logo="foxsports2.jpg" tvg-logo="http://logos.iptvglobal.com.br/foxsports2.jpg" group-title="Esportes Brasileiros",Fox Sports 2 
-http://37.203.209.34:443/mobile/flash47sd/IPTVGLOBAL.m3u8
+http://37.203.209.34:443/mobile/flash47sd/IPTVGLOBAL
 #EXTINF:-1 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV
-http://bit.ly/IPTVGlobal-sportv
+http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-SporTV2" tvg-logo="sportv2.png" tvg-logo="http://logos.iptvglobal.com.br/sportv2.png" group-title="Esportes Brasileiros",SPORTV 2 
-http://bit.ly/IPTVGlobal-sportv2
+http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-SporTV 3s" tvg-logo="sportv3.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 
-http://bit.ly/IPTVGlobal-sportv3
+http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-logo="terraesportes.jpg" tvg-logo="http://logos.iptvglobal.com.br/terraesportes.jpg" group-title="Esportes Brasileiros",TERRA ESPORTES 
 http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",TVU Ei
