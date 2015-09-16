@@ -746,6 +746,9 @@ http://www.nasatv.eu:80/live?channelId=10&uid=49&deviceUser=alena&devicePass=ale
 http://www.nasatv.eu:80/live?channelId=11&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:-1,PTC 1
 http://www.nasatv.eu:80/live?channelId=12&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,PTC 2
+http://www.nasatv.eu:80/live?channelId=13&uid=49&deviceUser=alena&devicePass=alena
+
 #EXTINF:-1,Face
 http://www.nasatv.eu:80/live?channelId=21&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:-1,Pink
