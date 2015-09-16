@@ -35,10 +35,6 @@ http://213.13.26.7:1936/live/_definst_/sicnoticias/chunklist_w656214511.m3u8
 #EXTINF:-1 group-title="NOTICIAS", SIC NOTICIAS
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
 
-#EXTINF:-1, SIC KIDS - OFF 14/09
-http://84.74.247.12:8001/1:0:1:7f:65:53:ce40000:0:0:0:
-#EXTINF:-1, SIC RADICAL - OFF 14/09
-http://84.74.247.12:8001/1:0:1:516:67:53:CE40000:0:0:0:
 
 #EXTINF:-1 group-title="TDT", TVI
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
