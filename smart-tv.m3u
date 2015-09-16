@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png",Rtp 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201",Rtp 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png",Rtp 2
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
