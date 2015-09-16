@@ -36,6 +36,8 @@ http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Fo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1,Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_2.m3u8
+#EXTINF:-1,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="silk sport.png",Silk Sport 1
 http://80.77.52.6:3719/udp/226.0.0.7:12345
 #EXTINF:-1 tvg-id="" tvg-logo="silk sport.png",Silk Sport 2
