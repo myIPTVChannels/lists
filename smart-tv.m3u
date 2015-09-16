@@ -210,8 +210,6 @@ http://media3.crtvg.es/live/tvge/playlist.m3u8
 http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8
 #EXTINF:-1,Tele Bilbao 
 rtmp://178.32.53.254/telebilbao/livestream 
-#EXTINF:-1,TeleMadrid
-rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1
 #EXTINF:-1,Mega
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 #EXTINF:-1,Levante TV
