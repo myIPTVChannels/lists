@@ -695,18 +695,6 @@ rtmp://46.4.25.213:1935/live-ann7/ann7-mid.stream
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
 
 
-#EXTINF:-1,Cinemax
-http://telemost-bg.com/include/channelStream.php?channel=19
-#EXTINF:-1,HBO Comedy
-http://telemost-bg.com/include/channelStream.php?channel=28
-#EXTINF:-1,Animal Planet
-http://telemost-bg.com/include/channelStream.php?channel=32
-#EXTINF:-1,HBO
-http://telemost-bg.com/include/channelStream.php?channel=80
-#EXTINF:-1,History Channel 
-http://telemost-bg.com/include/channelStream.php?channel=82
-
-
 #EXTINF:-1,RT
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1,Poccnr 24
@@ -722,8 +710,6 @@ http://91.202.207.166:1234/udp/239.1.10.10:1234
 #EXTINF:-1,D
 http://188.128.118.189:4014
 #EXTINF:-1,Optimistic Channel
-http://hls.cn.ru/streaming/rain/16/tvrec/playlist.m3u8 
-#EXTINF:-1,Optimistic Channel
 http://212.19.7.91:8888/udp/239.191.254.14:13343
 #EXTINF:-1,V Doctok
 rtmp://37.187.27.118/live/livestream3
@@ -735,36 +721,8 @@ http://217.65.91.55/hls/CH_R01_MOYGOROD/variant.m3u8?version=2
 http://fe-sib.svc.iptv.rt.ru/hls/CH_R01_KATUN24/variant.m3u8?version=2
 #EXTINF:-1,Anct
 http://217.65.91.55/hls/CH_R01_AIST/variant.m3u8?version=2
-#EXTINF:-1,Rus
-http://212.19.7.91:8888/udp/239.191.254.2:13343
-#EXTINF:-1,Pbk
-http://212.19.7.91:8888/udp/239.191.254.3:13343
-#EXTINF:-1,Rus Kids
-http://212.19.7.91:8888/udp/239.191.254.4:13343
-#EXTINF:-1,Tpo
-http://212.19.7.91:8888/udp/239.191.254.5:13343
-#EXTINF:-1,Russian Extreme
-http://212.19.7.91:8888/udp/239.191.254.6:13343
-#EXTINF:-1,24Doc
-http://212.19.7.91:8888/udp/239.191.254.7:13343
-#EXTINF:0 audio-track="eng",TV1000
-http://212.19.7.91:8888/udp/239.191.254.8:13343
 #EXTINF:-1 audio-track="eng",Nat Geo Wild
 http://91.202.207.166:1234/udp/239.1.11.27:1234
-#EXTINF:0 audio-track="eng",Viasat Explore
-http://212.19.7.91:8888/udp/239.191.254.9:13343
-#EXTINF:0 audio-track="eng",Viasat History
-http://212.19.7.91:8888/udp/239.191.254.10:13343
-#EXTINF:0 audio-track="eng",Viasat Sport
-http://212.19.7.91:8888/udp/239.191.254.11:13343
-#EXTINF:0 audio-track="eng",TV1000
-http://212.19.7.91:8888/udp/239.191.254.12:13343
-#EXTINF:-1,TLC
-http://212.19.7.91:8888/udp/239.191.254.74:13343
-#EXTINF:-1,Mynbt
-http://212.19.7.91:8888/udp/239.191.254.75:13343
-#EXTINF:0 audio-track="eng",Viasat Nature
-http://212.19.7.91:8888/udp/239.191.254.79:13343
 #EXTINF:-1,Ctc
 http://79.165.95.225:81/udp/239.255.2.7:1234
 #EXTINF:-1,FOX 
