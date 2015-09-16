@@ -37,7 +37,7 @@ http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Fo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.png",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_2.m3u8
-#EXTINF:-1,Win Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.png",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="silk sport.png",Silk Sport 1
 http://80.77.52.6:3719/udp/226.0.0.7:12345
@@ -94,29 +94,23 @@ rtmp://178.16.220.163:1935/live/n2sport
 
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
-<<<<<<< HEAD
-#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasill" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil 
+
+#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil 
 http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espnbr.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasill" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil off 14/09
-http://bit.ly/IPTVGlobal-espnbrasil
-#EXTINF:-1 tvg-id="jonasiptv-ESPNHD" tvg-logo="espnhd.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnhd.jpg" group-title="Esportes Brasileiros",ESPN+
+#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil off 14/09
 http://bit.ly/IPTVGlobal-espnplus
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I HD off 14/09
-http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eitv720.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I 
-http://bit.ly/IPTVGlobal-ei
+http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx HD off 14/09
 http://ei.live-ss-cct.stormsec.com.br/live/smil:Evento3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I MAXX SD[COLOR green][I][B] ON [/B][/I][/COLOR]
-http://bit.ly/IPTVGlobal-eimaxx
+http://37.203.209.34:443/mobile/flash48/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx2 HD [COLOR green][I][B] ON [/B][/I][/COLOR]
 http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Fox Sportss" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes Brasileiros",Fox Sports 
-http://bit.ly/IPTVGlobal-foxsports
+http://37.203.209.34:443/mobile/flash57sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Fox Sportss" tvg-logo="foxsports2.jpg" tvg-logo="http://logos.iptvglobal.com.br/foxsports2.jpg" group-title="Esportes Brasileiros",Fox Sports 2 
-http://bit.ly/IPTVGlobal-foxsports2
-#EXTINF:-1 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV 
-http://62.210.83.152:1935/liverepeat/201020/IPTVGLOBAL.m3u8?JONASIPTV
+http://37.203.209.34:443/mobile/flash47sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV
 http://bit.ly/IPTVGlobal-sportv
 #EXTINF:-1 tvg-id="jonasiptv-SporTV2" tvg-logo="sportv2.png" tvg-logo="http://logos.iptvglobal.com.br/sportv2.png" group-title="Esportes Brasileiros",SPORTV 2 
@@ -169,8 +163,6 @@ http://62.210.83.154:1935/liverepeat/fut1022842/IPTVGLOBAL.m3u8?JONASIPTV
 http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8?JONASIPTV
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 12 | dias de Jogos
 http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
-=======
->>>>>>> parent of b24dec2... Update smart-tv.m3u
 
 #EXTINF:-1 tvg-id=,ESPN Deportes
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
