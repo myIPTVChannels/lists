@@ -66,8 +66,12 @@ http://193.194.107.10:4022/udp/225.1.3.102:4001
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 #EXTINF:-1,CDN Sports Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,CDN Sports Max
+http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w959294862.m3u8
 #EXTINF:-1,NCDN
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1,NCDN
+http://108.168.206.90:1935/cdn/cdn/chunklist_w24236728.m3u8
 #EXTINF:-1,Tyc Sports
 http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Bein Sports 1
@@ -739,8 +743,12 @@ http://212.19.7.91:8888/udp/239.191.254.79:13343
 http://79.165.95.225:81/udp/239.255.2.7:1234
 #EXTINF:-1,FOX 
 http://lag1.tv-mobile.org/prgl.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://78.37.122.116:8802/hls/CH_C04_AXNSCIFI/playlist.m3u8?version=2&utcstart=1442366338.2875295
 #EXTINF:-1,Raxa TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+
 
 #EXTINF:-1,Disney Junior
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/806.m3u8
