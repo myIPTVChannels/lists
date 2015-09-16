@@ -283,7 +283,55 @@ http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
 http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1, SAKURA 
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8 
+#EXTINF:-1, HOT GIRL 
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8 
+#EXTINF:-1, THE O 
+http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8 
+#EXTINF:-1, CINERO 
+http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8 
+#EXTINF:-1, OKADAI HD 
+http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8 
+#EXTINF:-1, PINK TV 
+http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8 
+#EXTINF:-1, GIRLS TV 
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8 
+#EXTINF:-1, DELIGHT EMPIRE 
+http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8 
+#EXTINF:-1, PLUS 
+http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8 
+#EXTINF:-1, OHDEOK 
+http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8 
+#EXTINF:-1, LIVETHING 
+http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8 
+#EXTINF:-1, PREMIUM 
+http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8 
+#EXTINF:-1, ASK TV 
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8  
 
+#EXTINF:-1, Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
 
 #EXTINF:-1,Musica
 http://pvr.tvip.ga/9001.m3u8
