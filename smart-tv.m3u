@@ -59,7 +59,8 @@ http://193.194.107.10:4022/udp/225.1.3.101:4001
 #EXTINF:-1,Viasat Sport
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 
-
+#EXTINF:0,Спорт
+http://79.133.125.42:8888/udp/239.191.254.80:13343
 #EXTINF:0,Футбол 1
 http://193.194.107.10:4022/udp/225.1.3.103:4001
 #EXTINF:0,Футбол 2
@@ -90,8 +91,6 @@ rtmp://178.16.220.163:1935/live/n2sport
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
 
-#EXTINF:0,Спорт
-http://79.133.125.42:8888/udp/239.191.254.80:13343
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:0,НТВ+ Спорт Плюс
