@@ -101,6 +101,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
+
+
 #EXTINF:-1,HD Fashion
 rtmp://95.67.8.43:1935/live/fashionhd
 
@@ -140,8 +142,6 @@ http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
 http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
 #EXTINF:-1,Asian Porn 3
 http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
-#EXTINF:-1,Bella Club Luz
-http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
