@@ -158,3 +158,128 @@ http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
+
+#EXTINF:-1,Musica
+http://pvr.tvip.ga/9001.m3u8
+#EXTINF:-1,One
+http://rtmp.one.by:2300
+#EXTINF:-1,Vox Tv
+rtmp://stream.smcloud.net:1935/live2/vox/vox_720p
+#EXTINF:-1,M6 Music
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1,City
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1,1 Hd
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1,1 Hd
+rtmp://109.239.142.62:1935/live/livestream3
+#EXTINF:-1,Capital Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Heart Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Vevo 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Vevo 1
+http://pvr.tvip.ga/9001.m3u8
+#EXTINF:-1,Vevo 1
+http://pvr.tvip.ga/9002.m3u8
+#EXTINF:-1,Vevo 2
+http://pvr.tvip.ga/9003.m3u8
+#EXTINF:-1,Vevo 2
+http://pvr.tvip.ga/9004.m3u8
+#EXTINF:-1,Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Vevo 3
+http://pvr.tvip.ga/9005.m3u8
+#EXTINF:-1,Vevo 3
+http://pvr.tvip.ga/9006.m3u8
+#EXTINF:-1 audio-track="eng",Bridge TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
+#EXTINF:-1,Eska Tv
+http://stream.smcloud.net/live/eskatv/aylist.m3u8
+#EXTINF:-1,Eska Best Music Hd
+http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+#EXTINF:-1,Eska Best Music
+rtmp://stream.smcloud.net:1935/live2/best/best_720p
+#EXTINF:-1,Eska Vox Hd
+http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
+#EXTINF:-1,Eska Rock Tv
+rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,Telemusica
+http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+#EXTINF:-1,VM Music
+http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Planet POP
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,AKA Hip Hop
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Djing HD
+http://www.djing.com/tv/h-05.m3u8
+#EXTINF:-1,Djing Dancefloor HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1,Djing Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1,Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1,Djing DJS
+http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
+#EXTINF:-1,Kiss TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:-1,Virgin TV 1
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+#EXTINF:-1,Virgin TV 2
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:-1,Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:-1,M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Zoom Music TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_150.sdp/playlist.m3u8
+#EXTINF:-1,Gold TV
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:-1,Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1,Music India
+http://hlshinextra-lh.akamaihd.net/i/ams4_musicind@124573/index_1100_av.m3u8?e=e745d0932c6d36ab&hdnea=ip=124.197.50.67~st=1427274120~exp=1427274420~acl=*~data=0~hmac=ccb65cdb812846dfd3c6cd7e6d6c8611702b8dc8ff5a1f5443399810f625a359&attributes=off
+#EXTINF:-1,TV Polanco
+http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
+#EXTINF:-1,For Music TV
+http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
+#EXTINF:-1,Polo Party TV
+rtmp://stream.smcloud.net:1935/live2/polo_party/polo_party_720p
+#EXTINF:-1,Polo Party Polska
+http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
+#EXTINF:-1,Radio 5 TV
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:-1,b4U Music
+http://46.249.213.87/iPhone/HLS_TS/broadcast/befouryoumusic-tablet.3gp/befouryoumusic-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,Ven FM TV
+http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
+#EXTINF:-1,Soy FM TV
+http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Cool Radio Music Videos
+http://cdn6.iviplanet.com:1935/AVRA/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Dream TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1,Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1,Ultrafiesta
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+#EXTINF:-1,Amazing TV
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,Mezzo
+http://188.93.94.46:80/mezzo/index.m3u8
+#EXTINF:-1,Musica Israel
+http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
+#EXTINF:-1,Zik
+http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
+#EXTINF:-1,Golspel TV 
+rtmp://188.165.135.22/gospeltv/livestream
