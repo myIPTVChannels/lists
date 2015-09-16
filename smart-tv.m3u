@@ -404,6 +404,75 @@ http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
 #EXTINF:-1,Golspel TV 
 rtmp://188.165.135.22/gospeltv/livestream
 
+#EXTINF:-1,Univision
+http://209.133.208.202:1935/app/turbomax-hds-channel/playlist.m3u8
+#EXTINF:-1,Gala Tv
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+#EXTINF:-1,Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1,Azteca Trece 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
+#EXTINF:-1,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:-1,Telemundo
+http://209.133.208.162:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://69.46.21.170:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,Canal 7
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1,Canal 4
+rtmp://159.16.243.10/live/canal4/canal4
+#EXTINF:-1,Ocho Tv
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,multimedios
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+#EXTINF:-1,Azteca Noticias 
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Canal 2 Los Mochis Mexico
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
+#EXTINF:-1,Canal 2 Obregon Mexico
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
+#EXTINF:-1,Cinemax
+http://201.161.59.7/cinemax.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,Canal Once
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Tele Caribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/playlist_b750000.m3u8
+#EXTINF:-1,Mega
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1,Tvn
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+
+#EXTINF:-1,America TV
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1,Andina TV
+http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+#EXTINF:-1,TVP Ar
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8
+#EXTINF:-1,TVP Ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:0,TVP 1
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,Canal 2
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:-1,Canal 4
+rtmp://streaming.wirenetserver.com.ar:1935/canal4/live_1
+#EXTINF:-1,Canal 9
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+
+
 #EXTINF:-1,FOX 
 http://lag1.tv-mobile.org/prgl.m3u8
 
