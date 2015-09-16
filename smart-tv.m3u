@@ -21,7 +21,7 @@ http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.png",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1, Maritimo TV
+#EXTINF:-1, Maritimo TV%20TV%20
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 
 #EXTINF:-1,NbcSn HD
