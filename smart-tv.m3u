@@ -527,6 +527,8 @@ rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
 rtmp://streaming.wirenetserver.com.ar:1935/canal4/live_1
 #EXTINF:-1,Canal 9
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+#EXTINF:-1,Tiva Tv
+http://fl729845.live.cdn.frontlayer.net/fl729845/live/media_16362.m3u8
 
 #EXTINF:0,SVT1 HD
 http://188.138.9.228:8001
