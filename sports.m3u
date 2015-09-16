@@ -127,20 +127,14 @@ http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:14, BEIN SPORTS 2 transmite alguns jogos liga portuguesa
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
 
-#EXTINF:0,beIN 1 HD - OFF 14/09
+#EXTINF:0,beIN 1 HD
 http://178.33.88.129:888/udp/239.102.0.20:1234
 #EXTINF:-1,FR_BEIN 2 HD
 http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:-1 group-title="DESPORTO_INTERNACIONAL", FOX MOTOR SPORT - OFF 14/09
+#EXTINF:-1 group-title="DESPORTO_INTERNACIONAL", FOX MOTOR SPORT
 http://motorsport.hopto.org:8080/
 #EXTINF:-1 group-title="DESPORTO_INTERNACIONAL", EUROSPORT 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,EUROSPORT - OFF 14/09
-http://82.135.224.134:88/udp/239.255.1.186:1234
-#EXTINF:-1,EUROSPORT 2 - OFF 14/09
-http://82.135.224.134:88/udp/239.255.1.183:1234
-#EXTINF:0,D+ CANAL LIGA HD
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/937.ts
 #EXTINF:-1,Sport1 Select NL
 http://iptv.bot.nu:8000/live/test380/12345/178.m3u8
 #EXTINF:-1,Sport1 golf NL
@@ -328,17 +322,13 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1,Sports TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?husham.com
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,Rai Premium
 mmsh://212.162.68.162/rai_premium
 #EXTINF:-1,Rai Scuola
 mmsh://212.162.68.163:80/rai_scuola
 #EXTINF:-1,Rai Storia
 mmsh://212.162.68.163/rai_storia
-#EXTINF:-1,Sky Sport Calcio 
-http://bstream.dyndns.org:8000/live/andrededo/zanghetta06/46.ts
-#EXTINF:-1,Sky Sport 24 HD 
-http://bstream.dyndns.org:8000/live/andrededo/zanghetta06/124.ts
 #EXTINF:-1,Anistorpic
 http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1,Berita Satu Sport HD [COLOR red]link_down[/COLOR]
@@ -363,8 +353,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
 #EXTINF:-1,Kanal Sports HD (720 ) [COLOR red]link_down[/COLOR]
 http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?husham.com
-#EXTINF:-1,Antena 3 Sports 720 HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?husham.com
 #EXTINF:-1,IRAK Iraqiya Sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 #EXTINF:-1,ARABIC-BAHRAIN SPORTS
