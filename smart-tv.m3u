@@ -756,7 +756,26 @@ http://www.nasatv.eu:80/live?channelId=15&uid=49&deviceUser=alena&devicePass=ale
 http://www.nasatv.eu:80/live?channelId=21&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:-1,Pink
 http://www.nasatv.eu:80/live?channelId=22&uid=49&deviceUser=alena&devicePass=alena
-
-
-
+#EXTINF:-1,Pink 2
+http://www.nasatv.eu:80/live?channelId=23&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Info 3
+http://www.nasatv.eu:80/live?channelId=24&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Thriller
+http://www.nasatv.eu:80/live?channelId=25&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Crime & Mistery
+http://www.nasatv.eu:80/live?channelId=26&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Romance
+http://www.nasatv.eu:80/live?channelId=27&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://www.nasatv.eu:80/live?channelId=28&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Plus
+http://www.nasatv.eu:80/live?channelId=29&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Horror
+http://www.nasatv.eu:80/live?channelId=31&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Pedia
+http://www.nasatv.eu:80/live?channelId=33&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Reality
+http://www.nasatv.eu:80/live?channelId=34&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:-1,Pink Hits 2
+http://www.nasatv.eu:80/live?channelId=35&uid=49&deviceUser=alena&devicePass=alena
 
