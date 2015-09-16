@@ -619,51 +619,7 @@ http://telemost-bg.com/include/channelStream.php?channel=80
 #EXTINF:-1,History Channel 
 http://telemost-bg.com/include/channelStream.php?channel=82
 
-#EXTINF:-1,TV+ Bulgaria
-http://telemost-bg.com/include/channelStream.php?channel=18
-#EXTINF:-1,Nova
-http://telemost-bg.com/include/channelStream.php?channel=20
-#EXTINF:-1,1 bHit
-http://telemost-bg.com/include/channelStream.php?channel=21
-#EXTINF:-1,Musica Bulgaria
-http://telemost-bg.com/include/channelStream.php?channel=22
-#EXTINF:-1,Diema
-http://telemost-bg.com/include/channelStream.php?channel=23
-#EXTINF:-1,Desporto Bulgaria
-http://telemost-bg.com/include/channelStream.php?channel=24
-#EXTINF:-1,The Voice
-http://telemost-bg.com/include/channelStream.php?channel=25
-#EXTINF:-1,7 TV
-http://telemost-bg.com/include/channelStream.php?channel=26
-#EXTINF:-1,Discovery Channel
-http://telemost-bg.com/include/channelStream.php?channel=61
-#EXTINF:-1,Discovery Channel Bulgaro
-http://telemost-bg.com/include/channelStream.php?channel=65
-#EXTINF:-1,Fox Life Bulgaro
-http://telemost-bg.com/include/channelStream.php?channel=66
-#EXTINF:-1,National Geographic Bulgaro
-http://telemost-bg.com/include/channelStream.php?channel=67
-#EXTINF:-1,Ring
-http://telemost-bg.com/include/channelStream.php?channel=69
-#EXTINF:-1,b Action
-http://telemost-bg.com/include/channelStream.php?channel=71
-#EXTINF:-1,Btv Bulgaria
-http://telemost-bg.com/include/channelStream.php?channel=73
-#EXTINF:-1,Cartoon Network Bulgaria
-http://telemost-bg.com/include/channelStream.php?channel=74
-#EXTINF:-1,Kino Nova
-http://telemost-bg.com/include/channelStream.php?channel=81
-#EXTINF:-1,Diema Family
-http://telemost-bg.com/include/channelStream.php?channel=85
-#EXTINF:-1,Euro Sport 2
-http://telemost-bg.com/include/channelStream.php?channel=90
-#EXTINF:-1,F+
-http://telemost-bg.com/include/channelStream.php?channel=103
-#EXTINF:-1,Diema Sport
-http://telemost-bg.com/include/channelStream.php?channel=106
 
-#EXTINF:-1,Russian Musicbox
-http://hls.cn.ru/streaming/musboxru/16/tvrec/playlist.m3u8
 #EXTINF:-1,RT
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1,Poccnr 24
