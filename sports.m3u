@@ -18,8 +18,6 @@ http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
 #EXTINF:-1 group-title="Portugal", SPORT TV 1
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
-#EXTINF:-1 group-title="Portugal", SPORT TV 1
-rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
 #EXTINF:-1 group-title="Portugal", SPORT TV 2
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
 #EXTINF:-1 group-title="Portugal", SPORT TV 2
@@ -44,6 +42,15 @@ rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV Americas" tvg-logo="SPORT TV AMERICAS.png" group-title="Portugal", SPORT TV AMÉRICAS SD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL + FUTBOL HD [/COLOR][COLOR red] ON [/COLOR]
+rtmp://31.220.0.86/pull/ playpath=futbol932?keys=bcQUJRxnQxW4mBFcrJglIg&keyt;=1439955034 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/ conn=S:OK timeout=15
+#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL+ (esp) [/COLOR][COLOR red] ON [/COLOR]
+rtmp://31.220.0.204/pull/ playpath=liga932?keys=PR3n5MEvDYWSAA8Eu7ktMw&keyt=1440872660 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/ conn=S:OK timeout=15
+#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL + DEPORTES (esp) [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://31.220.0.86/pull playpath=deportes1114?keys=_7_1D_XTUuHGCMIoIxdpPw&keyt=1441419796 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL + DEPORTES 2 (esp) [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://31.220.2.55/pull playpath=deportes2525?keys=CO63AzQ0xTVF4Uv_vwqOVg&keyt=1441420298 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+
 
 
 #EXTINF:0 group-title="Plexus", --- PLEXUS Plugin ---
