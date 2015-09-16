@@ -26,10 +26,6 @@ http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rmfc.jpg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 43d7e8a595da01a32a8cce865f9ac5cb49aed961
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN HD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN SD
@@ -99,12 +95,8 @@ rtmp://178.16.220.163:1935/live/n2sport
 
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
-<<<<<<< HEAD
-<<<<<<< HEAD
-#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasill" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil 
-=======
-#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil 
->>>>>>> 43d7e8a595da01a32a8cce865f9ac5cb49aed961
+
+#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil
 http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espnbr.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I 
 http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
@@ -167,13 +159,7 @@ http://62.210.83.154:1935/liverepeat/fut1022842/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 11 | dias de Jogos
 http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 12 | dias de Jogos
-<<<<<<< HEAD
 http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
-=======
->>>>>>> parent of b24dec2... Update smart-tv.m3u
-=======
-http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8
->>>>>>> 43d7e8a595da01a32a8cce865f9ac5cb49aed961
 
 #EXTINF:-1 tvg-id=,ESPN Deportes
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
@@ -250,15 +236,6 @@ mms://100automoto.tv/channel_mercedes
 mms://100automoto.tv/channel_porsche
 #EXTINF:-1,Motorsport 1
 http://motorsport.hopto.org:8081/
-
-#EXTINF:-1 , Arena Sport 1
-http://www.nasatv.eu:80/live?channelId=16&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:-1 , Arena Sport 2
-http://www.nasatv.eu:80/live?channelId=17&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:-1 , Arena Sport 3
-http://www.nasatv.eu:80/live?channelId=18&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:-1 , Arena Sport 4
-http://www.nasatv.eu:80/live?channelId=19&uid=49&deviceUser=alena&devicePass=alena
 
 
 #EXTINF:-1 audio-track="eng",Nickelodeon
@@ -420,14 +397,6 @@ http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
 #EXTINF:-1,Playy
 http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
 
-#EXTINF:-1,Erotic 1
-http://www.nasatv.eu:80/live?channelId=66&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:-1,Erotic 2
-http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0,Erotic 3
-http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0,Erotic 4
-http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
 
 #EXTINF:-1, Adult 4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
