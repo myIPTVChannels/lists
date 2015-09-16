@@ -25,13 +25,13 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN HD off 16/09
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN HD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN SD off 16/09
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN SD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sport.png",Fox Sports off 16/09
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sport.png",Fox Sports
 http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sports%202.png",Fox Sports 2 off 16/09
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sports%202.png",Fox Sports 2
 http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.png",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
@@ -89,22 +89,12 @@ http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 #EXTINF:-1,Turmen Sports
 http://tv.online.tm/hls/ch004_md/index.m3u8
-#EXTINF:-1,NSport+ off 16/09 
+#EXTINF:-1,NSport+
 rtmp://178.16.220.163:1935/live/n2sport
 
-
-
-#EXTINF:-1, Desporto Brasil
-http://0.0.0.1234
-
-#EXTINF:-1 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes Brasileiros",Canal Combate off 15/09
-http://bit.ly/IPTVGlobal-combate
-#EXTINF:-1 tvg-id=,ESPN Deportes
-http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-ESPNn" tvg-logo="ESPN.jpg" tvg-logo="http://logos.iptvglobal.com.br/ESPN.jpg" group-title="Esportes Brasileiros",ESPN
-http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="jonasiptv-ESPN Brasill" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil 
 http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espnbr.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-ESPN Brasill" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil off 14/09
@@ -179,7 +169,11 @@ http://62.210.83.154:1935/liverepeat/fut1022842/IPTVGLOBAL.m3u8?JONASIPTV
 http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8?JONASIPTV
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 12 | dias de Jogos
 http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
+=======
+>>>>>>> parent of b24dec2... Update smart-tv.m3u
 
+#EXTINF:-1 tvg-id=,ESPN Deportes
+http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 
 #EXTINF:0,Slovak Sport 1
 rtmp://195.168.51.178/live/ss1HD
