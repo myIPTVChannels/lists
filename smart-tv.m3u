@@ -170,16 +170,6 @@ rtmp://195.168.51.178/live/ss2hd
 #EXTINF:-1,BT Sport/ESPN HD
 rtmp://secure.hdcast.org/justforvip/llive1
 
-#EXTINF:-1,Ntv Spor
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1,Trt Spor
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1,Ad 1 Sports
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1,Ad 3 Sports
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-#EXTINF:-1,Dubai Sports 3
-http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
 #EXTINF:-1,IRAK Iraqiya Sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 #EXTINF:-1,Sports Night
