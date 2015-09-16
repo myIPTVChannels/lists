@@ -104,6 +104,67 @@ rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f
 http://lag1.tv-mobile.org/prgr.m3u8 
 #EXTINF:-1,diema sport 2
 http://lag1.tv-mobile.org/prgt.m3u8
+#EXTINF:-1,Pac 12
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,Pac 12 Arizona
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,Pac 12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,Pac 12 Washingtons
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1,NFL Network
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:-1,Nbc Sports Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,Sport Time TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1,Sport Time TV 2
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1,Sport Time TV 3
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200	
+#EXTINF:-1,Sport Time TV 4
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200	
+#EXTINF:-1,Sport Time TV 5
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200	
+#EXTINF:-1,Sport Time TV 6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200		
+#EXTINF:-1,Sport Time TV 7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200	
+#EXTINF:-1,100 Live Sport
+mms://100automoto.tv/100livesport
+#EXTINF:-1,Bmw
+mms://100automoto.tv/bmw
+#EXTINF:-1,Electric
+mms://100automoto.tv/channel_electric
+#EXTINF:-1,Italy
+mms://100automoto.tv/channel_italy
+#EXTINF:-1,Mercedes
+mms://100automoto.tv/channel_mercedes
+#EXTINF:-1,Porsche
+mms://100automoto.tv/channel_porsche
+#EXTINF:-1,Motorsport 1
+http://motorsport.hopto.org:8081/
+#EXTINF:-1,Kazsport
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1,Telepacifico
+http://cdns840stu1010.multistream.net/telepacificolive/amlst:playback1/playlist.m3u8
+
+#EXTINF:-1 audio-track="eng",Nickelodeon
+http://201.161.59.6/nick.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 audio-track="eng",Nickelodeon
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1 audio-track="eng",Nickelodeon
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
+#EXTINF:-1 audio-track="eng",Nick Jr.
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
+#EXTINF:-1 audio-track="eng",Cartoon Network
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
 
 #EXTINF:-1,Cinemax 
 http://lag2.tv-mobile.org/prgb.m3u8 
@@ -115,6 +176,75 @@ http://lag2.tv-mobile.org/prgp.m3u8
 http://lag1.tv-mobile.org/prgw.m3u8
 #EXTINF:-1,FOX 
 http://lag1.tv-mobile.org/prgl.m3u8 
+
+#EXTINF:-1,TVE1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TVE1
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:-1,TVE2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TVE2
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1,TDP
+http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TDP
+http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+#EXTINF:-1,TVE 24hs
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TVE 24hs
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+#EXTINF:-1,Travel TVE
+rtmp://87.106.219.140:1935/live/myStream_2
+#EXTINF:-1,Telecinco
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
+#EXTINF:-1,Telecinco
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1,Antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LaSexta
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LaSexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,LaSexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TVG Galicia
+http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
+#EXTINF:-1,TVG America
+http://media3.crtvg.es/live/tvga/playlist.m3u8
+#EXTINF:-1,TVG Europa
+http://media3.crtvg.es/live/tvge/playlist.m3u8
+#EXTINF:-1,TeleB
+http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8
+#EXTINF:-1,Tele Bilbao 
+rtmp://178.32.53.254/telebilbao/livestream 
+#EXTINF:-1,TeleMadrid
+rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,Levante TV
+rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+#EXTINF:1,Mediterranea TV
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,Extremadura Tv
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,Castilla La Mancha
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1,Castilla La Mancha
+http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
+#EXTINF:-1,Tv Miami Life
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1,ETB
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1,ElCorreoTV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,RTVB 
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8 
+#EXTINF:-1,TV4 
+http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8 
 
 #EXTINF:-1,HD Fashion
 rtmp://95.67.8.43:1935/live/fashionhd
