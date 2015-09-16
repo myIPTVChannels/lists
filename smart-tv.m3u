@@ -152,8 +152,6 @@ mms://100automoto.tv/channel_porsche
 http://motorsport.hopto.org:8081/
 #EXTINF:-1,Kazsport
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-#EXTINF:-1,Telepacifico
-http://cdns840stu1010.multistream.net/telepacificolive/amlst:playback1/playlist.m3u8
 
 #EXTINF:-1 audio-track="eng",Nickelodeon
 http://201.161.59.6/nick.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
