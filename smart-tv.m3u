@@ -13,14 +13,20 @@ http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv1.png",Sport TV 1 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
+#EXTINF:0,PT: SporTV 1 HD
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SportTV_One/SportTV_One.sdp
 #EXTINF:0,PT: SporTV 1 HD TEMP
 http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/3221.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv2.png",Sport TV 2 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
+#EXTINF:0,PT: SporTV 2 HD
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV2/SPORTTV2.sdp
 #EXTINF:0,PT: SporTV 2 HD TEMP
 http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/3222.ts
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv3.png",Sport TV 3 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
+#EXTINF:0,PT: SporTV 3 HD
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
 #EXTINF:0,PT: SporTV 3 HD TEMP
 http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/3223.ts
 #EXTINF:0,PT: SporTV 4 HD TEMP
