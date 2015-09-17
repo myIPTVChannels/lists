@@ -763,6 +763,72 @@ http://lag1.tv-mobile.org/prgl.m3u8
 http://78.37.122.116:8802/hls/CH_C04_AXNSCIFI/playlist.m3u8?version=2&utcstart=1442366338.2875295
 #EXTINF:-1,Raxa TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,Prosveshenie
+http://188.93.94.46:80/prosveshenie/index.m3u8
+#EXTINF:-1,Kinoplus
+http://188.93.94.46:80/kinoplus/index.m3u8
+#EXTINF:-1,Nashanovoekino
+http://188.93.94.46:80/nashanovoekino/index.m3u8
+#EXTINF:-1,Kinoclub
+http://188.93.94.46:80/kinoclub/index.m3u8
+#EXTINF:-1,Kinosoyuz
+http://188.93.94.46:80/kinosoyuz/index.m3u8
+#EXTINF:-1,Ntvkinohit
+http://188.93.94.46:80/ntvkinohit/index.m3u8
+#EXTINF:-1,Ntvpremiera
+http://188.93.94.46:80/ntvpremiera/index.m3u8
+#EXTINF:-1,Ctctv
+http://188.93.94.46:80/ctctv/index.m3u8
+#EXTINF:-1,Perec
+http://188.93.94.46:80/perec/index.m3u8
+#EXTINF:-1,Tnttv
+http://188.93.94.46:80/tnttv/index.m3u8
+#EXTINF:-1,Tnt Comedy
+http://188.93.94.46:80/tntcomedy/index.m3u8
+#EXTINF:-1,Liaminortv
+http://188.93.94.46:80/liaminortv/index.m3u8
+#EXTINF:-1,Fenikspluskino
+http://188.93.94.46:80/fenikspluskino/index.m3u8
+#EXTINF:-1,Friday
+http://188.93.94.46:80/friday/index.m3u8
+#EXTINF:-1,Tv1000act
+http://188.93.94.46:80/tv1000act/index.m3u8
+#EXTINF:-1,Viasatnat
+http://188.93.94.46:80/viasatnat/index.m3u8
+#EXTINF:-1,Viasathist
+http://188.93.94.46:80/viasathist/index.m3u8
+#EXTINF:-1,Viasatexp
+http://188.93.94.46:80/viasatexp/index.m3u8
+#EXTINF:-1,Hctv
+http://188.93.94.46:80/hctv/index.m3u8
+#EXTINF:-1,Park
+http://188.93.94.46:80/park/index.m3u8
+#EXTINF:-1,Ohotairibalka
+http://188.93.94.46:80/ohotairibalka/index.m3u8
+#EXTINF:-1,Fenikspluskino
+http://188.93.94.46:80/fenikspluskino/index.m3u8
+#EXTINF:-1,Liaminortv
+http://188.93.94.46:80/liaminortv/index.m3u8
+#EXTINF:-1,Friday
+http://188.93.94.46:80/friday/index.m3u8
+#EXTINF:-1,Viasatexp
+http://188.93.94.46:80/viasatexp/index.m3u8
+#EXTINF:-1,CBS Drama
+http://188.93.94.46:80/cbsdrama/index.m3u8
+#EXTINF:-1,DW
+http://188.93.94.46:80/dw/index.m3u8
+#EXTINF:-1,Fashion TV
+http://188.93.94.46:80/fasiontv/index.m3u8
+#EXTINF:-1,Mezzo
+http://188.93.94.46:80/mezzo/index.m3u8
+#EXTINF:-1,Rtvi
+http://188.93.94.46:80/rtvi/index.m3u8
+#EXTINF:-1,Boets
+http://188.93.94.46:80/boets/index.m3u8
+#EXTINF:-1,Tv1000
+http://188.93.94.46:80/tv1000/index.m3u8
+#EXTINF:-1,Animalplanet
+http://188.93.94.46:80/animalplanet/index.m3u8
 
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
