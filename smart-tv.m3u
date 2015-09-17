@@ -262,6 +262,7 @@ mms://100automoto.tv/channel_porsche
 http://motorsport.hopto.org:8081/
 
 
+
 #EXTINF:-1 audio-track="eng",Nickelodeon
 http://201.161.59.6/nick.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 audio-track="eng",Nickelodeon
@@ -272,6 +273,11 @@ http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 #EXTINF:-1 audio-track="eng",Cartoon Network
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
+
+#EXTINF:-1,BBC 1 
+rtmp://area61.better-than.tv:1935/ANYTV_USR_BRITISH10/BRITISH10.sdp
+#EXTINF:-1,BBC 2
+rtmp://area61.better-than.tv:1935/ANYTV_USR_BRITISH12/BRITISH12.sdp
 
 #EXTINF:-1,Cinemax 
 http://lag2.tv-mobile.org/prgb.m3u8 
@@ -351,7 +357,6 @@ http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
 
 #EXTINF:-1,HD Fashion
 rtmp://95.67.8.43:1935/live/fashionhd
-
 
 #EXTINF:-1,Musica
 http://pvr.tvip.ga/9001.m3u8
@@ -639,6 +644,10 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1,Russia Today
 http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:-1,Al jazeera Balkan
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_balkans_high.flv
+#EXTINF:-1,Al Jazeera English
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 #EXTINF:-1,CCTV News
 http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
 #EXTINF:-1,i24 News
