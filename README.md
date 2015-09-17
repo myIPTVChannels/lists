@@ -25,6 +25,8 @@ Adult Channels: adult.m3u = http://git.io/vZiiP
 
 Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
 
+Movies: movies.m3u = http://git.io/vnUb0
+
 
 ##Rules
 1) KISS = Keep it simple, stupid (as possible)!
