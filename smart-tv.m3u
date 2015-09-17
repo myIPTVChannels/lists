@@ -408,6 +408,8 @@ http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
 rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
 #EXTINF:-1,RADIO 105 TV
 rtmp://fms.105.net/live/105Test1
+#EXTINF:-1,EUROPA PLUS TV
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
 #EXTINF:-1,Telemusica
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
 #EXTINF:-1,VM Music
@@ -629,6 +631,16 @@ http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
 #EXTINF:-1,Chef TV
 rtmp://flashd.localmidia.com.br:1935/cheftv/aovivo
 
+#EXTINF:-1,Barntele
+rtmp://rtmp.infomaniak.ch/livecast/barntele
+#EXTINF:-1,RBW
+rtmp://62.113.210.250/medienasa-live/rbw_high
+#EXTINF:-1,Family TV
+rtmp://83.169.58.36/live/Stream3
+#EXTINF:-1,Mersburg TV
+rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
+#EXTINF:-1,Studenska TV
+rtmp://213.202.73.202/iskon/studentska_b3.stream
 
 #EXTINF:-1,SKAI
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
