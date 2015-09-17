@@ -10,6 +10,10 @@ http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
+#EXTINF:-1,TV Cine 1
+rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
+#EXTINF:-1,TV Cine 2
+rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_TWO/TVCINE_TWO.sdp
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv1.png",Sport TV 1 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
@@ -611,6 +615,21 @@ rtmp://stream2.ba.gov.br:1935/livepkgr//pgm-1?adbe-live-event=irdeb?Grupo_UP_e_D
 http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
 #EXTINF:-1,Chef TV
 rtmp://flashd.localmidia.com.br:1935/cheftv/aovivo
+
+
+#EXTINF:-1,SKAI
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
+#EXTINF:-1,STAR
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
+#EXTINF:-1,NERIT
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
+#EXTINF:-1,ALPHA
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
+#EXTINF:-1,ANT1
+rtmp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
+#EXTINF:-1,MEGA
+rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
+
 
 #EXTINF:-1,Abc News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
