@@ -76,6 +76,8 @@ http://77.76.140.251/prgt.m3u8
 http://193.194.107.10:4022/udp/225.1.3.101:4001
 #EXTINF:-1,Viasat Sport
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1,Sports TV TR
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
