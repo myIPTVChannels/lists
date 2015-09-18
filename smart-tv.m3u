@@ -139,7 +139,7 @@ http://en356.edem.tv/iptv/D3MBMTV79H9TYM/144/index.m3u8
 rtmp://195.168.51.178/live/ss1HD
 #EXTINF:0,Slovak Sport 2
 rtmp://195.168.51.178/live/ss2hd
-#EXTINF:-1,BT Sport/ESPN HD
+#EXTINF:-1,Sky Sports F1 (Muda)
 rtmp://secure.hdcast.org/justforvip/llive1
 #EXTINF:-1,IRAK Iraqiya Sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
