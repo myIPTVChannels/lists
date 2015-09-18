@@ -138,6 +138,8 @@ http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I MAXX SD
 http://37.203.209.34:443/mobile/flash48/IPTVGLOBAL.m3u8
 
+#EXTINF:-1,NSport+
+rtmp://178.16.220.163:1935/live/n2sport
 #EXTINF:-1,DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1 tvg-id=,ESPN Deportes
