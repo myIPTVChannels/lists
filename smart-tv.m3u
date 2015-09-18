@@ -665,10 +665,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
 #EXTINF:-1,Hitbox
 http://api.hitbox.tv/player/hls/ectvlol.m3u8
-
 #EXTINF:-1,CCTV 8
 http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/cctv8hd/as/live/cctv8hd_4.m3u8
-
 #EXTINF:-1,Punktum
 http://62.113.210.250/medienasa-live/punktum_high/hasbahca.m3u8
 #EXTINF:-1,Rbw
@@ -681,7 +679,6 @@ http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,AZTV
 http://149.255.152.70/idman/index.m3u8
-
 #EXTINF:-1,WGN News Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
@@ -702,6 +699,18 @@ rtmp://46.4.25.213:1935/live-ann7/ann7-mid.stream
 #EXTINF:-1,C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
 
+#‎EXTINF‬:-1,Switzerland:Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/Cookiemonster.m3u8
+#EXTINF:-1,Switzerland:ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/Cookiemonster.m3u8
+#EXTINF:-1,Switzerland:TELE X
+http://rtmp.infomaniak.ch/livecast/latele/Cookiemonster.m3u8
+#EXTINF:-1,Switzerland:Leman Bleu – Suisse
+http://rtmp.infomaniak.ch/livecast/naxoo/Cookiemonster.m3u8
+#EXTINF:-1,Switzerland:TVM3 Suisse
+http://rtmp.infomaniak.ch/livecast/tvm3/Cookiemonster.m3u8
+#EXTINF:-1,Switzerland:TELEZURI Suisse
+http://rtmp.infomaniak.ch/livecast/telebielinguech/Cookiemonster.m3u8
 
 #EXTINF:-1,RT
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
