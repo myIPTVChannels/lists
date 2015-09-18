@@ -699,17 +699,17 @@ rtmp://46.4.25.213:1935/live-ann7/ann7-mid.stream
 #EXTINF:-1,C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
 
-#‎EXTINF‬:-1,Switzerland:Tele Basel
+#‎EXTINF‬:-1,:Tele Basel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/Cookiemonster.m3u8
-#EXTINF:-1,Switzerland:ROUGE TV
+#EXTINF:-1,Rouge TV
 http://rtmp.infomaniak.ch/livecast/rougetv/Cookiemonster.m3u8
-#EXTINF:-1,Switzerland:TELE X
+#EXTINF:-1,Tele X
 http://rtmp.infomaniak.ch/livecast/latele/Cookiemonster.m3u8
-#EXTINF:-1,Switzerland:Leman Bleu – Suisse
+#EXTINF:-1,Leman Bleu – Suisse
 http://rtmp.infomaniak.ch/livecast/naxoo/Cookiemonster.m3u8
-#EXTINF:-1,Switzerland:TVM3 Suisse
+#EXTINF:-1,TVM3 Suisse
 http://rtmp.infomaniak.ch/livecast/tvm3/Cookiemonster.m3u8
-#EXTINF:-1,Switzerland:TELEZURI Suisse
+#EXTINF:-1,Telezuri Suisse
 http://rtmp.infomaniak.ch/livecast/telebielinguech/Cookiemonster.m3u8
 
 #EXTINF:-1,RT
