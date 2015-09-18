@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png",RTP 1
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png",RTP 2
+http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
 http://213.13.26.11:1935/live/sic/hasbahca.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
