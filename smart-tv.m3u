@@ -22,6 +22,8 @@ rtmp://213.13.26.11/live/etv_direto
 http://213.13.26.12:1935/live/etv_direto/hasbahca.m3u8
 #EXTINF:-1,AR TV Parlamento
 rtsp://www.canal.parlamento.pt/Live
+#EXTINF:-1,TCV
+http://213.13.26.12:1935/live/rtc_teste/hasbahca.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
