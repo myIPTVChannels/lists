@@ -638,6 +638,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1,Russia Today
 http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:-1,Russia Today HD
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1,Al jazeera Balkan
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_balkans_high.flv
 #EXTINF:-1,Al Jazeera English
