@@ -827,6 +827,34 @@ http://188.93.94.46:80/boets/index.m3u8
 http://188.93.94.46:80/tv1000/index.m3u8
 #EXTINF:-1,Animalplanet
 http://188.93.94.46:80/animalplanet/index.m3u8
+#EXTINF:-1,Rus
+http://212.19.7.91:8888/udp/239.191.254.2:13343
+#EXTINF:-1,Pbk
+http://212.19.7.91:8888/udp/239.191.254.3:13343
+#EXTINF:-1,Rus Kids
+http://212.19.7.91:8888/udp/239.191.254.4:13343
+#EXTINF:-1,Tpo
+http://212.19.7.91:8888/udp/239.191.254.5:13343
+#EXTINF:-1,Russian Extreme
+http://212.19.7.91:8888/udp/239.191.254.6:13343
+#EXTINF:-1,24Doc
+http://212.19.7.91:8888/udp/239.191.254.7:13343
+#EXTINF:0 audio-track="eng",TV1000
+http://212.19.7.91:8888/udp/239.191.254.8:13343
+#EXTINF:0 audio-track="eng",Viasat Explore
+http://212.19.7.91:8888/udp/239.191.254.9:13343
+#EXTINF:0 audio-track="eng",Viasat History
+http://212.19.7.91:8888/udp/239.191.254.10:13343
+#EXTINF:0 audio-track="eng",Viasat Sport
+http://212.19.7.91:8888/udp/239.191.254.11:13343
+#EXTINF:0 audio-track="eng",TV1000
+http://212.19.7.91:8888/udp/239.191.254.12:13343
+#EXTINF:-1,TLC
+http://212.19.7.91:8888/udp/239.191.254.74:13343
+#EXTINF:-1,Mynbt
+http://212.19.7.91:8888/udp/239.191.254.75:13343
+#EXTINF:0 audio-track="eng",Viasat Nature
+http://212.19.7.91:8888/udp/239.191.254.79:13343
 
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
