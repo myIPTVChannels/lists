@@ -114,7 +114,7 @@ http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
 
 #EXTINF:-1 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV
 http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-SporTV2" tvg-logo="sportv2.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 
+#EXTINF:-1 tvg-id="jonasiptv-SporTV 3s" tvg-logo="sportv2.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 
 http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-SporTV 3s" tvg-logo="sportv3.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
