@@ -112,44 +112,24 @@ http://tv.online.tm/hls/ch004_md/index.m3u8
 
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://logos.iptvglobal.com.br/espnbrasil.jpg" group-title="Esportes Brasileiros",ESPN Brasil
-http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espnbr.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",E+I 
-http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
+
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I MAXX SD
 http://37.203.209.34:443/mobile/flash48/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I Maxx2 HD 
-http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Fox Sportss" tvg-logo="Fox%20Sport.jpg" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes Brasileiros",Fox Sports 
-http://37.203.209.34:443/mobile/flash57sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Fox Sportss" tvg-logo="foxsports2.jpg" tvg-logo="http://logos.iptvglobal.com.br/foxsports2.jpg" group-title="Esportes Brasileiros",Fox Sports 2 
-http://37.203.209.34:443/mobile/flash47sd/IPTVGLOBAL
 #EXTINF:-1 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV
 http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-SporTV2" tvg-logo="sportv2.png" tvg-logo="http://logos.iptvglobal.com.br/sportv2.png" group-title="Esportes Brasileiros",SPORTV 2 
 http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-SporTV 3s" tvg-logo="sportv3.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="terraesportes.jpg" tvg-logo="http://logos.iptvglobal.com.br/terraesportes.jpg" group-title="Esportes Brasileiros",TERRA ESPORTES 
+#EXTINF:-1 tvg-logo="terraesportes.jpg" tvg-logo="http://logos.iptvglobal.com.br/terraesportes.jpg" group-title="Esportes Brasileiros",Terra Esportes
 http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-Esporte Interativo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
-#EXTINF:-1,PREMIERE BRASIL
-http://4.31.30.159:9119
-#EXTINF:-1, PREMIERE BRASIL
-http://live-cdn.direct-stream.org:1935/liverepeat/fut01/playlist.m3u8
-#EXTINF:-1, PREMIERE BRASIL
-http://62.210.83.180:1935/liverepeat/fut1123402/playlist.m3u8
-#EXTINF:-1, PREMIERE BRASIL
-http://live-cdn.direct-stream.org:1935/liverepeat/fut05/playlist.m3u8
-#EXTINF:-1, ESPN 
-http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
-#EXTINF:-1, ESPN off 15-9
-rtmp://217.23.12.111/livepkgrr/espnbr
+
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="Esportes Brasileiros", PFC 24Hrs 
-http://bit.ly/IPTVGlobal-pfc24horas
+http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 1 | dias de Jogos
-http://62.210.82.241:1935/liverepeat/fut01/IPTVGLOBAL.m3u8?
+http://62.210.82.241:1935/liverepeat/fut01/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 2 | dias de Jogos
 http://62.210.88.208:1935/liverepeat/fut02/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC", PFC 3 | dias de Jogos
@@ -171,7 +151,7 @@ http://62.210.83.154:1935/liverepeat/fut1022842/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 11 | dias de Jogos
 http://62.210.83.152:1935/liverepeat/fut1123402/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="PREMIERE FC",PFC 12 | dias de Jogos
-http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8?JONASIPTV
+http://62.210.83.152:1935/liverepeat/fut12/IPTVGLOBAL.m3u8
 
 #EXTINF:-1,DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
