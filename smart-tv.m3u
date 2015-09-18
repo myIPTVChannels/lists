@@ -83,10 +83,6 @@ http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,CDN Sports Max
 http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w959294862.m3u8
-#EXTINF:-1,NCDN
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1,NCDN
-http://108.168.206.90:1935/cdn/cdn/chunklist_w24236728.m3u8
 #EXTINF:-1,Tyc Sports
 http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Bein Sports 1
@@ -113,8 +109,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 #EXTINF:-1,Turmen Sports
 http://tv.online.tm/hls/ch004_md/index.m3u8
-#EXTINF:-1,NSport+
-rtmp://178.16.220.163:1935/live/n2sport
 
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
@@ -661,6 +655,10 @@ http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_balkans_high.flv
 #EXTINF:-1,Al Jazeera English
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
+#EXTINF:-1,NCDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1,NCDN
+http://108.168.206.90:1935/cdn/cdn/chunklist_w24236728.m3u8
 #EXTINF:-1,CCTV News
 http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
 #EXTINF:-1,i24 News
