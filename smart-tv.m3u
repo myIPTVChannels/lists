@@ -24,6 +24,8 @@ http://213.13.26.12:1935/live/etv_direto/hasbahca.m3u8
 rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1,Cancao Nova
 http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
+#EXTINF:-1,Capelinha Santuario Fatima
+http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
 
 #EXTINF:-1,TV Cine 1
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
