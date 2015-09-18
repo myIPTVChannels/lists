@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png",RTP 1
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png",RTP 1
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png",RTP 2
