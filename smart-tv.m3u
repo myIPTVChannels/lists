@@ -100,6 +100,12 @@ http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:-1,Bein Sports 2
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+#EXTINF:0,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:0,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:0,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg",Bein Sports 1
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8?iptvglobal
 #EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,Bein Sports 2
