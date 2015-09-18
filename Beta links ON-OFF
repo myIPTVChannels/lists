@@ -4,15 +4,3 @@ DIGAM SE esta on
 
 
 
-#EXTM3U
-
-#EXTINF:0,POR    Sport Tv 1 – POR    Sport Tv 1
-http://jigen.dvrdns.org:80/live?channelId=46&uid=781&deviceUser=andrea&devicePass=andrea
-#EXTINF:0,POR    Sport Tv 2 – POR    Sport Tv 2
-http://jigen.dvrdns.org:80/live?channelId=47&uid=781&deviceUser=andrea&devicePass=andrea
-#EXTINF:0,POR    Sport Tv 3 – POR    Sport Tv 3
-http://jigen.dvrdns.org:80/live?channelId=48&uid=781&deviceUser=andrea&devicePass=andrea
-#EXTINF:0,POR    Sport Tv 4 – POR    Sport Tv 4
-http://jigen.dvrdns.org:80/live?channelId=49&uid=781&deviceUser=andrea&devicePass=andrea
-#EXTINF:0,POR    Sport Tv 5 – POR    Sport Tv 5
-http://jigen.dvrdns.org:80/live?channelId=50&uid=781&deviceUser=andrea&devicePass=andrea
