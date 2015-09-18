@@ -63,20 +63,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_3.m3u8
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:-1,Sport Klub 1
-http://77.76.140.251/prgr.m3u8
-#EXTINF:-1,Sport Klub 2
-http://77.76.140.251/prgs.m3u8
-#EXTINF:-1,Sport Klub 3
-http://77.76.140.251/prgt.m3u8
 #EXTINF:-1,Viasat Sport  
 http://193.194.107.10:4022/udp/225.1.3.101:4001
 #EXTINF:-1,Viasat Sport
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,Sports TV TR
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
-#EXTINF:-1,USA:NBA HD
-http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
@@ -131,10 +123,18 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 #EXTINF:-1,Turmen Sports
 http://tv.online.tm/hls/ch004_md/index.m3u8
+#EXTINF:-1,Sport Klub 1
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,Sport Klub 2
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,Sport Klub 3
+http://77.76.140.251/prgt.m3u8
 #EXTINF:0,Футбол 1
 http://193.194.107.10:4022/udp/225.1.3.103:4001
 #EXTINF:0,Футбол 2
 http://193.194.107.10:4022/udp/225.1.3.102:4001
+#EXTINF:-1,USA:NBA HD
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
 
