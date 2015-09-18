@@ -28,13 +28,13 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
 #EXTINF:-1,TV Cine 2
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_TWO/TVCINE_TWO.sdp
 
-#EXTINF:0,Sport TV 1
+#EXTINF:-1,Sport TV 1
 rtmp://area61.better-than.tv:1935/ANYTV_USR_SportTV_One/SportTV_One.sdp
-#EXTINF:0,Sport TV 2 HD
+#EXTINF:-1,Sport TV 2 HD
 rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV2/SPORTTV2.sdp
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv3.png",Sport TV 3 
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
-#EXTINF:0,Sport TV 3 HD
+#EXTINF:-1,Sport TV 3 HD
 rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
@@ -158,9 +158,9 @@ http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg", Extreme Sports HD 2
 http://en356.edem.tv/iptv/D3MBMTV79H9TYM/144/index.m3u8
-#EXTINF:0,Slovak Sport 1
+#EXTINF:-1,Slovak Sport 1
 rtmp://195.168.51.178/live/ss1HD
-#EXTINF:0,Slovak Sport 2
+#EXTINF:-1,Slovak Sport 2
 rtmp://195.168.51.178/live/ss2hd
 #EXTINF:-1,Sky Sports F1 (Muda)
 rtmp://secure.hdcast.org/justforvip/llive1
@@ -231,7 +231,7 @@ http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 #EXTINF:-1 audio-track="eng",Cartoon Network
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
-#EXTINF:0, Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 
 #EXTINF:-1,Cinemax 
@@ -317,19 +317,21 @@ rtmp://95.67.8.43:1935/live/fashionhd
 http://pvr.tvip.ga/9001.m3u8
 #EXTINF:-1,One
 http://rtmp.one.by:2300
-#EXTINF:0", o2 music
+#EXTINF:-1, O2 Music
 http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
 #EXTINF:-1,Vox Tv
 rtmp://stream.smcloud.net:1935/live2/vox/vox_720p
 #EXTINF:-1,M6 Music
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1,VH1 Classic
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
 #EXTINF:-1,City
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:-1,Dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1,1 Hd
 http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:-1,1 Hd
+#EXTINF:-1,1 HD
 rtmp://109.239.142.62:1935/live/livestream3
 #EXTINF:-1,Capital Tv
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
@@ -510,7 +512,7 @@ http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/pla
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8
 #EXTINF:-1,TVP Ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:0,TVP 1
+#EXTINF:-1,TVP 1
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,Canal 2
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
@@ -521,17 +523,17 @@ http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 #EXTINF:-1,Tiva Tv
 http://fl729845.live.cdn.frontlayer.net/fl729845/live/media_16362.m3u8
 
-#EXTINF:0,SVT1 HD
+#EXTINF:-1,SVT1 HD
 http://188.138.9.228:8001
-#EXTINF:0,SVT2 HD
+#EXTINF:-1,SVT2 HD
 http://188.138.9.228:8002
-#EXTINF:0,TV4 HD
+#EXTINF:-1,TV4 HD
 http://188.138.9.228:8004
-#EXTINF:0,TV4 HD
+#EXTINF:-1,TV4 HD
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
-#EXTINF:0,SVT Barnkanalen HD
+#EXTINF:-1,SVT Barnkanalen HD
 http://188.138.9.228:8013
-#EXTINF:0,svt24 HD
+#EXTINF:-1,svt24 HD
 http://188.138.9.228:8013
 
 #EXTINF:-1,RAI 1
@@ -813,21 +815,21 @@ http://212.19.7.91:8888/udp/239.191.254.5:13343
 http://212.19.7.91:8888/udp/239.191.254.6:13343
 #EXTINF:-1,24Doc
 http://212.19.7.91:8888/udp/239.191.254.7:13343
-#EXTINF:0 audio-track="eng",TV1000
+#EXTINF:-1 audio-track="eng",TV1000
 http://212.19.7.91:8888/udp/239.191.254.8:13343
-#EXTINF:0 audio-track="eng",Viasat Explore
+#EXTINF:-1 audio-track="eng",Viasat Explore
 http://212.19.7.91:8888/udp/239.191.254.9:13343
-#EXTINF:0 audio-track="eng",Viasat History
+#EXTINF:-1 audio-track="eng",Viasat History
 http://212.19.7.91:8888/udp/239.191.254.10:13343
-#EXTINF:0 audio-track="eng",Viasat Sport
+#EXTINF:-1 audio-track="eng",Viasat Sport
 http://212.19.7.91:8888/udp/239.191.254.11:13343
-#EXTINF:0 audio-track="eng",TV1000
+#EXTINF:-1 audio-track="eng",TV1000
 http://212.19.7.91:8888/udp/239.191.254.12:13343
 #EXTINF:-1,TLC
 http://212.19.7.91:8888/udp/239.191.254.74:13343
 #EXTINF:-1,Mynbt
 http://212.19.7.91:8888/udp/239.191.254.75:13343
-#EXTINF:0 audio-track="eng",Viasat Nature
+#EXTINF:-1 audio-track="eng",Viasat Nature
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 
 
@@ -835,15 +837,15 @@ http://212.19.7.91:8888/udp/239.191.254.79:13343
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,Playboy TV
 http://91.213.59.190:8000/239.0.0.200
-#EXTINF:0,Private.com
+#EXTINF:-1,Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,Japao Hot
 rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1,BabeStation X-Treme 18+
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-#EXTINF:0,But Go
+#EXTINF:-1,But Go
 http://edge2.everyon.tv:1935/etv2sb/phd772/master.m3u8
-#EXTINF:0,Boys Mania
+#EXTINF:-1,Boys Mania
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:-1,Nefertisex TV-CH 1
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
