@@ -18,6 +18,8 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 rtmp://213.13.26.11/live/etv_direto
 #EXTINF:-1,AR TV Parlamento
 rtsp://www.canal.parlamento.pt/Live
+#EXTINF:-1,Disney Junior BR
+http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
 #EXTINF:-1,TV Cine 1
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
