@@ -67,8 +67,8 @@ http://80.77.52.6:3719/udp/226.0.0.8:12345
 http://80.77.52.6:3719/udp/226.0.0.9:12345
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1,Rai Sport 1
-mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sport.png",Fox Sports
 http://motorsport.hopto.org:8080/
 #EXTINF:-1,Bein Sports 1
@@ -92,8 +92,6 @@ http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:0,Спорт
 http://79.133.125.42:8888/udp/239.191.254.80:13343
-#EXTINF:0,Футбол
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 
 #EXTINF:-1, Eurosport
 http://91.213.59.190:8000/239.0.0.195  
