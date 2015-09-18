@@ -14,8 +14,6 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
-#EXTINF:-1,TVI 24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1,Economico TV
 rtmp://213.13.26.11/live/etv_direto
 #EXTINF:-1,AR TV Parlamento
