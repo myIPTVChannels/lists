@@ -132,6 +132,16 @@ plugin://program.plexus/?mode=1&url=a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mod
 plugin://program.plexus/?mode=1&url=dfb1115adb7c8740bea94431bdadf2e19fc9bd99&mode=1&name=acestream&mode=1&name=POLSAT SPORT
 #EXTINF:-1 group-title="PLEXUS", POLSAT SPORT EXTRA
 plugin://program.plexus/?mode=1&url=4c0c928a085aaa180288be1d749ccfd4aed253be&mode=1&name=acestream&mode=1&name=POLSAT SPORT_EXTRA
+#EXTINF:-1 group-title="PLEXUS", C MORE TENNIS
+plugin://program.plexus/?mode=1&url=77353129af1bafbf313e2a2925d9166010e92ce4&mode=1&name=acestream&mode=1&name=C MORE TENNIS
+#EXTINF:-1 group-title="PLEXUS", SUPER TENNIS HD
+plugin://program.plexus/?mode=1&url=c0348d263ba7bbb3044b156f806999b0ead8d93e&mode=1&name=acestream&mode=1&name=SUPER TENNIS HD
+#EXTINF:-1 group-title="PLEXUS", NBA TV
+plugin://program.plexus/?mode=1&url=3462fdb26e872914ecc30572f3d06d391dbb16a9&mode=1&name=acestream&mode=1&name=NBA TV
+#EXTINF:-1 group-title="PLEXUS", PREMIER SPORTS
+plugin://program.plexus/?mode=1&url=fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+#EXTINF:-1 group-title="PLEXUS", SPORT 1 DE
+plugin://program.plexus/?mode=1&url=3a619efa4e9efb342affe2042a80647497ef5dbd&mode=1&name=acestream&mode=1&name=SPORT 1 DE
 
 
 #EXTINF:0 group-title="others", --- Outros ---
