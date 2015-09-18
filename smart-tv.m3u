@@ -88,7 +88,6 @@ rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1,USA:NBA HD
 http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 
-
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:0,Спорт
@@ -223,7 +222,8 @@ mms://100automoto.tv/channel_porsche
 #EXTINF:-1,Motorsport 1
 http://motorsport.hopto.org:8081/
 
-
+#EXTINF:-1,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
 #EXTINF:-1 audio-track="eng",Nickelodeon
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
 #EXTINF:-1 audio-track="eng",Nickelodeon
@@ -232,11 +232,6 @@ http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 #EXTINF:-1 audio-track="eng",Cartoon Network
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
-
-#EXTINF:-1,BBC 1 
-rtmp://area61.better-than.tv:1935/ANYTV_USR_BRITISH10/BRITISH10.sdp
-#EXTINF:-1,BBC 2
-rtmp://area61.better-than.tv:1935/ANYTV_USR_BRITISH12/BRITISH12.sdp
 
 #EXTINF:-1,Cinemax 
 http://lag2.tv-mobile.org/prgb.m3u8 
