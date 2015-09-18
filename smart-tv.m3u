@@ -57,22 +57,12 @@ http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Fo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.jpg",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.jpg",Win Sports
+#EXTINF:-1 tvg-logo="https://raw.githubuserctent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.jpg",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/silksport1.png",Silk Sport 1
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/silksport2.png",Silk Sport 2
-http://80.77.52.6:3719/udp/226.0.0.8:12345
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/silksport3.png",Silk Sport
-http://80.77.52.6:3719/udp/226.0.0.9:12345
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sport.png",Fox Sports
-http://motorsport.hopto.org:8080/
-#EXTINF:-1,Bein Sports 1
-http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/chunklist.m3u8?wowzasessionid=1124649939
 #EXTINF:-1,Sport Klub 1
 http://77.76.140.251/prgr.m3u8
 #EXTINF:-1,Sport Klub 2
