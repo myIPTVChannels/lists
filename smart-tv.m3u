@@ -95,6 +95,20 @@ http://79.133.125.42:8888/udp/239.191.254.80:13343
 #EXTINF:0,Футбол
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 
+#EXTINF:-1, Eurosport
+http://91.213.59.190:8000/239.0.0.195  
+#EXTINF:-1 ,Extreme Sports
+http://91.213.59.190:8000/239.0.0.50
+#EXTINF:-1 , HD Sport
+http://91.213.59.190:8000/239.0.0.117
+#EXTINF:-1, Sports 1 HD
+http://91.213.59.190:8000/239.0.0.237
+#EXTINF:-1 ,NTV Plus Football HD
+http://91.213.59.190:8000/239.0.0.169
+#EXTINF:-1 ,Our Football HD
+http://91.213.59.190:8000/239.0.1.100
+#EXTINF:-1 ,Fight Network
+http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
 #EXTINF:-1,Nova Sport
 http://81.201.52.159:8023
 #EXTINF:-1,Sport Max
@@ -109,21 +123,21 @@ http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:-1,Bein Sports 2
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg",Bein Sports 1
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8?iptvglobal
-#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,Bein Sports 2
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8?iptvglobal
-#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,BEIN SPORTS 3 HD 
+#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,Bein Sports 3 HD 
 http://180.250.29.12/jhos/beib3_3/1424681986/playlist.m3u8?iptvglobal
-#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,BEIN SPORTS USA 1
+#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,Bein Sports USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8?iptvglobal
-#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,BEIN SPORTS USA 2
+#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,Bein Sports USA 2
 http://lihattv.toh.info/jhos/beib2.m3u8?iptvglobal
-#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,BEIN SPORTS USA 3
+#EXTINF:-1 tvg-id="" tvg-logo="bein.jpg" tvg-logo="http://logos.iptvglobal.com.br/bein.jpg" ,Bein Sports USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8?iptvglobal
-#EXTINF:-1 tvg-id="" tvg-logo="eurosports.jpg" tvg-logo="http://logos.iptvglobal.com.br/eurosports.jpg" ,CANAL EUROSPORT fr  HD
+#EXTINF:-1 tvg-id="" tvg-logo="eurosports.jpg" tvg-logo="http://logos.iptvglobal.com.br/eurosports.jpg" ,Eurosport fr  HD
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 , EUROSPORT 1 eng
+#EXTINF:-1 , Eurosport 1 eng
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,Rete Sport 8
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
