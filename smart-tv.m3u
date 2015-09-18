@@ -14,6 +14,8 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
+#EXTINF:-1,Sic Noticias
+http://213.13.26.12:1935/live/_definst_/sicnoticias/hasbahca.m3u8
 #EXTINF:-1,Economico TV
 rtmp://213.13.26.11/live/etv_direto
 #EXTINF:-1,AR TV Parlamento
@@ -69,7 +71,8 @@ http://80.77.52.6:3719/udp/226.0.0.8:12345
 http://80.77.52.6:3719/udp/226.0.0.9:12345
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-
+#EXTINF:-1,Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sport.png",Fox Sports
 http://motorsport.hopto.org:8080/
 #EXTINF:-1,Bein Sports 1
@@ -86,6 +89,9 @@ http://193.194.107.10:4022/udp/225.1.3.101:4001
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,Sports TV TR
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1,USA:NBA HD
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
+
 
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
