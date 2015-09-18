@@ -59,6 +59,17 @@ rtmp://31.220.0.86/pull playpath=deportes1114?keys=_7_1D_XTUuHGCMIoIxdpPw&keyt=1
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL + DEPORTES 2 (esp) [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.2.55/pull playpath=deportes2525?keys=CO63AzQ0xTVF4Uv_vwqOVg&keyt=1441420298 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
+#acestream
+# Sport TV 1 acestream
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+# Sport TV 2 acestream
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+# Sport TV 3 acestream
+acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280
+# Sport TV 4 acestream
+acestream://4f256982b213a8b3346b01683b82261db8dcd524
+# Sport TV 5 acestream
+acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4
 
 #EXTINF:0 group-title="Plexus", --- PLEXUS Plugin ---
 http://0.0.0.0
