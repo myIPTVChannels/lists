@@ -628,12 +628,14 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
 rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
 
 
-#EXTINF:-1,Abc News
+#EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?
 #EXTINF:-1,CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1,NBC News
+http://204.107.26.92:1935/vodlast/1054.m4v/playlist.m3u8
 #EXTINF:-1,Russia Today
 http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
 #EXTINF:-1,Russia Today HD
