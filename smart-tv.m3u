@@ -4,6 +4,8 @@
 http://213.13.26.11:1935/live/sic/hasbahca.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
 #EXTINF:-1,TV Cine 1
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
