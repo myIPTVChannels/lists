@@ -318,6 +318,8 @@ rtmp://95.67.8.43:1935/live/fashionhd
 http://pvr.tvip.ga/9001.m3u8
 #EXTINF:-1,One
 http://rtmp.one.by:2300
+#EXTINF:0", o2 music
+http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
 #EXTINF:-1,Vox Tv
 rtmp://stream.smcloud.net:1935/live2/vox/vox_720p
 #EXTINF:-1,M6 Music
