@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
+http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+
 #EXTINF:-1,TV Cine 1
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
 #EXTINF:-1,TV Cine 2
