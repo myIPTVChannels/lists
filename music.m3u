@@ -27,8 +27,6 @@ http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0, Musica Israel
-http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
 #EXTINF:-1 tvg-logo="kiss tv.png", KISS TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:0 group-title="Music", KISS TV (2)
@@ -37,6 +35,8 @@ http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:0, M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0, Miami Music TV
 http://74.208.152.93/music/stream3/stream.m3u8
 #EXTINF:0, MELODY CHANNEL TV 
@@ -49,8 +49,8 @@ http://bit.ly/IPTVGlobal-multshow
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
 #EXTINF:0, Music Box TV
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
-#EXTINF:0, M6 MUSIC
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0, Musica Israel
+http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
 #EXTINF:0 tvg-logo="NOW-MUSIC.png", NOW MUSIC  
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 group-title="Music", Now Music UK
@@ -89,6 +89,8 @@ http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:0, Ven FM TV
 http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
+#EXTINF:0, VH1 Classic
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
 #EXTINF:0, VM Music
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
 
@@ -130,7 +132,7 @@ http://www.djing.com/tv/a-05.m3u8
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 #EXTINF:0 group-title="Djing", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
-#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind HOT HOT HOT 
+#EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind HOT HOT HOT HD
 http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:0 tvg-logo="djing.png" group-title="Djing", Djind Dancefloor 
 http://www.djing.com/tv/dancefloor.m3u8
