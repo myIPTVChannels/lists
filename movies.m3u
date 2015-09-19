@@ -17,6 +17,85 @@ http://wowza1.videos.movile.com:8080/live/smil:cinema_1.smil/playlist.m3u8?iptvj
 http://37.203.209.34:443/mobile/flash24/live.m3u8 
 
 #EXTINF:0 tvg-logo="GRUPO.png",[COLOR yellow] Grupo Filmes A Editar [/COLOR] 
+
+#EXTINF:-1, TEENAGE MUTANT NINJA TURTLES
+http://37.187.171.219:8080/vod/TeenageMutantNinjaTurtles.mp4/index.m3u8
+#EXTINF:-1, THE COBBLER
+http://37.187.171.219:8080/vod/TheCobbler.mp4/index.m3u8
+#EXTINF:-1, THE BOY NEXT DOOR
+http://37.187.171.219:8080/vod/TheBoyNextDoor.mp4/index.m3u8
+#EXTINF:-1, THE LOVERS
+http://37.187.171.219:8080/vod/TheLovers.mp4/index.m3u8
+#EXTINF:-1, THE LONGEST RIDE
+http://37.187.171.219:8080/vod/TheLongestRide.mp4/index.m3u8
+#EXTINF:-1, MAZE RUNNER
+http://37.187.171.219:8080/vod/TheMazeRunner.mp4/index.m3u8
+#EXTINF:-1, HOBBIT BATTLE OF THE 5 ARMIES
+http://37.187.171.219:8080/vod/TheHobbitBattleOfTheFiveArmies.mp4/index.m3u8
+#EXTINF:-1, THE LAST SURVIVORS
+http://37.187.171.219:8080/vod/TheLastSurvivors.mp4/index.m3u8
+#EXTINF:-1, THE JUDGE
+http://37.187.171.219:8080/vod/TheJudge.mp4/index.m3u8
+#EXTINF:-1, DRACULA UNTOLD
+http://37.187.171.219:8080/vod/DraculaUntold.mp4/index.m3u8
+#EXTINF:-1, 300 RISE OF AN EMPIRE 3D
+http://37.187.171.219:8080/vod/300RiseofanEmpire3D.mp4/index.m3u8
+#EXTINF:-1, HOTEL TRANSYLVANIA
+http://37.187.171.219:8080/vod/HotelTransylvania.mp4/index.m3u8
+#EXTINF:-1, BLACK SEA
+http://37.187.171.219:8080/vod/BlackSea.mp4/index.m3u8
+#EXTINF:-1, EX MACHINA
+http://37.187.171.219:8080/vod/ExMachina.mp4/index.m3u8
+#EXTINF:-1, A MILLION WAYS TO DIE IN THE WEST
+http://37.187.171.219:8080/vod/AMillionWaystoDieintheWest.mp4/index.m3u8
+#EXTINF:-1, AMERICAN SNIPER
+http://37.187.171.219:8080/vod/AmericanSniper.mp4/index.m3u8
+#EXTINF:-1, 50 SHADES OF GREY
+http://37.187.171.219:8080/vod/FiftyShadesofGrey.mp4/index.m3u8
+#EXTINF:-1, HOT PURSUIT
+http://37.187.171.219:8080/vod/HotPursuit.mp4/index.m3u8
+#EXTINF:-1, EDGE OF TOMORROW
+http://37.187.171.219:8080/vod/EdgeofTomorrow.mp4/index.m3u8
+#EXTINF:-1, GONE GIRL
+http://37.187.171.219:8080/vod/GoneGirl.mp4/index.m3u8
+#EXTINF:-1, ALIEN OUTPOST
+http://37.187.171.219:8080/vod/AlienOutpost.mp4/index.m3u8
+#EXTINF:-1, BIRDMAN
+http://37.187.171.219:8080/vod/Birdman.mp4/index.m3u8
+#EXTINF:-1, ALOHA
+http://37.187.171.219:8080/vod/Aloha.mp4/index.m3u8
+#EXTINF:-1, HORRIBLE BOSSES
+http://37.187.171.219:8080/vod/HorribleBosses.mp4/index.m3u8
+#EXTINF:-1, GODZILLA
+http://37.187.171.219:8080/vod/Godzilla.mp4/index.m3u8
+#EXTINF:-1, DAWN OF THE LANET OF THE APES
+http://37.187.171.219:8080/vod/DawnofthePlanetoftheApes.mp4/index.m3u8
+#EXTINF:-1, EXODUS GODS AND KINGS
+http://37.187.171.219:8080/vod/ExodusGodsandKings.mp4/index.m3u8
+#EXTINF:-1, CAPTAIN AMERICA WINTER SOLDIER 3D
+http://37.187.171.219:8080/vod/CaptainAmericaTheWinterSoldier.mp4/index.m3u8
+#EXTINF:-1, INTERSTELLAR
+http://37.187.171.219:8080/vod/Interstellar.mp4/index.m3u8
+#EXTINF:-1, ANNABELLE
+http://37.187.171.219:8080/vod/Annabelle.mp4/index.m3u8
+#EXTINF:-1, HOW TO TRAIN YOUR DRAGON
+http://37.187.171.219:8080/vod/HowtoTrainYourDragon.mp4/index.m3u8
+#EXTINF:-1, BLENDED
+http://37.187.171.219:8080/vod/Blended.mp4/index.m3u8
+#EXTINF:-1, DIVERGANT
+http://37.187.171.219:8080/vod/Divergent.mp4/index.m3u8
+#EXTINF:-1, CINDERELLA
+http://37.187.171.219:8080/vod/Cinderella.mp4/index.m3u8
+#EXTINF:-1, 3 DAYS TO KILL
+http://37.187.171.219:8080/vod/3DaystoKill.mp4/index.m3u8
+#EXTINF:-1, I FRANKENSTEIN
+http://37.187.171.219:8080/vod/IFrankenstein.mp4/index.m3u8
+#EXTINF:-1, INTO THE WOODS
+http://37.187.171.219:8080/vod/IntotheWoods.mp4/index.m3u8
+
+ 
+
+
 ‪#EXTINF:0,#EXTINF:0, xmen1
 http://bit.ly/1KWjL2k
 #EXTINF:0,#EXTINF:0, xmen2 
