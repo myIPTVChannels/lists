@@ -21,6 +21,12 @@ http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u
 http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
 #EXTINF:0, CLARO ADULTO
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO (2)
+http://wowza1.videos.movile.com:8080/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM
+http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM (2)
+http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
 #EXTINF:0, erotic 1
 http://www.nasatv.eu:80/live?channelId=66&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:0, erotic 2
