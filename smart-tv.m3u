@@ -210,6 +210,8 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200	
 #EXTINF:-1,Kazsport
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1,BSTV-Bursaspor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
 #EXTINF:-1,100 Live Sport
 mms://100automoto.tv/100livesport
 #EXTINF:-1,Bmw
@@ -552,6 +554,8 @@ http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1,RAI News
 http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
+#EXTINF:-1,RAI Cultura
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
 
 #EXTINF:-1,Tv 5 Monde
 http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
