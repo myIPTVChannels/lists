@@ -1,60 +1,61 @@
 #EXTM3U 
-#EXTINF:-1, Ciné Fil
+#EXTINF:0, Ciné Fil
 http://teleclub.fr/cinefil.mp4
-#EXTINF:-1, Ciné Fil (2)
+#EXTINF:0, Ciné Fil (2)
 http://tv.ut.cx/cinefil.mp4
-#EXTINF:-1, Cinetoile
+#EXTINF:0, Cinetoile
 http://teleclub.fr/cinetoile.mp4
-#EXTINF:-1, Cinq+
+#EXTINF:0, Cinq+
 http://teleclub.fr/cinqplus.mp4
-#EXTINF:-1, Club 1
+#EXTINF:0, Club 1
 http://teleclub.fr/club1.mp4
-#EXTINF:-1, Filmbox HD
+#EXTINF:0, Filmbox HD
 http://lag1.tv-mobile.org/prgw.m3u8
-#EXTINF:-1 tvg-logo="omeletelogo.jpg" tvg-logo="http://logos.iptvglobal.com.br/omeletelogo.jpg" group-title="Movies", Omelete Cinema  HD
+#EXTINF:0 tvg-logo="omeletelogo.jpg" tvg-logo="http://logos.iptvglobal.com.br/omeletelogo.jpg" group-title="Movies", Omelete Cinema  HD
 http://wowza1.videos.movile.com:8080/live/smil:cinema_1.smil/playlist.m3u8?iptvjonas
-#EXTINF:-1 tvg-id="jonasiptv-TelecinePipoca" tvg-logo="http://logos.iptvglobal.com.br/Telecine%20Pipoca.jpg" tvg-logo="http://logos.iptvglobal.com.br/Telecine%20Pipoca.jpg" group-title="Movies", Telecine Pipoca 
+#EXTINF:0, TELECINE PREMIUM
+http://37.203.209.34:443/mobile/flash24/live.m3u8 
 
-#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR yellow] Grupo Filmes A Editar [/COLOR] 
-‪#EXTINF:0,#EXTINF:-1, xmen1
+#EXTINF:0 tvg-logo="GRUPO.png",[COLOR yellow] Grupo Filmes A Editar [/COLOR] 
+‪#EXTINF:0,#EXTINF:0, xmen1
 http://bit.ly/1KWjL2k
-#EXTINF:0,#EXTINF:-1, xmen2 
+#EXTINF:0,#EXTINF:0, xmen2 
 http://bit.ly/1Eg3QqA 
-#EXTINF:0,#EXTINF:-1, xmen3 
+#EXTINF:0,#EXTINF:0, xmen3 
 http://www.deadlyblogger.com/NewRelease/xmen3.mp4 
-#EXTINF:0,#EXTINF:-1, xmen origin 
+#EXTINF:0,#EXTINF:0, xmen origin 
 http://www.deadlyblogger.com/NewRelease/origin.mp4 
-#EXTINF:0,#EXTINF:-1, xmen the last stand 
+#EXTINF:0,#EXTINF:0, xmen the last stand 
 http://www.deadlyblogger.com/NewRelease/xmen3.mp4 
-#EXTINF:0,#EXTINF:-1, xmen first class 
+#EXTINF:0,#EXTINF:0, xmen first class 
 http://www.deadlyblogger.com/NewRelease/xmen4.mp4 
-#EXTINF:0,#EXTINF:-1, Mad Max (1979) 720p BluRay 
+#EXTINF:0,#EXTINF:0, Mad Max (1979) 720p BluRay 
 http://standalonecomplex.org/…/Mad.Max.1979.720p.BluRay.x26… 
-#EXTINF:0,#EXTINF:-1, Mad Max (1981) 720p Bluray 
+#EXTINF:0,#EXTINF:0, Mad Max (1981) 720p Bluray 
 http://standalonecomplex.org/…/Mad.Max.2.1981.720p.Bluray.x… 
-#EXTINF:0,#EXTINF:-1, Mad Max Beyond Thunderdome (1985) 720p BluRay 
+#EXTINF:0,#EXTINF:0, Mad Max Beyond Thunderdome (1985) 720p BluRay 
 http://standalonecomplex.org/…/Mad.Max.Beyond.Thunderdome.1… 
-#EXTINF:0,#EXTINF:-1, Bad Boys 2 
+#EXTINF:0,#EXTINF:0, Bad Boys 2 
 http://www.deadlyblogger.com/NewRelease/badboys2.mp4 
-#EXTINF:0,#EXTINF:-1, Bad Words 
+#EXTINF:0,#EXTINF:0, Bad Words 
 http://www.deadlyblogger.com/NewRelease/badwords.mp4 
-#EXTINF:0,#EXTINF:-1, Blade 1 
+#EXTINF:0,#EXTINF:0, Blade 1 
 http://www.deadlyblogger.com/NewRelease/blade1.mp4 
-#EXTINF:0,#EXTINF:-1, Blade 2 
+#EXTINF:0,#EXTINF:0, Blade 2 
 http://www.deadlyblogger.com/NewRelease/blade2.mp4 
-#EXTINF:0,#EXTINF:-1, Blade 3 
+#EXTINF:0,#EXTINF:0, Blade 3 
 http://www.deadlyblogger.com/NewRelease/blade3.mp4 
-‬#EXTINF:0,#EXTINF:-1, Congo
+‬#EXTINF:0,#EXTINF:0, Congo
 http://www.deadlyblogger.com/NewRelease/congo1995.mp4 
-#EXTINF:0,#EXTINF:-1, Crimson Tide 
+#EXTINF:0,#EXTINF:0, Crimson Tide 
 http://www.deadlyblogger.com/NewRelease/crimson.mp4 
-‬#EXTINF:0,#EXTINF:-1, Empire State
+‬#EXTINF:0,#EXTINF:0, Empire State
 http://www.deadlyblogger.com/NewRelease/empirestate.mp4 
-#EXTINF:0,#EXTINF:-1, Escape Plan 
+#EXTINF:0,#EXTINF:0, Escape Plan 
 http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4 
-‪#EXTINF:0,#EXTINF:-1, Flight
+‪#EXTINF:0,#EXTINF:0, Flight
 http://www.deadlyblogger.com/NewRelease/flight1.mp4 
-#EXTINF:0,#EXTINF:-1, Grudge Match 
+#EXTINF:0,#EXTINF:0, Grudge Match 
 http://www.deadlyblogger.com/NewRelease/grudgematch.mp4 
-#EXTINF:0,#EXTINF:-1, Maleficent 
+#EXTINF:0,#EXTINF:0, Maleficent 
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
