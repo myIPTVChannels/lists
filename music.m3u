@@ -25,24 +25,28 @@ http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
 http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
 #EXTINF:0 tvg-logo="Heart TV.png", HEART TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="", INDIES LIVE 
+#EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="kiss tv.png", KISS TV 
+#EXTINF:0 tvg-logo="kiss tv.png", KISS TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:0 group-title="Music", KISS TV (2)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:0, Kiss TV (3)
+#EXTINF:0, KiSS TV (3)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:0, M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:0, Miami Music TV
-http://74.208.152.93/music/stream3/stream.m3u8
 #EXTINF:0, MELODY CHANNEL TV 
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0, Mezzo
 http://188.93.94.46:80/mezzo/index.m3u8
+#EXTINF:0, Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:0, MIMUSICA HD
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0, MIMUSICA HD (2)
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:0 tvg-logo="Multishow.jpg" tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg" group-title="Musicas", MULTISHOW
 http://bit.ly/IPTVGlobal-multshow
 #EXTINF:0, Music Box RU
@@ -67,12 +71,16 @@ http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wo
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0, RADIO MONTE CARLO TV  
 rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:0, RADIO MONTE CARLO TV (2)
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:0, RADIO 5 TV 
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Radio 105 TV
 http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
 #EXTINF:0, RADIO 105 TV (2)
 rtmp://fms.105.net/live/105Test1
+#EXTINF:0, RADIO ITALIA TV
+http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
 #EXTINF:0 tvg-logo="radioutv.png", RADIO U TV 
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:0 tvg-logo="radioutv.png", RADIO U TV 
@@ -110,6 +118,8 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protoc
 rtmp://188.165.135.22/gospeltv/livestream
 #EXTINF:0, REAL HIP HOP TV 
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+#EXTINF:0, SKY GOSPEL WEB TV
+http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
 #EXTINF:0, URBAN MUSIC TV 
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 
@@ -249,6 +259,10 @@ rtmp://fms.105.net:1935/live/virgin2
 http://fms.105.net:1935/live/virgin1/playlist.m3u8
 #EXTINF:0 group-title="Music", Virgin TV Radio (2)
 http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:0, RADIO VIRGIN TV (3)
+http://fms.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:0, RADIO VIRGIN TV (4)
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
 #EXTINF:-1, [COLOR brown]--Asia--[/COLOR]  
 http://
