@@ -490,41 +490,27 @@ http://201.161.59.7/cinemax.isml/QualityLevels(1628000)/manifest(format=m3u8-aap
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,Tele Caribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/playlist_b750000.m3u8
-#EXTINF:-1,Mega
+#EXTINF:-1,Mega HD
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1,Tvn
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,America TV
 http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1,Andina TV
 http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
-#EXTINF:-1,TVP Ar
+#EXTINF:-1,TVP
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8
-#EXTINF:-1,TVP Ar
+#EXTINF:-1,TVP
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1,TVP 1
+#EXTINF:-1,TVN
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1,Canal 2
+#EXTINF:-1,Canal T2
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
-#EXTINF:-1,Canal 4
-rtmp://streaming.wirenetserver.com.ar:1935/canal4/live_1
 #EXTINF:-1,Canal 9
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
-#EXTINF:-1,Tiva Tv
+#EXTINF:-1,Tiva
 http://fl729845.live.cdn.frontlayer.net/fl729845/live/media_16362.m3u8
 
-#EXTINF:-1,SVT1 HD
-http://188.138.9.228:8001
-#EXTINF:-1,SVT2 HD
-http://188.138.9.228:8002
-#EXTINF:-1,TV4 HD
-http://188.138.9.228:8004
 #EXTINF:-1,TV4 HD
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
-#EXTINF:-1,SVT Barnkanalen HD
-http://188.138.9.228:8013
-#EXTINF:-1,svt24 HD
-http://188.138.9.228:8013
 
 #EXTINF:-1,RAI 1
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
