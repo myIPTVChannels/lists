@@ -51,10 +51,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/NBCSN.png",NBCSN SD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sport.png",Fox Sports
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox%20Sports%202.png",Fox Sports 2
-http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.jpg",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/winsports.jpg",Win Sports
