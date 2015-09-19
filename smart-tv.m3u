@@ -128,6 +128,8 @@ http://193.194.107.10:4022/udp/225.1.3.103:4001
 http://193.194.107.10:4022/udp/225.1.3.102:4001
 #EXTINF:-1,НТВ Баскетбол
 http://fr456.edem.tv/iptv/AG4F5YHLGU6RDV/529/index.m3u8
+#EXTINF:-1,НТВ Баскетбол
+http://95.188.124.200:1234/udp/233.7.70.246:5000
 #EXTINF:-1,NBA HD
 http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 #EXTINF:-1,ESPN Brasil
