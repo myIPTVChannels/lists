@@ -28,6 +28,8 @@ http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
 http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
 #EXTINF:-1,TCV
 http://213.13.26.12:1935/live/rtc_teste/hasbahca.m3u8
+#EXTINF:-1, Baby TV
+http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
