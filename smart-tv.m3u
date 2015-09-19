@@ -858,6 +858,14 @@ http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,Playboy TV
 http://91.213.59.190:8000/239.0.0.200
+#EXTINF:-1,Nuart-TV
+http://91.213.59.190:8000/239.0.1.156
+#EXTINF:-1,Redlight HD
+http://91.213.59.190:8000/239.0.1.27
+#EXTINF:-1,Русская Ночь
+http://91.213.59.190:8000/239.0.0.198
+#EXTINF:-1,Hustler TV
+http://91.213.59.190:8000/239.0.0.199
 #EXTINF:-1,Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,Japao Hot
