@@ -26,6 +26,8 @@ rtsp://www.canal.parlamento.pt/Live
 http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
 #EXTINF:-1,Capelinha Santuario Fatima
 http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
+#EXTINF:-1,TCV
+http://213.13.26.12:1935/live/rtc_teste/hasbahca.m3u8
 
 #EXTINF:-1,TV Cine 1
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
@@ -134,6 +136,8 @@ http://95.188.124.200:1234/udp/233.7.70.246:5000
 http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg", Extreme Sports HD 2
+http://en356.edem.tv/iptv/D3MBMTV79H9TYM/144/index.m3u8
 
 #EXTINF:-1 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV
 http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
@@ -156,15 +160,11 @@ rtmp://178.16.220.163:1935/live/n2sport
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1 tvg-id=,ESPN Deportes
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg" ,Extreme Sports HD 1
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg", Extreme Sports HD 2
-http://en356.edem.tv/iptv/D3MBMTV79H9TYM/144/index.m3u8
 #EXTINF:-1,Slovak Sport 1
 rtmp://195.168.51.178/live/ss1HD
 #EXTINF:-1,Slovak Sport 2
 rtmp://195.168.51.178/live/ss2hd
-#EXTINF:-1,Sky Sports F1 (Muda)
+#EXTINF:-1,BT/Sky
 rtmp://secure.hdcast.org/justforvip/llive1
 #EXTINF:-1,IRAK Iraqiya Sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
@@ -174,20 +174,6 @@ rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f
 http://lag1.tv-mobile.org/prgr.m3u8 
 #EXTINF:-1,Diema Sport 2
 http://lag1.tv-mobile.org/prgt.m3u8
-#EXTINF:-1,Pac 12
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,Pac 12 Arizona
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1,Pac 12 Bay Area
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,Pac 12 Los Angeles
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1,Pac 12 Mountain
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1,Pac 12 Oregon
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,Pac 12 Washingtons
-http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1,NFL Network
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 #EXTINF:-1,Nbc Sports Golf
