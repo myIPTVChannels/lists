@@ -263,6 +263,8 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,LaSexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/neox/neox_1@35261/master.m3u8
 #EXTINF:-1,Galicia
 http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
 #EXTINF:-1,Galicia America
