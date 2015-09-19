@@ -194,9 +194,9 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200		
 #EXTINF:-1,Sport Time TV 7
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200	
-#EXTINF:-1,Kazsport
+#EXTINF:-1,Kaz Sport
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-#EXTINF:-1,BSTV-Bursaspor TV
+#EXTINF:-1,BS TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
 #EXTINF:-1,100 Live Sport
 mms://100automoto.tv/100livesport
