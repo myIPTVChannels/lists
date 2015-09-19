@@ -28,7 +28,7 @@ http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
 http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
 #EXTINF:-1,TCV
 http://213.13.26.12:1935/live/rtc_teste/hasbahca.m3u8
-#EXTINF:-1, Baby TV
+#EXTINF:-1,Baby TV
 http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
@@ -75,15 +75,15 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:-1 ,Наш Футбол ХД
+#EXTINF:-1,Наш Футбол ХД
 http://91.213.59.190:8000/239.0.1.100
 #EXTINF:-1,HD Спорт
 http://91.213.59.190:8000/239.0.0.117
-#EXTINF:-1, Спорт 1 HD
+#EXTINF:-1,Спорт 1 HD
 http://91.213.59.190:8000/239.0.0.237
-#EXTINF:-1, Спорт
+#EXTINF:-1,Спорт
 http://79.133.125.42:8888/udp/239.191.254.80:13343
-#EXTINF:-1 ,Футбол 1
+#EXTINF:-1,Футбол 1
 http://91.213.59.190:8000/239.0.0.169
 #EXTINF:-1,Fox Sports AU
 http://motorsport.hopto.org:8080/
