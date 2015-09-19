@@ -138,22 +138,22 @@ http://95.188.124.200:1234/udp/233.7.70.246:5000
 http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 #EXTINF:-1,ESPN Brasil
 http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ExtremeSports.jpg" tvg-logo="http://logos.iptvglobal.com.br/ExtremeSports.jpg", Extreme Sports HD 2
+#EXTINF:-1, Extreme Sports HD 2
 http://en356.edem.tv/iptv/D3MBMTV79H9TYM/144/index.m3u8
 
-#EXTINF:-1 tvg-id="jonasiptv-SporTVs" tvg-logo="sportv.png" tvg-logo="http://logos.iptvglobal.com.br/sportv.png" group-title="Esportes Brasileiros",SPORTV
+#EXTINF:-1,SPORTV
 http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-SporTV 3s" tvg-logo="sportv2.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 
+#EXTINF:-1,SPORTV 3 
 http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-SporTV 3s" tvg-logo="sportv3.png" tvg-logo="http://logos.iptvglobal.com.br/sportv3.png" group-title="Esportes Brasileiros",SPORTV 3 
+#EXTINF:-1,SPORTV 3 
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="terraesportes.jpg" tvg-logo="http://logos.iptvglobal.com.br/terraesportes.jpg" group-title="Esportes Brasileiros",Terra Esportes
+#EXTINF:-1,Terra Esportes
 http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativo" tvg-logo="Esporte%20Interativo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Esporte%20Interativo.jpg" group-title="Esportes Brasileiros",TVU Ei
+#EXTINF:-1,TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-PFC" tvg-logo="PFC.jpg" tvg-logo="http://logos.iptvglobal.com.br/PFC.jpg" group-title="Esportes Brasileiros", PFC 24Hrs 
+#EXTINF:-1,PFC 24Hrs 
 http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Esporte Interativoo" tvg-logo="eimax.png" tvg-logo="http://logos.iptvglobal.com.br/eimax.png" group-title="Esportes Brasileiros",E+I MAXX SD
+#EXTINF:-1,E+I Maxx SD
 http://37.203.209.34:443/mobile/flash48/IPTVGLOBAL.m3u8
 
 #EXTINF:-1,NSport+
