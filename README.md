@@ -9,23 +9,23 @@ Portugal PT Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
+Movies: movies.m3u = http://git.io/vnUb0
+
+Music Channels: music.m3u = http://git.io/vZohs
+
 United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP
 
 Russia RU Channels: ru.m3u = http://git.io/vZoha
 
 Indian IN Channels: hindi.m3u = http://git.io/vZoJg
 
-Music Channels: music.m3u = http://git.io/vZohs
-
 NASA Space Channels: nasa.m3u = http://git.io/vZPFO
 
-SMART TV (LG, Samsung): smart-tv.m3u = http://git.io/vZQlR
+SMART TV (LG, Samsung, Philips): smart-tv.m3u = http://git.io/vZQlR
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
 Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
-
-Movies: movies.m3u = http://git.io/vnUb0
 
 
 ##Rules
@@ -33,7 +33,7 @@ Movies: movies.m3u = http://git.io/vnUb0
 
 1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets).
 
-1.2) Se existir mais que um canal/ligação, diferenciar através da qualidade do canal a seguir ao nome do mesmo, com FHD (para 1080p) HD (para 720p), FSD (entre 480i e 576i) e SD (Menos de 480i), ou então um número sequencial entre parentisis. Ex: RTP FHD / RTP (2). Resoluções abaixo de 720p porém acima de 576i deverão ser consideradas "FSD". Para avaliar a resolução de uma stream, poderão usar o VLC.
+1.2) Se existir mais que um canal/ligação, diferenciar através da qualidade do canal a seguir ao nome do mesmo, com FHD (para 1080p) HD (para 720p), FSD (entre 480i e 576i) e SD (Menos de 480i), ou então um número sequencial entre parentisis. Ex: RTP FHD / RTP (2). Resoluções abaixo de 720p porém acima de 576i deverão ser consideradas "FSD" (para avaliar a resolução de uma stream, poderão usar o VLC).
 
 1.3) Nomes dos canais sem referências, créditos e cores.
 
