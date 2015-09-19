@@ -29,6 +29,8 @@ http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=ale
 http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:0, HOT GIRL
 http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:0, Hustler TV
+http://91.213.59.190:8000/239.0.0.199
 #EXTINF:0, Jasmin TV HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0, Japao Hot
@@ -57,18 +59,24 @@ http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-table
 http://62.210.82.241:8081/private/private/live.m3u8
 #EXTINF:0, Nefertisex 10
 http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
-#EXTINF:0, SAKURA (Koreia)
-http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-#EXTINF:0, Sexstation 
-http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
-#EXTINF:0, Spice
-http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+#EXTINF:0, Nuart-TV
+http://91.213.59.190:8000/239.0.1.156
 #EXTINF:0, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:0, Playy
 http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
 #EXTINF:0, Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:0, Русская Ночь
+http://91.213.59.190:8000/239.0.0.198
+#EXTINF:0, Redlight HD
+http://91.213.59.190:8000/239.0.1.27
+#EXTINF:0, SAKURA (Koreia)
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:0, Sexstation 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:0, Spice
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
 #EXTINF:0,=== Movies ===
 http://
 #EXTINF:-1, Adult 4K: VOD1
