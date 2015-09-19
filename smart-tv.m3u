@@ -44,10 +44,12 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_SportTV_One/SportTV_One.sdp
 rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV2/SPORTTV2.sdp
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv3.png",Sport TV 3 HD
 rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
+#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas HD
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:0, tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas HD OPC 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/2123.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/maritimotv.jpg",Maritimo TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rmfc.jpg",Real Madrid TV
