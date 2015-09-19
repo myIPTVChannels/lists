@@ -251,7 +251,7 @@ http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,TVE 24H
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1,Travel TVE
+#EXTINF:-1,TravelTve
 rtmp://87.106.219.140:1935/live/myStream_2
 #EXTINF:-1,Telecinco
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
@@ -265,18 +265,18 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,LaSexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TVG Galicia
+#EXTINF:-1,Galicia
 http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1,TVG America
+#EXTINF:-1,Galicia America
 http://media3.crtvg.es/live/tvga/playlist.m3u8
-#EXTINF:-1,TVG Europa
+#EXTINF:-1,Galicia Europa
 http://media3.crtvg.es/live/tvge/playlist.m3u8
-#EXTINF:-1,TeleB
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,Tele B
 http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8
 #EXTINF:-1,Tele Bilbao 
 rtmp://178.32.53.254/telebilbao/livestream 
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 #EXTINF:-1,Levante TV
 rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
 #EXTINF:1,Mediterranea TV
@@ -305,8 +305,6 @@ http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
 #EXTINF:-1,HD Fashion
 rtmp://95.67.8.43:1935/live/fashionhd
 
-#EXTINF:-1,Musica
-http://pvr.tvip.ga/9001.m3u8
 #EXTINF:-1,One
 http://rtmp.one.by:2300
 #EXTINF:-1, O2 Music
