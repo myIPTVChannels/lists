@@ -882,6 +882,8 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
 #EXTINF:-1,But Go
 http://edge2.everyon.tv:1935/etv2sb/phd772/master.m3u8
+#EXTINF:-1,Claro
+http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
 #EXTINF:-1,Boys Mania
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:-1,Nefertisex TV-CH 1
