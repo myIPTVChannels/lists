@@ -437,8 +437,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchanne
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1,Mezzo
 http://188.93.94.46:80/mezzo/index.m3u8
-#EXTINF:-1,Musica Israel
-http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
 #EXTINF:-1,Zik
 http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
 #EXTINF:-1,PIK SD
