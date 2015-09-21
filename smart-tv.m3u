@@ -60,6 +60,8 @@ http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 #EXTINF:-1 tvg-id="btv.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/BTV_Logo.png",BTV
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/207.ts
+#EXTINF:-1,Sporting TV
+http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/208.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/maritimotv.jpg",Maritimo TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rmfc.jpg",Real Madrid TV
