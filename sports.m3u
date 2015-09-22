@@ -46,6 +46,8 @@ rtmpe://r.livecast.cc/rs/live3-qszlx swfUrl=http://sharecast.to/player/jwplayer.
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV Americas" tvg-logo="SPORT TV AMERICAS.png" group-title="Portugal", SPORT TV AMÉRICAS SD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1 group-title="Portugal", SPORTING TV
+http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/208.ts
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="Portugal",[COLOR lawngreen] CANAL + FUTBOL HD [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.0.86/pull/ playpath=futbol932?keys=bcQUJRxnQxW4mBFcrJglIg&keyt;=1439955034 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/ conn=S:OK timeout=15
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="Portugal",[COLOR lawngreen] CANAL+ (esp) [/COLOR][COLOR red] ON [/COLOR]
