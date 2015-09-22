@@ -33,12 +33,15 @@ http://213.13.26.7:1936/live/_definst_/sicnoticias/chunklist_w656214511.m3u8
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
 
 
-#EXTINF:-1 group-title="TDT", TVI (1) [FSD]
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT", TVI [SD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 group-title="TDT", TVI (2) [FSD]
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT", TVI (2) [SD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1 group-title="TDT", TVI (3) [SD]
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT", TVI (3) [SD]
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="NOTICIAS", TVI24 (1) [FSD]
