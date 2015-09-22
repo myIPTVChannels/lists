@@ -64,3 +64,9 @@ http://bit.ly/IPTVGlobal-disneyjr
 #EXTINF:-1 group-title="ANIMAÇAO", Zoomoo Brasil (1) [SD]
 http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
 
+
+#EXTINF:-1 group-title="Filmes", TV Cine 1 [1080p]
+rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
+#EXTINF:-1 group-title="Filmes", TV Cine 2 [1080p]
+rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_TWO/TVCINE_TWO.sdp
+
