@@ -112,8 +112,6 @@ http://91.213.59.190:8000/239.0.0.50
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1 ,Fight Network
-http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:-1,Bein Sports 2
@@ -230,6 +228,29 @@ mms://100automoto.tv/channel_mercedes
 mms://100automoto.tv/channel_porsche
 #EXTINF:-1,Motorsport 1
 http://motorsport.hopto.org:8081/
+
+
+#EXTINF:-1 ,Fight Network
+http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
+#EXTINF:0, UFC - ULTIMATE FIGHTING CHAMPIONSHIP
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
+#EXTINF:-1 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-
+logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes 
+Brasileiros",Canal Combate 
+http://bit.ly/IPTVGlobal-combate
+#EXTINF:-1 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-
+logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes 
+Brasileiros",Canal Combate 
+rtmp://109.236.88.32/livepkgr/combate live=1
+#EXTINF:-1 ,Fight Network
+http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
+#EXTINF:-1, WWE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”, XTREME IMPACTS (USA)
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 tvg-logo="KazSport.png" group-title=“DESPORTO”, KAZSPORT (KAZ)
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
 
 #EXTINF:-1 audio-track="eng",Nickelodeon
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
