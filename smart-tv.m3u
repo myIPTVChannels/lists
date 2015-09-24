@@ -234,24 +234,19 @@ http://motorsport.hopto.org:8081/
 http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
 #EXTINF:0, UFC - ULTIMATE FIGHTING CHAMPIONSHIP
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
-#EXTINF:-1 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-
-logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes 
-Brasileiros",Canal Combate 
+#EXTINF:-1, Canal Combate 
 http://bit.ly/IPTVGlobal-combate
-#EXTINF:-1 tvg-id="jonasiptv-Combate" tvg-logo="combate.jpg" tvg-
-logo="http://logos.iptvglobal.com.br/combate.jpg" group-title="Esportes 
-Brasileiros",Canal Combate 
+#EXTINF:-1, Canal Combate 
 rtmp://109.236.88.32/livepkgr/combate live=1
-#EXTINF:-1 ,Fight Network
-http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
-#EXTINF:-1, WWE
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
-#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”, XTREME IMPACTS (USA)
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 tvg-logo="KazSport.png" group-title=“DESPORTO”, KAZSPORT (KAZ)
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 #EXTINF:0,BOX NATION
 http://s3.iptvapi.com:8081/BOX/index.m3u8
+#EXTINF:-1, WWE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+#EXTINF:-1, XTREME IMPACTS (USA)
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:-1, KAZSPORT (KAZ)
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
 
 
 #EXTINF:-1 audio-track="eng",Nickelodeon
