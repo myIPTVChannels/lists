@@ -33,35 +33,10 @@ http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
-#EXTINF:-1,TV Cine 1
-rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
-#EXTINF:-1 tvg-id="TV CINE 1" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TV CINE 1.png", TVC1
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/209.ts
-#EXTINF:-1,TV Cine 2
-rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_TWO/TVCINE_TWO.sdp
-#EXTINF:-1 tvg-id="TV CINE 2" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TV CINE 2.png", TVC2
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/210.ts
-#EXTINF:-1 tvg-id="TV CINE 3" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TV CINE 3.png", TVC3
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/211.ts
-#EXTINF:-1 tvg-id="TVC 4" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TV CINE 4.png", TVC4
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/212.ts
-
-#EXTINF:-1,Sport TV 1
-rtmp://area61.better-than.tv:1935/ANYTV_USR_SportTV_One/SportTV_One.sdp
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT TV 1.png", SPORT TV 1
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/229.ts
-#EXTINF:-1,Sport TV 2 HD
-rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV2/SPORTTV2.sdp
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/sporttv3.png",Sport TV 3 HD
-rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas HD
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1 tvg-id="btv.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/BTV_Logo.png",BTV
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/207.ts
-#EXTINF:-1,Sporting TV
-http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/208.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/maritimotv.jpg",Maritimo TV
 http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rmfc.jpg",Real Madrid TV
@@ -81,8 +56,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_3.m3u8
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:-1,Sky Sports 4 TEMP
-http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/3600.ts
 #EXTINF:-1,Viasat Sport  
 http://193.194.107.10:4022/udp/225.1.3.101:4001
 #EXTINF:-1,Viasat Sport
@@ -91,23 +64,9 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:-1,Наш Футбол ХД
-http://91.213.59.190:8000/239.0.1.100
-#EXTINF:-1,HD Спорт
-http://91.213.59.190:8000/239.0.0.117
-#EXTINF:-1,Спорт 1 HD
-http://91.213.59.190:8000/239.0.0.237
-#EXTINF:-1,Спорт
-http://79.133.125.42:8888/udp/239.191.254.80:13343
-#EXTINF:-1,Футбол 1
-http://91.213.59.190:8000/239.0.0.169
 #EXTINF:-1,Fox Sports AU
 http://motorsport.hopto.org:8080/
 
-#EXTINF:-1,Eurosport HD
-http://91.213.59.190:8000/239.0.0.195  
-#EXTINF:-1,Extreme Sports
-http://91.213.59.190:8000/239.0.0.50
 #EXTINF:-1,Eurosport FR  HD
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,Eurosport 1 ENG
