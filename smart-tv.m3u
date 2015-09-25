@@ -188,7 +188,6 @@ mms://100automoto.tv/channel_porsche
 #EXTINF:-1,Motorsport 1
 http://motorsport.hopto.org:8081/
 
-
 #EXTINF:-1 ,Fight Network
 http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
 #EXTINF:0, UFC - ULTIMATE FIGHTING CHAMPIONSHIP
@@ -201,12 +200,10 @@ rtmp://109.236.88.32/livepkgr/combate live=1
 http://s3.iptvapi.com:8081/BOX/index.m3u8
 #EXTINF:-1, WWE
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
-#EXTINF:-1, XTREME IMPACTS (USA)
+#EXTINF:-1, XTREME IMPACTS
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1, KAZSPORT (KAZ)
+#EXTINF:-1, KAZSPORT
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-
-
 
 #EXTINF:-1 audio-track="eng",Nickelodeon
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
@@ -216,8 +213,6 @@ http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 #EXTINF:-1 audio-track="eng",Cartoon Network
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
-#EXTINF:-1,Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 
 #EXTINF:-1,Cinemax 
 http://lag2.tv-mobile.org/prgb.m3u8 
@@ -583,19 +578,6 @@ rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
 #EXTINF:-1,Studenska TV
 rtmp://213.202.73.202/iskon/studentska_b3.stream
 
-#EXTINF:-1,SKAI
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
-#EXTINF:-1,STAR
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
-#EXTINF:-1,NERIT
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
-#EXTINF:-1,ALPHA
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
-#EXTINF:-1,ANT1
-rtmp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
-#EXTINF:-1,MEGA
-rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
-
 
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
@@ -853,30 +835,16 @@ http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
 
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,Playboy TV
-http://91.213.59.190:8000/239.0.0.200
-#EXTINF:-1,Nuart-TV
-http://91.213.59.190:8000/239.0.1.156
-#EXTINF:-1,Redlight HD
-http://91.213.59.190:8000/239.0.1.27
-#EXTINF:-1,Русская Ночь
-http://91.213.59.190:8000/239.0.0.198
-#EXTINF:-1,Hustler TV
-http://91.213.59.190:8000/239.0.0.199
 #EXTINF:-1,Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,Japao Hot
 rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1,BabeStation X-Treme 18+
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-#EXTINF:-1,But Go
-http://edge2.everyon.tv:1935/etv2sb/phd772/master.m3u8
 #EXTINF:-1,Claro
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
 #EXTINF:-1, Claro Premium
 http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
-#EXTINF:-1, Claro Premium 2
-http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
 #EXTINF:-1,Boys Mania
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:-1,Nefertisex TV-CH 1
@@ -909,32 +877,6 @@ http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:-1,Sakura
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8 
-#EXTINF:-1,Hot Girl 
-http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8 
-#EXTINF:-1,The O 
-http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8 
-#EXTINF:-1,Cinero 
-http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8 
-#EXTINF:-1,Okdai HD 
-http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8 
-#EXTINF:-1,Pink TV 
-http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8 
-#EXTINF:-1,Girls TV 
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8 
-#EXTINF:-1,Delight Empire 
-http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8 
-#EXTINF:-1,Plus
-http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8 
-#EXTINF:-1,Ohdeok 
-http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8 
-#EXTINF:-1,Livething 
-http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8 
-#EXTINF:-1,Premium 
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8 
-#EXTINF:-1,Ask TV 
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:-1,Playy
-http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
 
 
 #EXTINF:-1, Adult 4K: VOD1
