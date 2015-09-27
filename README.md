@@ -4,28 +4,28 @@ Open to all the IPTV community.
 
 Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>.
 
-##URLS myIPTVChannels (Kodi/VLC, etc)
-Portugal PT Channels: pt.m3u = http://git.io/vZohP
+##URLs myIPTVChannels (Kodi/VLC, etc)
+Portugal PT Channels: pt.m3u = http://tinyurl.com/myiptvportugal
 
-Sports Channels: sports.m3u = http://git.io/vZPSM
+Sports Channels: sports.m3u = http://tinyurl.com/myiptvsports
 
-Movies: movies.m3u = http://git.io/vnUb0
+Movies: movies.m3u = http://tinyurl.com/myiptvmovies
 
-Music Channels: music.m3u = http://git.io/vZohs
+Music Channels: music.m3u = http://tinyurl.com/myiptvmusic
 
-United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP
+United Kingdom UK Channels : uk.m3u = http://tinyurl.com/myiptvuk
 
-Russia RU Channels: ru.m3u = http://git.io/vZoha
+Russia RU Channels: ru.m3u = http://tinyurl.com/myiptvru
 
-Indian IN Channels: hindi.m3u = http://git.io/vZoJg
+Indian IN Channels: hindi.m3u = http://tinyurl.com/myiptvhindi
 
-NASA Space Channels: nasa.m3u = http://git.io/vZPFO
+NASA Space Channels: nasa.m3u = http://tinyurl.com/myiptvnasa
 
-SMART TV (LG, Samsung, Philips): smart-tv.m3u = http://git.io/vZQlR
+SMART TV (LG, Samsung, Philips): smart-tv.m3u = http://tinyurl.com/myiptvsmarttv
 
-Adult Channels: adult.m3u = http://git.io/vZiiP
+Adult Channels: adult.m3u = http://tinyurl.com/myiptvadult
 
-Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
+Webcams World / Beaches : webcamsmundoepraias.m3u = http://tinyurl.com/myiptvpraias
 
 
 ##Rules
