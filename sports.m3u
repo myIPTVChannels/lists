@@ -216,8 +216,8 @@ http://0.0.0.1234
 #EXTINF:-1 group-title="UK", [B][COLOR blue]--- UK Sports Channels ---[/COLOR][/B]
 http://0.0.0.0
 
-#EXTINF:-1 group-title="UK", Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/63.m3u8
+#EXTINF:-1 group-title="UK", Sky Sports 1 [B][COLOR green]FHD[/COLOR][/B]
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/63.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.174.38/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
@@ -229,7 +229,10 @@ rtmp://93.174.93.196/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jw
 http://37.48.83.131:1935/live/skysportsnewsz1.stream/playlist.m3u8?wowzasessionid=1841847408|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
 
 #EXTINF:-1 group-title="UK", Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/64.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/64.m3u8
+
+#EXTINF:-1 group-title="UK", Sky Sports 2 [B][COLOR blue]HD[/COLOR][/B]
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/64.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=2skys&vw=600&vh=450
@@ -238,25 +241,25 @@ rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jw
 rtmp://89.248.174.38/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
 
 #EXTINF:-1 group-title="UK", Sky Sports 3 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/66.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/66.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 3 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.174.38/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=3skys&vw=600&vh=450
 
 #EXTINF:-1 group-title="UK", Sky Sports 4 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/67.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/67.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 4 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.169.35/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=4skys&vw=600&vh=450
 
-#EXTINF:-1 group-title="UK", Sky Sports 5 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/68.m3u8
+#EXTINF:-1 group-title="UK", Sky Sports 5 [B][COLOR blue]HD[/COLOR][/B]
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/68.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 5 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.169.35/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=5skys&vw=600&vh=450
 
 #EXTINF:-1 group-title="UK", Sky Sports F1 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/78.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/78.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports F1 [B][COLOR orange]FSD[/COLOR][/B]
 http://89.248.172.57:1935/edge/_definst_/udhfbfg0vfzjcds/playlist.m3u8?xs=_we_dWRoZmJmZzB2ZnpqY2RzfDE0NDM2MDE5MTZ8fDU2MGE0YzdjMThiMWJ8MzRiNDgwNjRhMGE2MWIzMzBkY2ZiNWNjOWU4NjNjN2JlZDhkMGI5Zg..
@@ -268,7 +271,7 @@ http://158.255.6.224:8080/loadchan.php?chan=71&gtoken=8c9f7326770bb525908e17d491
 rtmpe://172.86.188.90:1935/livedge/mamahdskynews playPath=mamahdskynews swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN\2018,0,0,232 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskynews&vw=854&vh=480
 
 #EXTINF:-1 group-title="UK", BT Sports 1 [B][COLOR blue]HD[/COLOR][/B] [COLOR grey](pode não funcionar)[/COLOR]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/54.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/54.m3u8
 
 #EXTINF:-1 group-title="UK", BT Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://93.174.93.196/live playpath=1bt swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1bt&vw=600&vh=450
@@ -277,25 +280,25 @@ rtmp://93.174.93.196/live playpath=1bt swfUrl=http://www.yocast.tv/myplayer/jwpl
 rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1
 
 #EXTINF:-1 group-title="UK", BT Sports 2 [B][COLOR blue]HD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/55.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/55.m3u8
 
 #EXTINF:-1 group-title="UK", BT Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
 rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2
 
 #EXTINF:-1 group-title="UK", BT Sports ESPN [B][COLOR blue]HD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/128.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/128.m3u8
 
 #EXTINF:-1 group-title="UK", BT Sports ESPN [B][COLOR orange]FSD[/COLOR][/B]
 http://s3.iptvapi.com:8081/BTSespn/index.m3u8
 
 #EXTINF:-1 group-title="UK", BT Sports EU [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/128.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/128.m3u8
 
 #EXTINF:-1 group-title="UK", BT Sports EU [B][COLOR orange]FSD[/COLOR][/B]
 rtmpe://134.19.185.252:1935/livedge/mamahdbteu
 
 #EXTINF:-1 group-title="UK", Premier Sport [B][COLOR blue]HD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/112.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/112.m3u8
 
 #EXTINF:-1 group-title="UK", Premier Sport [B][COLOR orange]FSD[/COLOR][/B]
 http://89.248.172.57:1935/edge/_definst_/6kyreuuugcp4jno/playlist.m3u8?xs=_we_Nmt5cmV1dXVnY3A0am5vfDE0NDM2MDIwMTl8fDU2MGE0Y2UzMTY5ZDJ8NGFmMmY2NmE5NTM3MGFhNjdkNTg4NmFkMzhmYjliNmJjOTkwMDM4ZA..
@@ -334,7 +337,7 @@ rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9
 http://37.48.83.131:1935/live/setanta.stream/playlist.m3u8?wowzasessionid=1703238326|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
 
 #EXTINF:-1 group-title="UK", Box Nation [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/58.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/58.m3u8
 
 #EXTINF:-1,
 http://0.0.0.0
@@ -344,8 +347,8 @@ http://0.0.0.0
 #EXTINF:-1 group-title="USA", [B][COLOR blue]--- USA Sports Channels ---[/COLOR][/B]
 http://0.0.0.0
 
-#EXTINF:-1 group-title="USA", FOX Sports 1 [B][COLOR blue]HD[/COLOR][/B] [B][COLOR red]OFF[/COLOR][/B]
-http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/fox1.720p.stream/playlist.m3u8?t=2d91265066a93dd2b68cd6876805da18&e=1443897956
+#EXTINF:-1 group-title="USA", FOX Sports 1 [B][COLOR blue]HD[/COLOR][/B]
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/fox1.720p.stream/playlist.m3u8?t=734c7bbd1c98dee2e5d5559742fed937&e=1443978880
 
 #EXTINF:-1 group-title="USA", FOX Sports 2 [B][COLOR blue]HD[/COLOR][/B]
 http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/fox2.720p.stream/playlist.m3u8?t=ab752f12be6601bf48d64955135477ba&e=1443897928
@@ -372,7 +375,7 @@ http://180.250.29.12/jhos/beib3_3/1421536739/playlist.m3u8
 http://94.242.210.199:81/live/dexters/i7new/105.m3u8
 
 #EXTINF:-1 group-title="USA", ESPN [B][COLOR blue]HD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/79.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/79.m3u8
 
 #EXTINF:-1 group-title="USA", ESPN 2 [B][COLOR orange]FSD[/COLOR][/B]
 http://158.255.6.224:8080/loadchan.php?chan=72&gtoken=8c9f7326770bb525908e17d491673530
@@ -414,22 +417,22 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
 #EXTINF:-1 group-title="USA", NBA TV [B][COLOR blue]HD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/115.m3u8
+http://94.242.210.199:81/live/d349wdpr/aoierjaodiradfj/115.m3u8
 
 #EXTINF:-1 group-title="USA", TSN 1 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/83.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/83.m3u8
 
 #EXTINF:-1 group-title="USA", TSN 2 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/84.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/84.m3u8
 
 #EXTINF:-1 group-title="USA", TSN 3 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/85.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/85.m3u8
 
 #EXTINF:-1 group-title="USA", TSN 4 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/86.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/86.m3u8
 
 #EXTINF:-1 group-title="USA", TSN 5 [B][COLOR orange]FSD[/COLOR][/B]
-http://94.242.210.199:81/live/dexteri7s4/JId3VZkEeD/87.m3u8
+http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/87.m3u8
 
 #EXTINF:-1 group-title="USA", WWE Network [B][COLOR orange]FSD[/COLOR][/B]
 http://158.255.6.224:8080/loadchan.php?chan=795&gtoken=8c9f7326770bb525908e17d491673530
