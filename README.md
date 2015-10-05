@@ -64,6 +64,10 @@ radio is flag that indicate what group or cahnnel is radio. If the tag is absent
 2.7) tvg-logo - Display name or logo of this channel
 audio-track - Audio track definition of this channel, if it's supported by stream. Write language codes in ISO 639-2 standard, you may use several codes separated by comma (e.g.: "eng, rus, deu"). The first item in the list will be defined as default.
 
+##Help/Ajuda
+
+Como usar várias listas ao mesmo tempo no KODI - http://kodiportugal.com/PlayList.pdf
+
 ##Channels Sources
 
 ###Portugal
