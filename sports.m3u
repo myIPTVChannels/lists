@@ -3,11 +3,6 @@
 #EXTINF:-1 group-title="Portugal", [B][COLOR red]--- Portugal ---[/COLOR][/B]
 http://0.0.0.0
 
-#EXTINF:-1 group-title="Portugal",[COLOR yellow] SPORT TV 1 [B][/COLOR][COLOR green]FHD[COLOR gray] TEMPORARIO [/COLOR][/B]
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/880.m3u8
- 
-#EXTINF:-1 group-title="Portugal",[COLOR yellow] SPORT TV 1 [B][/COLOR][COLOR green]FHD[COLOR gray] TEMPORARIO [/COLOR][/B]
-http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/209.ts
 
 #EXTINF:-1 group-title="Portugal", SPORT TV 1 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
