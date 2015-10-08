@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,=== Adult 18+ ===
 http://
+#EXTINF:0, Adult XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 #EXTINF:0, Asian Porn 1
 http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
 #EXTINF:0, Asian Porn 2
@@ -35,16 +37,20 @@ http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=ale
 http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:0, erotic 4
 http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0, HOT GIRL
-http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
 #EXTINF:0, Hustler TV
 http://91.213.59.190:8000/239.0.0.199
+#EXTINF:0, HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:0, Hot Shots TV
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 #EXTINF:0, Jasmin TV HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0, Japao Hot
 rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:0, Корея 1 
 http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#EXTINF:0, LiveSex
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
 #EXTINF:0, Livething Premium 
 http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
 #EXTINF:0, Nefertisex 1
@@ -87,6 +93,25 @@ http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
 #EXTINF:0, Venus
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:0, XXX
+http://188.165.220.116:8081/live2/37/playlist.m3u8
+#EXTINF:0, 21 Sextury.com
+http://188.165.220.116:8081/live/62/playlist.m3u8
+
+#EXTINF:0,=== Live ===
+http://
+#EXTINF:0, Live Sex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
+#EXTINF:0, BabeStation CAM1
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:0, BabeStation CAM2
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:0, BabeStation CAM3
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:0, BabeStation CAM4
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+
 #EXTINF:0,=== Movies ===
 http://
 #EXTINF:-1, Adult 4K: VOD1
