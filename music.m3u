@@ -3,33 +3,33 @@
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0 tvg-logo="", BIG POND MUSIC 
+#EXTINF:0, BIG POND MUSIC 
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
-#EXTINF:0 tvg-logo="Capital TV.png", CAPITAL TV 
+#EXTINF:0, CAPITAL TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="Clubland_tv.png", CLUBLAND 
+#EXTINF:0, CLUBLAND 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 tvg-logo="dreamtv.png", DREAM TV 
+#EXTINF:0, DREAM TV 
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0 group-title="Music", ELECTROSOUND TV
+#EXTINF:0, ELECTROSOUND TV
 rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:0, EUROPA PLUS TV
 rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
 #EXTINF:0, For Music TV
 http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
-#EXTINF:0 group-title="Music", Go TV
+#EXTINF:0, Go TV
 http://stream1.gotv.at:1935/live/gotvlive_360p/chunklist.m3u8
 #EXTINF:0, Gold TV
 http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
 #EXTINF:0, HARD LIFE 
 http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
-#EXTINF:0 tvg-logo="Heart TV.png", HEART TV 
+#EXTINF:0, HEART TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0 tvg-logo="kiss tv.png", KiSS TV 
+#EXTINF:0, KiSS TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:0 group-title="Music", KiSS TV (2)
+#EXTINF:0, KiSS TV (2)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:0, KiSS TV (3)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
@@ -47,7 +47,7 @@ http://74.208.152.93/music/stream3/stream.m3u8
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:0, MIMUSICA HD (2)
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0 tvg-logo="Multishow.jpg" tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg" group-title="Musicas", MULTISHOW
+#EXTINF:0 tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg", MULTISHOW
 http://bit.ly/IPTVGlobal-multshow
 #EXTINF:0, Music Box RU
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
@@ -67,10 +67,12 @@ http://rtmp.infomaniak.ch/livecast/energytv/playlist.m3u8
 http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
 #EXTINF:0, Ocko TV
 http://iptv.klfree.cz:8016/
-#EXTINF:0 tvg-logo="", OH TV 
+#EXTINF:0, OH TV 
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0 tvg-logo="PIK.png", PIK  
+#EXTINF:0, PIK  
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:0, Pink Music  
+http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
 #EXTINF:0, RADIO MONTE CARLO TV  
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:0, RADIO MONTE CARLO TV (2)
@@ -199,6 +201,8 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
 http://
+#EXTINF:-1 tvg-logo="" group-title="MTV", MTV Azerbaijan
+http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MTV", MTV LIVE HD  
 http://78.30.254.27:8989/udp/239.0.0.196:4000
 #EXTINF:-1 tvg-logo="MTV HITS.png" group-title="MTV", MTV HITS  
