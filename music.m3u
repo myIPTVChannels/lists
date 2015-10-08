@@ -201,18 +201,34 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
 http://
-#EXTINF:-1 tvg-logo="" group-title="MTV", MTV Azerbaijan
+#EXTINF:0 group-title="MTV", MTV 1
+http://stream-full.selfip.com:8000/live/jack/jack/165.ts
+#EXTINF:0 group-title="MTV", MTV Azerbaijan
 http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MTV", MTV LIVE HD  
+#EXTINF:0 group-title="MTV", MTV Base
+http://stream-full.selfip.com:8000/live/jack/jack/168.ts
+#EXTINF:0 group-title="MTV", MTV Classic
+http://stream-full.selfip.com:8000/live/jack/jack/169.ts
+#EXTINF:0 group-title="MTV", MTV Dance
+http://stream-full.selfip.com:8000/live/jack/jack/170.ts
+#EXTINF:0 group-title="MTV", MTV Dance (2)
+http://bit.do/bnDBR
+#EXTINF:0 group-title="MTV", MTV LIVE HD  
 http://78.30.254.27:8989/udp/239.0.0.196:4000
-#EXTINF:-1 tvg-logo="MTV HITS.png" group-title="MTV", MTV HITS  
+#EXTINF:0 group-title="MTV", MTV HITS  
 http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8
-#EXTINF:0 group-title="MTV", MTV HITS  Russia
+#EXTINF:0 group-title="MTV", MTV HITS (2)
 http://78.30.254.27:8989/udp/239.0.0.205:4000
+#EXTINF:0 group-title="MTV", MTV Russia
+http://j.mp/ZCH_C03_MTV_sly
+#EXTINF:0 group-title="MTV", MTV Russia (2)
+http://188.17.143.39/hls/CH_C03_MTV/variant.m3u8?version=2
 #EXTINF:0 group-title="MTV", MTV Vietnam
 http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8
 #EXTINF:0 group-title="MTV", MTV Rocks
 http://78.30.254.27:8989/udp/239.0.0.143:4000
+#EXTINF:0 group-title="MTV", MTV Rocks (2)
+http://stream-full.selfip.com:8000/live/jack/jack/166.ts
 
 #EXTINF:-1, [COLOR yellow]--ONE--[/COLOR]  
 http://
