@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:0, 538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0, AMAZING TV 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, BIG POND MUSIC 
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+#EXTINF:0, BIM TV
+rtmp://188.254.62.124:11935/live/video2
 #EXTINF:0, Bridge TV
 http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/122/index.m3u8
 #EXTINF:0, CAPITAL TV 
@@ -59,6 +63,8 @@ http://74.208.152.93/music/stream3/stream.m3u8
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:0, MIMUSICA HD (2)
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0, MTV AM HD (Armenia)
+http://94.125.187.18/hlsam/hd/playlist.m3u8
 #EXTINF:0 tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg", MULTISHOW
 http://bit.ly/IPTVGlobal-multshow
 #EXTINF:0, Music Box RU
@@ -79,50 +85,70 @@ http://rtmp.infomaniak.ch/livecast/energytv/playlist.m3u8
 http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
 #EXTINF:0, Ocko TV
 http://iptv.klfree.cz:8016/
+#EXTINF:0, Ocko Gold
+http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
 #EXTINF:0, OH TV 
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0, Penki TV
+rtmp://bb.5ci.lt/live/PenkiTV_VGA
 #EXTINF:0, PIK  
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0, Pink Music  
 http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
 #EXTINF:0, PMC IRAN
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
-#EXTINF:0, RADIO MONTE CARLO TV  
-rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:0, RADIO MONTE CARLO TV (2)
-http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:0, Power Turk
+http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
 #EXTINF:0, RADIO 5 TV 
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Radio 105 TV
 http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
 #EXTINF:0, RADIO 105 TV (2)
 rtmp://fms.105.net/live/105Test1
+#EXTINF:0, Radio Musichie Luna TV Partenopeo
+mmsh://83.216.165.134/rltv?MSWMExt=.asf
+#EXTINF:0, RADIO MONTE CARLO TV  
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:0, RADIO MONTE CARLO TV (2)
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:0, RADIO ITALIA TV
 http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
 #EXTINF:0, RADIO U TV 
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
-#EXTINF:0, RADIO U TV 
+#EXTINF:0, RADIO U TV (2)
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+#EXTINF:0, Retro TV
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:0, RTL TV 102.5
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:0, Single TV
+http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
 #EXTINF:0, Soy FM TV
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
+#EXTINF:0, Spirit TV
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
+#EXTINF:0, Super Sonic TV
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 #EXTINF:0, Telemusica
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+#EXTINF:0, Top Music
+http://5.35.240.130:30005
 #EXTINF:0, TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:0, Tuba TV
 rtmp://fms.gazeta.pl/aglive/tuba_tv
 #EXTINF:0, TV Polanco
 http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
+#EXTINF:0, UTV
+http://82.76.249.77:80/utvedge/utvlive/index.m3u8
 #EXTINF:0, ULTRAFIESTA 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:0, Ven FM TV
 http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
-#EXTINF:0, VH1 Classic
-http://iptv.klfree.cz:8024/
 #EXTINF:0, VM Music
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
+#EXTINF:0, XITE TV
+rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
 
 
 #EXTINF:-1, [COLOR yellow]--1 HD--[/COLOR]  
@@ -189,11 +215,13 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
 #EXTINF:0 group-title="ESKA", Eska Party TV HD
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0 group-title="ESKA", Eska Wawa
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
 #EXTINF:0 group-title="ESKA", Eska Wawa HD
 rtmp://stream.smcloud.net/live2/wawa/wawa_720p
 #EXTINF:0 group-title="ESKA", Eska VOX TV 
 rtmp://stream.smcloud.net/live2/vox/vox_720p
-#EXTINF:0 group-title="ESKA", Eska Vox HD
+#EXTINF:0 group-title="ESKA", Eska VOX HD
 http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
 #EXTINF:0 group-title="ESKA", Eska POLO 
 rtmp://stream.smcloud.net/live/polotv
@@ -295,6 +323,13 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 #EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
 
+#EXTINF:0, [COLOR red]--VH1--[/COLOR]  
+http://
+#EXTINF:0 group-title="VH1", VH1 Classic
+http://iptv.klfree.cz:8024/
+#EXTINF:0 group-title="VH1", VH1 Classic (2)
+http://bit.do/bkWDb
+
 #EXTINF:0, [COLOR red]--VIRGIN--[/COLOR]  
 http://
 #EXTINF:0 group-title="Virgin", Virgin TV
@@ -312,6 +347,8 @@ http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 http://
 #EXTINF:0 group-title="Asia", Muzzone
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:0 group-title="Asia", Korean Music
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_cTMycjIyMWRncGNvazA3fDE0NDQ0MjAxODJ8ODIuMTU0LjQ0LjE4fDU2MTZjOGQ2NDk4NDN8Njc4NGU0Mzg5MWZiYjMzZGFhZTM3OGU2NjI2ZTBhZWRkYjU4NzkwNA.. app=edge/_definst_/?xs=_we_cTMycjIyMWRncGNvazA3fDE0NDQ0MjAxODJ8ODIuMTU0LjQ0LjE4fDU2MTZjOGQ2NDk4NDN8Njc4NGU0Mzg5MWZiYjMzZGFhZTM3OGU2NjI2ZTBhZWRkYjU4NzkwNA.. playpath=q32r221dgpcok07 swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf flashver=WIN\2018,0,0,232 live=1 timeout=15 token=D5fe7bf024907a8c135b8dc2f5fdf947 swfVfy=1 pageUrl=http://www.streamlive.to/embedplayer_new.php
 
 #EXTINF:-1, [COLOR red]--Russia--[/COLOR]  
 http://
@@ -323,6 +360,8 @@ http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", Первый Балтийский Musicльный
 http://embedcdnb.cloudy.services/play/135/chunklist_bw1800000.m3u8
+#EXTINF:0 group-title="Russia", лдПP TB
+rtmp://213.247.198.250:1935/live//ldpr.stream_720p
 #EXTINF:0 group-title="Russia", A-One Россия
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV
@@ -333,8 +372,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 rtmp://80.245.113.12/live/pubtalk1
 #EXTINF:0 group-title="Russia", Курай
 http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
-#EXTINF:0 group-title="Russia", MTV AM HD
-http://94.125.187.18/hlsam/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", Муз
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MUZTV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", Муз ТВ
@@ -343,7 +380,19 @@ http://188.128.118.189:4020
 http://hls.nebiset.tv/nebiset.m3u8
 #EXTINF:0 group-title="Russia", Русская Эстрада
 rtmp://78.140.209.20:1935/tv/ruestrada2
+#EXTINF:0 group-title="Russia", S TV
+http://iptv1.zargacum.net/iptv/ZQX7ZTT69P/105/index.m3u8
+#EXTINF:0 group-title="Russia", RUSONG TV
+http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/120/index.m3u8
 #EXTINF:0 group-title="Russia", Туган Тел
 rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
 #EXTINF:0 group-title="Russia", Zik
 http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
+#EXTINF:0 group-title="Russia", ???? TV
+http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Russia", ?????? ????????? ??
+rtmp://grey.ether.tv:1935/live/pfo/broadcast4
+#EXTINF:-1 group-title=”Music”, PIBHE 1
+rtmp://91.197.220.19:19351/live/ams
+#EXTINF:-1 group-title=”Music”,????????????-12 (????????????)
+http://78.140.209.14/unost/festival/chunklist.m3u8
