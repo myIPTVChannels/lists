@@ -5,18 +5,24 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, BIG POND MUSIC 
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+#EXTINF:0, Bridge TV
+http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/122/index.m3u8
 #EXTINF:0, CAPITAL TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, CLUBLAND 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, DREAM TV 
+#EXTINF:0, dream TV 
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, ELECTROSOUND TV
 rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:0, EUROPA PLUS TV
 rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
+#EXTINF:0, Fun 1 TV
+mms://portal.satplus.cz/TV_FUN1
 #EXTINF:0, For Music TV
 http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
+#EXTINF:0, FRESH TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:0, Go TV
 http://stream1.gotv.at:1935/live/gotvlive_360p/chunklist.m3u8
 #EXTINF:0, Gold TV
@@ -27,18 +33,24 @@ http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, JIM TV
+http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
 #EXTINF:0, KiSS TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:0, KiSS TV (2)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:0, KiSS TV (3)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:0, M1
+http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
 #EXTINF:0, M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0, MELODY CHANNEL TV 
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0, MFM TV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 #EXTINF:0, Mezzo
 http://188.93.94.46:80/mezzo/index.m3u8
 #EXTINF:0, Miami Music TV
@@ -73,6 +85,8 @@ http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wo
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0, Pink Music  
 http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:0, PMC IRAN
+http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
 #EXTINF:0, RADIO MONTE CARLO TV  
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:0, RADIO MONTE CARLO TV (2)
@@ -126,8 +140,6 @@ http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 group-title="Black Music", Golspel TV 
 rtmp://188.165.135.22/gospeltv/livestream
-#EXTINF:0 group-title="Black Music", ONE HIP HOP MUSIC
-http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
 #EXTINF:0 group-title="Black Music", REAL HIP HOP TV 
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 #EXTINF:0 group-title="Black Music", SKY GOSPEL WEB TV
@@ -303,35 +315,35 @@ http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 
 #EXTINF:-1, [COLOR red]--Russia--[/COLOR]  
 http://
+#EXTINF:0 group-title="Russia", 9 Волна
+rtmp://176.9.127.102/live/myStream_1
 #EXTINF:0 group-title="Russia", Первый HDльный HD (1HD)
 http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV
-http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
-#EXTINF:0 group-title="Russia", City
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:0 group-title="Russia", Первый Интернет канал HD 
+#EXTINF:0 group-title="Russia", Первый Интернет канал HD
 http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0 group-title="Russia", MTV AM HD
-http://94.125.187.18/hlsam/hd/playlist.m3u8
-#EXTINF:0 group-title="Russia", Для Двоих HD
-http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
+#EXTINF:0 group-title="Russia", Первый Балтийский Musicльный
+http://embedcdnb.cloudy.services/play/135/chunklist_bw1800000.m3u8
 #EXTINF:0 group-title="Russia", A-One Россия
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
+#EXTINF:0 group-title="Russia", City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:0 group-title="Russia", CT
+rtmp://80.245.113.12/live/pubtalk1
+#EXTINF:0 group-title="Russia", Курай
+http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
+#EXTINF:0 group-title="Russia", MTV AM HD
+http://94.125.187.18/hlsam/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", Муз
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MUZTV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", Муз ТВ
 http://188.128.118.189:4020
-#EXTINF:0 group-title="Russia", Туган Тел
-rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
-#EXTINF:0 group-title="Russia", 9 Волна
-rtmp://176.9.127.102/live/myStream_1
-#EXTINF:0 group-title="Russia", Русская Эстрада
-rtmp://78.140.209.20:1935/tv/ruestrada2
-#EXTINF:0 group-title="Russia", Первый Балтийский Musicльный
-http://embedcdnb.cloudy.services/play/135/chunklist_bw1800000.m3u8
 #EXTINF:0 group-title="Russia", Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:0 group-title="Russia", Курай
-http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
+#EXTINF:0 group-title="Russia", Русская Эстрада
+rtmp://78.140.209.20:1935/tv/ruestrada2
+#EXTINF:0 group-title="Russia", Туган Тел
+rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
 #EXTINF:0 group-title="Russia", Zik
 http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
