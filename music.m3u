@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="", AMAZING TV 
+#EXTINF:0 tvg-logo="", AMAZING TV 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1 tvg-logo="", BIG POND MUSIC 
+#EXTINF:0, AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0 tvg-logo="", BIG POND MUSIC 
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
-#EXTINF:-1 tvg-logo="Capital TV.png", CAPITAL TV 
+#EXTINF:0 tvg-logo="Capital TV.png", CAPITAL TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="Clubland_tv.png", CLUBLAND 
+#EXTINF:0 tvg-logo="Clubland_tv.png", CLUBLAND 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0 group-title="Music", CLUBLAND (2)
-http://rrr.sz.xlcdn.com/?
 #EXTINF:-1 tvg-logo="dreamtv.png", DREAM TV 
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0 group-title="Music", ELECTROSOUND TV
@@ -27,9 +27,9 @@ http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0 tvg-logo="kiss tv.png", KISS TV 
+#EXTINF:0 tvg-logo="kiss tv.png", KiSS TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:0 group-title="Music", KISS TV (2)
+#EXTINF:0 group-title="Music", KiSS TV (2)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:0, KiSS TV (3)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
@@ -65,7 +65,9 @@ rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
 http://rtmp.infomaniak.ch/livecast/energytv/playlist.m3u8
 #EXTINF:0", О2 HD
 http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
-#EXTINF:-1 tvg-logo="", OH TV 
+#EXTINF:0, Ocko TV
+http://iptv.klfree.cz:8016/
+#EXTINF:0 tvg-logo="", OH TV 
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 tvg-logo="PIK.png", PIK  
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
@@ -91,6 +93,10 @@ http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovis
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
 #EXTINF:0, Telemusica
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+#EXTINF:0, TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:0, Tuba TV
+rtmp://fms.gazeta.pl/aglive/tuba_tv
 #EXTINF:0, TV Polanco
 http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
 #EXTINF:0, ULTRAFIESTA 
@@ -98,7 +104,7 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchanne
 #EXTINF:0, Ven FM TV
 http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 #EXTINF:0, VH1 Classic
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
+http://iptv.klfree.cz:8024/
 #EXTINF:0, VM Music
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
 
@@ -190,13 +196,15 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
 http://
 #EXTINF:-1 tvg-logo="" group-title="MTV", MTV LIVE HD  
-http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key&stream_id=0
+http://78.30.254.27:8989/udp/239.0.0.196:4000
 #EXTINF:-1 tvg-logo="MTV HITS.png" group-title="MTV", MTV HITS  
 http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8
+#EXTINF:0 group-title="MTV", MTV HITS  Russia
+http://78.30.254.27:8989/udp/239.0.0.205:4000
 #EXTINF:0 group-title="MTV", MTV Vietnam
 http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8
 #EXTINF:0 group-title="MTV", MTV Rocks
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MTVROCKS/variant.m3u8?version=2
+http://78.30.254.27:8989/udp/239.0.0.143:4000
 
 #EXTINF:-1, [COLOR yellow]--ONE--[/COLOR]  
 http://
