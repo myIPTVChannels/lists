@@ -118,15 +118,19 @@ rtmp://109.239.142.62/live/livestream3
 
 #EXTINF:0, [COLOR yellow]--Black Music--[/COLOR]  
 http://
-#EXTINF:0, AKA Hip Hop
+#EXTINF:0 group-title="Black Music", Africa Music
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:0 group-title="Black Music", AKA Hip Hop
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, Golspel TV 
+#EXTINF:0 group-title="Black Music", Golspel TV 
 rtmp://188.165.135.22/gospeltv/livestream
-#EXTINF:0, REAL HIP HOP TV 
+#EXTINF:0 group-title="Black Music", ONE HIP HOP MUSIC
+http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
+#EXTINF:0 group-title="Black Music", REAL HIP HOP TV 
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
-#EXTINF:0, SKY GOSPEL WEB TV
+#EXTINF:0 group-title="Black Music", SKY GOSPEL WEB TV
 http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
-#EXTINF:0, URBAN MUSIC TV 
+#EXTINF:0 group-title="Black Music", URBAN MUSIC TV 
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 
 
