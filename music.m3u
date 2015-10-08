@@ -272,9 +272,9 @@ http://stream-full.selfip.com:8000/live/jack/jack/166.ts
 
 #EXTINF:-1, [COLOR yellow]--ONE--[/COLOR]  
 http://
-#EXTINF:0 group-title="ONE", ONE 1 
+#EXTINF:0 group-title="ONE", ONE 1 HD
 http://rtmp.one.by:1300
-#EXTINF:0 group-title="ONE", ONE 2 
+#EXTINF:0 group-title="ONE", ONE 2 UHD
 http://rtmp.one.by:1400
 #EXTINF:0 group-title="ONE", ONE 3 
 http://rtmp.one.by:1499
@@ -284,6 +284,7 @@ http://rtmp.one.by:2300
 http://rtmp.one.by:2200
 #EXTINF:0 group-title="ONE", One.by Россия HD
 http://rtmp.one.by:2300
+
 
 #EXTINF:-1, [COLOR pink]--VIVA--[/COLOR]  
 http://
