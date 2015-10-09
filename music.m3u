@@ -13,6 +13,8 @@ rtmp://188.254.62.124:11935/live/video2
 http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/122/index.m3u8
 #EXTINF:0, CAPITAL TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Clubbing TV
+http://46.249.213.87/iPhone/HLS_TS/broadcast/clubbingtv-tablet.3gp/clubbingtv-tablet.3gp-mr648k.m3u8?trackingid=3011270000&os=desktop
 #EXTINF:0, CLUBLAND 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, dream TV 
