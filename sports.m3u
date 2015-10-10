@@ -223,6 +223,9 @@ rtmp://93.174.93.196/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jw
 #EXTINF:-1 group-title="UK", Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
 http://37.48.83.131:1935/live/skysportsnewsz1.stream/playlist.m3u8?wowzasessionid=1841847408|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
 
+#EXTINF:-1 group-title="UK", Sky Sport 1
+http://46.28.55.160:1935/iptv/skysp1/playlist.m3u8
+
 #EXTINF:-1 group-title="UK", Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
 http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/64.m3u8
 
@@ -235,11 +238,17 @@ rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jw
 #EXTINF:-1 group-title="UK", Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.174.38/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
 
+#EXTINF:-1 group-title="UK", Sky Sport 2
+http://46.28.55.160:1935/iptv/s
+
 #EXTINF:-1 group-title="UK", Sky Sports 3 [B][COLOR orange]FSD[/COLOR][/B]
 http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/66.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 3 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.174.38/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=3skys&vw=600&vh=450
+
+#EXTINF:-1 group-title="UK", Sky Sport 3
+http://46.28.55.160:1935/iptv/skysp3/playlist.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 4 [B][COLOR orange]FSD[/COLOR][/B]
 http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/67.m3u8
@@ -247,17 +256,26 @@ http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/67.m3u8
 #EXTINF:-1 group-title="UK", Sky Sports 4 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.169.35/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=4skys&vw=600&vh=450
 
+#EXTINF:-1 group-title="UK", Sky Sport 4
+http://46.28.55.160:1935/iptv/skysp4/playlist.m3u8
+
 #EXTINF:-1 group-title="UK", Sky Sports 5 [B][COLOR blue]HD[/COLOR][/B]
 http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/68.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports 5 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://89.248.169.35/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=5skys&vw=600&vh=450
 
+#EXTINF:-1 group-title="UK", Sky Sport 5
+http://46.28.55.160:1935/iptv/skysp5/playlist.m3u8
+
 #EXTINF:-1 group-title="UK", Sky Sports F1 [B][COLOR orange]FSD[/COLOR][/B]
 http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/78.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports F1 [B][COLOR orange]FSD[/COLOR][/B]
 http://89.248.172.57:1935/edge/_definst_/udhfbfg0vfzjcds/playlist.m3u8?xs=_we_dWRoZmJmZzB2ZnpqY2RzfDE0NDM2MDE5MTZ8fDU2MGE0YzdjMThiMWJ8MzRiNDgwNjRhMGE2MWIzMzBkY2ZiNWNjOWU4NjNjN2JlZDhkMGI5Zg..
+
+#EXTINF:-1 group-title="UK", Sky Sport F1
+http://46.28.55.160:1935/iptv/skysportsf1/playlist.m3u8
 
 #EXTINF:-1 group-title="UK", Sky Sports News [B][COLOR orange]FSD[/COLOR][/B]
 http://158.255.6.224:8080/loadchan.php?chan=71&gtoken=8c9f7326770bb525908e17d491673530
@@ -274,11 +292,17 @@ rtmp://93.174.93.196/live playpath=1bt swfUrl=http://www.yocast.tv/myplayer/jwpl
 #EXTINF:-1 group-title="UK", BT Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
 rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1
 
+#EXTINF:-1 group-title="UK", BT Sport 1
+http://46.28.55.160:1935/iptv/bt1/playlist.m3u8
+
 #EXTINF:-1 group-title="UK", BT Sports 2 [B][COLOR blue]HD[/COLOR][/B]
 http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/55.m3u8
 
 #EXTINF:-1 group-title="UK", BT Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
 rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2
+
+#EXTINF:-1 group-title="UK", BT Sport 2
+http://46.28.55.160:1935/iptv/bt2/playlist.m3u8
 
 #EXTINF:-1 group-title="UK", BT Sports ESPN [B][COLOR blue]HD[/COLOR][/B]
 http://94.242.210.199:81/live/RfyBsvuYgr/Haz5UA2h2z/128.m3u8
