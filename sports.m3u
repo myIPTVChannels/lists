@@ -34,7 +34,7 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 #EXTINF:-1 group-title="Portugal", SPORT TV AMERICAS [B][COLOR orange]FSD[/COLOR][/B]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1 group-title="Portugal", SPORT TV AMÉRICAS [B][COLOR orange]FSD[/COLOR][/B]
+#EXTINF:-1 group-title="Portugal", SPORT TV AMERICAS [B][COLOR orange]FSD[/COLOR][/B]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
 #EXTINF:-1 group-title="Portugal", SPORTING TV [B][COLOR orange]FSD[/COLOR][/B]
@@ -49,40 +49,40 @@ http://0.0.0.0
 http://0.0.0.0
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV1 [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
+plugin://program.plexus/?mode=1&url=acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6&name=SPORT TV1
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV1 (2) [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59&mode=1&name=acestream&mode=1&name=SPORT TV1
+plugin://program.plexus/?mode=1&url=acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59&name=SPORT TV1
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV2 [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV2
+plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&name=SPORT TV2
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV2 (2) [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream&mode=1&name=SPORT TV2
+plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&name=SPORT TV2
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV3 [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://cf8ff2d9d89f482de9127591c5781216d60368ae&mode=1&name=acestream&mode=1&name=SPORT TV3
+plugin://program.plexus/?mode=1&url=acestream://cf8ff2d9d89f482de9127591c5781216d60368ae&name=SPORT TV3
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV3 (2) [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream&mode=1&name=SPORT TV3
+plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&name=SPORT TV3
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV4 [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV4
+plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&name=SPORT TV4
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV4 (2) [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://d2a63635273232fc7710bb28c8775d18179c4038&mode=1&name=acestream&mode=1&name=SPORT TV4
+plugin://program.plexus/?mode=1&url=acestream://d2a63635273232fc7710bb28c8775d18179c4038&name=SPORT TV4
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV5 [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad&mode=1&name=acestream&mode=1&name=SPORT TV5
+plugin://program.plexus/?mode=1&url=acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad&name=SPORT TV5
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV5 (2) [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
+plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&name=SPORT TV5
 
 #EXTINF:-1 group-title="PLEXUS", Benfica TV1 [B][COLOR green]FHD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV1 HD
+plugin://program.plexus/?mode=1&url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&name=BENFICA TV1 HD
 
 #EXTINF:-1 group-title="PLEXUS", Benfica TV2 [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV2
+plugin://program.plexus/?mode=1&url=268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=BENFICA TV2
 
 #EXTINF:-1,
 http://0.0.0.0
@@ -93,112 +93,112 @@ http://0.0.0.0
 http://0.0.0.0
 
 #EXTINF:-1 group-title="PLEXUS", CANAL+ DEPORTES
-plugin://program.plexus/?mode=1&url=a994a04ff801f11872fc1e89258d53c5601ccfbd&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTES
+plugin://program.plexus/?mode=1&url=a994a04ff801f11872fc1e89258d53c5601ccfbd&name=CANAL+ DEPORTES
 
 #EXTINF:-1 group-title="PLEXUS", CANAL+ DEPORTES 2
-plugin://program.plexus/?mode=1&url=7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTES 2
+plugin://program.plexus/?mode=1&url=7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&name=CANAL+ DEPORTES 2
 
 #EXTINF:-1 group-title="PLEXUS", CANAL+ FUTBOL
-plugin://program.plexus/?mode=1&url=f0747d9c0eb7e9da0aa83f1a405845c894384852&mode=1&name=acestream&mode=1&name=CANAL+ FUTBOL
+plugin://program.plexus/?mode=1&url=f0747d9c0eb7e9da0aa83f1a405845c894384852&name=CANAL+ FUTBOL
 
 #EXTINF:-1 group-title="PLEXUS", CANAL+ LIGA
-plugin://program.plexus/?mode=1&url=dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream&mode=1&name=CANAL+ LIGA
+plugin://program.plexus/?mode=1&url=dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&name=CANAL+ LIGA
 
 #EXTINF:-1 group-title="PLEXUS", CANAL+ LIGA 2
-plugin://program.plexus/?mode=1&url=d7586f582a41990286d438894bfe67dd0f961b18&mode=1&name=acestream&mode=1&name=CANAL+ LIGA 2
+plugin://program.plexus/?mode=1&url=d7586f582a41990286d438894bfe67dd0f961b18&name=CANAL+ LIGA 2
 
 #EXTINF:-1 group-title="PLEXUS", CANAL+ LIGA DE CAMPEONES
-plugin://program.plexus/?mode=1&url=d4d4ec2559633963e611165b659c69ae8b3f4312&mode=1&name=acestream&mode=1&name=CANAL+ LIGA DE CAMPEONES
+plugin://program.plexus/?mode=1&url=d4d4ec2559633963e611165b659c69ae8b3f4312&name=CANAL+ LIGA DE CAMPEONES
 
 #EXTINF:-1 group-title="PLEXUS", TELEDEPORTE
-plugin://program.plexus/?mode=1&url=c6635313ebda29534b908d1e67d724d443236a0a&mode=1&name=acestream&mode=1&name=TELEDEPORTE
+plugin://program.plexus/?mode=1&url=c6635313ebda29534b908d1e67d724d443236a0a&name=TELEDEPORTE
 
 #EXTINF:-1 group-title="PLEXUS", SPORTMANIA
-plugin://program.plexus/?mode=1&url=07a06e487ff5b56f8f9036c8cd547f9331d56b4e&mode=1&name=acestream&mode=1&name=SPORTMANIA
+plugin://program.plexus/?mode=1&url=07a06e487ff5b56f8f9036c8cd547f9331d56b4e&name=SPORTMANIA
 
 #EXTINF:-1 group-title="PLEXUS", MOVISTAR F1
-plugin://program.plexus/?mode=1&url=98b327d19a16be09070212124826e9209cb97540&mode=1&name=acestream&mode=1&name=MOVISTAR F1
+plugin://program.plexus/?mode=1&url=98b327d19a16be09070212124826e9209cb97540&name=MOVISTAR F1
 
 #EXTINF:-1 group-title="PLEXUS", MOVISTAR MOTOGP
-plugin://program.plexus/?mode=1&url=7c01784bfeba11565fce3626e155da1fcdb45976&mode=1&name=acestream&mode=1&name=MOVISTAR MOTOGP
+plugin://program.plexus/?mode=1&url=7c01784bfeba11565fce3626e155da1fcdb45976&name=MOVISTAR MOTOGP
 
 #EXTINF:-1 group-title="PLEXUS", MOTORS TV
-plugin://program.plexus/?mode=1&url=84c27a15472ee950e0567667dfd270cc81b01498&mode=1&name=acestream&mode=1&name=MOTORS TV
+plugin://program.plexus/?mode=1&url=84c27a15472ee950e0567667dfd270cc81b01498&name=MOTORS TV
 
 #EXTINF:-1 group-title="PLEXUS", Sky Sports 1
-plugin://program.plexus/?mode=1&url=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream&mode=1&name=Sky Sports 1
+plugin://program.plexus/?mode=1&url=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&name=Sky Sports 1
 
 #EXTINF:-1 group-title="PLEXUS", Sky Sports 2
-plugin://program.plexus/?mode=1&url=e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream&mode=1&name=Sky Sports 2
+plugin://program.plexus/?mode=1&url=e9969669eeed0adb1c68072e977283222ac9572e&name=Sky Sports 2
 
 #EXTINF:-1 group-title="PLEXUS", Sky Sports 3
-plugin://program.plexus/?mode=1&url=2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream&mode=1&name=Sky Sports 3
+plugin://program.plexus/?mode=1&url=2e8b87e0595573cf9cc422899d0e4c86fbd83081&name=Sky Sports 3
 
 #EXTINF:-1 group-title="PLEXUS", Sky Sports 4
-plugin://program.plexus/?mode=1&url=5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream&mode=1&name=Sky Sports 4 
+plugin://program.plexus/?mode=1&url=5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&name=Sky Sports 4 
 
 #EXTINF:-1 group-title="PLEXUS", Sky Sports 5
-plugin://program.plexus/?mode=1&url=37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream&mode=1&name=Sky Sports 5 
+plugin://program.plexus/?mode=1&url=37558d4ae8149aebd7e87a406fece41626e35c31&name=Sky Sports 5 
 
 #EXTINF:-1 group-title="PLEXUS", Sky Sports F1
-plugin://program.plexus/?mode=1&url=02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream&mode=1&name=Sky Sports F1
+plugin://program.plexus/?mode=1&url=02c14347959f78d8bf18f898c56f429ab5a44c7b&name=Sky Sports F1
 
 #EXTINF:-1 group-title="PLEXUS", BT SPORT 1
-plugin://program.plexus/?mode=1&url=dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream&mode=1&name=BT SPORT 1
+plugin://program.plexus/?mode=1&url=dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&name=BT SPORT 1
 
 #EXTINF:-1 group-title="PLEXUS", BT SPORT 2
-plugin://program.plexus/?mode=1&url=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream&mode=1&name=BT SPORT 2 
+plugin://program.plexus/?mode=1&url=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&name=BT SPORT 2 
 
 #EXTINF:-1 group-title="PLEXUS", BT SPORT/ESPN
-plugin://program.plexus/?mode=1&url=585352b149c4aae30c1da013f0fe378430fb7c7e&mode=1&name=acestream&mode=1&name=BT SPORT/ESPN
+plugin://program.plexus/?mode=1&url=585352b149c4aae30c1da013f0fe378430fb7c7e&name=BT SPORT/ESPN
 
 #EXTINF:-1 group-title="PLEXUS", BT SPORT EUROPE
-plugin://program.plexus/?mode=1&url=46f1a7f1774400e6b7b73990edb89803f98a4215&mode=1&name=acestream&mode=1&name=BT SPORT EUROPE
+plugin://program.plexus/?mode=1&url=46f1a7f1774400e6b7b73990edb89803f98a4215&name=BT SPORT EUROPE
 
 #EXTINF:-1 group-title="PLEXUS", EUROSPORT BRITISH
-plugin://program.plexus/?mode=1&url=268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH
+plugin://program.plexus/?mode=1&url=268877735d560d2fe78f44bc763e40e2b23b13e4&name=EUROSPORT BRITISH
 
 #EXTINF:-1 group-title="PLEXUS", EUROSPORT BRITISH 2
-plugin://program.plexus/?mode=1&url=7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH_2 
+plugin://program.plexus/?mode=1&url=7462d97e96e0f05e4551dbd3fb8a75a2d746c596&name=EUROSPORT BRITISH_2 
 
 #EXTINF:-1 group-title="PLEXUS", ARENA SPORT 1
-plugin://program.plexus/?mode=1&url=6471e6c7e981d8c52b6f8c564e4422c0bfcb98eb&mode=1&name=acestream&mode=1&name=ARENA SPORT 1
+plugin://program.plexus/?mode=1&url=6471e6c7e981d8c52b6f8c564e4422c0bfcb98eb&name=ARENA SPORT 1
 
 #EXTINF:-1 group-title="PLEXUS", ARENA SPORT 3
-plugin://program.plexus/?mode=1&url=6ed12ba9bc5c244f41ddb44e3dfe0e27ccc797c1&mode=1&name=acestream&mode=1&name=ARENA SPORT 3
+plugin://program.plexus/?mode=1&url=6ed12ba9bc5c244f41ddb44e3dfe0e27ccc797c1&name=ARENA SPORT 3
 
 #EXTINF:-1 group-title="PLEXUS", ARENA SPORT
-plugin://program.plexus/?mode=1&url=cd042c51300eb693de3c85cb9894217db0000f90&mode=1&name=acestream&mode=1&name=ARENA SPORT 
+plugin://program.plexus/?mode=1&url=cd042c51300eb693de3c85cb9894217db0000f90&name=ARENA SPORT 
 
 #EXTINF:-1 group-title="PLEXUS", C+ SPORT FRANCE
-plugin://program.plexus/?mode=1&url=93ef37b1880c4d8b76d9c7ff48789ee12acedad3&mode=1&name=acestream&mode=1&name=C+ SPORT FRANCE
+plugin://program.plexus/?mode=1&url=93ef37b1880c4d8b76d9c7ff48789ee12acedad3&name=C+ SPORT FRANCE
 
 #EXTINF:-1 group-title="PLEXUS", beIN SPORT 1 FR
-plugin://program.plexus/?mode=1&url=6aee464bcf506d9b72e57e13acead0ba1ef74cfd&mode=1&name=acestream&mode=1&name=beIN SPORT 1 FR
+plugin://program.plexus/?mode=1&url=6aee464bcf506d9b72e57e13acead0ba1ef74cfd&name=beIN SPORT 1 FR
 
 #EXTINF:-1 group-title="PLEXUS", beIN SPORT 2 FR
-plugin://program.plexus/?mode=1&url=a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mode=1&name=acestream&mode=1&name=beIN SPORT 2 FR
+plugin://program.plexus/?mode=1&url=a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&name=beIN SPORT 2 FR
 
 #EXTINF:-1 group-title="PLEXUS", POLSAT SPORT
-plugin://program.plexus/?mode=1&url=dfb1115adb7c8740bea94431bdadf2e19fc9bd99&mode=1&name=acestream&mode=1&name=POLSAT SPORT
+plugin://program.plexus/?mode=1&url=dfb1115adb7c8740bea94431bdadf2e19fc9bd99&name=POLSAT SPORT
 
 #EXTINF:-1 group-title="PLEXUS", POLSAT SPORT EXTRA
-plugin://program.plexus/?mode=1&url=4c0c928a085aaa180288be1d749ccfd4aed253be&mode=1&name=acestream&mode=1&name=POLSAT SPORT_EXTRA
+plugin://program.plexus/?mode=1&url=4c0c928a085aaa180288be1d749ccfd4aed253be&name=POLSAT SPORT_EXTRA
 
 #EXTINF:-1 group-title="PLEXUS", C MORE TENNIS
-plugin://program.plexus/?mode=1&url=77353129af1bafbf313e2a2925d9166010e92ce4&mode=1&name=acestream&mode=1&name=C MORE TENNIS
+plugin://program.plexus/?mode=1&url=77353129af1bafbf313e2a2925d9166010e92ce4&name=C MORE TENNIS
 
 #EXTINF:-1 group-title="PLEXUS", SUPER TENNIS HD
-plugin://program.plexus/?mode=1&url=c0348d263ba7bbb3044b156f806999b0ead8d93e&mode=1&name=acestream&mode=1&name=SUPER TENNIS HD
+plugin://program.plexus/?mode=1&url=c0348d263ba7bbb3044b156f806999b0ead8d93e&name=SUPER TENNIS HD
 
 #EXTINF:-1 group-title="PLEXUS", NBA TV
-plugin://program.plexus/?mode=1&url=3462fdb26e872914ecc30572f3d06d391dbb16a9&mode=1&name=acestream&mode=1&name=NBA TV
+plugin://program.plexus/?mode=1&url=3462fdb26e872914ecc30572f3d06d391dbb16a9&name=NBA TV
 
 #EXTINF:-1 group-title="PLEXUS", PREMIER SPORTS
-plugin://program.plexus/?mode=1&url=fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+plugin://program.plexus/?mode=1&url=fb2080a96e762e926a33e61c70bd74edb2beabdf&name=PREMIER SPORTS
 
 #EXTINF:-1 group-title="PLEXUS", SPORT 1 DE
-plugin://program.plexus/?mode=1&url=3a619efa4e9efb342affe2042a80647497ef5dbd&mode=1&name=acestream&mode=1&name=SPORT 1 DE
+plugin://program.plexus/?mode=1&url=3a619efa4e9efb342affe2042a80647497ef5dbd&name=SPORT 1 DE
 
 #EXTINF:-1,
 http://0.0.0.0
