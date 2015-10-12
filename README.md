@@ -1,10 +1,11 @@
-# myIPTVchannels
-Just a public collection of IPTV links collected over the web!
-Open to all the IPTV community.
+# Comunidade myIPTVChannels
+A comunidade myIPTVChannels nasceu no seio do grupo Listas IPTV do facebook https://www.facebook.com/groups/listasiptv/. O conceito do projecto é simples, em vêz de cada um criar a sua lista IPTV, trabalhamos em equipa, actualizando as listas para todos podermos ter acesso a canais o mais actualizados e optimizados possível.
+
+O projecto é aberto à participação de todos.
 
 Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>.
 
-##URLS myIPTVChannels (Kodi/VLC, etc)
+##URLs myIPTVChannels (Kodi, VLC, etc.)
 Portugal PT Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
@@ -28,7 +29,7 @@ Adult Channels: adult.m3u = http://git.io/vZiiP
 Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
 
 
-##Rules
+##Regras
 1) KISS = Keep it simple, stupid (as possible)!
 
 1.1) Nome do canal com um espaço " " antes, a seguir à virgula (optimização para dispositivos pequenos, como tablets).
@@ -66,6 +67,8 @@ audio-track - Audio track definition of this channel, if it's supported by strea
 
 ##Help/Ajuda
 
+No nosso grupo do Facebook: https://www.facebook.com/groups/listasiptv/
+
 Como usar várias listas ao mesmo tempo no KODI - http://kodiportugal.com/PlayList.pdf
 
 ##Channels Sources
@@ -91,3 +94,9 @@ https://github.com/hmemar/husham.com/blob/master/Lists/hindi.m3u
 
 ##Utilities
 http://git.io/
+
+http://kodi.tv/download/
+
+http://www.videolan.org/vlc/
+
+https://notepad-plus-plus.org/download/
