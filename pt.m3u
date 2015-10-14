@@ -67,7 +67,7 @@ http://bit.ly/IPTVGlobal-disneyjr
 #EXTINF:-1 group-title="ANIMAÇAO", Zoomoo Brasil (1) [SD]
 http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
 
-EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN.png" group-title="FILMES_E_SERIES", AXN [SD]
+#EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN.png" group-title="FILMES_E_SERIES", AXN [SD]
 http://95.211.186.215:8081/loadbalance/98428539324743154941/playlist.m3u8
 #EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN WHITE.png" group-title="FILMES_E_SERIES", AXN WHITE [SD]
 http://95.211.186.215:8081/loadbalance/95688633243575582995/playlist.m3u8
