@@ -67,5 +67,22 @@ http://bit.ly/IPTVGlobal-disneyjr
 #EXTINF:-1 group-title="ANIMAÇAO", Zoomoo Brasil (1) [SD]
 http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
 
-
-
+EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN.png" group-title="FILMES_E_SERIES", AXN [SD]
+http://95.211.186.215:8081/loadbalance/98428539324743154941/playlist.m3u8
+#EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN WHITE.png" group-title="FILMES_E_SERIES", AXN WHITE [SD]
+http://95.211.186.215:8081/loadbalance/95688633243575582995/playlist.m3u8
+#EXTINF:-1 tvg-name="fox.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/FOX.png" group-title="FILMES_E_SERIES", FOX [SD]
+http://95.211.186.215:8081/loadbalance/86261251431855333973/playlist.m3u8
+#EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Crime.png" group-title="FILMES_E_SERIES", FOX CRIME [SD]
+http://95.211.186.215:8081/loadbalance/36925217397715777225/playlist.m3u8
+#EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Life.png" group-title="FILMES_E_SERIES", FOX LIFE [SD]
+http://95.211.186.215:8081/loadbalance/53398224345944758161/playlist.m3u8
+#EXTINF:-1 tvg-name="foxmovies.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Movies.png" group-title="FILMES_E_SERIES", FOX MOVIES [SD]
+http://95.211.186.215:8081/loadbalance/31679512315718398352/playlist.m3u8
+#EXTINF:-1  audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Hollywood.png" group-title="FILMES_E_SERIES", HOLLYWOOD [SD]
+http://95.211.186.215:8081/loadbalance/27634186654973396567/playlist.m3u8
+#EXTINF:-1 tvg-name="SyFy.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SyFy.png" group-title="FILMES_E_SERIES", SYFY [SD]
+http://95.211.186.215:8081/loadbalance/74763795273792662115/playlist.m3u8
+#EXTINF:-1 audio-track="pt" tvg-logo="http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/" group title="FILMES_E_SERIES", TVI FICCAO [SD]
+http://95.211.186.215:8081/loadbalance/83133496787987943466/playlist.m3u8
+ 
