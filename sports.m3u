@@ -96,11 +96,11 @@ plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f54
 #EXTINF:-1 group-title="PLEXUS", SPORT TV5 (3) [B][COLOR orange]FSD[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&name=SPORT TV5
 
-#EXTINF:-1 group-title="PLEXUS", Benfica TV1 [B][COLOR green]FHD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&name=BENFICA TV1 HD
+#EXTINF:-1 group-title="PLEXUS", Benfica TV1 [B][COLOR orange]FSD[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=253369b57f2a45e1489e5bb7eab4daf0a4cde415&name=BENFICA TV1 HD
 
 #EXTINF:-1 group-title="PLEXUS", Benfica TV2 [B][COLOR orange]FSD[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=BENFICA TV2
+plugin://program.plexus/?mode=1&url=c1646f459c86ab24533650333957a57b457d80c1&name=BENFICA TV2
 
 #EXTINF:-1,
 http://0.0.0.0
