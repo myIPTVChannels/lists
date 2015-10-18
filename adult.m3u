@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,=== Adult 18+ ===
+#EXTINF:0, === Adult 18+ ===
 http://
 #EXTINF:0, Adult XXX
 http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
@@ -98,7 +98,7 @@ http://188.165.220.116:8081/live2/37/playlist.m3u8
 #EXTINF:0, 21 Sextury.com
 http://188.165.220.116:8081/live/62/playlist.m3u8
 
-#EXTINF:0,=== Live ===
+#EXTINF:0, === Live ===
 http://
 #EXTINF:0, Live Sex Latinas
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
@@ -111,8 +111,54 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 #EXTINF:0, BabeStation CAM4
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 
+#EXTINF:0, === PLEXUS Plugin ===
+#EXTINF:-1, Brazzers TV Europe (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://324d199838df125a11882ec55d29daf752752f0c&name=Brazzers TV Europe
+#EXTINF:-1, Candy (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff&name=Candy
+#EXTINF:-1, Candyman (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8&name=Candyman
+#EXTINF:-1, CentoXCento TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://c1312fc6dd9bee12aba97855c8ba04113d0027af&name=CentoXCento TV
+#EXTINF:-1, Dorcel TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://e06bcb20bb7784429390743f4591a0cb5928461f&name=Dorcel TV
+#EXTINF:-1, Exotica TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://a306b5cb1bf62cbc0106812d10a76cfe5645ab55&name=Exotica TV
+#EXTINF:-1, Hustler HD (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://2112a13bbae03f6294933f3501fed745eecd9052&name=Hustler HD
+#EXTINF:-1, Hustler TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://31eb0b5f05cc3cefda893ad110c47171a96a1308&name=Hustler TV
+#EXTINF:-1, Nuart TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://154ffd6b66887d1e9b286c07d5148cf28e31da65&name=Nuart TV
+#EXTINF:-1, O-la-la (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://30eb5e8b4940e01e02fe3c1d8ff9257a24335695&name=O-la-la
+#EXTINF:-1, Pink O TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://b88618ddcc730031b986bab49da5c4ca03e35b88&name=Pink O TV
+#EXTINF:-1, Playboy TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://ae77d3dd42222252771d60e5b6c30616669eb4fb&name=Playboy TV
+#EXTINF:-1, Redlight HD (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://c8deef55905efd9d807b85d0486b85b822a80b34&name=Redlight HD
+#EXTINF:-1, Satisfaction HD (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://5114b7d62a5fb4ea949b058d4c59ab802adc386a&name=Satisfaction HD
+#EXTINF:-1, SCT (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://e1dfae7ff1ba4db7481bb7a2feb0dbbdb08bdb10&name=SCT
+#EXTINF:-1, Sextosenso (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://419c76d7f75af2bbace69d5eea31621ccf7e5674&name=Sextosenso
+#EXTINF:-1, TGirls TV (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://400c094c788b6f58796e75a12b388710911500f7&name=TGirls TV
+#EXTINF:-1, XXL (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027&name=XXL
+#EXTINF:-1, Искушение (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://d66fb6783d16ab20c9671ddeb70c78e67e6155dc&name=Искушение
+#EXTINF:-1, Ночной клуб (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://9492e7d9165320d7e64efd497f1e71f602cabdd0&name=Ночной клуб
+#EXTINF:-1, Русская ночь (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://0cd7521c053ccf65a4a790c711578520c2c85721&name=Русская ночь
+#EXTINF:-1, Эгоист ТВ (Adulto)
+plugin://program.plexus/?mode=1&url=acestream://d52ad1ef8f6bb95119b9396a58a21134666490cf&name=Эгоист ТВ
 
-#EXTINF:0,=== Movies ===
+
+#EXTINF:0, === Movies ===
 http://
 #EXTINF:-1, Adult 4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
