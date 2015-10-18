@@ -24,7 +24,7 @@ http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1, MEDIA 3D [B][COLOR blue]HD[/COLOR][/B]
 rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
 
-#EXTINF:-1, World Fashion Channel [B][COLOR blue]HD[/COLOR][/B]
+#EXTINF:-1, World Fashion Channel [B][COLOR green]FHD[/COLOR][/B]
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8
 
 #EXTINF:-1, E4 [B][COLOR blue]HD[/COLOR][/B]
