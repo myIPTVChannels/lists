@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, BBC One [B][COLOR blue]HD[/COLOR][/B]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/13.m3u8
+
+#EXTINF:-1, BBC One [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
+http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1, BBC Two [B][COLOR blue]HD[/COLOR][/B]
+http://hls.tv.iptv.ink/bbc2uk@353223.m3u8|X-Forwarded-For=81.17.18.55
+
 #EXTINF:-1, BBC Two [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
 http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
 
@@ -11,9 +20,6 @@ http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
 
 #EXTINF:-1, BBC News [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
 http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, BBC One [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
 
 #EXTINF:-1, CBBC [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
 http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
