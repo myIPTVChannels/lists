@@ -249,6 +249,8 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 http://
 #EXTINF:0 group-title="MTV", MTV 1
 http://stream-full.selfip.com:8000/live/jack/jack/165.ts
+#EXTINF:0, MTV HD Italia
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/162.m3u8
 #EXTINF:0 group-title="MTV", MTV Azerbaijan
 http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
 #EXTINF:0 group-title="MTV", MTV Base
@@ -347,6 +349,8 @@ rtmp://fms.105.net:1935/live/virgin2
 http://fms.105.net:1935/live/virgin1/playlist.m3u8
 #EXTINF:0 group-title="Virgin", Virgin TV Radio (2)
 http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:0 group-title="Virgin", Virgin TV Radio (3)
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1050.m3u8
 #EXTINF:0 group-title="Virgin", RADIO VIRGIN TV (3)
 http://fms.105.net:1935/live/virgin1/livestream.m3u8
 #EXTINF:0 group-title="Virgin", RADIO VIRGIN TV (4)
@@ -361,10 +365,10 @@ rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_cTMycjIyMWRncGNvazA3fDE0
 
 #EXTINF:-1, [COLOR red]--Russia--[/COLOR]  
 http://
+#EXTINF:0 group-title="Russia", 1HD Music Television (Первый HDльный HD)
+http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", 9 Волна
 rtmp://176.9.127.102/live/myStream_1
-#EXTINF:0 group-title="Russia", Первый HDльный HD (1HD Music Television)
-http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", Первый Интернет канал HD
 http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", Первый Балтийский Musicльный
