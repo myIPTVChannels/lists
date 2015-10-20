@@ -12,7 +12,7 @@ Sports Channels: sports.m3u = http://git.io/vZPSM
 
 Movies: movies.m3u = http://git.io/vnUb0
 
-Séries: tvshows.m3u = http://git.io/vWISS
+TV Shows: tvshows.m3u = http://git.io/vWISS
 
 Music Channels: music.m3u = http://git.io/vZohs
 
