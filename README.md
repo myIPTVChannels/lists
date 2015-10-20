@@ -12,6 +12,8 @@ Sports Channels: sports.m3u = http://git.io/vZPSM
 
 Movies: movies.m3u = http://git.io/vnUb0
 
+Séries: tvshows.m3u = http://git.io/vWISS
+
 Music Channels: music.m3u = http://git.io/vZohs
 
 United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP
@@ -23,6 +25,8 @@ Indian IN Channels: hindi.m3u = http://git.io/vZoJg
 NASA Space Channels: nasa.m3u = http://git.io/vZPFO
 
 SMART TV (LG, Samsung, Philips): smart-tv.m3u = http://git.io/vZQlR
+
+Kids: kids.m3u = http://git.io/vWI93
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
