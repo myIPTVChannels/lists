@@ -20,7 +20,7 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png" group-title="TDT", SIC (1) [SD] (OFF)
-http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
+http://213.13.26.11:1935/live/sic/livestream.m3u8
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png" group-title="TDT", SIC (2) [SD]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
