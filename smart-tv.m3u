@@ -33,12 +33,6 @@ http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
-#EXTINF:0,SPORTTV 5
-http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/417.ts
-#EXTINF:0,SPORTTV 4
-http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/416.ts
-#EXTINF:0,SPORTTV3
-http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/415.ts
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas HD
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
