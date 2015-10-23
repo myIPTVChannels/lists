@@ -81,6 +81,8 @@ http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 http://94.125.187.18/hlsam/hd/playlist.m3u8
 #EXTINF:0 tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg", MULTISHOW
 http://bit.ly/IPTVGlobal-multshow
+#EXTINF:0 tvg-logo="Multishow.png" tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow (2)
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 #EXTINF:0, Music Box RU
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
 #EXTINF:0, Music Box TV
