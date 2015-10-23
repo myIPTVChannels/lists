@@ -577,6 +577,9 @@ http://0.0.0.0
 #EXTINF:-1, [B][COLOR blue]--- Internacional - Outros - Em Testes... ---[/COLOR][/B]
 http://0.0.0.1234
 
+#EXTINF:-1 tvg-logo="ufc.png" tvg-logo="http://www.tvaovivolista.com/ufc.png", COMBATE HQ  
+http://37.203.209.34:443/mobile/bob10sd/IPTVGLOBAL.m3u8
+
 #EXTINF:-1, LIVE MOTOR SPORT 
 http://motorsport.hopto.org:8080/
 
