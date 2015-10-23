@@ -85,6 +85,8 @@ http://bit.ly/IPTVGlobal-multshow
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 #EXTINF:0, Music Box RU
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Musicbox Ru
+http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
 #EXTINF:0, Music Box TV
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
 #EXTINF:0, Music Box TV (2)
