@@ -1,4 +1,13 @@
 #EXTM3U 
+#EXTINF:-1, [B]--- Canais ---[/B]
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="tcpremium.png" tvg-logo="http://www.tvaovivolista.com/tcpremium.png", Telecine Premium
+http://37.203.209.34:443/mobile/flash24sd/live.m3u8
+
+#EXTINF:0 tvg-logo="sbt.png" tvg-logo="http://www.tvaovivolista.com/sbt.png", SBT HQ
+http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:-1, [B]--- Filmes ---[/B]
 http://0.0.0.0
