@@ -41,9 +41,6 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
 
-
-
-
 #EXTINF:-1 group-title="NOTICIAS", TVI24 (1) [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:0 audio-track="pt" group-title="NOTICIAS", CMTV (1) [SD]
@@ -85,4 +82,10 @@ http://95.211.186.215:8081/loadbalance/27634186654973396567/playlist.m3u8
 http://95.211.186.215:8081/loadbalance/74763795273792662115/playlist.m3u8
 #EXTINF:-1 audio-track="pt" tvg-logo="http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/" group title="FILMES_E_SERIES", TVI FICCAO [SD]
 http://95.211.186.215:8081/loadbalance/83133496787987943466/playlist.m3u8
- 
+
+#EXTM3U 
+#EXTINF:-1, [B]--- Brasil ---[/B]
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="record.png" tvg-logo="http://tvaovivolista.com/record.png" group-title="Brasil", Record
+http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
