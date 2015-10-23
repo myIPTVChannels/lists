@@ -45,5 +45,8 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:0 tvg-logo="bloomberg.png" tvg-logo="http://www.tvaovivolista.com/bloomberg.png", Bloomberg
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
+#EXTINF:0, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+
 #EXTINF:0 tvg-logo="skynews.png" tvg-logo="http://www.tvaovivolista.com/skynews.png", Sky News
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8
