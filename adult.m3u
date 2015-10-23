@@ -79,6 +79,8 @@ http://62.210.82.241:8081/private/private/live.m3u8
 http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
 #EXTINF:0, Nuart-TV
 http://91.213.59.190:8000/239.0.1.156
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", O-LA-LA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:0, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:0, Playy
@@ -106,13 +108,13 @@ http://188.165.220.116:8081/live/62/playlist.m3u8
 http://
 #EXTINF:0, Live Sex Latinas
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
-#EXTINF:0, BabeStation CAM1
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM1
 http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-#EXTINF:0, BabeStation CAM2
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM2
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-#EXTINF:0, BabeStation CAM3
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM3
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:0, BabeStation CAM4
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM4
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 
 
