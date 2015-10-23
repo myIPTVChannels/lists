@@ -1,4 +1,38 @@
 #EXTM3U 
+#EXTINF:-1, [B]--- Portugal ---[/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (1) [SD]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (2) [SD]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", SIC NOTICIAS (3) [SD]
+rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
+
+#EXTINF:-1 group-title="NOTICIAS", TVI24 (1) [FSD]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:0 audio-track="pt" group-title="NOTICIAS", CMTV (1) [SD]
+rtmp://208.43.81.145/stream playpath=cmtvteywtdsu?id=17306&pk=c098779812e8996843543514009a2800d6cecfe1a98b0f293daec0628d6cf06e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/cmtvteywtdsu/1/600/450 conn=S:OK timeout=15
+
+#EXTINF:0 audio-track="pt" group-title="NOTICIAS", CMTV (2) [SD]
+rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
+
+#EXTINF:-1 tvg-id="EconomicaTV.pt", ECONÓMICO TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", EURONEWS (1) [SD]
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", EURONEWS (2) [SD]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+#EXTINF:-1 group-title="NOTICIAS", TPA Internacional (1) [FSD]
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+
+
 #EXTINF:-1, [B]--- World News ---[/B]
 http://0.0.0.0
 
