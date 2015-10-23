@@ -129,6 +129,8 @@ mmsh://83.216.165.134/rltv?MSWMExt=.asf
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:0, RADIO MONTE CARLO TV (2)
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:0, RADIO MONTE CARLO TV (3)
+http://wow01.105.net/live/rmc1/playlist.m3u8
 #EXTINF:0, RADIO ITALIA TV
 http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
 #EXTINF:0, RADIO U TV 
