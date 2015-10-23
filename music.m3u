@@ -280,7 +280,7 @@ http://stream-full.selfip.com:8000/live/jack/jack/168.ts
 #EXTINF:0 group-title="MTV", MTV Classic
 http://stream-full.selfip.com:8000/live/jack/jack/169.ts
 #EXTINF:0 group-title="MTV", MTV Dance
-http://stream-full.selfip.com:8000/live/jack/jack/170.ts
+http://92.50.181.6/tv/1280/index.m3u8
 #EXTINF:0 group-title="MTV", MTV Dance (2)
 http://bit.do/bnDBR
 #EXTINF:0 group-title="MTV", MTV LIVE HD  
@@ -288,19 +288,21 @@ http://78.30.254.27:8989/udp/239.0.0.196:4000
 #EXTINF:0 group-title="MTV", MTV Live HD 1080P 
 http://bit.do/bkWAM
 #EXTINF:0 group-title="MTV", MTV HITS  
-http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8
+http://92.50.181.6/tv/1278/index.m3u8
 #EXTINF:0 group-title="MTV", MTV HITS (2)
 http://78.30.254.27:8989/udp/239.0.0.205:4000
 #EXTINF:0 group-title="MTV", MTV Russia
 http://j.mp/ZCH_C03_MTV_sly
 #EXTINF:0 group-title="MTV", MTV Russia (2)
 http://188.17.143.39/hls/CH_C03_MTV/variant.m3u8?version=2
+#EXTINF:0 group-title="MTV", MTV Russia (3)
+http://92.50.181.6/tv/1284/index.m3u8
 #EXTINF:0 group-title="MTV", MTV Vietnam
 http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8
 #EXTINF:0 group-title="MTV", MTV Rocks
 http://78.30.254.27:8989/udp/239.0.0.143:4000
 #EXTINF:0 group-title="MTV", MTV Rocks (2)
-http://stream-full.selfip.com:8000/live/jack/jack/166.ts
+http://92.50.181.6/tv/1279/index.m3u8
 
 #EXTINF:-1, [COLOR yellow]--ONE--[/COLOR]  
 http://
@@ -358,8 +360,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
 
 #EXTINF:0, [COLOR red]--VH1--[/COLOR]  
 http://
+#EXTINF:0 group-title="VH1", VH1
+http://92.50.181.6/tv/1281/index.m3u8
 #EXTINF:0 group-title="VH1", VH1 Classic
-http://iptv.klfree.cz:8024/
+http://92.50.181.6/tv/1282/index.m3u8
 #EXTINF:0 group-title="VH1", VH1 Classic (2)
 http://bit.do/bkWDb
 
