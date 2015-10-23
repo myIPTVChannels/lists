@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF:-1, [B]--- World News ---[/B]
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="abc.png" tvg-logo="http://www.tvaovivolista.com/abc.png", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:0 tvg-logo="bbc.png" tvg-logo="http://www.tvaovivolista.com/bbc.png", BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:0 tvg-logo="bloomberg.png" tvg-logo="http://www.tvaovivolista.com/bloomberg.png", Bloomberg
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:0 tvg-logo="skynews.png" tvg-logo="http://www.tvaovivolista.com/skynews.png", Sky News
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8
