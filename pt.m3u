@@ -89,3 +89,7 @@ http://0.0.0.0
 
 #EXTINF:0 tvg-logo="record.png" tvg-logo="http://tvaovivolista.com/record.png" group-title="Brasil", Record
 http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
+
+#EXTINF:0 tvg-logo="discovery.png" tvg-logo="http://www.tvaovivolista.com/discovery.png", Discovery Channel
+http://37.203.209.34:443/mobile/flash14sd/Live.m3u8
+
