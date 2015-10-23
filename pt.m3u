@@ -1,23 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201" group-title="TDT", RTP1 (1) [SD]
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201" group-title="RTP", RTP1 (1) [SD]
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="TDT", RTP1 (2) [SD]
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="RTP", RTP1 (2) [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="TDT", RTP1 (3) [SD]
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="RTP", RTP1 (3) [SD]
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="TDT", RTP 2 (1) [SD]
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="RTP", RTP 2 (1) [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="TDT", RTP 2 (2) [SD]
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="RTP", RTP 2 (2) [SD]
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
-#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png" group-title="TDT", RTP Internacional (1) [SD]
+#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png" group-title="RTP", RTP Internacional (1) [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="NOTICIAS", RTP Informação (1) [SD]
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (1) [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="NOTICIAS", RTP Informação (2) [SD]
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (2) [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png" group-title="TDT", SIC (1) [SD] (OFF)
 http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
