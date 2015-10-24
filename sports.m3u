@@ -49,18 +49,27 @@ http://0.0.0.0
 http://0.0.0.0
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV1 [B][COLOR orange]FSD[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&name=SPORT TV1
+
+#EXTINF:-1 group-title="PLEXUS", SPORT TV1 (2) [B][COLOR orange]FSD[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6&name=SPORT TV1
 
-#EXTINF:-1 group-title="PLEXUS", SPORT TV2 [B][COLOR orange]FSD[/COLOR][/B] [B][COLOR red]OFF[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2&name=SPORT TV2
+#EXTINF:-1 group-title="PLEXUS", SPORT TV2 [B][COLOR orange]FSD[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&name=SPORT TV2
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV3 [B][COLOR orange]FSD[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&name=SPORT TV3
+
+#EXTINF:-1 group-title="PLEXUS", SPORT TV3 (2) [B][COLOR orange]FSD[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&name=SPORT TV3
 
-#EXTINF:-1 group-title="PLEXUS", SPORT TV4 [B][COLOR orange]FSD[/COLOR][/B]  [B][COLOR red]OFF[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://0e9bac041c943b759e65c28631d79376b5392460&name=SPORT TV4
+#EXTINF:-1 group-title="PLEXUS", SPORT TV4 [B][COLOR orange]FSD[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&name=SPORT TV4
 
 #EXTINF:-1 group-title="PLEXUS", SPORT TV5 [B][COLOR orange]FSD[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&name=SPORT TV5
+
+#EXTINF:-1 group-title="PLEXUS", SPORT TV5 (2) [B][COLOR orange]FSD[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&name=SPORT TV5
 
 #EXTINF:-1 group-title="PLEXUS", Benfica TV1 [B][COLOR orange]FSD[/COLOR][/B]
