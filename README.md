@@ -1,5 +1,5 @@
 # Comunidade myIPTVChannels
-A comunidade myIPTVChannels nasceu no seio do grupo Listas IPTV do facebook https://www.facebook.com/groups/listasiptv/. O conceito do projecto é simples, em vêz de cada um criar a sua lista IPTV, trabalhamos em equipa, actualizando as listas para todos podermos ter acesso a canais o mais actualizados e optimizados possível.
+A comunidade myIPTVChannels nasceu no seio do grupo Listas IPTV do facebook https://www.facebook.com/groups/listasiptv/. O conceito do projecto é simples, em vez de cada um criar a sua lista IPTV, trabalhamos em equipa, actualizando as listas para todos podermos ter acesso a canais o mais actualizados e optimizados possível.
 
 O projecto é aberto à participação de todos.
 
