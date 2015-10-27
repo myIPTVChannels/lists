@@ -275,8 +275,10 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
 http://
-#EXTINF:0 group-title="MTV", MTV 1
+#EXTINF:0 group-title="MTV", MTV
 http://stream-full.selfip.com:8000/live/jack/jack/165.ts
+#EXTINF:0 group-title="MTV", MTV Latina
+http://wcm777.la/tp/mtv.m3u8
 #EXTINF:0, MTV HD Italia
 http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/162.m3u8
 #EXTINF:0 group-title="MTV", MTV Azerbaijan
@@ -297,6 +299,8 @@ http://bit.do/bkWAM
 http://92.50.181.6/tv/1278/index.m3u8
 #EXTINF:0 group-title="MTV", MTV HITS (2)
 http://78.30.254.27:8989/udp/239.0.0.205:4000
+#EXTINF:0 group-title="MTV", MTV HITS (3)
+http://wcm777.la/tp/mtv-hits.m3u8
 #EXTINF:0 group-title="MTV", MTV Russia
 http://j.mp/ZCH_C03_MTV_sly
 #EXTINF:0 group-title="MTV", MTV Russia (2)
