@@ -121,6 +121,8 @@ http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
 #EXTINF:0, PMC IRAN
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
+#EXTINF:0, QUIERO MÚSICA (Latino)
+mmsh://streamqm.uigc.net/qmusica?MSWMExt=.asf
 #EXTINF:0, RADIO 5 TV 
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Radio 105 TV
@@ -163,6 +165,8 @@ http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
 #EXTINF:0, Televitrola ES
 http://186.155.200.118:1935/live/Televitrola/playlist.m3u8
+#EXTINF:0, TIGO MUSIC (Latino)
+http://tinyurl.com/nmlwdq8
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
 #EXTINF:0, TRENDY MUSICA
@@ -183,6 +187,8 @@ http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
 #EXTINF:0, XITE TV
 rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
+#EXTINF:0, XITE TV Party
+http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8
 
 
 #EXTINF:-1, [COLOR yellow]--1 HD--[/COLOR]  
@@ -196,6 +202,10 @@ rtmp://109.239.142.62/live/livestream3
 http://
 #EXTINF:0 group-title="Black Music", Africa Music
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:0 group-title="Black Music", A-One Россия
+http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Black Music", A-One Россия (2)
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", AKA Hip Hop
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 group-title="Black Music", Golspel TV 
@@ -413,8 +423,6 @@ http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 http://embedcdnb.cloudy.services/play/135/chunklist_bw1800000.m3u8
 #EXTINF:0 group-title="Russia", лдПP TB
 rtmp://213.247.198.250:1935/live//ldpr.stream_720p
-#EXTINF:0 group-title="Russia", A-One Россия
-http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", City TV
