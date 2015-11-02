@@ -35,6 +35,8 @@ http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
 #EXTINF:-1, [B]--- World News ---[/B]
 http://0.0.0.0
+#EXTINF:0, Aljazeera Arabic
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 
 #EXTINF:0 tvg-logo="abc.png" tvg-logo="http://www.tvaovivolista.com/abc.png", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
