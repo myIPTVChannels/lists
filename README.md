@@ -10,11 +10,15 @@ Portugal PT Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
+Sports Channels para Wiseplay: sports-wiseplay = http://git.io/[em contrução]
+
 Movies: movies.m3u = http://git.io/vnUb0
 
 TV Shows: tvshows.m3u = http://git.io/vWISS
 
 Music Channels: music.m3u = http://git.io/vZohs
+
+News Channels: news.m3u = http://git.io/vlxJD
 
 United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP
 
