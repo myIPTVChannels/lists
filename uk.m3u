@@ -3,41 +3,11 @@
 #EXTINF:-1, BBC One [B][COLOR blue]HD[/COLOR][/B]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/13.m3u8
 
-#EXTINF:-1, BBC One [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, BBC Two [B][COLOR blue]HD[/COLOR][/B]
-http://hls.tv.iptv.ink/bbc2uk@353223.m3u8|X-Forwarded-For=81.17.18.55
-
-#EXTINF:-1, BBC Two [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, BBC Three [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, BBC Four [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, BBC News [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, CBBC [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, CBeebies [B][COLOR blue]HD[/COLOR][/B] (UK VPN)
-http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1, MEDIA 3D [B][COLOR blue]HD[/COLOR][/B]
 rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
 
 #EXTINF:-1, World Fashion Channel [B][COLOR green]FHD[/COLOR][/B]
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8
-
-#EXTINF:-1, E4 [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, ITV 1 [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50
 
 #EXTINF:-1, ABC [B][COLOR blue]HD[/COLOR][/B]
 http://lv7.oedg.ustvnow.com/dvrtest/mp4:FEEC6WHTMUSTVNOW4/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
@@ -54,26 +24,8 @@ http://lv7.oedg.ustvnow.com/dvrtest/mp4:C1AAFWPSUUSTVNOW3/chunklist.m3u8?f1a2823
 #EXTINF:-1, The CW [B][COLOR blue]HD[/COLOR][/B]
 http://lv7.oedg.ustvnow.com/dvrtest/mp4:65A04WLYHUSTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
 
-#EXTINF:-1, ITV 2 [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, ITV 3 [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, ITV 4 [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, 4 [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, Five [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1, Sky News [B][COLOR green]FHD[/COLOR][/B]
 http://manifest.googlevideo.com/api/manifest/hls_playlist/id/y60wDzZt8yg.1/itag/96/source/yt_live_broadcast/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/eTYwd0R6WnQ4eWcuMQ.96/hls_chunk_host/r3---sn-aiglln6e.googlevideo.com/pmbypass/yes/gcr/gb/playlist_type/DVR/mm/32/mn/sn-aiglln6e/ms/lv/mv/u/nh/IgpwcjAyLmxocjA3KgkxMjcuMC4wLjE/pl/22/dover/3/fexp/9408491, 9408710, 9409069, 9409249, 9415365, 9415485, 9415982, 9416023, 9416126, 9416524, 9416729, 9417056, 9417132, 9417338, 9417707, 9418060, 9418094, 9418153, 9418203, 9418448, 9420348, 9420736, 9421013, 9421173, 9421287/upn/lleo7JlhG-k/keepalive/yes/sver/3/mt/1443383823/ip/82.8.251.100/ipbits/0/expire/1443405589/sparams/ip, ipbits, expire, id, itag, source, ratebypass, live, cmbypass, gir, dg_shard, hls_chunk_host, pmbypass, gcr, playlist_type, mm, mn, ms, mv, nh, pl/signature/6AC400189061289F489AE7FE6BB70E4C254747C4.2A9ECB4A834230AD527B3B24F995CF893A159882/key/dg_yt0/playlist/index.m3u8
-
-#EXTINF:-1, More 4 [B][COLOR blue]HD[/COLOR][/B]
-http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
 
 #EXTINF:-1, Russia Today [B][COLOR blue]HD[/COLOR][/B]
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8|X-Forwarded-For=78.43.32.8
