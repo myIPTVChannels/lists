@@ -10,31 +10,29 @@
     "stations": [
                   {
                     "name": "''Todos os canais nacionais desporto.''
-     
-    SERVIDORES:
-    ''OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.''
-     
-    Bosslulamen (ForoWise)",
-                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
-                            "url": "",
-                "referer": "",
-                "isHost": ""
-                                    },
-                                    {
-                            "name": "SPORT TV AMERICAS",
-                            "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
-                            "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8"
-                    },
-                                    {
-                            "name": "SPORT TV AMERICAS opc1",
-                            "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
-                            "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8"
-                    },
-                                    {
-                            "name": "SPORT TV 1",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "http://31.204.128.112:8081/live/portugal1/playlist.m3u8"
-                    },
+                    SERVIDORES:''OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.''
+                    Bosslulamen (ForoWise)",
+                    "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                    "url": "",
+                    "referer": "",
+                    "isHost": "" },
+                {
+                    "name": "SPORT TV AMERICAS",
+                    "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
+                    "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8"
+                },
+                    
+                {
+                    "name": "SPORT TV AMERICAS opc1",
+                    "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
+                    "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8"
+                },
+                    
+                {
+                    "name": "SPORT TV 1",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                    "url": "http://31.204.128.112:8081/live/portugal1/playlist.m3u8"
+                },
                                     {
                             "name": "SPORT TV 1 opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
