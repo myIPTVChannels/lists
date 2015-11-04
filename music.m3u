@@ -364,22 +364,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO HD 1 (3)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 1 (4)
-http://pvr.tvip.ga/9001.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 1 (5)
-http://pvr.tvip.ga/9002.m3u8
 #EXTINF:0 group-title="VEVO", VEVO HD 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 2 
-http://pvr.tvip.ga/9003.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 2 (2)
-http://pvr.tvip.ga/9004.m3u8
 #EXTINF:0 group-title="VEVO", VEVO HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 3
-http://pvr.tvip.ga/9005.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 3 (2) 
-http://pvr.tvip.ga/9006.m3u8
 #EXTINF:0 group-title="VEVO", VEVO Music
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO Hip Hop TV
