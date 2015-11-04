@@ -78,10 +78,10 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="record.png" tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="Brasil",Record
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="Brasil",Record
 http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="discovery.png" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group-title="Brasil",Discovery Channel
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group-title="Brasil",Discovery Channel
 http://37.203.209.34:443/mobile/flash14sd/Live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png" group-title="Brasil",Disney Junior Brasil [SD]
