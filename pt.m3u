@@ -1,108 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201" group-title="TDT",RTP1 (1) [SD]
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png" group title="Portugal",RTP 1 [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="TDT",RTP1 (2) [SD]
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="TDT",RTP1 (3) [SD]
-http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="TDT",RTP 2 (1) [SD]
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png" group title="Portugal",RTP 2 [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="TDT",RTP 2 (2) [SD]
-http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png" group-title="TDT",SIC (1) [SD]
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal",SIC (1) [SD]
 http://213.13.26.11:1935/live/sic/livestream.m3u8
 
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png" group-title="TDT",SIC (2) [SD]
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal",SIC (2) [SD]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
-#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT",TVI (1) [SD]
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group title="Portugal",TVI [FSD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT",TVI (2) [SD]
-http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-
-#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="Notícias",RTP 3 (1) [SD]
+#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal",RTP 3 [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="Notícias",RTP 3 (2) [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
 
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Sic%20Noticias.png" group-title="Notícias",SIC Notícias (1) [SD]
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal",SIC Notícias (1) [SD]
 http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Sic%20Noticias.png" group-title="Notícias",SIC Notícias (2) [SD]
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal",SIC Notícias (2) [SD]
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI%2024hs.png" group-title="Notícias",TVI24 (1) [FSD]
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal",TVI24 [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Correio%20Manha.png" audio-track="pt" group-title="Notícias",CMTV (1) [SD]
-rtmp://208.43.81.145/stream playpath=cmtvteywtdsu?id=17306&pk=c098779812e8996843543514009a2800d6cecfe1a98b0f293daec0628d6cf06e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/cmtvteywtdsu/1/600/450 conn=S:OK timeout=15
+#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal",CMTV [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8
 
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Correio%20Manha.png" audio-track="pt" group-title="Notícias",CMTV (2) [SD]
-rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
-
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png" group-title="Notícias",Económico TV
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal",Económico TV [FSD]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Euronews.png" group-title="Notícias",Euronews (1) [SD]
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal",Euronews [SD]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Euronews.png" group-title="Notícias",Euronews (2) [SD]
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-
-#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png" group-title="TDT",RTP Internacional (1) [SD]
+#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png" group title="Portugal",RTP Internacional [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTPAfrica.png" group-title="TDT",RTP África
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png" group title="Portugal",RTP África [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTPMemoria.png" group-title="TDT",RTP Memória
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png" group title="Portugal",RTP Memória [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Madeira.png" group-title="TDT",RTP Madeira
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png" group title="Portugal",RTP Madeira [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Acores.png" group-title="TDT",RTP Açores
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png" group title="Portugal",RTP Açores [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Notícias",TPA Internacional (1) [FSD]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal",TPA Internacional [FSD]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ARTV_Logo.png",Canal Parlamento (1) [SD]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png" group title="Portugal",ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Disney%20Jr.png" group-title="Animação",Disney Junior Brasil (1) [SD]
-http://bit.ly/IPTVGlobal-disneyjr
-#EXTINF:-1 group-title="Animação",Zoomoo Brasil (1) [SD]
-http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
+#EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png" group title="Portugal",AXN [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8
+#EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png" group title="Portugal",AXN White [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8
+#EXTINF:-1 tvg-name="fox.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png" group title="Portugal",FOX [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8
+#EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png" group title="Portugal",FOX Crime [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8
+#EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png" group title="Portugal",FOX Life [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8
+#EXTINF:-1 tvg-name="foxmovies.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sxuwxq1435104089.png" group title="Portugal",FOX Movies [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5550.m3u8
+#EXTINF:-1  audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png" group title="Portugal",Hollywood [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
+#EXTINF:-1 tvg-name="SyFy.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png" group title="Portugal",SYFY [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8
+#EXTINF:-1 audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png" group title="Portugal",TVI Ficção [SD]
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8
 
-#EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN.png" group title="Filmes e Séries",AXN [SD]
-http://95.211.186.215:8081/loadbalance/98428539324743154941/playlist.m3u8
-#EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN WHITE.png" group title="Filmes e Séries",AXN White [SD]
-http://95.211.186.215:8081/loadbalance/95688633243575582995/playlist.m3u8
-#EXTINF:-1 tvg-name="fox.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/FOX.png" group title="Filmes e Séries",FOX [SD]
-http://95.211.186.215:8081/loadbalance/86261251431855333973/playlist.m3u8
-#EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Crime.png" group title="Filmes e Séries",FOX Crime [SD]
-http://95.211.186.215:8081/loadbalance/36925217397715777225/playlist.m3u8
-#EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Life.png" group title="Filmes e Séries",FOX Life [SD]
-http://95.211.186.215:8081/loadbalance/53398224345944758161/playlist.m3u8
-#EXTINF:-1 tvg-name="foxmovies.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Movies.png" group title="Filmes e Séries",FOX Movies [SD]
-http://95.211.186.215:8081/loadbalance/31679512315718398352/playlist.m3u8
-#EXTINF:-1  audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Hollywood.png" group title="Filmes e Séries",Hollywood [SD]
-http://95.211.186.215:8081/loadbalance/27634186654973396567/playlist.m3u8
-#EXTINF:-1 tvg-name="SyFy.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SyFy.png" group title="Filmes e Séries",SYFY [SD]
-http://95.211.186.215:8081/loadbalance/74763795273792662115/playlist.m3u8
-#EXTINF:-1 audio-track="pt" tvg-logo="http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/" group title="Filmes e Séries",TVI Ficção [SD]
-http://95.211.186.215:8081/loadbalance/83133496787987943466/playlist.m3u8
-
-#EXTM3U 
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
 
-#EXTINF:0 tvg-logo="record.png" tvg-logo="http://tvaovivolista.com/record.png" group-title="Brasil",Record
+#EXTINF:-1 tvg-logo="record.png" tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="Brasil",Record
 http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
 
-#EXTINF:0 tvg-logo="discovery.png" tvg-logo="http://www.tvaovivolista.com/discovery.png",Discovery Channel
+#EXTINF:-1 tvg-logo="discovery.png" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group-title="Brasil",Discovery Channel
 http://37.203.209.34:443/mobile/flash14sd/Live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png" group-title="Brasil",Disney Junior Brasil [SD]
+http://bit.ly/IPTVGlobal-disneyjr
+
+#EXTINF:-1 group-title="Brasil",Zoomoo Brasil [SD]
+http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
