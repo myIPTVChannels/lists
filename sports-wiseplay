@@ -1,0 +1,1266 @@
+	{
+    "name": "LISTA DESPORTO - GERAL",
+    "author": "Bosslulamen&Lacasitos",
+    "Update": "(03/11/2015/11/2015)",
+    "contact": "luilulas@hotmail.com",
+    "groups": [
+    {
+    "name": "DESPORTO PORTUGAL",
+    "image": "http://cdn3-i.hitc-s.com/134/liga_portugal_34695.jpg",
+    "stations": [
+                                       {
+                            "name": "''Todos os canais nacionais desporto.''
+     
+    SERVIDORES:
+    ''OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUIZA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.''
+     
+    Bosslulamen (ForoWise)",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": "",
+                "referer": "",
+                "isHost": ""
+                                    },
+                                    {
+                            "name": "SPORT TV AMERICAS",
+                            "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
+                            "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8"
+                    },
+                                    {
+                            "name": "SPORT TV AMERICAS opc1",
+                            "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
+                            "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8"
+                    },
+                                    {
+                            "name": "SPORT TV 1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "http://31.204.128.112:8081/live/portugal1/playlist.m3u8"
+                    },
+                                    {
+                            "name": "SPORT TV 1 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "http://80.82.78.16:8081/live/portugal1/playlist.m3u8"
+                    },
+                                    {
+                            "name": "SPORT TV 1 opc2",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
+                    },
+                                    {
+                            "name": "SPORT TV 1 pt opc3",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"
+                    },
+                                    {
+                            "name": "SPORT TV 1 pt ace",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6"
+                    },
+                                    {
+                            "name": "SPORT TV 1 pt opc1 ace",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "acestream://c39db61fd585ebfa446983d0af9d9d637df9678c"
+                    },
+                                    {
+                            "name": "SPORT TV 1 pt opc2 ace OF",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59"
+                    },
+                    {
+                            "name": "SPORT TV 2",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "rtmpe://r.livecast.cc/rs/share/live2-bipmr swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
+                    },
+                                    {
+                            "name": "SPORT TV 2 pt ace",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "acestream://fbf8d2630934d7de5306254304f754f96569f2f3"
+                    },
+                                    {
+                            "name": "SPORT TV 2 pt opc1 ace",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2"
+                    },
+                                    {
+                            "name": "SPORT TV 2 pt opc2 ace OF",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "acestream://a3776be8c08f52b3366c83fff09609721e28cd69"
+                    },
+                                    {
+                            "name": "SPORT TV 2 pt opc3 ace OF",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "acestream://24660dc5f5a642f7f5df8873ddac481bc4702115"
+                    },
+                    {
+                            "name": "SPORT TV 3 pt",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "rtmpe://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx"
+                    },
+                                    {
+                            "name": "SPORT TV 3/Benfica Tv pt opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "http://80.82.78.16:8081/live/portugal1/playlist.m3u8"
+                    },
+                                    {
+                            "name": "SPORT TV 3/Benfica Tv opc2",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "http://31.204.128.112:8081/live/portugal2/playlist.m3u8"
+                    },
+                                    {
+                            "name": "SPORT TV 3 pt opc1 ace",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1"
+                    },
+                                    {
+                            "name": "SPORT TV 3 pt opc2 ace OF",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280"
+                    },
+                                    {
+                            "name": "SPORT TV 3 pt opc3 ace OF",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "acestream://cf8ff2d9d89f482de9127591c5781216d60368ae"
+                    },
+                                    {
+                            "name": "SPORT TV 4 pt opc1 ace",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
+                            "url": "acestream://0e9bac041c943b759e65c28631d79376b5392460"
+                    },
+                                    {
+                            "name": "SPORT TV 4 pt opc2 ace OF",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
+                            "url": "acestream://4f256982b213a8b3346b01683b82261db8dcd524"
+                    },
+                                    {
+                            "name": "SPORT TV 4 pt opc3 ace OF",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
+                            "url": "acestream://d2a63635273232fc7710bb28c8775d18179c4038"
+                    },
+                                    {
+                            "name": "SPORT TV 5 pt opc1 ace",
+                            "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
+                            "url": "acestream://bf41112287550c64b2e18e81706e10356dbb8bbc"
+                    },
+                                    {
+                            "name": "SPORT TV 5 pt opc2 ace OF",
+                            "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
+                            "url": "acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4"
+                    },
+                                    {
+                            "name": "SPORT TV 5 pt opc3 ace OF",
+                            "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
+                            "url": "acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad"
+                    },
+                                    {
+                            "name": "BENFICA TV 1 pt opc1 ON ace",
+                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
+                            "url": "acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721"
+                    },
+                                    {
+                            "name": "BENFICA TV 1 pt opc2 ace abre às vezes",
+                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
+                            "url": "acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415"
+                    },
+                                    {
+                            "name": "BENFICA TV 2 pt opc1 ace",
+                            "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
+                            "url": "acestream://c1646f459c86ab24533650333957a57b457d80c1"
+                    },
+                                    {
+                            "name": "SPORTING TV em testes",
+                            "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
+                            "url": "http://max24.homelinux.com:8000/live/lucia/lucia/39.ts"
+                        },
+                                    {
+                            "name": "Sport 1 Voetboll ace jogos da liga portuguesa",
+                            "image": "http://oklivetv.com/wp-content/uploads/2015/06/sport1voetbal.jpg",
+                            "url": "acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471"
+                    },
+                                    {
+                            "name": "bt sport tv1 ace jogos da liga portuguesa",
+                            "image": "https://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg",
+                            "url": "acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce"
+                    },
+                                    {
+                            "name": "bt sport tv2 ace jogos da liga portuguesa",
+                            "image": "http://www.magnet.ie/wp-content/uploads/2011/12/BTSport2HD_RGB.jpg",
+                            "url": "acestream://3f3c263e29698f8b764708164718448c97faf205"
+                    },
+                                    {
+                            "name": "Telecanal russia jogos da liga portuguesa",
+                            "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/telekanal_futbol.jpg",
+                            "url": "http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8"
+                    },
+                                    {
+                            "name": "Telecanal russia opc1 jogos da liga portuguesa e espanhola",
+                            "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/telekanal_futbol.jpg",
+                            "url": "rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/"
+                    },
+                                    {
+                            "name": "Cnopt Russia liga portuguesa",
+                            "image": "http://www.itodis.fr/football/cnopt1.jpg",
+                            "url": "http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8"
+                    },
+     
+    ]
+    },
+     
+    {
+    "name": "DESPORTO ESPANHA & INTERNACIONAL",
+    "image": "http://www.resultadosdirecto.com/img/espanhola.png",
+    "stations": [
+                                       {
+                                                    "name": "''Todos os canais Espanhois & Internacionais de Desporto.''
+     
+    SERVIDORES:
+    OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUIZA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay,
+    alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.
+     
+    AUTOR:
+    Bosslulamen",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": "",
+                            "referer": "",
+                            "isHost": ""
+                    },
+                    {
+                            "name": "c+liga es ace",
+                            "image": "http://weblinks.altervista.org/LOGHI/c_liga.png",
+                            "url": "acestream://3f3c263e29698f8b764708164718448c97faf205"
+                                    },
+                                    {
+                            "name": "c+liga 2 es",
+                            "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg",
+                            "url": "rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/"
+                                    },
+                                    {       "name": "Bein Sports Espanha",
+                            "image": "http://3vjhyn2i4tw93whkoj1sjvwx.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/BeIN-Sports-e1431718427932-300x180.jpg",
+                            "url": "http://www.dinostream.pw/channel.php?file=104837&width=650&height=400&autostart=true",
+                            "referer": "http://verdirectotv.com/tv/deportes2/goltv.html",
+                            "isHost": "true"
+                    },
+                                    {
+                            "name": "Mega Tv  (El Chiringuito) ",
+                            "image": "http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg",
+                            "url": "http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8"
+                                    },
+                    {
+                            "name": "Canal+ Liga HD",
+                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
+                            "url": "rtmp://31.220.0.72/pull/ playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=viajando&width=600&height=450"
+                    },
+                    {
+                            "name": "Canal+ Liga (Opc.2)",
+                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
+                            "url": "http://gblackstreaming.com/embed.php?a=16251&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Liga (Opc.3)",
+                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
+                            "url": "http://vercosasgratis.com/embed.php?a=16251&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Liga (Opc.4)",
+                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
+                            "url": "http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true",
+                            "referer": "http://verdirectotv.com/tv/deportes2/plusliga.html",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Liga 2 HD",
+                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
+                            "url": "rtmp://31.220.2.55/pull/ playpath=liga258?keys=scP3bTn_Hbt8eGnBSSp_RA&keyt=1443235984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=liga258&width=600&height=450"
+                    },
+                    {
+                            "name": "Canal+ Liga 2 (Opc.2)",
+                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
+                            "url": "http://gblackstreaming.com/embed.php?a=14901&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Liga 2 (Opc.3)",
+                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
+                            "url": "http://vercosasgratis.com/embed.php?a=14901&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Liga 2 (Opc.4)",
+                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
+                            "url": "http://www.mipsplayer.com/embedplayer/verliga2222/1/650/400",
+                            "referer": "http://verliga.net/tv/verliga-2.html",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Partidazo HD",
+                            "image": "http://2.bp.blogspot.com/-S1W6xfsxrEg/VdmWCeD4pLI/AAAAAAAAF_A/VHE6AIY_E8Q/s1600/canal-plus-partidazo.jpg",
+                            "url": "rtmp://31.220.0.60/pull/ playpath=partdz456?keys=27z2McKjBSUf0SWsSNnv7w&keyt=1443235680 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=partdz456&width=600&height=450"
+                    },
+                                    {
+                            "name": "Canal+ Deportes HD",
+                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
+                            "url": "rtmp://31.220.40.59/pull/ playpath=deportes16?keys=_mWwPK-3oL00QGRCL5CEJQ&keyt=1443233608 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=deportes16&width=600&height=450"
+                    },
+                    {
+                            "name": "Canal+ Deportes (Opc.2)",
+                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
+                            "url": "http://gblackstreaming.com/embed.php?a=45&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Deportes (Opc.3)",
+                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
+                            "url": "http://vercosasgratis.com/embed.php?a=45&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Deportes (Opc.4)",
+                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
+                            "url": "http://tv.verdirectotv.org/channel.php?file=103878&width=650&height=400&autostart=true",
+                            "referer": "http://cinestrenostv.tv/canales/emision4/plusdeportes.html",
+                            "isHost": "true"
+                    },
+                                    {
+                            "name": "Canal+ Deportes 2 HD",
+                            "image": "http://1.bp.blogspot.com/-NyeQVCSU-NI/VTkIEm4MQtI/AAAAAAAAFFA/QRgU-BtkGcA/s1600/CANAL-PLUS-DEPORTES-2.png",
+                            "url": "rtmp://31.220.2.55/pull/ playpath=deportes26?keys=CKoLQMPKCUjJagTVGgaFqQ&keyt=1443229983 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=deportes16&width=600&height=450"
+                    },
+                    {
+                            "name": "Canal+ Deportes 2 (Opt.2)",
+                            "image": "http://1.bp.blogspot.com/-NyeQVCSU-NI/VTkIEm4MQtI/AAAAAAAAFFA/QRgU-BtkGcA/s1600/CANAL-PLUS-DEPORTES-2.png",
+                            "url": "http://gblackstreaming.com/embed.php?a=7&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Deportes 2 (Opt.3)",
+                            "image": "http://1.bp.blogspot.com/-NyeQVCSU-NI/VTkIEm4MQtI/AAAAAAAAFFA/QRgU-BtkGcA/s1600/CANAL-PLUS-DEPORTES-2.png",
+                            "url": "http://vercosasgratis.com/embed.php?a=7&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                                    {
+                            "name": "Canal+ Fútbol HD",
+                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
+                            "url": "rtmp://31.220.0.196/pull/ playpath=futbolsala?keys=zG65P3qWwERBZ4aLeToNHQ&keyt=1443894233 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=futbolsala&width=600&height=450"
+                    },
+                    {
+                            "name": "Canal+ Fútbol (Opc.2)",
+                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
+                            "url": "http://gblackstreaming.com/embed.php?a=15969&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Fútbol (Opc.3)",
+                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
+                            "url": "http://vercosasgratis.com/embed.php?a=15969&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "Canal+ Fútbol (Opc.4)",
+                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
+                            "url": "http://www.dinostream.pw/channel.php?file=104531&width=650&height=400&autostart=true",
+                            "referer": "http://verdirectotv.com/tv/deportes/plusfutbol.html",
+                            "isHost": "true"
+                    },
+                                    {
+                            "name": "SPORT 1 CZ ace",
+                            "image": "http://torrent-tv.ru/uploads/kCLlfkFz3Ba3BL9Jc9ZPgUKXh2piyv.png",
+                            "url": "acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60"
+                    },
+                    {
+                            "name": "SPORT 2 CZ ace",
+                            "image": "http://www.pickhandball.hu/files/4714/4240/8524/sport2.jpg",
+                            "url": "acestream://923bfb351663df55f2708a82eeadb50225bc213d"
+                    },
+                    {
+                            "name": "SPORT 1 SELECT ace",
+                            "image": "http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sport-1-SELECT-HD.jpg",
+                            "url": "acestream://a770493d86f72ac642fbd07633de46ebb026a8c1"
+                    },
+                    {
+                            "name": "EXTREME SPORTS ace",
+                            "image": "http://www.immaf.org/wp-content/uploads/2015/02/Extreme-Sports-Channel2.jpg",
+                            "url": "acestream://5e3f0a518bb4de8572a5b998c7b5424d81f5590a"
+                    },
+                    {
+                            "name": "BOXNATION ace",
+                            "image": "http://www.hattonboxing.com/media/1734029/boxnation.jpg",
+                            "url": "acestream://6523e673b7f5fe48627ac9c9ae15ff544e5b3652"
+                    },
+                    {
+                            "name": "BT SPORT/ESPN ace",
+                            "image": "http://mediaportal-uk-logos.googlecode.com/svn/trunk/TV/Simple/BT%20Sport%20ESPN%20HD.png",
+                            "url": "acestream://236b59bb00513c9fbb362ec3fbbd14671b8902e8"
+                    },
+                    {
+                            "name": "MOTORS TV ace",
+                            "image": "http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0025/4856/brand.gif?itok=QHxRgEMp",
+                            "url": "acestream://84c27a15472ee950e0567667dfd270cc81b01498"
+                    },
+                                    {
+                            "name": "MOTORSPORT ace",
+                            "image": "http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032011/untitled-1_400.png?itok=9kPAEjPN",
+                            "url": "acestream://78e3496e60eb6531f1335639f84b28d712874ae3"
+                    },
+                    {
+                            "name": "MOVISTAR F1 ace",
+                            "image": "https://pbs.twimg.com/profile_images/581423370916507648/pt9x1KgB.jpg",
+                            "url": "acestream://98b327d19a16be09070212124826e9209cb97540"
+                    },
+                    {
+                            "name": "MOVISTAR MOTOGP ace",
+                            "image": "https://pbs.twimg.com/profile_images/581423646729760768/RN5IUmFN.jpg",
+                            "url": "acestream://ed9387ebbf6caac72e04e7b66880fd4b69999069"
+                    },
+                    {
+                            "name": "SKY SPORTS F1 ace",
+                            "image": "http://img1.wikia.nocookie.net/__cb20130227130518/logopedia/images/f/f2/Sky_Sports_F1.svg",
+                            "url": "acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b"
+                    },
+                    {
+                            "name": "SKY SPORTS F1 HD ace",
+                            "image": "http://vignette3.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG/revision/latest?cb=20130902194359",
+                            "url": "acestream://983a3e2b00512a85430bbd1300b6c8d4abac11c7"
+                    },
+                                    {
+                            "name": "Viasat Fotboll ace",
+                            "image": "http://s20.postimg.org/4djyupt8d/VIASAT_FUTEBOL.jpg",
+                            "url": "acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d"
+                    },
+                    {
+                            "name": "VIASAT HOCKEY ace",
+                            "image": "http://img1.wikia.nocookie.net/__cb20100318124513/logopedia/images/d/de/Viasat_Hockey_logo.png",
+                            "url": "acestream://548d364053e6650458e3f347dfbda0dd852781da"
+                    },
+                    {
+                            "name": "SETANTA SPORTS ace",
+                            "image": "https://secure.setantasubs.com/images/setanta-logo.png",
+                            "url": "acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb"
+                    },
+     
+    ]
+    },
+     
+    {
+    "name": " TV/PORTUGAL
+    (Em Manutenção)",
+    "image": "https://lh6.ggpht.com/LOjVJPx2OVP2jKObFA9n8GM4XkXQhhbIGidxpXn_hdSSzUtQ2fDz6V_-ZdMStp8L-w=w300",
+    "stations": [
+                    {
+                            "name": "NOTA:
+    Alguns canais não estão sempre disponíveis.
+     
+    Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                    },
+                                    {
+                            "name": "RTP 1",
+                            "image": "http://3.bp.blogspot.com/-KZuUXV7b6M8/VhNF75ML75I/AAAAAAAAGOQ/TBFBhSGz88Y/s1600/RTP1.PNG",
+                                                    "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/chunklist_b600000_slpt.m3u8"
+                    },
+                                    {
+                            "name": "RTP 2",
+                            "image": "http://3.bp.blogspot.com/-RBc-PTf3-RI/UqyWRyGesKI/AAAAAAAAAUE/YUgteoZ7d7E/s200/imagesLPLBF395.jpg",
+                                                    "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/chunklist_b600000_slpt.m3u8"
+                    },
+                                    {
+                            "name": "TVI",
+                            "image": "http://1.bp.blogspot.com/-wNqIzaYlbGQ/VhOdgriWyPI/AAAAAAAAGTs/DqfQRyDy868/s1600/TVI.png",
+                            "url": "http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8"
+                    },
+                                    {
+                            "name": "SIC",
+                            "image": "http://3.bp.blogspot.com/-bjYohBQxBoM/VhNNjYeFU7I/AAAAAAAAGO8/gzTgZ0DWito/s1600/SIC%2Blogo.png",
+                            "url": "http://213.13.26.11:1935/live/sic/livestream.m3u8"
+                    },
+                                    {
+                            "name": "Rtp3",
+                            "image": "http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8"
+                    },
+                                    {
+                            "name": "TVI 24",
+                            "image": "http://1.bp.blogspot.com/-04BfgDemehk/VhNU8ZVE5RI/AAAAAAAAGPs/mk1I7bTWqE4/s1600/Tvi24.png",
+                            "url": "http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8"
+                    },
+                                    {
+                            "name": "SIC Noticias",
+                            "image": "http://1.bp.blogspot.com/-xAngo4RrtGs/VhNSEKtkxiI/AAAAAAAAGPU/aH8Gwjwe6aE/s1600/SIC%2BNoticias.jpg",
+                            "url": "rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html"
+                    },
+                    {
+                            "name": "TVI REALITY (A QUINTA)",
+                            "image": "http://1.bp.blogspot.com/-Wy8eiOgDnrU/VhggLLxKeTI/AAAAAAAAuf8/2RknFrCz4os/s1600/AQUINTA.png",
+                            "url": "rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430"
+                    },
+                                    {
+                            "name": "RTP INTERNACIONAL",
+                            "image": "http://www.fphoquei.pt/files/large/a56ae453dd198af",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8"
+                    },
+                                    {
+                            "name": "EURONEWS",
+                            "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832",
+                            "url": "http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8"
+                    },
+                    {
+                            "name": "RTP MADEIRA",
+                            "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8"
+                    },
+                    {
+                            "name": "RTP MEMORIA",
+                            "image": "http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8"
+                    },
+                    {
+                            "name": "RTP ACORES",
+                            "image": "http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/chunklist_b600000_slpt.m3u8"
+                    },
+                    {
+                            "name": "RTP AFRICA",
+                            "image": "http://s20.postimg.org/qodr70i7x/rtp_africa.png",
+                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/chunklist.m3u8"
+                    },
+     
+    ]
+    },
+     
+    {
+    "name": " CINEMA
+    (Em Manutenção)",
+    "image": "http://www.fatosdesconhecidos.com.br/wp-content/uploads/2015/03/2215.jpg",
+    "stations": [
+                    {
+                            "name": "NOTA:
+    Vamos actualizar assim que possivel.
+     
+    Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                    },
+                            {
+                            "name": "VELOSES E FURIOSOS 7",
+                            "image": "http://i1.wp.com/portalovertube.com/wp-content/uploads/2015/02/Velozes-e-Furiosos-7.jpeg",
+                            "url": "http://apkmania.com.br/marco/filmes/VelozeseFuriosos7Legendado.mp4"
+                    },
+                    {
+                            "name": "A PROPOSICAO 8",
+                            "image": "https://lh4.googleusercontent.com/-PKreW6Yj-38/T-uIFn8u1hI/AAAAAAAAGU8/4l-Diujn8DQ/s350/4.jpg",
+                            "url": "http://www.filmes2k.info/02/A-Proposicao-8-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "ANJOS DA LEI",
+                            "image": "http://br.web.img3.acsta.net/medias/nmedia/18/89/61/19/20057844.jpg",
+                            "url": "http://www.filmes2k.info/01/Anjos-da-Lei-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "A REDE SOCIAL",
+                            "image": "http://4.bp.blogspot.com/--aZ8HMI9-eI/VaKQDxAQETI/AAAAAAAAAxM/QXZTnixDTGc/s1600/Nova_Capa_Filmes_Rede_Social_Equipe_Seven.png",
+                            "url": "http://www.filmes2k.info/01/A-Rede-Social-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "AS AVENTURAS DE TIMTIM",
+                            "image": "http://www.filmesviatorrents.com.br/wp-content/uploads/2013/07/as-aventuras-de-tim-tim-s.jpg",
+                            "url": "http://www.filmes2k.info/01/As-Aventuras-de-Tintim-Leg_moovd.mp4"
+                    },
+                    {
+                            "name": "ALEM DA LIBERDADE",
+                            "image": "http://2.bp.blogspot.com/-hIvyNV2ksSE/UOF9zalgL5I/AAAAAAAAQw4/WD-IeYMnf_s/s1600/alem+da+liberdade.JPG",
+                            "url": "http://www.filmes2k.info/01/Alem-da-Liberdade-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "ALIEN ORIGIN",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Alien_Origin.jpg",
+                            "url": "http://www.filmes2k.info/03/Alien-Origin-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "ANGELS CREST",
+                            "image": "http://i57.tinypic.com/2dm6ng2.jpg",
+                            "url": "http://www.filmes2k.info/01/Angels-Crest-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "A CASA SILENCIOSA",
+                            "image": "http://www.cinepop.com.br/cartazes/casasilenciosa_1.jpg",
+                            "url": "http://www.filmes2k.info/03/A-Casa-Silenciosa-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "A DAMA DE FERRO",
+                            "image": "http://tudomake.com/wp-content/uploads/2011/11/A_Dama_de_Ferro_Cineorna.png",
+                            "url": "http://www.filmes2k.info/01/A-Dama-de-Ferro-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "ARTE DA CONQUISTA",
+                            "image": "http://cdn.fstatic.com/media/movies/covers/2011/12/thumbs/3eab486f8f9b7c6f7f0299cbf7ebc3e1_jpg_290x478_upscale_q90.jpg",
+                            "url": "http://www.filmes2k.info/01/A-Arte-da-Conquista-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "BATTLESHIP",
+                            "image": "http://ia.media-imdb.com/images/M/MV5BMjI5NTM5MDA2N15BMl5BanBnXkFtZTcwNjkwMzQxNw@@._V1_SX214_AL_.jpg",
+                            "url": "http://www.filmes2k.info/01/Battleship-Batalha-dos-Mares-Leg_x264_moovd.mp4 "
+                    },
+                    {
+                            "name": "BEL AMI O SEDUTOR",
+                            "image": "http://br.web.img2.acsta.net/medias/nmedia/18/90/01/07/20128723.jpg",
+                            "url": "http://www.filmes2k.info/01/Bel-Ami-O-Sedutor-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "BERSERK",
+                            "image": "http://static.filmesonlinegratis.net/thumb.php?src=http://3.bp.blogspot.com/-A8cTS2sgy-o/T9NvUC0QfLI/AAAAAAAACe8/2s6eSrWb19E/s1600/Berserk+Ougon+Jidai-Hen+I+Haou+no+Tamago.jpg&w=166&h=250",
+                            "url": "http://www.filmes2k.info/01/Berserk-o-Filme-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "BAD ASS",
+                            "image": "http://www.impawards.com/2012/posters/bad_ass_ver2.jpg",
+                            "url": "http://www.filmes2k.info/01/Bad-Ass-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "PATETAS",
+                            "image": "http://br.web.img1.acsta.net/medias/nmedia/18/89/92/71/20072705.jpg",
+                            "url": "http://www.filmes2k.info/03/3-Patetas-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "CRISTIANO RONALDO TESTADO AO LIMITE",
+                            "image": "http://www.sky4u.in/dl4/Movie/Mostanad/Cristiano%20Ronaldo%20Tested%20To%20The%20Limit%202011%20%5BSkyMedia%5D.jpg",
+                            "url": "http://www.filmes2k.info/01/Cristiano-Ronaldo-Testado-ao-Limite-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "DONNER PASS",
+                            "image": "http://cdn.traileraddict.com/content/unknown/donner_pass.jpg",
+                            "url": "http://www.filmes2k.info/01/Donner-Pass-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "DROGAS SA COCAINA",
+                            "image": "http://4.bp.blogspot.com/-U9VAp2RMjXw/T2tHyO9wGpI/AAAAAAAABeQ/uzZmdUQaP2c/s1600/National+Geographic+-+Drogas+S.A+Coca%C3%ADna.jpg",
+                            "url": "http://www.filmes2k.info/01/Drogas-S-A-Cocaina_moovd.mp4"
+                    },
+                    {
+                            "name": "PHASE 7",
+                            "image": "http://bloody-disgusting.com/photosizer/upload/phase7replaced021111.jpg",
+                            "url": "http://www.filmes2k.info/01/Fase-7-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "FILHA DO MAL",
+                            "image": "http://cinema10.com.br/upload/image/Freira-Filha-do-Mal-Poster.jpg",
+                            "url": "http://www.filmes2k.info/01/Filha-do-Mal-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "FORCE",
+                            "image": "http://www.impawards.com/intl/india/2011/posters/force_xlg.jpg",
+                            "url": "http://www.filmes2k.info/01/Force-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "HYSTERIA",
+                            "image": "https://www.movieposter.com/posters/archive/main/148/MPW-74207",
+                            "url": "http://www.filmes2k.info/01/Hysteria-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "INTOCAVEIS",
+                            "image": "http://www.cinemarcado.com.br/wp-content/uploads/2012/06/Intoc%C3%A1veis-2.jpg",
+                            "url": "http://www.filmes2k.info/01/Intocaveis-Leg_moovd.mp4"
+                    },
+                    {
+                            "name": "JEFF WHO LIVES AT HOME",
+                            "image": "http://www.impawards.com/2012/posters/jeff_who_lives_at_home.jpg",
+                            "url": "http://www.filmes2k.info/01/Jeff-Who-Lives-at-Home-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "JHON CARTER",
+                            "image": "http://lh4.ggpht.com/-GhwlPtpN2A0/TxL1T5Y2DbI/AAAAAAAAA9A/MF0FxlRCi3s/John-Carter-Entre-Dois-Mundos3.jpg",
+                            "url": "http://www.filmes2k.info/01/John-Carter-ts-leg_moovd.mp4"
+                    },
+                    {
+                            "name": "KINGDOM OF GLADIATORS",
+                            "image": "http://ia.media-imdb.com/images/M/MV5BMTgyMTIzNTY2Ml5BMl5BanBnXkFtZTcwMDUzNDg5NA@@._V1_SX640_SY720_.jpg",
+                            "url": "http://www.filmes2k.info/01/Kingdom-of-Gladiators-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "LOVE",
+                            "image": "http://images.moviepostershop.com/love-and-other-impossible-pursuits-movie-poster-2009-1020696185.jpg",
+                            "url": "http://www.filmes2k.info/01/Love-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "MEMORIAL DAY",
+                            "image": "http://cdn.traileraddict.com/content/image-entertainment/memorial_day.jpg",
+                            "url": "http://www.filmes2k.info/01/Memorial-Day-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "MERLIN E O LIVRO DAS BESTAS",
+                            "image": "http://cdn.fstatic.com/media/movies/covers/2011/03/thumbs/7120ece59a635085f3345c9e0562f166_jpg_290x478_upscale_q90.jpg",
+                            "url": "http://www.filmes2k.info/01/Merlin-e-o-Livro-das-Bestas-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "MISSAO IMPOSSIVEL 4",
+                            "image": "http://cdn.fstatic.com/media/movies/covers/2012/05/thumbs/e6aab1feb6a39bb1b1c7c6151484afe4_jpg_290x478_upscale_q90.jpg",
+                            "url": "http://www.filmes2k.info/01/Missao-Impossivel-4-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "MONSTRO EM PARIS",
+                            "image": "http://canelaehortela.com/wp-content/uploads/2012/06/3-POSTER-CINEMA-um-monstro-em-paris.jpg",
+                            "url": "http://www.filmes2k.info/01/Mostro%20Paris%20-%20Leg_moovd.mp4"
+                    },
+                    {
+                            "name": "NOITE DE ANO NOVO",
+                            "image": "http://www.brasiltvdigital.com/wp-content/uploads/filme-noite-de-ano-novo.jpg",
+                            "url": "http://www.filmes2k.info/01/Noite-de-Ano-Novo-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "OLHOS DE DRAGAO",
+                            "image": "http://cdn.fstatic.com/media/movies/covers/2012/04/thumbs/245838fdcb68535b23373e7b6ecdd537_jpg_290x478_upscale_q90.jpg",
+                            "url": "http://www.filmes2k.info/01/Olhos-de-Dragao-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "OS BRUTAMONTES",
+                            "image": "http://cinepop.com.br/cartazes/brutamontes_1.jpg",
+                            "url": "http://www.filmes2k.info/01/Os-Brutamontes-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "OS VINGADORES",
+                            "image": "http://www.amigosdoforum.com.br/wp-content/uploads/2015/02/ving.jpg",
+                            "url": "http://www.filmes2k.info/01/Os-Vingadores-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "PIRANHA 3DD",
+                            "image": "https://upload.wikimedia.org/wikipedia/pt/2/27/Piranha-3dd-poster-2.jpg",
+                            "url": "http://www.filmes2k.info/01/Piranha-3DD-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "RABIES",
+                            "image": "http://news.bbc.co.uk/olmedia/1310000/images/_1313693_poster_300_free.jpg",
+                            "url": "http://www.filmes2k.info/01/Rabies-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "REC 3",
+                            "image": "http://www.cinemista.com.br/wp-content/uploads/2011/05/Rec-3-Genesis-Poster.jpg",
+                            "url": "http://www.filmes2k.info/03/REC-3-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "RED FACTION",
+                            "image": "http://iv1.lisimg.com/image/2158059/400full-red-faction%3A-origins-poster.jpg",
+                            "url": "http://www.filmes2k.info/02/Red-Faction-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "RESGATE NAS ALTURAS",
+                            "image": "http://cinema10.com.br/upload/filmes/filmes_2497_Resgate-nas-Alturas-Poster.jpg",
+                            "url": "http://www.filmes2k.info/03/Resgate-Nas-Alturas-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "SECRETS IN THE WALLS",
+                            "image": "http://images2.fanpop.com/image/photos/11700000/-Secrets-in-the-Walls-2010-poster-kay-panabaker-11719793-506-676.jpg",
+                            "url": "http://www.filmes2k.info/01/Secrets-in-the-Walls-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "SEQUESTRO NO ESPACO",
+                            "image": "http://bimg2.mlstatic.com/filme-sequestro-no-espaco-aco-eletrizante_MLB-F-3011858170_082012.jpg",
+                            "url": "http://www.filmes2k.info/02/Sequestro-No-Espaco-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "SHAME",
+                            "image": "http://beaut.ie/wp-content/uploads/2012/01/shame-poster1.jpg",
+                            "url": "http://www.filmes2k.info/01/Shame-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "SOLDADOS DA FORTUNA",
+                            "image": "http://cdn.fstatic.com/media/movies/covers/2012/06/thumbs/012e0c9fb7addf11e439f58cb19b1688_jpg_290x478_upscale_q90.jpg",
+                            "url": "http://www.filmes2k.info/03/Soldados-da-Fortuna-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "SWERVE",
+                            "image": "http://www.impawards.com/intl/australia/2012/posters/swerve_ver4_xlg.jpg",
+                            "url": "http://www.filmes2k.info/03/Swerve-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "TED",
+                            "image": "http://cdn.traileraddict.com/content/universal-pictures/ted-3.jpg",
+                            "url": "http://www.filmes2k.info/03/Ted-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "TWIXT",
+                            "image": "http://elipunto.files.wordpress.com/2012/04/twixt_poster1.jpg",
+                            "url": "http://www.filmes2k.info/01/Twixt-Leg_x264_moovd.mp4"
+                    },
+                    {
+                            "name": "TEEN SPIRIT",
+                            "image": "http://www.melhorestorrentbrasil.com/wp-content/uploads/2013/06/Uma-Patricinha-de-Outro-Mundo.jpg",
+                            "url": "http://www.filmes2k.info/01/Uma-Patricinha-de-Outro-Mundo-Leg_x264_moovd.mp4"
+                    },
+     
+    ]
+    },
+     
+    {
+    "name": " MUSICA
+    (Em Manutenção)",
+    "image": "http://www.modenabimbi.it/wp-content/uploads/corso-musica.jpg",
+    "stations": [
+                    {
+                            "name": "NOTA:
+    Vamos actualizar assim que possivel.
+     
+    Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                    },
+                                    {
+                            "name": "9 ONDA ace",
+                            "image": "http://torrent-tv.ru/uploads/8zDeTSBhsmJDbXo9dxHA1c9mDOP9sP.png",
+                            "url": "acestream://d6520943d0e5a6cfa4bf17f109e60effbd389786"
+                    },
+                    {
+                            "name": "B4U MUSIC UK ace",
+                            "image": "http://b4umusic.co.uk/images/logo.png",
+                            "url": "acestream://397f52be3d31ad84658ae3488ce8646d66d04c43"
+                    },
+                    {
+                            "name": "DELUXE MUSIC ace",
+                            "image": "http://www.mat-d.com/site/wp-content/uploads/Delux_Music_Channel_logo.png",
+                            "url": "acestream://fb3553b94340ac9fc821eb9e33bfbd440c9c9726"
+                    },
+                    {
+                            "name": "BEST MUSIC TV ESKA ace",
+                            "image": "http://televisaoaovivo.com/icones/grande/aberto/eska-best-music-online-ao-vivo-gratis-55e1e0e65df98.jpeg",
+                            "url": "acestream://42dedd20c5b9e4239c895bf9bd272a9d025dd7f6"
+                    },
+                    {
+                            "name": " Eska Music Vox TV OldsCool ace",
+                            "image": "http://t-eska.cdn.smcloud.net/common/r/d/s/rd2005530kqU2.jpg/ru-0-r-108,108-n-rd2005530kqU2.jpg",
+                            "url": "acestream://f17437a6c27f0ec3ee6788037798f5ac0554f398"
+                    },
+                    {
+                            "name": "Eska Party TV ace",
+                            "image": "http://vse-tv.net/uploads/posts/2015-02/thumbs/1424421938_eska-party-tv-hd.jpg",
+                            "url": "acestream://e0e441ee6858a6db9c5a02033015c483ea41f731"
+                    },
+                    {
+                            "name": "MTV HITS ace",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/MTV_Hits_2013.png",
+                            "url": "acestream://3d569c62786a74d74ae9071597f694fd2f4ae0cf"
+                    },
+                    {
+                            "name": "MTV ROCKS ace",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MTV_ROCKS_logo.svg/2000px-MTV_ROCKS_logo.svg.png",
+                            "url": "acestream://15248f1601ba1930785662da9554651d29eb791d"
+                    },
+                    {
+                            "name": "VIVA DE ace",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/2000px-VIVA_2011_logo.svg.png",
+                            "url": "acestream://026fea149c67730230be601de17b75ef7b7df5a4"
+                    },
+                    {
+                            "name": "VIVA POLSKA ace",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/2000px-VIVA_2011_logo.svg.png",
+                            "url": "acestream://610c70d7a882d2fc102bdad07d3991d7d7dd178e"
+                    },
+                                    {
+                            "name": "40 TV HD",
+                            "image": "http://i57.tinypic.com/5fhdg3.jpg",
+                            "url": "rtmp://31.220.0.199/pull/ playpath=40tv85?keys=vRFyYPYmlFQCxSttey7VaA&keyt=1443150960 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=40tv85&width=600&height=450"
+                    },
+                    {
+                            "name": "SOL MÚSICA HD",
+                            "image": "http://2.bp.blogspot.com/-yWvWOWFDew8/VaTtobvKBeI/AAAAAAAAFuY/Mx4BIwxCp-I/s1600/SOL_MUSICA.png",
+                            "url": "rtmp://31.220.0.196/pull/ playpath=solmusica7?keys=RCQdmhV1OoTgyN3mY1pAUQ&keyt=1443151090 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=solmusica7&width=600&height=450"
+                    },
+                    {
+                            "name": "SOL MÚSICA (Opc.2)",
+                            "image": "http://2.bp.blogspot.com/-yWvWOWFDew8/VaTtobvKBeI/AAAAAAAAFuY/Mx4BIwxCp-I/s1600/SOL_MUSICA.png",
+                            "url": "http://gblackstreaming.com/embed.php?a=16895&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "SOL MÚSICA (Opc.3)",
+                            "image": "http://2.bp.blogspot.com/-yWvWOWFDew8/VaTtobvKBeI/AAAAAAAAFuY/Mx4BIwxCp-I/s1600/SOL_MUSICA.png",
+                            "url": "http://vercosasgratis.com/embed.php?a=16895&id=&width=650&height=400&autostart=true&strech=",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "KISS TV",
+                            "image": "http://1.bp.blogspot.com/-ogabHpr2CKk/UcBATuE3CEI/AAAAAAAAAXw/rxlBiRCK4IE/s1600/logokisstvj.jpg",
+                            "url": "rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live"
+                    },
+                    {
+                            "name": "TELEHIT HD (Latino)",
+                            "image": "http://1.bp.blogspot.com/-Jn4ogwqcYiQ/Veqxy31kONI/AAAAAAAAGDA/BDpJIk2Fgfk/s1600/TeleHit%2BHD.jpg",
+                            "url": "http://tinyurl.com/nkrtb8j"
+                    },
+                    {
+                            "name": "TELEHIT SD (Latino)",
+                            "image": "http://www.televicine.com.mx/telehit.jpg",
+                            "url": "http://www.janjuaplayer.com/embedplayer/telehit2016/1/600/385",
+                            "referer": "http://tvpor-internet.com/Telehit-en-vivo.html",
+                            "isHost": "true"
+                    },
+                    {
+                            "name": "RITMOSON (Latino)",
+                            "image": "http://2.bp.blogspot.com/-BcalEzb92bM/U5j_o8ZkDjI/AAAAAAAAgDg/CWGf2ZLh-aw/s1600/Ritmoson-logo-2014.png",
+                            "url": "http://tinyurl.com/pyn3m4r"
+                    },
+                    {
+                            "name": "BANDAMAX (Latino)",
+                            "image": "http://2.bp.blogspot.com/-bnYGpK18ygo/VLUxm6r5rJI/AAAAAAAACb0/OT_4pC6CFZE/s320/BANDAMAX-20121.png",
+                            "url": "http://tinyurl.com/ofars3u"
+                    },
+                    {
+                            "name": "HTV (Latino)",
+                            "image": "http://mgncablevision.com/img/htv.png",
+                            "url": "http://tinyurl.com/osffblv"
+                    },
+                    {
+                            "name": "K MUSIC (Latino)",
+                            "image": "http://1.bp.blogspot.com/-RFtYAtkg-Y0/Vc1Zq-v2KSI/AAAAAAAAF6c/FZOeR6ckDeM/s1600/kmusic.png",
+                            "url": "http://tinyurl.com/prwhnz3"
+                    },
+                    {
+                            "name": "QUIERO MÚSICA (Latino)",
+                            "image": "http://1.bp.blogspot.com/-XCGhUs7Rsy4/VcU_XHH4pnI/AAAAAAAAFxo/4eBz49nNL68/s1600/Quiero%2BM%25C3%25BAsica.jpg",
+                            "url": "mmsh://streamqm.uigc.net/qmusica?MSWMExt=.asf"
+                    },
+                    {
+                            "name": "MIMUSICA HD (Latino)",
+                            "image": "http://2.bp.blogspot.com/-tGKmV-llAJA/VR-SUKsTF1I/AAAAAAAAES4/AY9s7gQzy9U/s320/mimusica.png",
+                            "url": "http://tinyurl.com/n9oyx8g"
+                    },
+                    {
+                            "name": "ULTRA FIESTA (Latino)",
+                            "image": "http://3.bp.blogspot.com/-a8VrdTAdcXs/VVfD1CroQgI/AAAAAAAAFUI/PCgiB-pynmc/s1600/ULTRA%2BFIESTA.jpg",
+                            "url": "http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8"
+                    },
+                    {
+                            "name": "TIGO MUSIC (Latino)",
+                            "image": "http://4.bp.blogspot.com/-Zf_qX38GVPM/VPxlx7OiPLI/AAAAAAAADQ0/4jcowhUHQyY/s1600/tigo%2Bmusic.png",
+                            "url": "http://tinyurl.com/nmlwdq8"
+                    },
+                    {
+                            "name": "CANTINAZO TV (Latino)",
+                            "image": "http://2.bp.blogspot.com/-2-b1UBsludk/VP_pijWs9iI/AAAAAAAADhU/DJg-S3FJ_cE/s1600/cantinazo.jpg",
+                            "url": "http://tinyurl.com/pz9hfsy"
+                    },
+                    {
+                            "name": "REGIONAL MUSIC TV (Latino)",
+                            "image": "http://2.bp.blogspot.com/-1i-c4nqmTOk/Vc1V8suMElI/AAAAAAAAF6Q/mR55iHdNoGU/s1600/Regional-Music-TV.jpg",
+                            "url": "http://tinyurl.com/pvuxg83"
+                    },
+                    {
+                            "name": "SI! TV (Latino)",
+                            "image": "http://1.bp.blogspot.com/-yuG514n-Vwo/VUj-KMNEjVI/AAAAAAAAFQM/fnE8PcXtxrI/s1600/sitv260x260bb1.jpg",
+                            "url": "http://hd.worldkast.com:1935/8436/8436/playlist.m3u8"
+                    },
+                    {
+                            "name": "MTV LIVE HD",
+                            "image": "http://2.bp.blogspot.com/-WqaWNSug230/Vc1bUEPdRHI/AAAAAAAAF6o/9wMpYMJYLmg/s1600/MTV%2BLive%2BHD.png",
+                            "url": "http://tinyurl.com/nwt6ere"
+                    },
+                    {
+                            "name": "MTV HITS",
+                            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_MTV_HITS_2012.png/150px-Logo_MTV_HITS_2012.png",
+                            "url": "http://tinyurl.com/ndenkxc"
+                    },
+                    {
+                            "name": "MTV DANCE",
+                            "image": "http://img3.wikia.nocookie.net/__cb20110701075913/logopedia/images/8/82/MTV_Dance_logo.png",
+                            "url": "http://goo.gl/QzdkM0"
+                    },
+                    {
+                            "name": "MTV ROCKS (Próx.)",
+                            "image": "http://4.bp.blogspot.com/-xu9fEVGoexc/TgJ9R7snjyI/AAAAAAAAAUQ/7iVvBPVLJnM/s1600/MTV+Rocks+logo.png",
+                            "url": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$"
+                    },
+                    {
+                            "name": "CAPITAL TV",
+                            "image": "http://2.bp.blogspot.com/-CBKxjGa4oUM/VSXYwRcEH7I/AAAAAAAAEik/fmF_TVeVKeI/s1600/Capital_TV_logo%2B(1).png",
+                            "url": "http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?"
+                    },
+                    {
+                            "name": "VEVO TV 1",
+                            "image": "http://3.bp.blogspot.com/-UrcUtNweouc/VR-PlX6QY3I/AAAAAAAAESk/Nw-KD3h3udg/s1600/vevo-tv-logo-new.gif",
+                            "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8"
+                    },
+                    {
+                            "name": "VEVO TV 2",
+                            "image": "http://3.bp.blogspot.com/-UrcUtNweouc/VR-PlX6QY3I/AAAAAAAAESk/Nw-KD3h3udg/s1600/vevo-tv-logo-new.gif",
+                            "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8"
+                    },
+                    {
+                            "name": "VEVO TV 3",
+                            "image": "http://3.bp.blogspot.com/-UrcUtNweouc/VR-PlX6QY3I/AAAAAAAAESk/Nw-KD3h3udg/s1600/vevo-tv-logo-new.gif",
+                            "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8"
+                    },
+                    {
+                            "name": "DJING",
+                            "image": "http://1.bp.blogspot.com/-kPlTTy1ZCOg/VTIJTpxfOLI/AAAAAAAAE3I/X1e3Fo7j6OA/s1600/Dijing.jpg",
+                            "url": "http://www.djing.com/tv/noaudio_ES.m3u8"
+                    },
+                    {
+                            "name": "DJING IBIZA",
+                            "image": "http://1.bp.blogspot.com/-kPlTTy1ZCOg/VTIJTpxfOLI/AAAAAAAAE3I/X1e3Fo7j6OA/s1600/Dijing.jpg",
+                            "url": "http://www.djing.com/tv/noaudiodancefloor_ES.m3u8"
+                    },
+                    {
+                            "name": "DJING HOT HOT HOT",
+                            "image": "http://1.bp.blogspot.com/-kPlTTy1ZCOg/VTIJTpxfOLI/AAAAAAAAE3I/X1e3Fo7j6OA/s1600/Dijing.jpg",
+                            "url": "http://www.djing.com/tv/noaudiohothothot_ES.m3u8"
+                    },
+                    {
+                            "name": "DJING UNDERGROUND",
+                            "image": "http://1.bp.blogspot.com/-kPlTTy1ZCOg/VTIJTpxfOLI/AAAAAAAAE3I/X1e3Fo7j6OA/s1600/Dijing.jpg",
+                            "url": "http://www.djing.com/tv/noaudiounderground_ES.m3u8"
+                    },
+                    {
+                            "name": "XITE SCHOOL PARTY",
+                            "image": "http://2.bp.blogspot.com/-_UNHKGPPLQo/VYrRYhFv1QI/AAAAAAAAFo8/mz2mtAYeAhQ/s1600/XITE%2BSchoolparty_.png",
+                            "url": "http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8"
+                    },
+                    {
+                            "name": "VH1 HD",
+                            "image": "https://upload.wikimedia.org/wikipedia/pt/e/e5/VH1_HD_Brasil_logo.jpg",
+                            "url": "http://tinyurl.com/qjn5amx"
+                    },
+                    {
+                            "name": "VH1 Classic",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/3/31/Vh1_classic.png",
+                            "url": "http://tinyurl.com/oseoax5"
+                    },
+                    {
+                            "name": "MOLA TV",
+                            "image": "http://2.bp.blogspot.com/-mStbaqhyxpw/VXmk0B_jIUI/AAAAAAAAFnM/AqTpNrtXDTs/s1600/molatv.png",
+                            "url": "http://cdns724ste1010.multistream.net/molatv1live/amlst:live/manifest.m3u8"
+                    },
+                    {
+                            "name": "HEAVY METAL TV",
+                            "image": "http://heavymetaltelevisionmerch.com/wp-content/uploads/2014/03/HMTV-Logo-no-bkg_1.png",
+                            "url": "rtmp://70.166.98.130:1935/hmtv/myStream"
+                    },
+                    {
+                            "name": "ROCK ONE",
+                            "image": "http://3.bp.blogspot.com/-BM_74uit0kg/VQIOsGk7pWI/AAAAAAAADog/lCOafs-WJw4/s1600/rock_one_noir.gif",
+                            "url": "mmsh://mediatv2.topix.it/24RockOne66"
+                    },
+                    {
+                            "name": "RETRO TV",
+                            "image": "http://3.bp.blogspot.com/-XeQ_plJKCLo/VWl4psOgw2I/AAAAAAAAFaY/uqFyKyzq3IY/s1600/RETRO%2BTV..jpg",
+                            "url": "rtmp://stream.mediawork.cz/retrotv/retrotvHQ1"
+                    },
+                    {
+                            "name": "EXA TV",
+                            "image": "http://www.trademarkia.com/logo-images/stereorey-mexico/exa-tv-77787298.jpg",
+                            "url": "http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8"
+                    },
+                    {
+                            "name": "A-ONE",
+                            "image": "http://lifeincity.tv/wp-content/uploads/2013/03/A-ONE-LOGO_HH_ROUND_BLACK.jpg",
+                            "url": "http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8"
+                    },
+                    {
+                            "name": "CLUBLAND TV",
+                            "image": "http://2.bp.blogspot.com/-FNvMoq_MLwE/VLvIoP7LpmI/AAAAAAAACfg/JBlB88IYR5M/s400/clubland_5.png",
+                            "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8"
+                    },
+                    {
+                            "name": "NOW MUSIC",
+                            "image": "http://4.bp.blogspot.com/-3m22irw2FVQ/VLvQVK3WF4I/AAAAAAAACgU/DDFvCwF2iyY/s400/76295506.jpg",
+                            "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8"
+                    },
+                    {
+                            "name": "M6 MUSIC",
+                            "image": "http://2.bp.blogspot.com/-JBjcmWGlRNc/VQVBZElO4xI/AAAAAAAADqs/2-cb35P14ZU/s1600/M6_Music_2012.png",
+                            "url": "http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8"
+                    },
+                    {
+                            "name": "TV M3",
+                            "image": "http://1.bp.blogspot.com/-sRKA52H1bNY/VQ4Tn4sr92I/AAAAAAAAECE/TtLhupJr99o/s1600/mq1.png",
+                            "url": "http://rtmp.infomaniak.ch/livecast/tvm3/PAZ.m3u8"
+                    },
+                    {
+                            "name": "GOLD TV HD",
+                            "image": "http://2.bp.blogspot.com/-2xAakPNmfno/VQVHDowELvI/AAAAAAAADrQ/4NuDm6EW2nk/s1600/GOLDTV-800-600.png",
+                            "url": "http://87.248.160.8/edge/smil:goldtv/playlist.m3u8"
+                    },
+                    {
+                            "name": "AKA",
+                            "image": "http://1.bp.blogspot.com/-0E9pREn14xU/VQVCvu48H0I/AAAAAAAADq4/Btu3LmR9onI/s1600/aka.jpg",
+                            "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8"
+                    },
+                    {
+                            "name": "EUROPA PLUS TV",
+                            "image": "http://europaplustv.com/upload/a9/a9439c6fcea2b3dc01c52c65a684c81c.jpg",
+                            "url": "rtmp://europaplus.cdnvideo.ru/europaplus-live/eptv_main.sdp"
+                    },
+                    {
+                            "name": "MUSICBOX",
+                            "image": "http://mp3hitsfree.narod.ru/Download_music_for_free_mp3hitsfree_images/musicbox.JPG",
+                            "url": "http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8"
+                    },
+                    {
+                            "name": "RUSSIAN MUSICBOX",
+                            "image": "http://2.bp.blogspot.com/-pimePSd87A4/VQH5nIwq9eI/AAAAAAAADnw/dC6gf-yj0Yc/s1600/RUSSIAN_MUSICBOX-black_color-1-.png",
+                            "url": "rtmp://musicbox.cdnvideo.ru/musicbox-live/musicbox.sdp"
+                    },
+                    {
+                            "name": "JAMAICAN TV",
+                            "image": "http://www.dancehallreggaeworld.com/images/retv_logo.png",
+                            "url": "http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8"
+                    },
+                    {
+                            "name": "ELECTROSOUND TV",
+                            "image": "http://1.bp.blogspot.com/-eRkXGidkI34/VQVEIBogNFI/AAAAAAAADrE/qGutbKendrM/s1600/etv.jpg",
+                            "url": "http://www.electrosound.tv:1935/public/stream/playlist.m3u8"
+                    },
+                    {
+                            "name": "MAGIC TV",
+                            "image": "http://4.bp.blogspot.com/-HMkmJP130eI/VBfUFgadxxI/AAAAAAAAhdE/S5N0jo6X1qc/s190/Magic-logo-2014.png",
+                            "url": "http://141.0.169.245/Magic"
+                    },
+                    {
+                            "name": "ESKA TV",
+                            "image": "http://4.bp.blogspot.com/-bRLxfX53UjA/VNwk072RPpI/AAAAAAAACsQ/rtQO_Pn0q9k/s1600/EskaTV_logo_2012.png",
+                            "url": "rtmp://stream.smcloud.net/live/eskatv"
+                    },
+                    {
+                            "name": "ESKA BEST MUSIC",
+                            "image": "http://4.bp.blogspot.com/-vU4R7tdb_qw/VNwx-zL2b-I/AAAAAAAACss/C4e2KV7LnQ8/s640/Eska%2BBest%2BMusic.jpg",
+                            "url": "rtmp://stream.smcloud.net/live2/best/best_720p"
+                    },
+                    {
+                            "name": "ESKA PARTY TV",
+                            "image": "http://4.bp.blogspot.com/-83gBqVLqPiQ/VM1Yus__vvI/AAAAAAAACoI/AvYjgx9MZCE/s400/eska_party.jpg",
+                            "url": "rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p"
+                    },
+                    {
+                            "name": "ESKA ROCK TV",
+                            "image": "http://2.bp.blogspot.com/-CQZHklqUg2M/VM1bhXO9KHI/AAAAAAAACoU/85qRVQ7ZeTE/s400/eska_rock.jpg",
+                            "url": "rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p"
+                    },
+                    {
+                            "name": "WAWA TV",
+                            "image": "http://3.bp.blogspot.com/-z5442oualWA/VNwdCHsn6II/AAAAAAAACrw/EbQQzjDRya8/s1600/ru-0-r-108%2C108-n-1065121ldUD.png",
+                            "url": "rtmp://stream.smcloud.net/live2/wawa/wawa_360p"
+                    },
+                    {
+                            "name": "MUSIC VOX TV",
+                            "image": "http://1.bp.blogspot.com/-U-S9lSNiG3A/VNwvoeL60xI/AAAAAAAACsg/1V0mQ4BME7s/s1600/voxmusictv2.jpg",
+                            "url": "rtmp://stream.smcloud.net/live/vox2/stream1"
+                    },
+                    {
+                            "name": "MUSIC VOX TV (OLD'S & COOL)",
+                            "image": "http://1.bp.blogspot.com/-zzKqvsht8Pg/VQIa4Jn1qhI/AAAAAAAADo8/oyv9rf6WbV8/s1600/MUSIC%2BVOX%2BTV%2BOld's%2B%26%2BCool.png",
+                            "url": "rtmp://stream.smcloud.net/live2/vox/vox_360p"
+                    },
+                    {
+                            "name": "TUBA TV",
+                            "image": "http://2.bp.blogspot.com/-cS1JmTNPDWg/Ut5ABmzEeDI/AAAAAAAAVQ8/ur29_gaW0P8/s1600/tuba_tv.png",
+                            "url": "rtmp://fms.gazeta.pl/aglive/tuba_tv"
+                    },
+                    {
+                            "name": "DANCE TV HD",
+                            "image": "http://4.bp.blogspot.com/-hs9ZM6Q4kJ4/VNJ_TrxNGnI/AAAAAAAACpo/kW5nJHL4SIg/s640/22.png",
+                            "url": "http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8"
+                    },
+                    {
+                            "name": "FIRST MUSIC HD",
+                            "image": "http://4.bp.blogspot.com/-JD889URTbYA/VQIe2jsQ71I/AAAAAAAADpQ/beCA7e6XPOY/s1600/first%2Bmusic%2BHD.jpg",
+                            "url": "http://109.239.142.62:1935/live/livestream3/playlist.m3u8"
+                    },
+                    {
+                            "name": "FIRST MUSIC HD (Opc.2)",
+                            "image": "http://4.bp.blogspot.com/-JD889URTbYA/VQIe2jsQ71I/AAAAAAAADpQ/beCA7e6XPOY/s1600/first%2Bmusic%2BHD.jpg",
+                            "url": "rtmp://109.239.142.62/live/livestream3"
+                    },
+                    {
+                            "name": "PIK TV",
+                            "image": "http://3.bp.blogspot.com/-oRmOml5YYoo/VQIeCY65enI/AAAAAAAADpI/82bxw_ajv_w/s1600/pik-racing.png",
+                            "url": "rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv"
+                    },
+                    {
+                            "name": "FOR MUSIC",
+                            "image": "http://www.gingerdj.com/wp-content/uploads/2012/10/FOR-MUSIC-540x342.png",
+                            "url": "rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb"
+                    },
+                    {
+                            "name": "M20 RADIO TV",
+                            "image": "http://www.m2o.it/includes/2014/images/logo_down14.gif",
+                            "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?"
+                    },
+                    {
+                            "name": "RADIO ITALIA TV",
+                            "image": "http://3.bp.blogspot.com/-OkCUuCDWXgc/VQpe5bOifZI/AAAAAAAAD3w/R2K4H89KDac/s1600/Radio%2BItalia.gif",
+                            "url": "rtmp://cwedge.cdcache.net/cwedge/rilive"
+                    },
+                    {
+                            "name": "RADIO MONTECARLO TV",
+                            "image": "http://www.singring.com/wp-content/themes/wordpress-bootstrap-v2.0/images/partner/montecarlo.png",
+                            "url": "rtmp://fms.105.net:1935/live/rmc1"
+                    },
+                    {
+                            "name": "RTL 102.5",
+                            "image": "http://upload.wikimedia.org/wikipedia/it/archive/3/34/20110727073519!Logo-RTL.png",
+                            "url": "http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8"
+                    },
+                    {
+                            "name": "VIRGIN TV",
+                            "image": "http://2.bp.blogspot.com/-iGZrDEmSdGM/VLweCT986yI/AAAAAAAACik/kf7DUXpupyQ/s400/descarga%2B(24).jpg",
+                            "url": "http://wow01.105.net/live/virgin1/playlist.m3u8"
+                    },
+                    {
+                            "name": "VIRGIN TV (Opc.2)",
+                            "image": "http://2.bp.blogspot.com/-iGZrDEmSdGM/VLweCT986yI/AAAAAAAACik/kf7DUXpupyQ/s400/descarga%2B(24).jpg",
+                            "url": "rtmp://fms.105.net:1935/live/virgin1"
+                    },
+                    {
+                            "name": "MEZZO",
+                            "image": "http://4.bp.blogspot.com/-Ne6Wabp2g4M/VQH034S9EPI/AAAAAAAADnk/28OqlGf7PhM/s1600/Mezzo_Logo.svg.png",
+                            "url": "http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MEZZO/variant.m3u8?version=2"
+                    },
+                    {
+                            "name": "MEZZO LIVE HD",
+                            "image": "http://4.bp.blogspot.com/-ogc4XN_bbYE/VXF9B-3yzbI/AAAAAAAAFkY/pdBzIC3kbGg/s1600/mezzolivehd_big.png",
+                            "url": "http://fe-mos.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2"
+                    },
+     
+    ]
+    },
+     
+    {
+    "name": " Kids
+    (Em Manutenção)",
+    "image": "http://vignette3.wikia.nocookie.net/denisa/images/0/04/Tv5kids.jpg/revision/latest?cb=20140626125725",
+    "stations": [
+                    {
+                            "name": "NOTA:
+    Vamos actualizar assim que possivel.
+     
+    Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                    },
+                                    {
+                            "name": "CARTOON NETWORK br",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png",
+                            "url": "http://107.152.103.226:1935/app/olsenpaulos-channel/playlist.m3u8"
+                    },
+                    {
+                            "name": "DISNEY JR br",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png",
+                            "url": "http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8"
+                    },
+                    {
+                            "name": "BABY TV es",
+                            "image": "http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043",
+                            "url": "rtmp://31.220.40.63/pull/ playpath=babytv32?keys=GvhNdklMxLZmhZ7it2VLkg&keyt=1443152208 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=babytv32&width=600&height=450"
+                    },
+                    {
+                            "name": "NICKELODEON es ",
+                            "image": "http://cdn.slashgear.com/wp-content/uploads/2015/01/nick.jpg",
+                            "url": "rtmp://31.220.0.12/pull/ playpath=nick78?keys=12yfTwNOBvwvZjyE937w0A&keyt=1443152687 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=nick78&width=600&height=450 "
+                    },
+                    {
+                            "name": "DISNEY CHANNEL es",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/1/15/DisneyChannel2010.png",
+                            "url": "rtmp://93.174.95.87/pull/ playpath=disney521?keys=oNMsqPwtVhRcwzN7yC6A2g&keyt=1443151372 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=disney521&width=600&height=450"
+                    },
+                                   
+    ]
+    }
+    ]
+    }
+
