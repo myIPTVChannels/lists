@@ -7,6 +7,9 @@ http://0.0.0.0
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto",Sport TV 1 [B][COLOR orange]FSD[/COLOR][/B]
+rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto",Sport TV 1 [B][COLOR orange]FSD[/COLOR][/B]
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Desporto",Sport TV 2 [B][COLOR orange]FSD[/COLOR][/B]
