@@ -6,11 +6,11 @@ O projecto é aberto à participação de todos.
 Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>.
 
 ##URLs myIPTVChannels (Kodi, VLC, etc.)
-Portugal PT Channels: pt.m3u = http://git.io/vZohP
+Portugal Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
-Sports Channels para Wiseplay: sports-wiseplay = http://git.io/[em contrução]
+Portugal Channels para Wiseplay: pt-wiseplay.wise = http://git.io/v8TRX
 
 Movies: movies.m3u = http://git.io/vnUb0
 
