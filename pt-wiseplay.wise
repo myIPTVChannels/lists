@@ -521,6 +521,11 @@
                             "image": "http://s20.postimg.org/qodr70i7x/rtp_africa.png",
                             "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/chunklist.m3u8"
                     },
+                    {
+                        "name": "ECONOMICO TV",
+                        "image": "http://www.tvtuga.com/wp-content/uploads/2010/04/economico-tv.jpg",
+                        "url": "http://213.13.26.11:1935/live/etv_direto/playlist.m3u8"
+                    },
      
     ]
     },
@@ -1213,6 +1218,11 @@
                             "name": "MEZZO LIVE HD",
                             "image": "http://4.bp.blogspot.com/-ogc4XN_bbYE/VXF9B-3yzbI/AAAAAAAAFkY/pdBzIC3kbGg/s1600/mezzolivehd_big.png",
                             "url": "http://fe-mos.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2"
+                    },
+                    {
+                        "name": "SPORT MUSIC",
+                        "image": "http://a4.mzstatic.com/us/r30/Music/v4/23/a3/ce/23a3cede-c595-21ce-7b63-c039de98a36c/cover170x170.jpeg",
+                        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800"
                     },
      
     ]
