@@ -1,7 +1,7 @@
 {
     "name": "LISTA DESPORTO - GERAL",
     "author": "Bosslulamen&Lacasitos",
-    "url": "https://github.com/adrianoafonso/myIPTVchannels/blob/master/pt-wiseplay.wise",
+    "url": "http://pastebin.com/2Cm5pxAf",
     "Update": "(05/11/2015/11/2015)",
     "contact": "luilulas@hotmail.com",
     "groups": [
@@ -1224,7 +1224,7 @@
                         "name": "SPORT MUSIC",
                         "image": "http://a4.mzstatic.com/us/r30/Music/v4/23/a3/ce/23a3cede-c595-21ce-7b63-c039de98a36c/cover170x170.jpeg",
                         "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800"
-                    },
+                   },
      
     ]
     },
@@ -1267,9 +1267,75 @@
                             "image": "https://upload.wikimedia.org/wikipedia/en/1/15/DisneyChannel2010.png",
                             "url": "rtmp://93.174.95.87/pull/ playpath=disney521?keys=oNMsqPwtVhRcwzN7yC6A2g&keyt=1443151372 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=disney521&width=600&height=450"
                     },
-                                   
+     
+    ]
+    },
+     
+    {
+    "name": " WORLD CAMERAS
+    (Em Manutenção)",
+    "image": "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/13/2009/09/CameraWorld_logo.jpg",
+    "stations": [
+                    {
+                            "name": "NOTA:
+    Vamos actualizar assim que possivel.
+     
+    Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                },
+                {
+                        "name": "PRAIA DE CARCAVELOS",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Praia_de_Carcavelos.jpg",
+                        "url": "rtmp://213.13.26.41/live playpath=carcavelos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/N1ZOaY48idM6hNTjL7qC"
+                },
+                {
+                        "name": "PRAIA COSTA DA CAPARICA",
+                        "image": "http://soprodepraia.no.sapo.pt/praias/caparicaW.jpg",
+                        "url": "rtmp://213.13.26.41/live playpath=costa.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/mQFYGs9wRn2H30nvzQbd"
+                },
+                {
+                        "name": "PRAIA DA ERICEIRA",
+                        "image": "http://www.guiadacidade.pt/foto2/data/media/4/DSC_0014_resize_36.JPG",
+                        "url": "rtmp://213.13.26.12/live playpath=ericeira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/DTlId9ym9TZc7rOhKECF"
+                },
+                {
+                        "name": "CATARATAS DO NIAGARA",
+                        "image": "http://wallpaper.ultradownloads.com.br/70577_Papel-de-Parede-Cataratas-do-Niagara--70577_1600x1200.jpg",
+                        "url": "http://video2.earthcam.com/fecnetwork/4559.flv/playlist.m3u8"
+                },
+                {
+                        "name": "SPACE CAM EQUADOR",
+                        "image": "http://d38zt8ehae1tnt.cloudfront.net/Ecuador_Live_Space_Cam_UFOs__145495.jpg?v=1373585762",
+                        "url": "rtmp://video2.earthcam.com/archives swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=/permanent/5194/2013/05/16/pegasusfirstfootage.flv live=true"
+                },
+                {
+                        "name": "TORRE EIFFEL",
+                        "image": "http://zap.aeiou.pt/wp-content/uploads/2013/11/5632eb99f40f8b0a626c0e966dcaa5ed.jpg",
+                        "url": "http://video4.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8"
+                },
+                {
+                        "name": "NY TIME SQUARE",
+                        "image": "http://www.nyhabitat.com/blog/wp-content/uploads/2013/01/Times-square-manhattan-new-york-nyc-crossroads-world.jpg",
+                        "url": "http://video4.earthcam.com/fecnetwork/hdtimes11.flv/playlist.m3u8"
+                },
+                {
+                        "name": "TOKYO",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tokyo_by_night_2011.jpg",
+                        "url": "http://video1.earthcam.com/fecnetwork/tokyo1.flv/BratuMarian.m3u"
+                },
+                {
+                        "name": "FORTE DE STA MARIA",
+                        "image": "http://www.alegriatemnome.com.br/site/images/forte_santa_maria.jpg",
+                        "url": "http://rtmp.0be3-2.upx.net.br/aovivo/0be3_1029.stream/playlist.m3u8"
+                },
+                {
+                        "name": "BLUMENAU",
+                        "image": "http://bnu.tv/default/cams/39/39.jpg?h=17",
+                        "url": "rtmp://www.streambnu.info:1935/blumenau7/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 live=1 pageUrl=http://bnu.tv/blumenau/sete-shopping1"
+                },            
+                                  
     ]
     }
     ]
     }
-
