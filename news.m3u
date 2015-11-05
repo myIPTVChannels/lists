@@ -2,56 +2,67 @@
 #EXTINF:-1, [B]--- Portugal ---[/B]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (1) [SD]
+#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal",RTP 3 [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (2) [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal",SIC Notícias (1) [SD]
+http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", SIC NOTICIAS (3) [SD]
-rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-
-#EXTINF:-1 group-title="NOTICIAS", TVI24 (1) [FSD]
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal",TVI24 [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:0 audio-track="pt" group-title="NOTICIAS", CMTV (1) [SD]
+#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal",CMTV (1) [SD]
 rtmp://208.43.81.145/stream playpath=cmtvteywtdsu?id=17306&pk=c098779812e8996843543514009a2800d6cecfe1a98b0f293daec0628d6cf06e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/cmtvteywtdsu/1/600/450 conn=S:OK timeout=15
 
-#EXTINF:0 audio-track="pt" group-title="NOTICIAS", CMTV (2) [SD]
+#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal",CMTV (2) [SD]
 rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 
-#EXTINF:-1 tvg-id="EconomicaTV.pt", ECONÓMICO TV
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal",Económico TV [FSD]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", EURONEWS (1) [SD]
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal",Euronews [SD]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", EURONEWS (2) [SD]
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-
-#EXTINF:-1 group-title="NOTICIAS", TPA Internacional (1) [FSD]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal",TPA Internacional [FSD]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
 
 #EXTINF:-1, [B]--- World News ---[/B]
 http://0.0.0.0
-#EXTINF:0, Aljazeera Arabic
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png" Aljazeera English
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 
-#EXTINF:0 tvg-logo="abc.png" tvg-logo="http://www.tvaovivolista.com/abc.png", ABC News
+#EXTINF:0 tvg-logo="http://www.tvaovivolista.com/abc.png",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:0 tvg-logo="bbc.png" tvg-logo="http://www.tvaovivolista.com/bbc.png", BBC News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttyuuw1433944209.png",BBC World News [B][COLOR orange]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://c1c4681c5393be38b3db40cead8c32f4b50d1a1b&name=BBCWorldNews
 
-#EXTINF:0 tvg-logo="bloomberg.png" tvg-logo="http://www.tvaovivolista.com/bloomberg.png", Bloomberg
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uyswus1433941237.png",CNN [B][COLOR orange]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://d5987a74c3b12a3a4776c2c5bf234ae1cdf7b260&name=CNN
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qvvxuq1438374093.png",Sky News
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png",Bloomberg
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
-#EXTINF:0, ELMAGHRIBIA ARDIA
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vqsspx1443638480.png",i24news
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xxtsyv1436895578.png",Deutsche Welle (Europe)
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qqtssw1436894339.png",TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/sxryur1433426110.png",CCTV News
+http://77.36.61.45:8010/CCTVNews.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qttvuy1436846679.png",NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png",Aljazeera Arabic
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+
+#EXTINF:0 tvg-logo="http://www.quadplay.tv/images/ch/al_maghribia.png",Al Maghribia
 http://178.33.88.130:888/udp/239.102.0.198:1234 
-
-#EXTINF:0, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-
-#EXTINF:0 tvg-logo="skynews.png" tvg-logo="http://www.tvaovivolista.com/skynews.png", Sky News
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8
