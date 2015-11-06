@@ -1229,7 +1229,7 @@
                         "name": "SPORT MUSIC",
                         "image": "http://a4.mzstatic.com/us/r30/Music/v4/23/a3/ce/23a3cede-c595-21ce-7b63-c039de98a36c/cover170x170.jpeg",
                         "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800"
-                   },
+                    },
      
     ]
     },
@@ -1339,14 +1339,11 @@
                         "image": "http://bnu.tv/default/cams/39/39.jpg?h=17",
                         "url": "rtmp://www.streambnu.info:1935/blumenau7/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 live=1 pageUrl=http://bnu.tv/blumenau/sete-shopping1"
                 },
-                ]
-
-},
-
-
-
-{
-
+                
+    ]
+    },
+    
+    {
 "name": " Breaking Bad",
 
 "image": "https://upload.wikimedia.org/wikipedia/pt/6/61/Breaking_Bad_title_card.png",
