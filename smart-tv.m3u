@@ -76,8 +76,6 @@ http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
 http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
 #EXTINF:-1,SPORTV 3 
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
-#EXTINF:-1,Terra Esportes
-http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
 #EXTINF:-1,TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
 #EXTINF:-1,PFC 24Hrs 
@@ -87,8 +85,6 @@ http://37.203.209.34:443/mobile/flash48/IPTVGLOBAL.m3u8
 
 #EXTINF:-1,DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1 tvg-id=,ESPN Deportes
-http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1,Slovak Sport 1
 rtmp://195.168.51.178/live/ss1HD
 #EXTINF:-1,Slovak Sport 2
