@@ -1339,52 +1339,6 @@
                         "image": "http://bnu.tv/default/cams/39/39.jpg?h=17",
                         "url": "rtmp://www.streambnu.info:1935/blumenau7/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 live=1 pageUrl=http://bnu.tv/blumenau/sete-shopping1"
                 },
-            
-                {
-                        "name": "AXN (Teste)",
-                        "image": "http://marketeer.pt/wp-content/uploads/2015/09/AXN_red.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8"
-                },
-                {
-                        "name": "AXN WHITE (Teste)",
-                        "image": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p160x160/12106987_990927237595841_7466460478826045045_n.png?oh=f8d310f6188b80d5fbf0ea613ef27d49&oe=56CB2146&__gda__=1455359995_ab00ca24c5e87f0130ba10d65a6b5ea8",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8"
-                },
-                {
-                        "name": "FOX (Teste)",
-                        "image": "http://maresvivas.meo.pt/content/img/fox_2.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8"
-                },
-                {
-                        "name": "FOX CRIME (Teste)",
-                        "image": "http://www.espalhafactos.com/wp-content/uploads/2011/03/fox-crime-e1300205350430.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8"
-                },
-                {
-                        "name": "FOX LIFE (Teste)",
-                        "image": "http://www.tvtuga.com/wp-content/uploads/2011/01/fox-life-200x141.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8"
-                },
-                {
-                        "name": "FOX MOVIES (Teste)",
-                        "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_pt.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5550.m3u8"
-                },
-                {
-                        "name": "HOLLYWOOD (Teste)",
-                        "image": "http://www.tvtuga.com/wp-content/uploads/2010/12/canal-hollywood-stream.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8"
-                },
-                {
-                        "name": "SYFY (Teste)",
-                        "image": "http://logok.org/wp-content/uploads/2015/01/Syfy-logo.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8"
-                },
-                {
-                        "name": "TVI FICCAO",
-                        "image": "http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8"
-                },     
     ]
     }
     ]
