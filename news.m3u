@@ -11,11 +11,8 @@ http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal",TVI24 [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal",CMTV (1) [SD]
-rtmp://208.43.81.145/stream playpath=cmtvteywtdsu?id=17306&pk=c098779812e8996843543514009a2800d6cecfe1a98b0f293daec0628d6cf06e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/cmtvteywtdsu/1/600/450 conn=S:OK timeout=15
-
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal",CMTV (2) [SD]
-rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
+#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal",CMTV [SD]
+rtmp://178.162.195.40/loadbalance app=loadbalance?wmsAuthSign=/ swfUrl=http://pxstream.tv/player510.swf pageUrl=http://pxstream.tv/embedrouter.php?file=cmtv22ed&width=555&height=435 playpath=84792152861424662534 token=#ed%h0#w@1 live=1 swfVfy=1 timeout=15
 
 #EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal",Económico TV [FSD]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
@@ -26,10 +23,10 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal",TPA Internacional [FSD]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
-
 #EXTINF:-1, [B]--- World News ---[/B]
 http://0.0.0.0
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png" Aljazeera English
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png",Aljazeera English
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 
 #EXTINF:0 tvg-logo="http://www.tvaovivolista.com/abc.png",ABC News
@@ -40,8 +37,6 @@ plugin://program.plexus/?mode=1&url=acestream://c1c4681c5393be38b3db40cead8c32f4
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uyswus1433941237.png",CNN [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://d5987a74c3b12a3a4776c2c5bf234ae1cdf7b260&name=CNN
-
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qvvxuq1438374093.png",Sky News
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png",Bloomberg
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
