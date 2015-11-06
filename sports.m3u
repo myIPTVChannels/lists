@@ -332,79 +332,31 @@ plugin://program.plexus/?mode=1&url=acestream://9b2f157bbf780304222b552bee0abe94
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="UK",Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.174.38/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="UK",Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://93.174.93.196/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1bt&vw=600&vh=450
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="UK",Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-http://37.48.83.131:1935/live/skysportsnewsz1.stream/playlist.m3u8?wowzasessionid=1841847408|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="UK",Sky Sports 1
-http://46.28.55.160:1935/iptv/skysp1/playlist.m3u8
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png" group-title="UK",Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=2skys&vw=600&vh=450
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png" group-title="UK",Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.174.38/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png" group-title="UK",Sky Sports 2
-http://46.28.55.160:1935/iptv/s
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png" group-title="UK",Sky Sports 3 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.174.38/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=3skys&vw=600&vh=450
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png" group-title="UK",Sky Sports 3
-http://46.28.55.160:1935/iptv/skysp3/playlist.m3u8
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png" group-title="UK",Sky Sports 4 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.169.35/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=4skys&vw=600&vh=450
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png" group-title="UK",Sky Sports 4
-http://46.28.55.160:1935/iptv/skysp4/playlist.m3u8
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png" group-title="UK",Sky Sports 5 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.169.35/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=5skys&vw=600&vh=450
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png" group-title="UK",Sky Sports 5
-http://46.28.55.160:1935/iptv/skysp5/playlist.m3u8
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="UK",Sky Sports F1 [B][COLOR orange]FSD[/COLOR][/B]
-http://89.248.172.57:1935/edge/_definst_/udhfbfg0vfzjcds/playlist.m3u8?xs=_we_dWRoZmJmZzB2ZnpqY2RzfDE0NDM2MDE5MTZ8fDU2MGE0YzdjMThiMWJ8MzRiNDgwNjRhMGE2MWIzMzBkY2ZiNWNjOWU4NjNjN2JlZDhkMGI5Zg..
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="UK",Sky Sports F1
-http://46.28.55.160:1935/iptv/skysportsf1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yyuppq1433965339.png" group-title="UK",Sky Sports News [B][COLOR orange]FSD[/COLOR][/B]
-http://158.255.6.224:8080/loadchan.php?chan=71&gtoken=8c9f7326770bb525908e17d491673530
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yyuppq1433965339.png" group-title="UK",Sky Sports News [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://172.86.188.90:1935/livedge/mamahdskynews playPath=mamahdskynews swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN\2018,0,0,232 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskynews&vw=854&vh=480
+rtmpe://134.19.185.204:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png" group-title="UK",BT Sport 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://93.174.93.196/live playpath=1bt swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1bt&vw=600&vh=450
+rtmpe://134.19.185.165:1935/livedge playpath=mamahdbtsport1 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png" group-title="UK",BT Sport 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png" group-title="UK",BT Sport 2 [B][COLOR orange]FSD[/COLOR][/B]
+rtmpe://109.202.103.22:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png" group-title="UK",BT Sport 1
-http://46.28.55.160:1935/iptv/bt1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png" group-title="UK",BT Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png" group-title="UK",BT Sport 2
-http://46.28.55.160:1935/iptv/bt2/playlist.m3u8
-
-#EXTINF:-1 group-title="UK",BT Sports ESPN [B][COLOR orange]FSD[/COLOR][/B]
-http://s3.iptvapi.com:8081/BTSespn/index.m3u8
-
-#EXTINF:-1 group-title="UK",BT Sports EU [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://134.19.185.252:1935/livedge/mamahdbteu
-
-#EXTINF:-1 group-title="UK",Premier Sport [B][COLOR orange]FSD[/COLOR][/B]
-http://89.248.172.57:1935/edge/_definst_/6kyreuuugcp4jno/playlist.m3u8?xs=_we_Nmt5cmV1dXVnY3A0am5vfDE0NDM2MDIwMTl8fDU2MGE0Y2UzMTY5ZDJ8NGFmMmY2NmE5NTM3MGFhNjdkNTg4NmFkMzhmYjliNmJjOTkwMDM4ZA..
+#EXTINF:-1 group-title="UK",BT Sport Europe [B][COLOR orange]FSD[/COLOR][/B]
+rtmpe://134.19.185.236:1935/livedge playpath=mamahdbteu swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
 
 #EXTINF:-1 group-title="UK",EuroSport [B][COLOR orange]FSD[/COLOR][/B]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
@@ -412,68 +364,20 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 group-title="UK",EuroSport UK [B][COLOR orange]FSD[/COLOR][/B]
 http://live.p2pcast.tv:8010/tv2/500839.m3u8?sf=NTVlM2YwYTBiYTg4Nw==&token=4ouoLcAg93qmnkcaSsEArw|Referer=http://cdn.p2pcast.tv/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
 
-#EXTINF:-1 group-title="UK",EuroSport 2 UK [B][COLOR orange]FSD[/COLOR][/B]
-http://178.18.30.113:8081/liverepeater/223659/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE1IDU6NTQ6NTQgUE0maGFzaF92YWx1ZT0ydTFQekRWcU1WSnVOc0tQOXdjTENBPT0mdmFsaWRtaW51dGVzPTQ=|Referer=http://p.jwpcdn.com/6/12/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
-
-#EXTINF:-1 group-title="UK",Manchester United TV [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://109.232.224.37:1935/stream/ playPath=o4NLATkOb3.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2018,0,0,232 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m926n746yp4263l4930ob4263b568pn746h441oa665o568pd4930g746sq3344o203om926n746yd4930g746sa665o568pp4263l4930o&width=600&height=460&st=s5t205n4w574x2s2f436q24693u5o37335r5p364r2s243b444840314t2t2c423q2s2r2a4&adx=&stream=h544k5a4a4k57444f4a434g554l5y2n2u584o3a3f4w21374f476w226d3j4x4b3s3e4m3j5t2y34323z3r2a4543474z2z24434q284o2u503k3l4v5v2x2p243x46476o4n4t4c3s3s5p364j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o274a4z2c4k5c4135443w2c4e494y2i5339474z264u2r254u214z2z2h5w2o594e434p2o234z3n204o204&sooor=MTI=&str=is&ok=&cat=1&link=1&idom=thefeed2all.eu
-
 #EXTINF:-1 group-title="UK",Chelsea TV [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://179.43.158.200:1935/stream/ playPath=g0I2LWxCbT.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2018,0,0,232 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m51n649yp7925l8814ob7925b644pn649h199oa548o644pd8814g649sq8026o233om51n649yd8814g649sa548o644pp7925l8814o&width=600&height=460&st=k5p2v4n4w574x2s2f436q24693u5y2i36546d364o3s243b444840314t2t2c423q2s2r2a4&adx=&stream=6454j584j5m574x2d4i5q2k55494b4n2m544j3a3f4w21374f476w226d3j474m3v3r4a3j5q3y34323z3r2a4543474z2z24434q284o2m5w2f3l4v5v2x2p243x46476o4n434n3v356d364j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o264943444d4x264w2a4e4j594c494a4w2y2e4136454u2b4u294d4d45464j564a434p2o234z3n204o204&sooor=NQ==&str=is&ok=&cat=1&link=1&idom=thefeed2all.eu
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
 
 #EXTINF:-1 group-title="UK",Liverpool TV [B][COLOR blue]HD[/COLOR][/B]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 
-#EXTINF:-1 group-title="UK",At the Races [B][COLOR orange]FSD[/COLOR][/B]
-http://178.18.30.112:8081/liverepeater/196428/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE1IDY6MDY6MTUgUE0maGFzaF92YWx1ZT1NMWJJTVVYc2NTRUJoQ2ZFNmdReGhBPT0mdmFsaWRtaW51dGVzPTQ=
-
 #EXTINF:-1 group-title="UK",Motors TV [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
-
-#EXTINF:-1 group-title="UK",Racing UK [B][COLOR orange]FSD[/COLOR][/B]
-http://178.18.31.56:8081/liverepeater/196429/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE1IDY6MDg6MDggUE0maGFzaF92YWx1ZT1UU1J2ZHVDRDFTUjhsZ1lxUnVBNDF3PT0mdmFsaWRtaW51dGVzPTQ=
 
 #EXTINF:-1 group-title="UK",Sports Tonight Live HD [B][COLOR blue]HD[/COLOR][/B]
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10
 
-#EXTINF:-1 group-title="UK",Setanta Sports [B][COLOR orange]FSD[/COLOR][/B]
-http://37.48.83.131:1935/live/setanta.stream/playlist.m3u8?wowzasessionid=1703238326|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-
 #EXTINF:-1 group-title="USA",[B][COLOR blue]»»» USA Sports Channels «««[/COLOR][/B]
 http://0.0.0.0
-
-#EXTINF:-1 group-title="USA",FOX Sports 1 [B][COLOR blue]HD[/COLOR][/B]
-http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/fox1.720p.stream/playlist.m3u8?t=734c7bbd1c98dee2e5d5559742fed937&e=1443978880
-
-#EXTINF:-1 group-title="USA",FOX Sports 2 [B][COLOR blue]HD[/COLOR][/B]
-http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/fox2.720p.stream/playlist.m3u8?t=ab752f12be6601bf48d64955135477ba&e=1443897928
-
-#EXTINF:-1 group-title="USA",FOX College Sports Pacific [B][COLOR blue]HD[/COLOR][/B]
-http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55
-
-#EXTINF:-1 group-title="USA",FOX College Sports Atlantic [B][COLOR blue]HD[/COLOR][/B]
-http://ftve1100-i.akamaihd.net/hls/live/217045/fcsa/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55
-
-#EXTINF:-1 group-title="USA",FOX College Sports Central [B][COLOR blue]HD[/COLOR][/B]
-http://ftve1100-i.akamaihd.net/hls/live/217046/fcsc/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55
-
-#EXTINF:-1 group-title="USA",beIN Sports 1 [B][COLOR blue]HD[/COLOR][/B]
-http://lihattv.toh.info/jhos/beib1.m3u8
-
-#EXTINF:-1 group-title="USA",beIN Sports 2 [B][COLOR blue]HD[/COLOR][/B]
-http://lihattv.toh.info/jhos/beib2.m3u8
-
-#EXTINF:-1 group-title="USA",beIN Sports 3 [B][COLOR orange]FSD[/COLOR][/B]
-http://180.250.29.12/jhos/beib3_3/1421536739/playlist.m3u8
-
-#EXTINF:-1 group-title="USA",ESPN 2 [B][COLOR orange]FSD[/COLOR][/B]
-http://158.255.6.224:8080/loadchan.php?chan=72&gtoken=8c9f7326770bb525908e17d491673530
-
-#EXTINF:-1 group-title="USA",ESPN News [B][COLOR orange]FSD[/COLOR][/B]
-http://158.255.6.224:8080/loadchan.php?chan=70&gtoken=8c9f7326770bb525908e17d491673530
-
-#EXTINF:-1 group-title="USA",ESPN U [B][COLOR orange]FSD[/COLOR][/B]
-http://158.255.6.224:8080/loadchan.php?chan=69&gtoken=8c9f7326770bb525908e17d491673530
 
 #EXTINF:-1 group-title="USA",NBC GOLF [B][COLOR orange]FSD[/COLOR][/B]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -484,29 +388,20 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 #EXTINF:-1 group-title="USA",NBC GOLF [B][COLOR green]FHD[/COLOR][/B]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1 group-title="USA",NBC Sports Network [B][COLOR orange]FSD[/COLOR][/B]
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 group-title="USA",NBC Sports Network [B][COLOR blue]HD[/COLOR][/B]
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 group-title="USA",NBC Sports Network [B][COLOR green]FHD[/COLOR][/B]
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 group-title="USA",NFL [B][COLOR blue]HD[/COLOR][/B]
+#EXTINF:-1 group-title="USA",NFL Network [B][COLOR blue]HD[/COLOR][/B]
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
 
 #EXTINF:-1 group-title="USA",NFL Now [B][COLOR blue]HD[/COLOR][/B]
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1 group-title="USA",NFL Network [B][COLOR blue]HD[/COLOR][/B]
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
+#EXTINF:-1 group-title="USA",FOX College Sports Atlantic [B][COLOR blue]HD[/COLOR][/B]
+http://ftve1100-i.akamaihd.net/hls/live/217045/fcsa/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55
 
-#EXTINF:-1 group-title="USA",BIG TEN NETWORK  [B][COLOR blue]HD[/COLOR][/B]
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 group-title="USA",FOX College Sports Central [B][COLOR blue]HD[/COLOR][/B]
+http://ftve1100-i.akamaihd.net/hls/live/217046/fcsc/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55
 
-#EXTINF:-1 group-title="USA",WWE Network [B][COLOR orange]FSD[/COLOR][/B]
-http://158.255.6.224:8080/loadchan.php?chan=795&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1 group-title="USA",FOX College Sports Pacific [B][COLOR blue]HD[/COLOR][/B]
+http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55
 
 #EXTINF:-1 group-title="USA",PAC 12 Network (National) [B][COLOR green]FHD[/COLOR][/B]
 http://xrxs.net/video/live-p12netw-4728.m3u8
@@ -529,161 +424,59 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1 group-title="USA",PAC 12 Washington [B][COLOR green]FHD[/COLOR][/B]
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:-1, SPORT TIME TV 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-
-#EXTINF:-1, SPORT TIME TV 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-
-#EXTINF:-1, SPORT TIME TV 3 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-
-#EXTINF:-1, SPORT TIME TV 4 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-
-#EXTINF:-1, SPORT TIME TV 5 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-
-#EXTINF:-1, SPORT TIME TV 6 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-
-#EXTINF:-1, SPORT TIME TV 7 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-
-#EXTINF:-1, [B][COLOR blue]»»» Internacional - Outros - Em Testes... «««[/COLOR][/B]
-http://0.0.0.1234
-
-#EXTINF:-1 tvg-logo="http://www.tvaovivolista.com/ufc.png",COMBATE HQ  
-http://37.203.209.34:443/mobile/bob10sd/IPTVGLOBAL.m3u8
-
-#EXTINF:-1, LIVE MOTOR SPORT 
-http://motorsport.hopto.org:8080/
-
-#EXTINF:-1, LIVE MOTOR SPORT 1
-http://motorsport.hopto.org:8081/
-
-#EXTINF:-1, LIVE MOTOR SPORT 2
-http://motorsport.hopto.org:8082/
-
-#EXTINF:-1, LIVE MOTOR SPORT 3
-http://motorsport.hopto.org:8083/
-
-#EXTINF:-1, LIVE MOTOR SPORT 4
-http://motorsport.hopto.org:8084/
-
-#EXTINF:-1, FOX MOTOR SPORT
-http://motorsport.hopto.org:8080/
-
-#EXTINF:-1, Sport1 Select NL
-http://iptv.bot.nu:8000/live/test380/12345/178.m3u8
-
-#EXTINF:-1, Sport1 golf NL
-http://iptv.bot.nu:8000/live/test380/12345/167.m3u8
-
-#EXTINF:-1, Fox Sports 1 NL
-http://iptv.bot.nu:8000/live/test380/12345/26.m3u8
-
-#EXTINF:-1, Fox Sports 3 NL
-http://iptv.bot.nu:8000/live/test380/12345/28.m3u8
-
-#EXTINF:-1, SILK SPORT HD
-http://80.77.52.6:3719/udp/226.0.0.10:12345
-
-#EXTINF:-1, SILK SPORT HD1
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-
-#EXTINF:-1, SILK SPORT HD2
-http://80.77.52.6:3719/udp/226.0.0.8:12345
-
-#EXTINF:-1, SILK SPORT HD3
-http://80.77.52.6:3719/udp/226.0.0.9:12345
-
-#EXTINF:-1, REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, BT NET WORK
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:-1, WWE Network
-rtmp://80.82.78.15:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH timeout=5
-
-#EXTINF:-1, WWE Network
-rtmp://89.248.171.90:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH timeout=5
-
-#EXTINF:-1, Sports Music
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-
-#EXTINF:-1, LFTV Live Stream
-rtmp://46.246.29.130:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460
-
-#EXTINF:-1, PTV
-rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
-
-#EXTINF:-1, Fox Sports
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1, ESPN (Maybe UK)
-rtmp://80.82.70.106:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH timeout=5
-
-#EXTINF:-1, ESPN 1 US
-rtmp://80.82.64.140:443/liverepeater playpath=12 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH timeout=5
-
-#EXTINF:-1, ESPN 2 UK
-rtmp://80.82.70.106:443/liverepeater playpath=20 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH timeout=5
-
-#EXTINF:-1, ESPN 2 UK
-rtmp://80.82.78.85:443/liverepeater/19986 pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=72?48?34?48?33?18?13 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
-
-#EXTINF:-1, ESPN 3 (Not english)
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
-
-#EXTINF:-1, Sports Net Now
+#EXTINF:-1, SportsNet Now
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
-#EXTINF:-1, Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, [B][COLOR blue]»»» Internacional / Em Testes... «««[/COLOR][/B]
+http://0.0.0.1234
 
-#EXTINF:-1, WILLOW
-rtmp://80.82.78.26:443/liverepeater/willhdhd pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=68?72?48?38?11?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
-
-#EXTINF:-1, Star Sport
-rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=starsp11?ptvsports22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
-
-#EXTINF:-1, Setanta Sports
-rtmpe://46.246.124.27:1935/livedge/setanta pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC token=Fo5_n0w?U.rA6l3-70w47 playpath=ssetanta?spremsp?pageUrlhttp pageUrl=http://hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w#yw%tt#w@kku
-
-#EXTINF:-1, NBA TV
-rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=nbar?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
-
-#EXTINF:-1, Euro sport French
+#EXTINF:-1, EuroSport France
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
-#EXTINF:-1, Euro Sport Channel - Backup link
-rtmp://137.63.71.18:443/liverepeater/2778Eurox pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=21?19?13 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, WWE Network 1st link
-rtmp://94.102.49.126:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=49?32?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+#EXTINF:-1 tvg-logo="http://www.tvaovivolista.com/ufc.png",Combate HQ  
+http://37.203.209.34:443/mobile/bob10sd/IPTVGLOBAL.m3u8
 
-#EXTINF:-1, UFC (Not english)
-rtmp://89.248.172.95:1935/iguide playpath=ntym4uva8lcfbc0?ewpegl393qjjqoq?kwbcxxg555hzddt?bm6ldx2dhh1bi5z?ewpegl393qjjqoq?y9l42vxtum2xdgv?vouoo4ltzl15a52?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?ztg7uhgjinfktt4?p7wksud7foc4cqd?c9l3ahxqsbqmi0t swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,FOX Motor Sport
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1,Live Motor Sport 1
+http://motorsport.hopto.org:8081/
+
+#EXTINF:-1,Live Motor Sport 2
+http://motorsport.hopto.org:8082/
+
+#EXTINF:-1,Live Motor Sport 3
+http://motorsport.hopto.org:8083/
+
+#EXTINF:-1,Live Motor Sport 4
+http://motorsport.hopto.org:8084/
+
+#EXTINF:-1,Sporttime TV 1 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:-1,Sporttime TV 2 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+#EXTINF:-1,Sporttime TV 3 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+
+#EXTINF:-1,Sporttime TV 4 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1,Sporttime TV 5 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1,Sporttime TV 6 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1,Sporttime TV 7 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 
 #EXTINF:-1, Sports TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:-1, Rai Premium
-mmsh://212.162.68.162/rai_premium
-
-#EXTINF:-1, Rai Scuola
-mmsh://212.162.68.163:80/rai_scuola
-
-#EXTINF:-1, Rai Storia
-mmsh://212.162.68.163/rai_storia
-
-#EXTINF:-1, Anistorpic
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, Berita Satu Sport HD [COLOR red]link_down[/COLOR]
-http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
 
 #EXTINF:-1, Sports1
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to
@@ -694,20 +487,8 @@ rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player
 #EXTINF:-1, Sports4
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
 
-#EXTINF:-1, Sport 1 RU
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-
-#EXTINF:-1, Kanal Sports HD (720 ) [COLOR red]link_down[/COLOR]
-http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?husham.com
-
 #EXTINF:-1, IRAK Iraqiya Sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 
 #EXTINF:-1, ARABIC-BAHRAIN SPORTS
 rtmp://alayam.netromedia.net/btv3/btv3
-
-#EXTINF:-1, ARABIC-KTV Sport Extra
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
-
-#EXTINF:-1, ARABIC-KTV Sport Plus
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
