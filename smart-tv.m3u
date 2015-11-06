@@ -752,18 +752,6 @@ http://212.19.7.91:8888/udp/239.191.254.79:13343
 
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,Private.com
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,Japao Hot
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,BabeStation X-Treme 18+
-http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-#EXTINF:-1,Claro
-http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
-#EXTINF:-1, Claro Premium
-http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
-#EXTINF:-1,Boys Mania
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:-1,Nefertisex TV-CH 1
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 #EXTINF:-1,Nefertisex TV-CH 2
@@ -785,16 +773,15 @@ http://62.210.82.241:8081/private/private/live.m3u8
 #EXTINF:-1,Nefertisex TV-CH 10
 http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
 #EXTINF:-1,Asian Porn 1
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+http://edge2.everyon.tv/etv2/pld1003/cookimonster.m3u8
 #EXTINF:-1,Asian Porn 2
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+http://edge2.everyon.tv/etv2/pld1008/cookimonster.m3u8
 #EXTINF:-1,Asian Porn 3
-http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
+http://edge2.everyon.tv/etv2/pld1005/cookimonster.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:-1,Sakura
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8 
-
 
 #EXTINF:-1, Adult 4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
