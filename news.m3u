@@ -35,10 +35,10 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_hig
 #EXTINF:0 tvg-logo="http://www.tvaovivolista.com/abc.png",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttyuuw1433944209.png",BBC World News [B][COLOR orange]Plexus[/COLOR][/B]
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttyuuw1433944209.png",BBC World News [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://c1c4681c5393be38b3db40cead8c32f4b50d1a1b&name=BBCWorldNews
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uyswus1433941237.png",CNN [B][COLOR orange]Plexus[/COLOR][/B]
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uyswus1433941237.png",CNN [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://d5987a74c3b12a3a4776c2c5bf234ae1cdf7b260&name=CNN
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qvvxuq1438374093.png",Sky News
