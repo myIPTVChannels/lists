@@ -18,6 +18,9 @@ plugin://program.plexus/?url=a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&nam
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Plexus",Sport TV 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&name=SportTV3
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Plexus",Sport TV 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORTTV3
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png" group-title="Plexus",Sport TV 4 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&name=SportTV4
 
@@ -35,9 +38,6 @@ plugin://program.plexus/?mode=1&url=253369b57f2a45e1489e5bb7eab4daf0a4cde415&nam
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=BTV2
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=c1646f459c86ab24533650333957a57b457d80c1&name=BTV2
 
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/logo-americas.png" group-title="Desporto",Sport TV Américas [FSD]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
