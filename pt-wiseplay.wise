@@ -34,176 +34,176 @@
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
 					"url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
                 },
-                                    {
-                            "name": "SPORT TV 1 opc1 ON",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15"
-                    },
-									{
+                {
+                    "name": "SPORT TV 1 opc1 ON",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                    "url": "rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15"
+                },
+		{
                             "name": "SPORT TV 1 opc2 OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "http://80.82.78.16:8081/live/portugal1/playlist.m3u8"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 1 opc3 OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "http://31.204.128.112:8081/live/portugal1/playlist.m3u8"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 1 pt opc4 OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 1 pt ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 1 pt opc1 ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "acestream://c39db61fd585ebfa446983d0af9d9d637df9678c"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 1 pt opc2 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59"
-                    },
-                    {
+                },
+                {
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "rtmpe://r.livecast.cc/rs/share/live2-bipmr swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 2 pt ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "acestream://fbf8d2630934d7de5306254304f754f96569f2f3"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 2 pt opc1 ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 2 pt opc2 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "acestream://a3776be8c08f52b3366c83fff09609721e28cd69"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 2 pt opc3 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "acestream://24660dc5f5a642f7f5df8873ddac481bc4702115"
-                    },
-                    {
+                },
+                {
                             "name": "SPORT TV 3 pt",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "rtmpe://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 3/Benfica Tv pt opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "http://80.82.78.16:8081/live/portugal1/playlist.m3u8"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 3/Benfica Tv opc2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "http://31.204.128.112:8081/live/portugal2/playlist.m3u8"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 3 pt opc1 ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 3 pt opc2 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 3 pt opc3 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "acestream://cf8ff2d9d89f482de9127591c5781216d60368ae"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 4 pt opc1 ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
                             "url": "acestream://0e9bac041c943b759e65c28631d79376b5392460"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 4 pt opc2 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
                             "url": "acestream://4f256982b213a8b3346b01683b82261db8dcd524"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 4 pt opc3 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
                             "url": "acestream://d2a63635273232fc7710bb28c8775d18179c4038"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 5 pt opc1 ace",
                             "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
                             "url": "acestream://bf41112287550c64b2e18e81706e10356dbb8bbc"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 5 pt opc2 ace OF",
                             "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
                             "url": "acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORT TV 5 pt opc3 ace OF",
                             "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
                             "url": "acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad"
-                    },
-                                    {
+                },
+                {
                             "name": "BENFICA TV 1 pt opc1 ON ace",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
                             "url": "acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721"
-                    },
-                                    {
+                },
+                {
                             "name": "BENFICA TV 1 pt opc2 ace abre às vezes",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
                             "url": "acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415"
-                    },
-                                    {
+                },
+                {
                             "name": "BENFICA TV 2 pt opc1 ace",
                             "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
                             "url": "acestream://c1646f459c86ab24533650333957a57b457d80c1"
-                    },
-                                    {
+                },
+                {
                             "name": "SPORTING TV em testes",
                             "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
                             "url": "http://max24.homelinux.com:8000/live/lucia/lucia/39.ts"
-                        },
-                                    {
+                },
+                {
                             "name": "Sport 1 Voetboll ace jogos da liga portuguesa",
                             "image": "http://oklivetv.com/wp-content/uploads/2015/06/sport1voetbal.jpg",
                             "url": "acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471"
-                    },
-                                    {
+                },
+                {
                             "name": "bt sport tv1 ace jogos da liga portuguesa",
                             "image": "https://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg",
                             "url": "acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce"
-                    },
-                                    {
+                },
+                {
                             "name": "bt sport tv2 ace jogos da liga portuguesa",
                             "image": "http://www.magnet.ie/wp-content/uploads/2011/12/BTSport2HD_RGB.jpg",
                             "url": "acestream://3f3c263e29698f8b764708164718448c97faf205"
-                    },
-                                    {
+                },
+                {
                             "name": "Telecanal russia jogos da liga portuguesa",
                             "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/telekanal_futbol.jpg",
                             "url": "http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8"
-                    },
-                                    {
+                },
+                {
                             "name": "Telecanal russia opc1 jogos da liga portuguesa e espanhola",
                             "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/telekanal_futbol.jpg",
                             "url": "rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/"
-                    },
-                                    {
+                },
+                {
                             "name": "Cnopt Russia liga portuguesa",
                             "image": "http://www.itodis.fr/football/cnopt1.jpg",
                             "url": "http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8"
-                    },
+                },
      
     ]
     },
@@ -212,15 +212,13 @@
     "name": "DESPORTO ESPANHA & INTERNACIONAL",
     "image": "http://www.resultadosdirecto.com/img/espanhola.png",
     "stations": [
-                                       {
-                                                    "name": "''Todos os canais Espanhois & Internacionais de Desporto.''
-     
-    SERVIDORES:
-    OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUIZA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay,
+                 {
+                 "name": "''Todos os canais Espanhois & Internacionais de Desporto.''
+		SERVIDORES:
+    OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay,
     alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.
      
-    AUTOR:
-    Bosslulamen",
+    AUTOR: Bosslulamen",
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
                             "url": "",
                             "referer": "",
@@ -537,6 +535,11 @@
                         "image": "http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",
                         "url": "http://213.13.26.11:1935/live/tvldireto/livestream.m3u8"
                     },
+                {
+                        "name": "TV GLOBO",
+                        "image": "https://portal4.files.wordpress.com/2013/08/logo-da-globo.jpg",
+                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/31.m3u8"
+                },
      
     ]
     },
@@ -546,15 +549,33 @@
     (Em Manutenção)",
     "image": "http://www.fatosdesconhecidos.com.br/wp-content/uploads/2015/03/2215.jpg",
     "stations": [
-                    {
-                            "name": "NOTA:
-    Vamos actualizar assim que possivel.
-     
-    Bosslulamen&Lacasitos",
+                 {
+                            "name": "NOTA: Vamos actualizar assim que possivel. Bosslulamen&Lacasitos",
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
                             "url": ""
-                    },
-                            {
+                 },
+                 {
+                        "name": "TV CINE 2",
+                        "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
+                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/32.m3u8"
+               	 },
+                 {
+                        "name": "TV CINE 3",
+                        "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
+                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/33.m3u8"
+                 },
+                 {
+                        "name": "TV CINE 4",
+                        "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
+                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/34.m3u8"
+                 },
+                 {
+                        "name": "TV SERIES",
+                        "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
+                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/59.m3u8"
+                 },
+                    
+                 {
                             "name": "VELOSES E FURIOSOS 7",
                             "image": "http://i1.wp.com/portalovertube.com/wp-content/uploads/2015/02/Velozes-e-Furiosos-7.jpeg",
                             "url": "http://apkmania.com.br/marco/filmes/VelozeseFuriosos7Legendado.mp4"
