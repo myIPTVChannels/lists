@@ -530,31 +530,17 @@
                         "image": "http://www.tvtuga.com/wp-content/uploads/2010/04/economico-tv.jpg",
                         "url": "http://213.13.26.11:1935/live/etv_direto/playlist.m3u8"
                     },
-					{
+		    {
                         "name": "TV LISBOA",
                         "image": "http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",
                         "url": "http://213.13.26.11:1935/live/tvldireto/livestream.m3u8"
                     },
-                {
+                    {
                         "name": "TV GLOBO",
                         "image": "https://portal4.files.wordpress.com/2013/08/logo-da-globo.jpg",
                         "url": "http://max24.homelinux.com:8000/live/lucia/lucia/31.m3u8"
-                },
-     
-    ]
-    },
-     
-    {
-    "name": " CINEMA
-    (Em Manutenção)",
-    "image": "http://www.fatosdesconhecidos.com.br/wp-content/uploads/2015/03/2215.jpg",
-    "stations": [
-                 {
-                            "name": "NOTA: Vamos actualizar assim que possivel. Bosslulamen&Lacasitos",
-                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
-                            "url": ""
-                 },
-                 {
+                    },
+                    {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
                         "url": "http://max24.homelinux.com:8000/live/lucia/lucia/32.m3u8"
@@ -574,7 +560,20 @@
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
                         "url": "http://max24.homelinux.com:8000/live/lucia/lucia/59.m3u8"
                  },
-                    
+     
+    ]
+    },
+     
+    {
+    "name": " CINEMA
+    (Em Manutenção)",
+    "image": "http://www.fatosdesconhecidos.com.br/wp-content/uploads/2015/03/2215.jpg",
+    "stations": [
+                 {
+                            "name": "NOTA: Vamos actualizar assim que possivel. Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                 },
                  {
                             "name": "VELOSES E FURIOSOS 7",
                             "image": "http://i1.wp.com/portalovertube.com/wp-content/uploads/2015/02/Velozes-e-Furiosos-7.jpeg",
