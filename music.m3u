@@ -357,7 +357,7 @@ http://rtmp.one.by:2300
 
 #EXTINF:-1, [COLOR pink]--VIVA--[/COLOR]  
 http://
-#EXTINF:0 group-title="VIVA", VIVA DE
+#EXTINF:0 group-title="VIVA", VIVA DE [COLOR red]OFF[/COLOR]
 http://81.201.52.159:8007
 #EXTINF:0 group-title="VIVA", VIVA DE [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://026fea149c67730230be601de17b75ef7b7df5a4
