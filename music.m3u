@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:0, 9 ONDA [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://d6520943d0e5a6cfa4bf17f109e60effbd389786
 #EXTINF:0, AMAZING TV 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0, B4U MUSIC UK [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://397f52be3d31ad84658ae3488ce8646d66d04c43
 #EXTINF:0, BIG POND MUSIC 
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0, BIM TV
