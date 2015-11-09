@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:0, 9 ONDA [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://d6520943d0e5a6cfa4bf17f109e60effbd389786&name=9Onda
 #EXTINF:0, AMAZING TV 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
@@ -27,6 +25,8 @@ http://46.249.213.87/iPhone/HLS_TS/broadcast/clubbingtv-tablet.3gp/clubbingtv-ta
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, Dance TV HD 720P
 http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
+#EXTINF:0, DELUXE MUSIC [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://fb3553b94340ac9fc821eb9e33bfbd440c9c9726&name=Deluxe
 #EXTINF:0, dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, ELECTROSOUND TV
@@ -266,6 +266,8 @@ rtmp://stream.smcloud.net:1935/live2/best/best_720p
 rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
 #EXTINF:0 group-title="ESKA", Eska Best Music HD (3)
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+#EXTINF:0 group-title="ESKA", Eska Best Music [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://42dedd20c5b9e4239c895bf9bd272a9d025dd7f6&name=EskaBestMusic
 #EXTINF:0 group-title="ESKA", Eska Rock TV HD
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
 #EXTINF:0 group-title="ESKA", Eska Rock TV
@@ -422,6 +424,8 @@ http://
 http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", 9 Волна
 rtmp://176.9.127.102/live/myStream_1
+#EXTINF:0 group-title="Russia", 9 Волна [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://d6520943d0e5a6cfa4bf17f109e60effbd389786&name=9Onda
 #EXTINF:0 group-title="Russia", Первый Интернет канал HD
 http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", Первый Балтийский Musicльный
