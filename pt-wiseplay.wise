@@ -30,27 +30,27 @@
                 },
                     
                 {
-                    "name": "SPORT TV 1 ON",
+                    "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
 					"url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
                 },
                 {
-                    "name": "SPORT TV 1 opc1 ON",
+                    "name": "SPORT TV 1 opc1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                     "url": "rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15"
                 },
-		{
-                            "name": "SPORT TV 1 opc2 OF",
+		        {
+                            "name": "SPORT TV 1 opc2 OFF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "http://80.82.78.16:8081/live/portugal1/playlist.m3u8"
                 },
                 {
-                            "name": "SPORT TV 1 opc3 OF",
+                            "name": "SPORT TV 1 opc3",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "http://31.204.128.112:8081/live/portugal1/playlist.m3u8"
                 },
                 {
-                            "name": "SPORT TV 1 pt opc4 OF",
+                            "name": "SPORT TV 1 pt opc4",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"
                 },
@@ -239,12 +239,17 @@
                             "url": "http://www.dinostream.pw/channel.php?file=104837&width=650&height=400&autostart=true",
                             "referer": "http://verdirectotv.com/tv/deportes2/goltv.html",
                             "isHost": "true"
-                    },
-                                    {
+									},
+					{
                             "name": "Mega Tv  (El Chiringuito) ",
                             "image": "http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg",
+                            "url": "http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_3_av-p.m3u8?sd=10&rebase=on"
+                    },
+					{
+                            "name": "Mega Tv opc1  (El Chiringuito) ",
+                            "image": "http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg",
                             "url": "http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8"
-                                    },
+                    },
                     {
                             "name": "Canal+ Liga HD",
                             "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
@@ -443,13 +448,12 @@
     },
      
     {
-    "name": " TV/PORTUGAL
-    (Em Manutenção)",
+    "name": " TV/PORTUGAL",
     "image": "https://lh6.ggpht.com/LOjVJPx2OVP2jKObFA9n8GM4XkXQhhbIGidxpXn_hdSSzUtQ2fDz6V_-ZdMStp8L-w=w300",
     "stations": [
                     {
                             "name": "NOTA:
-    Alguns canais não estão sempre disponíveis.
+    Conta com os principais canais alguns canais podem não estar sempre disponíveis.
      
     Bosslulamen&Lacasitos",
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
@@ -530,7 +534,7 @@
                         "image": "http://www.tvtuga.com/wp-content/uploads/2010/04/economico-tv.jpg",
                         "url": "http://213.13.26.11:1935/live/etv_direto/playlist.m3u8"
                     },
-		    {
+					{
                         "name": "TV LISBOA",
                         "image": "http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",
                         "url": "http://213.13.26.11:1935/live/tvldireto/livestream.m3u8"
@@ -570,7 +574,7 @@
     "image": "http://www.fatosdesconhecidos.com.br/wp-content/uploads/2015/03/2215.jpg",
     "stations": [
                  {
-                            "name": "NOTA: Vamos actualizar assim que possivel. Bosslulamen&Lacasitos",
+                            "name": "NOTA: Filmes. Bosslulamen&Lacasitos",
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
                             "url": ""
                  },
@@ -824,13 +828,12 @@
     },
      
     {
-    "name": " MUSICA
-    (Em Manutenção)",
+    "name": " MUSICA",
     "image": "http://www.modenabimbi.it/wp-content/uploads/corso-musica.jpg",
     "stations": [
                     {
                             "name": "NOTA:
-    Vamos actualizar assim que possivel.
+    Lista dos principais Canais de Musica.
      
     Bosslulamen&Lacasitos",
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
@@ -1302,13 +1305,12 @@
     },
      
     {
-    "name": " WORLD CAMERAS
-    (Em Manutenção)",
+    "name": " WORLD CAMERAS",
     "image": "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/13/2009/09/CameraWorld_logo.jpg",
     "stations": [
                     {
                             "name": "NOTA:
-    Vamos actualizar assim que possivel.
+    Camaras de todo Mundo.
      
     Bosslulamen&Lacasitos",
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
@@ -1379,7 +1381,7 @@
 
                         "name": "NOTA:
 
-Alguns canais não estão sempre disponíveis.
+Serie Breaking Bad.
 
 
 
@@ -1720,7 +1722,7 @@ Bosslulamen&Lacasitos",
 
                         "name": "NOTA:
 
-Alguns canais não estão sempre disponíveis.
+Serie The Walking Dead.
 
 
 
@@ -2510,7 +2512,78 @@ Bosslulamen&Lacasitos",
                         "name": "Prison Break S.04 E.23",
                         "image": "http://www.prisonbreakmanhunt.com/uploads/images/alex_uploads/PBDVDS4.jpg",
                         "url": "http://tet.fairytaill.com/321/Prison%20Break/S04E23.MP4"
-                }			
+                }
+	]
+    },
+	
+	{
+	"name": "ADULTOS (+18)",
+	"image": "http://fc08.deviantart.net/fs70/i/2013/031/5/0/adults_only_logo_for_web_series_by_magichatcreative-d5tedou.jpg",
+	"parental": "true",
+	"stations": [
+					{
+                        "name": "''Canais para adultos, ideal para homens, mulheresres maiores de 18 años, para vivir plenamente a sua sexualidade, estimulando as suas fantasías e renovando os seus deseijos como um aspecto mais do seu estilo de vida, podem activar o control parental nas opcoes do wiseplay.''
+
+	SERVIDORES:
+	OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.
+
+	Bosslulamen&Lacasitos",
+							"image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+							"url": ""
+                },
+                {
+                        "name": "HUSTLER HD (+18)",
+                        "image": "http://2.bp.blogspot.com/-s_vH9n7wx4c/VEskP0BJm4I/AAAAAAAABy8/5aEsFLDtNOs/s320/hustlerHD3D.png",
+                        "url": "http://tv.verdirectotv.org/channel.php?file=103894&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/emision2/hustlertv.html",
+                        "isHost": "true"
+                },
+                {
+                        "name": "BABESTATION XTREME (+18)",
+                        "image": "http://1.bp.blogspot.com/-1-2Ckt35cPQ/VfSlRxDjhrI/AAAAAAAAGHA/_LN_-agfyYg/s1600/Babestation%2Bxtreme.jpg",
+                        "url": "http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8"
+                },
+                {
+                        "name": "PRIVATE (+18)",
+                        "image": "http://4.bp.blogspot.com/-41NvpahoKCg/VP0A_q9-I3I/AAAAAAAADTM/QsVRZfHhnO8/s1600/private_tv_logo.jpg",
+                        "url": "http://178.33.126.213:1935/leved/privateCom/.m3u8"
+                },
+                {
+                        "name": "SATISFACTION HD TV (+18)",
+                        "image": "http://4.bp.blogspot.com/-f6S9RF4TFU4/VQnRVfRBIbI/AAAAAAAADv8/f5gEYBjUhug/s1600/Satisfaction-HD-logo.png",
+                        "url": "rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499"
+                },
+                {
+                        "name": "SEXZONE HD (+18)",
+                        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShpsjBas8u0R0SJGlSRD5ruqUM77wQd6htBtWgFfnIOApt9XsQ",
+                        "url": "http://46.182.25.34:1935/tv/1420/playlist.m3u8"
+                },
+                {
+                        "name": "JASMIN TV (+18)",
+                        "image": "http://2.bp.blogspot.com/-_iYjF9FAbvE/VQABPqCHGDI/AAAAAAAADjc/GZHsIkn1rio/s1600/JASMIN%2BTV_n.jpg",
+                        "url": "http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8"
+                },
+                {
+                        "name": "Babestation CAM 1 (+18)",
+                        "image": "http://1.bp.blogspot.com/-YWIMT66bvyw/VQAF5CEMnZI/AAAAAAAADjo/tqeKHHrHM5U/s1600/Babestation_Logo.jpg",
+                        "url": "http://46.105.116.159:1935/cellcast/encoder72/.m3u8"
+                },
+                {
+                        "name": "Babestation CAM 2 (+18)",
+                        "image": "http://1.bp.blogspot.com/-YWIMT66bvyw/VQAF5CEMnZI/AAAAAAAADjo/tqeKHHrHM5U/s1600/Babestation_Logo.jpg",
+                        "url": "http://178.33.126.213:1935/cellcast/encoder32/.m3u8"
+                },
+                {
+                        "name": "LIVE SEX LATINAS (+18)",
+                        "image": "http://1.bp.blogspot.com/-CgX9yk5CGDI/VQAJyK_2_sI/AAAAAAAADj0/5KSMoWjwZoM/s1600/live%2Bsex%2Blatinas.jpg",
+                        "url": "http://178.33.126.213:1935/leved/livesexlatinas/.m3u8"
+                },
+                {
+                        "name": "Miami TV (+18)",
+                        "image": "http://www.1click3dprint.com/wp-content/uploads/2015/04/miami_tv_us.png",
+                        "url": "rtmp://k4.usastreams.com:1935/miamitv/miamitv"
+                },
+                			
     ]
     }
     ]
