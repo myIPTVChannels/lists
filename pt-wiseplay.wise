@@ -154,6 +154,11 @@
                             "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
                             "url": "acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad"
                 },
+				{
+                            "name": "BENFICA TV 1 pt",
+                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
+                            "url": "http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/byarno.m3u8"
+                },
                 {
                             "name": "BENFICA TV 1 pt opc1 ON ace",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
@@ -477,7 +482,7 @@
                                     {
                             "name": "SIC",
                             "image": "http://3.bp.blogspot.com/-bjYohBQxBoM/VhNNjYeFU7I/AAAAAAAAGO8/gzTgZ0DWito/s1600/SIC%2Blogo.png",
-                            "url": "http://213.13.26.11:1935/live/sic/livestream.m3u8"
+                            "url": "http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8"
                     },
                                     {
                             "name": "Rtp3",
@@ -533,6 +538,11 @@
                         "name": "ECONOMICO TV",
                         "image": "http://www.tvtuga.com/wp-content/uploads/2010/04/economico-tv.jpg",
                         "url": "http://213.13.26.11:1935/live/etv_direto/playlist.m3u8"
+                    },
+					{
+                        "name": "FASHION TV HD",
+                        "image": "http://files.paulolisboa.webnode.com.pt/200000014-5708b58030/fashiontvlogo.jpg",
+                        "url": "rtmp://95.67.8.43:1935/live/fashionhd"
                     },
 					{
                         "name": "TV LISBOA",
