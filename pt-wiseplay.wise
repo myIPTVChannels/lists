@@ -514,6 +514,11 @@
                             "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832",
                             "url": "http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8"
                     },
+									{
+                        "name": "TVI Ficção",
+                        "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8"
+                    },
                     {
                             "name": "RTP MADEIRA",
                             "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
@@ -549,10 +554,55 @@
                         "image": "http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",
                         "url": "http://213.13.26.11:1935/live/tvldireto/livestream.m3u8"
                     },
+					{
+                        "name": "Motores Tv",
+                        "image": "http://4.bp.blogspot.com/-bGqA1o-wdmo/Tq7AWt7llgI/AAAAAAAAGvU/pY87QKmwSLM/s1600/Logo%2BMotors%2BTV.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3252.m3u8"
+                    },
                     {
-                        "name": "TV GLOBO",
-                        "image": "https://portal4.files.wordpress.com/2013/08/logo-da-globo.jpg",
-                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/31.m3u8"
+                        "name": "AXN White HD",
+                        "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8"
+                    },
+					{
+                        "name": "FOX Crime HD",
+                        "image": "http://3.bp.blogspot.com/-adoBh5WVbwQ/VhODhnlorpI/AAAAAAAAGSI/DFteSBFbjww/s1600/Fox-Crime.jpg",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8"
+                    },
+					{
+                        "name": "FOX Life HD",
+                        "image": "http://4.bp.blogspot.com/-Ct7fmLFCJSI/VhOA-w5pJBI/AAAAAAAAGR8/lwqLfU2g8Ao/s1600/fox-life.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8"
+                    },
+					{
+                        "name": "FOX Movies",
+                        "image": "http://2.bp.blogspot.com/-jRzG1Dkqqpg/VhN_KSkNSOI/AAAAAAAAGRw/Qdx088aX3Ec/s1600/Fox_Movies.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5550.m3u8"
+                    },
+					{
+                        "name": "FOX",
+                        "image": "http://maresvivas.meo.pt/content/img/fox_2.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8"
+                    },
+					{
+                        "name": "Hollywood",
+                        "image": "http://1.bp.blogspot.com/-BLDMTDfaSdo/VSrsDDtlfII/AAAAAAAAE0Q/utwqxSKD_DA/s1600/Hollywood.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8"
+                    },
+					{
+                        "name": "AFRO Music",
+                        "image": "http://1.bp.blogspot.com/-JFocXAe9vKE/VVsVpMmoPhI/AAAAAAAAFJg/DxauxeVau9k/s1600/Destaque%2BLan%25C3%25A7amento%2BAfro%2BMusic%2BChannel%2Bna%2BVodafone.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8"
+                    },
+					{
+                        "name": "24 Kitchen HD",
+                        "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3243.m3u8"
+                    },
+					{
+                        "name": "SyFy",
+                        "image": "http://img3.wikia.nocookie.net/__cb20110408015403/logopedia/images/d/dc/Syfy_hd.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8"
                     },
                     {
                         "name": "TV CINE 2",
