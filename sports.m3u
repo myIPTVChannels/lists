@@ -79,19 +79,19 @@ rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=h
 rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460&st=1473e4n4w574x2s2f436q24693u5s44465i5h3i4q2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=546474n574c4t254n594r274w234b4n234m423a3f4w21374f476w226d3j41684v354e3v5s2y3x223a4n284a4a444x2s24464n23493b4e3h44494v213p4v2x4o4x526a44594f3v5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=Mg==&str=is&ok=&cat=16&link=1&idom=/magellan
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="Plexus",Sky Sports 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream&mode=1&name=SKYSPORTS1
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10351.acelive&amp;mode=1&amp;name=sky1
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png" group-title="Plexus",Sky Sports 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream&mode=1&name=SKYSPORTS2
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12738.acelive&amp;mode=1&amp;name=skysports2
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png" group-title="Plexus",Sky Sports 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream&mode=1&name=SKYSPORTS3
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/6909.acelive&amp;mode=1&amp;name=skysports3
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png" group-title="Plexus",Sky Sports 4 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream&mode=1&name=SKYSPORTS4
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12739.acelive&amp;mode=1&amp;name=skysports4
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png" group-title="Plexus",Sky Sports 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream&mode=1&name=SKYSPORTS5
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10285.acelive&amp;mode=1&amp;name=skysports5
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="Plexus",Sky Sports F1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream&mode=1&name=SKYSPORTS F1
@@ -186,6 +186,9 @@ plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="Plexus",Eurosport 2 (UK) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT2UK
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wpttyu1433780385.png" group-title="Plexus",Premier Sports [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vuvwsr1433336020.png" group-title="Plexus",Box Nation [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://6523e673b7f5fe48627ac9c9ae15ff544e5b3652&mode=1&name=acestream&mode=1&name=BOX NATION
 
@@ -266,9 +269,6 @@ plugin://program.plexus/?mode=1&url=acestream://ed20cc93e89e6b232ee9e515b7cdeed5
 
 #EXTINF:-1 group-title="Plexus",POLSAT SPORT EXTRA [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://4c0c928a085aaa180288be1d749ccfd4aed253be&mode=1&name=acestream&mode=1&name=POLSAT SPORT EXTRA
-
-#EXTINF:-1 group-title="Plexus",PREMIER SPORTS [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
 
 #EXTINF:-1 group-title="Plexus",SETANTA SPORTS [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS
