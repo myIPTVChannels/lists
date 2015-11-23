@@ -2,7 +2,7 @@
     "name": "LISTA DESPORTO - GERAL",
     "author": "Bosslulamen&Lacasitos",
     "url": "http://git.io/v8TRX",
-    "Update": "(05/11/2015/11/2015)",
+    "Update": "(23/11/2015)",
     "contact": "luilulas@hotmail.com",
     "groups": [
     {
@@ -17,7 +17,7 @@
                     "url": "",
                     "referer": "",
                     "isHost": "" },
-                {
+								{
                     "name": "SPORT TV AMERICAS",
                     "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
                     "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8"
@@ -29,7 +29,7 @@
                     "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8"
                 },
                     
-                {
+								{
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
 					"url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
@@ -39,18 +39,23 @@
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                     "url": "rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15"
                 },
+				{
+                    "name": "SPORT TV 1 opc2 Bosslulamen&Lacasitos",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                    "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8"
+                },
 		        {
-                            "name": "SPORT TV 1 opc2 OFF",
+                            "name": "SPORT TV 1 opc3 novo servidor",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "http://80.82.78.16:8081/live/portugal1/playlist.m3u8"
+                            "url": "http://top-iptv.zapto.org:8000/live/adem/adem/653.m3u8"
                 },
                 {
-                            "name": "SPORT TV 1 opc3",
+                            "name": "SPORT TV 1 opc4",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "http://31.204.128.112:8081/live/portugal1/playlist.m3u8"
                 },
                 {
-                            "name": "SPORT TV 1 pt opc4",
+                            "name": "SPORT TV 1 pt opc5",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"
                 },
@@ -69,10 +74,16 @@
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59"
                 },
-                {
+				
+										{
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "rtmpe://r.livecast.cc/rs/share/live2-bipmr swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
+                },
+				{
+                            "name": "SPORT TV 2 opc1 Bosslulamen&Lacasitos",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8"
                 },
                 {
                             "name": "SPORT TV 2 pt ace",
@@ -94,20 +105,16 @@
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "acestream://24660dc5f5a642f7f5df8873ddac481bc4702115"
                 },
-                {
+				
+										{
                             "name": "SPORT TV 3 pt",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "rtmpe://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx"
                 },
-                {
-                            "name": "SPORT TV 3/Benfica Tv pt opc1",
+				{
+                            "name": "SPORT TV 3 opc1 Bosslulamen&Lacasitos",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "http://80.82.78.16:8081/live/portugal1/playlist.m3u8"
-                },
-                {
-                            "name": "SPORT TV 3/Benfica Tv opc2",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "http://31.204.128.112:8081/live/portugal2/playlist.m3u8"
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8"
                 },
                 {
                             "name": "SPORT TV 3 pt opc1 ace",
@@ -124,6 +131,12 @@
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "acestream://cf8ff2d9d89f482de9127591c5781216d60368ae"
                 },
+				
+										{
+                            "name": "SPORT TV 4 Bosslulamen&Lacasitos",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
+                            "url": "http://top-iptv.zapto.org:8000/live/adem/adem/656.m3u8"
+                },
                 {
                             "name": "SPORT TV 4 pt opc1 ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
@@ -138,6 +151,12 @@
                             "name": "SPORT TV 4 pt opc3 ace OF",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
                             "url": "acestream://d2a63635273232fc7710bb28c8775d18179c4038"
+                },
+				
+										{
+                            "name": "SPORT TV 5 Bosslulamen&Lacasitos",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8"
                 },
                 {
                             "name": "SPORT TV 5 pt opc1 ace",
@@ -154,10 +173,16 @@
                             "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
                             "url": "acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad"
                 },
-				{
-                            "name": "BENFICA TV 1 pt",
+				
+										{
+                            "name": "BENFICA TV 1 pt novo",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/byarno.m3u8"
+                            "url": "http://top-iptv.zapto.org:8000/live/adem/adem/660.m3u8"
+                },
+				{
+                            "name": "BENFICA TV 1 Bosslulamen&Lacasitos",
+                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3308.m3u8"
                 },
                 {
                             "name": "BENFICA TV 1 pt opc1 ON ace",
@@ -169,17 +194,29 @@
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
                             "url": "acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415"
                 },
+				
+										{
+                            "name": "BENFICA TV 2 Bosslulamen&Lacasitos",
+                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3308.m3u8"
+                },
                 {
                             "name": "BENFICA TV 2 pt opc1 ace",
                             "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
                             "url": "acestream://c1646f459c86ab24533650333957a57b457d80c1"
                 },
-                {
-                            "name": "SPORTING TV em testes",
+				
+										{
+                            "name": "SPORTING TV Bosslulamen&Lacasitos",
                             "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
-                            "url": "http://max24.homelinux.com:8000/live/lucia/lucia/39.ts"
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8"
                 },
-                {
+				{
+                            "name": "SPORTING TV Novo",
+                            "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
+                            "url": "http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7847.m3u8"
+                },
+				{
                             "name": "Sport 1 Voetboll ace jogos da liga portuguesa",
                             "image": "http://oklivetv.com/wp-content/uploads/2015/06/sport1voetbal.jpg",
                             "url": "acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471"
@@ -519,7 +556,12 @@
                         "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
                         "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8"
                     },
-                    {
+									{
+                        "name": "+ TVI",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/5/56/%2BTVI_logo.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3231.m3u8"
+                    },
+									{
                             "name": "RTP MADEIRA",
                             "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
                             "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8"
@@ -539,10 +581,50 @@
                             "image": "http://s20.postimg.org/qodr70i7x/rtp_africa.png",
                             "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/chunklist.m3u8"
                     },
+									{
+                        "name": "Abola TV (PT)",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5540.m3u8"
+                    },
+									{
+                            "name": "PORTO CANAL Bosslulamen&Lacasitos",
+                            "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5538.m3u8"
+                    },
+					{
+                        "name": "Caça y Pesca",
+                        "image": "http://4.bp.blogspot.com/-LXaNAwkPqak/VTaSNHOU67I/AAAAAAAAFDg/bGPtESadCcQ/s1600/caza%2By%2Bpesca.jpg",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5543.m3u8"
+                    },
+					{
+                        "name": "CM TV",
+                        "image": "http://4.bp.blogspot.com/-79rUnfByE0A/VhNXhQ8Q0JI/AAAAAAAAGP4/-7uoNFoYBbA/s1600/CM_TVpng.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8"
+                    },
+					{
+                        "name": "CBS Reality",
+                        "image": "http://3.bp.blogspot.com/-Ek6PEeT5LAg/VhPMXqa3_fI/AAAAAAAAGVk/5NS8_uiglic/s1600/CBS_Reality.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3215.m3u8"
+                    },
                     {
                         "name": "ECONOMICO TV",
                         "image": "http://www.tvtuga.com/wp-content/uploads/2010/04/economico-tv.jpg",
                         "url": "http://213.13.26.11:1935/live/etv_direto/playlist.m3u8"
+                    },
+					{
+                        "name": "National Geographic HD",
+                        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpusvf5GAksJ2Eb9lbRhu19Iuataavy4O50g3KyP5GA24cJB9kQ",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3306.m3u8"
+                    },
+					{
+                        "name": "Nat Geo Wild",
+                        "image": "http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3306.m3u8"
+                    },
+					{
+                        "name": "Odiseia",
+                        "image": "http://megatvonline.es/kaiserintv/logos/documentales/logoodisea.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3230.m3u8"
                     },
 					{
                         "name": "FASHION TV HD",
@@ -554,15 +636,21 @@
                         "image": "http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",
                         "url": "http://213.13.26.11:1935/live/tvldireto/livestream.m3u8"
                     },
-					{
-                        "name": "Motores Tv",
-                        "image": "http://4.bp.blogspot.com/-bGqA1o-wdmo/Tq7AWt7llgI/AAAAAAAAGvU/pY87QKmwSLM/s1600/Logo%2BMotors%2BTV.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3252.m3u8"
-                    },
                     {
                         "name": "AXN White HD",
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
                         "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8"
+                    },
+									{
+                        "name": "FX",
+                        "image": "http://canakanten.net/wp-content/uploads/fx.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3231.m3u8"
+                    },
+					
+									{
+                        "name": "FOX HD",
+                        "image": "http://maresvivas.meo.pt/content/img/fox_2.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8"
                     },
 					{
                         "name": "FOX Crime HD",
@@ -579,52 +667,58 @@
                         "image": "http://2.bp.blogspot.com/-jRzG1Dkqqpg/VhN_KSkNSOI/AAAAAAAAGRw/Qdx088aX3Ec/s1600/Fox_Movies.png",
                         "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5550.m3u8"
                     },
-					{
-                        "name": "FOX",
-                        "image": "http://maresvivas.meo.pt/content/img/fox_2.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8"
+					
+									{
+                        "name": "História",
+                        "image": "http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3238.m3u8"
                     },
-					{
+									{
                         "name": "Hollywood",
                         "image": "http://1.bp.blogspot.com/-BLDMTDfaSdo/VSrsDDtlfII/AAAAAAAAE0Q/utwqxSKD_DA/s1600/Hollywood.png",
                         "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8"
                     },
-					{
-                        "name": "AFRO Music",
-                        "image": "http://1.bp.blogspot.com/-JFocXAe9vKE/VVsVpMmoPhI/AAAAAAAAFJg/DxauxeVau9k/s1600/Destaque%2BLan%25C3%25A7amento%2BAfro%2BMusic%2BChannel%2Bna%2BVodafone.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8"
-                    },
-					{
-                        "name": "24 Kitchen HD",
-                        "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3243.m3u8"
-                    },
-					{
+									{
                         "name": "SyFy",
                         "image": "http://img3.wikia.nocookie.net/__cb20110408015403/logopedia/images/d/dc/Syfy_hd.png",
                         "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8"
                     },
-                    {
+									{
+                        "name": "AFRO Music",
+                        "image": "http://1.bp.blogspot.com/-JFocXAe9vKE/VVsVpMmoPhI/AAAAAAAAFJg/DxauxeVau9k/s1600/Destaque%2BLan%25C3%25A7amento%2BAfro%2BMusic%2BChannel%2Bna%2BVodafone.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8"
+                    },
+									{
+                        "name": "24 Kitchen HD",
+                        "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3243.m3u8"
+                    },
+								{
+                        "name": "TV SERIES",
+                        "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3304.m3u8"
+                 },
+				 {
+                        "name": "TVCine 1 HD",
+                        "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5545.m3u8"
+                 },
+				 {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
-                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/32.m3u8"
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5546.m3u8"
                	 },
                  {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/33.m3u8"
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5547.m3u8"
                  },
                  {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/34.m3u8"
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5548.m3u8"
                  },
-                 {
-                        "name": "TV SERIES",
-                        "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
-                        "url": "http://max24.homelinux.com:8000/live/lucia/lucia/59.m3u8"
-                 },
-     
+                      
     ]
     },
      
@@ -1335,7 +1429,27 @@
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
                             "url": ""
                     },
-                                    {
+                    {
+                        "name": "Canal Panda",
+                        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQE7LdsbU_j9GZ7zTjkdR3yhM5qvJh2xoezyBMeJKts0LCEIdD",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3239.m3u8"
+                    },
+					{
+                        "name": "Disney Jr. HD",
+                        "image": "http://4.bp.blogspot.com/-tRLNLZijHlk/VLRUgjbZD5I/AAAAAAAACWs/YJrarfQ3QGc/s320/Nick%2BJr.jpg",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3258.m3u8"
+                    },
+					{
+                        "name": "Disney Channel HD",
+                        "image": "http://dolimg-emea.disneycdn.com/cdn_assets/20f53894a0ebd04f391c56a5cab93d47babb8fd7.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3310.m3u8"
+                    },
+					{
+                            "name": "NICKELODEON",
+                            "image": "http://cdn.slashgear.com/wp-content/uploads/2015/01/nick.jpg",
+                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3240.m3u8"
+                    },
+					{
                             "name": "CARTOON NETWORK br",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png",
                             "url": "http://107.152.103.226:1935/app/olsenpaulos-channel/playlist.m3u8"
@@ -1379,7 +1493,23 @@
 							"image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
 							"url": ""
                 },
-                {
+				                {
+                        "name": "HOT TV PT(+18)",
+                        "image": "http://meogo.meo.pt/oquee/PublishingImages/CanaisPremium/premium_mobile_hot.png",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3262.m3u8"
+                },
+								{
+                        "name": "VENUS PT(+18)",
+                        "image": "http://fotos.sapo.pt/AYSfHwIZNFyP2gOzvMSS/500x500",
+                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3261.m3u8"
+                },
+				
+				                {
+                        "name": "SHOT TV (+18)",
+                        "image": "http://1.bp.blogspot.com/-Tc4P2CpPyhU/VQnT2SRFGII/AAAAAAAADwI/3eskjalPAG4/s1600/HOT%2Blogo.png",
+                        "url": "http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8"
+                },
+				{
                         "name": "HUSTLER HD (+18)",
                         "image": "http://2.bp.blogspot.com/-s_vH9n7wx4c/VEskP0BJm4I/AAAAAAAABy8/5aEsFLDtNOs/s320/hustlerHD3D.png",
                         "url": "http://tv.verdirectotv.org/channel.php?file=103894&width=650&height=400&autostart=true",
