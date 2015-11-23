@@ -2,7 +2,7 @@
     "name": "LISTA DESPORTO - GERAL",
     "author": "Bosslulamen&Lacasitos",
     "url": "http://git.io/v8TRX",
-    "Update": "(23/11/2015)",
+    "Update": "(13/11/2015)",
     "contact": "luilulas@hotmail.com",
     "groups": [
     {
@@ -721,6 +721,98 @@
                       
     ]
     },
+	
+	{
+    "name": " TV/ESPANHA",
+    "image": "http://imagenes.es.sftcdn.net/es/scrn/69676000/69676099/espana-tv-10-700x393.jpg",
+    "stations": [
+                    {
+                            "name": "NOTA:
+    Conta com os principais canais espanhois podem não estar sempre disponíveis por motivos alheios.
+     
+    Bosslulamen&Lacasitos",
+                            "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
+                            "url": ""
+                    },
+					{
+			"name": "La 1 HD",
+			"image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
+			"url": "rtmp://31.220.0.86/pull/ playpath=laprimera6?keys=b9VDY2TMfUdqnfPblYf_sg&keyt=1443156208 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=laprimera6&width=600&height=450"
+		},
+                {
+                        "name": "La 2",
+                        "image": "http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png",
+                        "url": "http://gblackstreaming.com/embed.php?a=33&id=&width=650&height=400&autostart=true&strech=",
+                        "isHost": "true"
+                },
+                {
+			"name": "Antena 3 HD",
+			"image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antena3hd.png/200px-Antena3hd.png",
+			"url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8"
+		},
+		{
+			"name": "Cuatro HD",
+			"image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
+			"url": "rtmp://31.220.0.155/pull/ playpath=cuatrocu?keys=mnWnW5FSPhr6SP4YnvdN4Q&keyt=1443156430 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cuatrocu&width=600&height=450"
+		},
+       	{
+			"name": "Telecinco HD",
+			"image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
+			"url": "rtmp://31.220.40.39/pull/ playpath=telecincoin?keys=7Bi3FEX-IbR1oBpDuwWs-g&keyt=1443156534 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=telecincoin&width=600&height=450"
+		},
+		{
+			"name": "La Sexta HD",
+			"image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_de_la_Sexta_HD.png/200px-Logo_de_la_Sexta_HD.png",
+			"url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8"
+		},
+		{
+                        "name": "NON STOP PEOPLE HD",
+                        "image": "http://4.bp.blogspot.com/-Q2FY8sQ_LyE/Vem-KTD_UrI/AAAAAAAAGB4/whU3abEAfJ0/s1600/NON%2BSTOP%2BPEOPLE.jpg",
+                        "url": "rtmp://31.220.0.72/pull/ playpath=nonstop9?keys=oqzW6t2SRy947RFAiHPT7Q&keyt=1443151194 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=nonstop9&width=600&height=450"
+                },
+		{
+			"name": "MEGA",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png",
+			"url": "http://a3live-lh.akamaihd.net/i/megageo_1@328914/master.m3u8"
+		},
+		{
+			"name": "Energy HD",
+			"image": "http://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",
+			"url": "rtmp://31.220.40.59/pull/ playpath=energy35?keys=nLfsRREYy-7jgPCNmiaQRw&keyt=1443156954 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=energy35&width=600&height=450"
+		},
+		{
+			"name": "Divinity HD",
+			"image": "http://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png",
+			"url": "rtmp://149.255.39.10/pull/ playpath=divinoti?keys=vUWrdyckvJJjvCqNjYvccg&keyt=1443287998 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=divinoti&width=600&height=450"
+		},
+        {
+			"name": "FDF HD",
+			"image": "http://www.formulatv.com/fotos/a/76000/76431/padbf9eho699ynmv5c4fa5578f9aca2_logo-factoria-de-ficcion.png",
+			"url": "rtmp://31.220.0.204/pull/ playpath=fdfin?keys=VOnbi3c7vsH3Uqx-In65fQ&keyt=1443157058 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=fdfin&width=600&height=450"
+		},
+        {
+			"name": "Neox HD",
+			"image": "http://3.bp.blogspot.com/-YKZAWdIqfE0/TjOEeCXWZTI/AAAAAAAAB0w/kwM168_hB8Q/s203/Neox+logo+2011.png",
+			"url": "rtmp://149.255.39.10/pull/ playpath=neox9?keys=1DTNBN8DIJmug8jGUdGjgQ&keyt=1443287872 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=neox9&width=600&height=450"
+		},
+		{
+			"name": "Nova HD",
+			"image": "http://www.formulatv.com/images/noticias/27700/27743/1.jpg",
+			"url": "rtmp://31.220.0.204/pull/ playpath=novados?keys=U3IjeuryKDLnYfU6SNzKUw&keyt=1443156735 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=novados&width=600&height=450"
+		},
+		{
+			"name": "TVE 24h",
+			"image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
+			"url": "http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8"
+		},
+		{
+			"name": "EURONEWS",
+			"image": "http://3.bp.blogspot.com/-ovkaH-75bJ4/VQHxoj_imdI/AAAAAAAADnY/8mXpvyaniL0/s1600/euronews-logo.jpg",
+			"url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp"
+		},
+                
+]
+},
      
     {
     "name": " CINEMA
