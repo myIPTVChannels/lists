@@ -206,6 +206,8 @@ rtmp://109.239.142.62/live/livestream3
 http://
 #EXTINF:0 group-title="Black Music", Africa Music
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:0 group-title="Black Music", AFRO Music
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия (2)
@@ -274,8 +276,10 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:0 group-title="ESKA", Eska Rock TV (2)
 rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
-#EXTINF:0 group-title="ESKA", Eska Party TV HD
+#EXTINF:0 group-title="ESKA", Eska Party HD
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0 group-title="ESKA", Eska Party [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e0e441ee6858a6db9c5a02033015c483ea41f731&name=EskaBestMusic
 #EXTINF:0 group-title="ESKA", Eska Wawa
 rtmp://stream.smcloud.net/live2/wawa/wawa_360p
 #EXTINF:0 group-title="ESKA", Eska Wawa HD
@@ -284,6 +288,8 @@ rtmp://stream.smcloud.net/live2/wawa/wawa_720p
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:0 group-title="ESKA", Eska VOX HD
 http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
+#EXTINF:0 group-title="ESKA", Eska VOX [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://f17437a6c27f0ec3ee6788037798f5ac0554f398&name=EskaBestMusic
 #EXTINF:0 group-title="ESKA", Eska POLO 
 rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0 group-title="ESKA", Eska POLO Party HD
