@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, 40 TV HD
+rtmp://31.220.0.199/pull/ playpath=40tv85?keys=vRFyYPYmlFQCxSttey7VaA&keyt=1443150960 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=40tv85&width=600&height=450
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0, AMAZING TV 
