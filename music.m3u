@@ -237,13 +237,13 @@ http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:0, [COLOR yellow]--Egypt--[/COLOR]
 http://
-#EXTINF:0 group-title="Egypt", MILODY (Egypt)
+#EXTINF:0 group-title="Egypt", MILODY (Egypt) [COLOR red]OFF[/COLOR]
 http://178.33.88.130:888/udp/239.102.0.110:1234
-#EXTINF:0 group-title="Egypt", ROTANA MUSIC
+#EXTINF:0 group-title="Egypt", ROTANA MUSIC [COLOR red]OFF[/COLOR]
 http://178.33.88.130:888/udp/239.102.0.186:1234 
-#EXTINF:0 group-title="Egypt", ROTANA CLASIC
+#EXTINF:0 group-title="Egypt", ROTANA CLASIC [COLOR red]OFF[/COLOR]
 http://178.33.88.130:888/udp/239.102.0.187:1234  
-#EXTINF:0 group-title="Egypt", ROTANA KHALIDJAIA
+#EXTINF:0 group-title="Egypt", ROTANA KHALIDJAIA [COLOR red]OFF[/COLOR]
 http://178.33.88.130:888/udp/239.102.0.189:1234 
 
 #EXTINF:0, [COLOR yellow]--ESKA--[/COLOR]
