@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:0, 40 TV HD
-rtmp://31.220.0.199/pull/ playpath=40tv85?keys=vRFyYPYmlFQCxSttey7VaA&keyt=1443150960 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=40tv85&width=600&height=450
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0, AMAZING TV 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:0, AKA
+#EXTINF:0, AKA [COLOR red]OFF[/COLOR]
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, B4U MUSIC UK [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://397f52be3d31ad84658ae3488ce8646d66d04c43&name=B4UMusic
@@ -13,15 +11,15 @@ plugin://program.plexus/?mode=1&url=acestream://397f52be3d31ad84658ae3488ce8646d
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0, BIM TV
 rtmp://188.254.62.124:11935/live/video2
-#EXTINF:0, Bridge TV
+#EXTINF:0, Bridge TV [COLOR red]OFF[/COLOR]
 http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/122/index.m3u8
-#EXTINF:0, Bridge TV (2)
-http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/122/index.m3u8
+#EXTINF:0, CANTINAZO TV (Latino)
+http://tinyurl.com/pz9hfsy
 #EXTINF:0, CAPITAL TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, CineStreamTV HD / Nation 720P
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:0, Clubbing TV
+#EXTINF:0, Clubbing TV [COLOR red]OFF[/COLOR]
 http://46.249.213.87/iPhone/HLS_TS/broadcast/clubbingtv-tablet.3gp/clubbingtv-tablet.3gp-mr648k.m3u8?trackingid=3011270000&os=desktop
 #EXTINF:0, CLUBLAND 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -33,7 +31,7 @@ plugin://program.plexus/?mode=1&url=acestream://fb3553b94340ac9fc821eb9e33bfbd44
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, ELECTROSOUND TV
 rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:0, EUROPA PLUS TV
+#EXTINF:0, EUROPA PLUS TV [COLOR red]OFF[/COLOR]
 rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
 #EXTINF:0, Fun 1 TV
 mms://portal.satplus.cz/TV_FUN1
@@ -41,15 +39,17 @@ mms://portal.satplus.cz/TV_FUN1
 http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
 #EXTINF:0, FRESH TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
-#EXTINF:0, Go TV
+#EXTINF:0, Go TV [COLOR red]OFF[/COLOR]
 http://stream1.gotv.at:1935/live/gotvlive_360p/chunklist.m3u8
 #EXTINF:0, Gold TV
 http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
-#EXTINF:0, HARD LIFE 
+#EXTINF:0, HARD LIFE [COLOR red]OFF[/COLOR]
 http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
-#EXTINF:0, HEART TV 
+#EXTINF:0, HEAVY METAL TV
+rtmp://70.166.98.130:1935/hmtv/myStream
+#EXTINF:0, HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, IBIZA ON TV
+#EXTINF:0, IBIZA ON TV [COLOR red]OFF[/COLOR]
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
@@ -58,20 +58,14 @@ http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
 #EXTINF:0, JIM TV (2)
 rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim
 #EXTINF:0, KiSS TV 
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:0, KiSS TV (2)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:0, KiSS TV (3)
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-#EXTINF:0, KiSS TV (4)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:0, M1
 http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
 #EXTINF:0, M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:0, MELODY CHANNEL TV 
+#EXTINF:0, MELODY CHANNEL TV
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0, MFM TV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
@@ -149,13 +143,15 @@ http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:0, RADIO U TV (2)
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+#EXTINF:0, Real Jamaica TV
+http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:0, Retro TV
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:0, Rock One
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:0, RTL TV 102.5
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF:0, SI TV
+#EXTINF:0, SI! TV (Latino)
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:0, Single TV
 http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
@@ -177,7 +173,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 http://tinyurl.com/nmlwdq8
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
-#EXTINF:0, Tuba TV
+#EXTINF:0, Tuba TV [COLOR red]OFF[/COLOR]
 rtmp://fms.gazeta.pl/aglive/tuba_tv
 #EXTINF:0, tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
@@ -330,12 +326,8 @@ http://bit.do/bnDBR
 http://78.30.254.27:8989/udp/239.0.0.196:4000
 #EXTINF:0 group-title="MTV", MTV Live HD 1080P 
 http://bit.do/bkWAM
-#EXTINF:0 group-title="MTV", MTV HITS  
+#EXTINF:0 group-title="MTV", MTV HITS [COLOR red]OFF[/COLOR] 
 http://92.50.181.6/tv/1278/index.m3u8
-#EXTINF:0 group-title="MTV", MTV HITS (2)
-http://78.30.254.27:8989/udp/239.0.0.205:4000
-#EXTINF:0 group-title="MTV", MTV HITS (3)
-http://wcm777.la/tp/mtv-hits.m3u8
 #EXTINF:0 group-title="MTV", MTV Russia
 http://j.mp/ZCH_C03_MTV_sly
 #EXTINF:0 group-title="MTV", MTV Russia (2)
@@ -414,9 +406,9 @@ http://wow01.105.net/live/virgin1/.m3u8
 http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1050.m3u8
 #EXTINF:0 group-title="Virgin", Virgin TV Radio (4)
 http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:0 group-title="Virgin", RADIO VIRGIN TV (3)
+#EXTINF:0 group-title="Virgin", Virgin TV Radio (5)
 http://fms.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:0 group-title="Virgin", RADIO VIRGIN TV (4)
+#EXTINF:0 group-title="Virgin", Virgin TV Radio (6)
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
 #EXTINF:-1, [COLOR brown]--Asia--[/COLOR]  
@@ -440,6 +432,8 @@ http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 http://embedcdnb.cloudy.services/play/135/chunklist_bw1800000.m3u8
 #EXTINF:0 group-title="Russia", лдПP TB
 rtmp://213.247.198.250:1935/live//ldpr.stream_720p
+#EXTINF:0 group-title="Russia", PIK TV
+rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
 #EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", City TV
@@ -452,6 +446,8 @@ rtmp://80.245.113.12/live/pubtalk1
 http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
 #EXTINF:0 group-title="Russia", Курай
 http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
+#EXTINF:0 group-title="Russia", MUSICBOX RU
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Russia", Муз
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MUZTV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", Муз ТВ
