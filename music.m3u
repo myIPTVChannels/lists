@@ -69,7 +69,7 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0, MFM TV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
-#EXTINF:0, Mezzo
+#EXTINF:0, Mezzo [COLOR red]OFF[/COLOR]
 http://188.93.94.46:80/mezzo/index.m3u8
 #EXTINF:0, Miami Music TV
 http://74.208.152.93/music/stream3/stream.m3u8
@@ -83,31 +83,27 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://bit.ly/IPTVGlobal-multshow
 #EXTINF:0 tvg-logo="Multishow.png" tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow (2)
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:0, Music Box RU
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_MUSICBOXRU/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Musicbox Ru
+#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Russioan Musicbox
 http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
 #EXTINF:0, Music Box TV
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
-#EXTINF:0, Music Box TV (2)
 http://u.to/jaacAg
+#EXTINF:0, Music Box TV (2) [COLOR red]OFF[/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
 #EXTINF:0, Musica Israel
 http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
-#EXTINF:0, NOW MUSIC  
+#EXTINF:0, Now Music [COLOR red]OFF[/COLOR]
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, Now Music UK
+#EXTINF:0, Now Music UK [COLOR red]OFF[/COLOR]
 http://rrr.sz.xlcdn.com/?
 #EXTINF:0, NR1
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
 #EXTINF:0, NRJ TV
 rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
-#EXTINF:0, NRJ (2)
-http://rtmp.infomaniak.ch/livecast/energytv/playlist.m3u8
-#EXTINF:0, О2 HD
+#EXTINF:0, О2 HD [COLOR red]OFF[/COLOR]
 http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
-#EXTINF:0, О art
+#EXTINF:0, О art [COLOR red]OFF[/COLOR]
 http://212.79.96.134:8005/
-#EXTINF:0, Ocko TV
+#EXTINF:0, Ocko TV [COLOR red]OFF[/COLOR]
 http://iptv.klfree.cz:8016/
 #EXTINF:0, Ocko Gold
 http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
@@ -115,9 +111,9 @@ http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, Penki TV
 rtmp://bb.5ci.lt/live/PenkiTV_VGA
-#EXTINF:0, PIK  
+#EXTINF:0, PIK [COLOR red]OFF[/COLOR]
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0, Pink Music  
+#EXTINF:0, Pink Music [COLOR red]OFF[/COLOR]
 http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
 #EXTINF:0, PMC IRAN
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
@@ -137,12 +133,10 @@ rtmp://fms.105.net:1935/live/rmc1
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:0, RADIO MONTE CARLO TV (3)
 http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:0, RADIO ITALIA TV
+#EXTINF:0, RADIO ITALIA TV [COLOR red]OFF[/COLOR]
 http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
 #EXTINF:0, RADIO U TV 
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
-#EXTINF:0, RADIO U TV (2)
-rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
 #EXTINF:0, Real Jamaica TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:0, Retro TV
@@ -157,7 +151,7 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
 #EXTINF:0, Soy FM TV
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
-#EXTINF:0, Spirit TV
+#EXTINF:0, Spirit TV HD
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
@@ -169,7 +163,7 @@ http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
 http://186.155.200.118:1935/live/Televitrola/playlist.m3u8
 #EXTINF:0, tigo MUSIC (Latino)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:0, tigo MUSIC (Latino, 2)
+#EXTINF:0, tigo MUSIC (Latino) (2)
 http://tinyurl.com/nmlwdq8
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
@@ -177,11 +171,11 @@ http://5.35.240.130:30005
 rtmp://fms.gazeta.pl/aglive/tuba_tv
 #EXTINF:0, tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
-#EXTINF:0, TV Polanco Colombia
+#EXTINF:0, TV Polanco Colombia [COLOR red]OFF[/COLOR]
 http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
 #EXTINF:0, UTV
 http://82.76.249.77:80/utvedge/utvlive/index.m3u8
-#EXTINF:0, ULTRAFIESTA 
+#EXTINF:0, ULTRAFIESTA [COLOR red]OFF[/COLOR]
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:0, Ven FM TV
 http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
