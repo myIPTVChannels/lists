@@ -173,6 +173,8 @@ rtmp://fms.gazeta.pl/aglive/tuba_tv
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 #EXTINF:0, TV Polanco Colombia [COLOR red]OFF[/COLOR]
 http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
+#EXTINF:0, UMF TV
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 #EXTINF:0, UTV
 http://82.76.249.77:80/utvedge/utvlive/index.m3u8
 #EXTINF:0, ULTRAFIESTA [COLOR red]OFF[/COLOR]
@@ -194,23 +196,19 @@ http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
 
 #EXTINF:0, [COLOR yellow]--Black Music--[/COLOR]  
 http://
-#EXTINF:0 group-title="Black Music", Africa Music
+#EXTINF:0 group-title="Black Music", Africa Music [COLOR red]OFF[/COLOR]
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 #EXTINF:0 group-title="Black Music", AFRO Music
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
-#EXTINF:0 group-title="Black Music", A-One Россия (2)
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", AKA Hip Hop
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 group-title="Black Music", Golspel TV 
 rtmp://188.165.135.22/gospeltv/livestream
-#EXTINF:0 group-title="Black Music", REAL HIP HOP TV 
-http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 #EXTINF:0 group-title="Black Music", SKY GOSPEL WEB TV
 http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
-#EXTINF:0 group-title="Black Music", URBAN MUSIC TV 
+#EXTINF:0 group-title="Black Music", URBAN MUSIC TV [COLOR red]OFF[/COLOR]
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 
 
