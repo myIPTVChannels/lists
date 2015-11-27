@@ -298,8 +298,8 @@ http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
 http://
 #EXTINF:0 group-title="MTV", MTV [COLOR red]OFF[/COLOR]
 http://stream-full.selfip.com:8000/live/jack/jack/165.ts
-#EXTINF:0 group-title="MTV", MTV Latina [COLOR red]OFF[/COLOR]
-http://wcm777.la/tp/mtv.m3u8
+#EXTINF:0 group-title="MTV", MTV Latina
+http://latinochannels.2fh.co/canales/hls/mtv.m3u8
 #EXTINF:0, MTV HD Italia [COLOR red]OFF[/COLOR]
 http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/162.m3u8
 #EXTINF:0 group-title="MTV", MTV Azerbaijan
@@ -312,8 +312,8 @@ http://stream-full.selfip.com:8000/live/jack/jack/169.ts
 http://92.50.181.6/tv/1280/index.m3u8
 #EXTINF:0 group-title="MTV", MTV LIVE HD [COLOR red]OFF[/COLOR]
 http://78.30.254.27:8989/udp/239.0.0.196:4000
-#EXTINF:0 group-title="MTV", MTV HITS [COLOR red]OFF[/COLOR] 
-http://92.50.181.6/tv/1278/index.m3u8
+#EXTINF:0 group-title="MTV", MTV HITS
+http://latinochannels.2fh.co/canales/hls/mtv-hits.m3u8
 #EXTINF:0 group-title="MTV", MTV Russia [COLOR red]OFF[/COLOR]
 http://j.mp/ZCH_C03_MTV_sly
 #EXTINF:0 group-title="MTV", MTV Vietnam [COLOR red]OFF[/COLOR]
@@ -329,6 +329,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:1400
 #EXTINF:0 group-title="ONE", ONE 3 
 http://rtmp.one.by:1499
+#EXTINF:0 group-title="ONE", ONE 4
+rtmp://smit1237.asuscomm.com/hls/live_1080p
 #EXTINF:0 group-title="ONE", One Россия
 http://rtmp.one.by:2200
 #EXTINF:0 group-title="ONE", ONE Россия HD
