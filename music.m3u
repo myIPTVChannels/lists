@@ -289,6 +289,8 @@ http://
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV Россия
 http://zhegal.com.ua/tv/triolan?id=47
+#EXTINF:0 group-title="JuCeTV", JuCeTV TV Россия
+http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV US [COLOR red]OFF[/COLOR]
 http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
 
@@ -360,12 +362,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
 
 #EXTINF:0, [COLOR red]--VH1--[/COLOR]  
 http://
-#EXTINF:0 group-title="VH1", VH1
+#EXTINF:0 group-title="VH1", VH1 [COLOR red]OFF[/COLOR]
 http://92.50.181.6/tv/1281/index.m3u8
-#EXTINF:0 group-title="VH1", VH1 Classic
+#EXTINF:0 group-title="VH1", VH1 Classic [COLOR red]OFF[/COLOR]
 http://92.50.181.6/tv/1282/index.m3u8
-#EXTINF:0 group-title="VH1", VH1 Classic (2)
-http://bit.do/bkWDb
 
 #EXTINF:0, [COLOR red]--VIRGIN--[/COLOR]  
 http://
@@ -388,8 +388,6 @@ http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 http://
 #EXTINF:0 group-title="Asia", Muzzone
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-#EXTINF:0 group-title="Asia", Korean Music
-rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_cTMycjIyMWRncGNvazA3fDE0NDQ0MjAxODJ8ODIuMTU0LjQ0LjE4fDU2MTZjOGQ2NDk4NDN8Njc4NGU0Mzg5MWZiYjMzZGFhZTM3OGU2NjI2ZTBhZWRkYjU4NzkwNA.. app=edge/_definst_/?xs=_we_cTMycjIyMWRncGNvazA3fDE0NDQ0MjAxODJ8ODIuMTU0LjQ0LjE4fDU2MTZjOGQ2NDk4NDN8Njc4NGU0Mzg5MWZiYjMzZGFhZTM3OGU2NjI2ZTBhZWRkYjU4NzkwNA.. playpath=q32r221dgpcok07 swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf flashver=WIN\2018,0,0,232 live=1 timeout=15 token=D5fe7bf024907a8c135b8dc2f5fdf947 swfVfy=1 pageUrl=http://www.streamlive.to/embedplayer_new.php
 
 #EXTINF:-1, [COLOR red]--Russia--[/COLOR]  
 http://
@@ -401,28 +399,20 @@ rtmp://176.9.127.102/live/myStream_1
 plugin://program.plexus/?mode=1&url=acestream://d6520943d0e5a6cfa4bf17f109e60effbd389786&name=9Onda
 #EXTINF:0 group-title="Russia", Первый Интернет канал HD
 http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0 group-title="Russia", Первый Балтийский Musicльный
-http://embedcdnb.cloudy.services/play/135/chunklist_bw1800000.m3u8
 #EXTINF:0 group-title="Russia", лдПP TB
 rtmp://213.247.198.250:1935/live//ldpr.stream_720p
 #EXTINF:0 group-title="Russia", PIK TV
 rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
-#EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV
+#EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV [COLOR red]OFF[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", City TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:0 group-title="Russia", CT.FM
-rtmp://80.245.113.12/live/pubtalk1
 #EXTINF:0 group-title="Russia", CT.FM
 rtmp://80.245.113.12/live/pubtalk1
 #EXTINF:0 group-title="Russia", For Two HD 1080P
 http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
 #EXTINF:0 group-title="Russia", Курай
 http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
-#EXTINF:0 group-title="Russia", MUSICBOX RU
-http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
-#EXTINF:0 group-title="Russia", Муз
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MUZTV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", Муз ТВ
 http://188.128.118.189:4020
 #EXTINF:0 group-title="Russia", Nebiset
@@ -431,19 +421,13 @@ http://hls.nebiset.tv/nebiset.m3u8
 rtmp://78.140.209.20:1935/tv/ruestrada2
 #EXTINF:0 group-title="Russia", S TV
 http://iptv1.zargacum.net/iptv/ZQX7ZTT69P/105/index.m3u8
-#EXTINF:0 group-title="Russia", RUSONG TV
-http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/120/index.m3u8
 #EXTINF:0 group-title="Russia", Туган Тел
 rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
 #EXTINF:0 group-title="Russia", Zik
 http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
-#EXTINF:0 group-title="Russia", ???? TV
-http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
-#EXTINF:0 group-title="Russia", ?????? ????????? ??
+#EXTINF:0 group-title="Russia", [Alguem Russo que me ajude a escrever]
 rtmp://grey.ether.tv:1935/live/pfo/broadcast4
-#EXTINF:0 group-title=”Russia”, PIBHE 1
-rtmp://91.197.220.19:19351/live/ams
-#EXTINF:0 group-title=”Russia”,????????????-12 (????????????)
+#EXTINF:0 group-title=”Russia”, [Alguem Russo que me ajude a escrever]
 http://78.140.209.14/unost/festival/chunklist.m3u8
 
 #EXTINF:-1, [COLOR red]--Turkia--[/COLOR]  
