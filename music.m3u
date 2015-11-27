@@ -285,14 +285,12 @@ rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
 
 #EXTINF:-1, [COLOR green]--JuCeTV--[/COLOR]
 http://
-#EXTINF:0 group-title="JuCeTV", JuCeTV US
-http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
-#EXTINF:0 group-title="JuCeTV", JuCeTV TV 
+#EXTINF:0 group-title="JuCeTV", JuCeTV HD TV 
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV Россия
 http://zhegal.com.ua/tv/triolan?id=47
-#EXTINF:0 group-title="JuCeTV", JuCeTV HD Россия
-http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+#EXTINF:0 group-title="JuCeTV", JuCeTV US [COLOR red]OFF[/COLOR]
+http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
 
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
 http://
