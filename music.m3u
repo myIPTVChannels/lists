@@ -79,6 +79,8 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:0, MTV AM HD (Armenia)
 http://94.125.187.18/hlsam/hd/playlist.m3u8
+#EXTINF:0, MTV AM HD (Armenia) (2)
+http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:0 tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg", MULTISHOW
 http://bit.ly/IPTVGlobal-multshow
 #EXTINF:0 tvg-logo="Multishow.png" tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow (2)
@@ -109,6 +111,8 @@ http://iptv.klfree.cz:8016/
 http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
 #EXTINF:0, OH TV 
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0, Onda Latina
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, Penki TV
 rtmp://bb.5ci.lt/live/PenkiTV_VGA
 #EXTINF:0, PIK [COLOR red]OFF[/COLOR]
@@ -143,6 +147,8 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:0, Rock One
 mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0, Rouge TV HD
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 #EXTINF:0, RTL TV 102.5
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 #EXTINF:0, SI! TV (Latino)
