@@ -452,3 +452,5 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 http://bit.do/vizyonturk
 #EXTINF:0 group-title=”Turkia”, VİZYONTÜRK TV
 http://origin2.live.web.tv.streamprovider.net/streams/5527a42e382445c2f08ce46012bb1cf4/index.m3u8
+#EXTINF:0 group-title=”Turkia”, FINEST TV
+http://62.153.171.60:1466
