@@ -440,17 +440,19 @@ http://78.140.209.14/unost/festival/chunklist.m3u8
 
 #EXTINF:-1, [COLOR red]--Turkia--[/COLOR]  
 http://
+#EXTINF:0 group-title=”Turkia”, ARABESK MELODI TV
+http://31.186.24.233:8002/67
 #EXTINF:0 group-title=”Turkia”, dream TV TURK
 http://212.224.108.80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0 group-title=”Turkia”, FINEST TV
+http://62.153.171.60:1466
+#EXTINF:0 group-title=”Turkia”, MÜZIK ANKARA TV
+http://31.186.24.233:8002/66
 #EXTINF:0 group-title=”Turkia”, NR1 TURK
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
 #EXTINF:0 group-title=”Turkia”, Power Turk
 http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
 #EXTINF:0 group-title=”Turkia”, TRT MUZIK (Turk)
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0 group-title=”Turkia”, VIZYONTURK
-http://bit.do/vizyonturk
 #EXTINF:0 group-title=”Turkia”, VİZYONTÜRK TV
 http://origin2.live.web.tv.streamprovider.net/streams/5527a42e382445c2f08ce46012bb1cf4/index.m3u8
-#EXTINF:0 group-title=”Turkia”, FINEST TV
-http://62.153.171.60:1466
