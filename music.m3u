@@ -355,6 +355,8 @@ plugin://program.plexus/?mode=1&url=acestream://026fea149c67730230be601de17b75ef
 
 #EXTINF:-1, [COLOR green]--VEVO--[/COLOR]  
 http://
+#EXTINF:0 group-title="VEVO", VEVO Music FHD
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO 1 FHD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:0 group-title="VEVO", VEVO 1 FHD (2)
@@ -369,32 +371,30 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/01/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO 1 SD- (4)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 2 FHD
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV FHD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV FHD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 2 SD+
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 2 SD-
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/01/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO Music
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO Hip Hop TV HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD (2)
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD-
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/01/prog_index.m3u8
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD-
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO Flow RAP AND R&B NONSTOP
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 #EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 FHD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
 #EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 FHD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/01/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD+
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD-
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/01/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD-
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD- (2)
