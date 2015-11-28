@@ -212,8 +212,10 @@ http://
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 #EXTINF:0 group-title="Black Music", AFRO Music
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8
-#EXTINF:0 group-title="Black Music", A-One Россия
+#EXTINF:0 group-title="Black Music", A-One Россия HD
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Black Music", A-One Россия HD (2)
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", AKA Hip Hop
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 group-title="Black Music", Golspel TV 
