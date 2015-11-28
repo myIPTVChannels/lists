@@ -67,6 +67,8 @@ http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJ
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0, MCM TOP [COLOR red]OFF[/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2
 #EXTINF:0, MELODY CHANNEL TV
 rtmp://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0, MFM TV
