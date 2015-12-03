@@ -110,8 +110,10 @@ http://188.165.220.116:8081/live/62/playlist.m3u8
 
 #EXTINF:0, === [B][COLOR red]AceStream/Plexus[/COLOR][/B] ===
 http://
-#EXTINF:0, brazzers-tv-europe
+#EXTINF:0, brazzers-tv-europe Ace
 acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1
+#EXTINF:0, brazzers-tv-europe Plexus
+plugin://program.plexus/?mode=1&url=acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1&name=brazzers-tv-europe
 #EXTINF:0, candy
 acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff
 #EXTINF:0, candyman
