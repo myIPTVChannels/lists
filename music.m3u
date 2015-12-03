@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:0, AMAZING TV 
+#EXTINF:0, AMAZING TV HD
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -21,20 +21,24 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:0, Clubbing TV [COLOR red]OFF[/COLOR]
 http://46.249.213.87/iPhone/HLS_TS/broadcast/clubbingtv-tablet.3gp/clubbingtv-tablet.3gp-mr648k.m3u8?trackingid=3011270000&os=desktop
-#EXTINF:0, CLUBLAND 
+#EXTINF:0, CLUBLAND SD
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, CMC TV SD-
 rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3
-#EXTINF:0, Dance TV HD 720P
+#EXTINF:0, Dance TV HD
 http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
 #EXTINF:0, DELUXE MUSIC [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://fb3553b94340ac9fc821eb9e33bfbd440c9c9726&name=Deluxe
 #EXTINF:0, dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, dream TV HD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, ELECTROSOUND TV HD
 rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:0, EUROPA PLUS TV [COLOR red]OFF[/COLOR]
 rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
+#EXTINF:0, Film ON TV Clubbing HD
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:0, Fun 1 TV
 mms://portal.satplus.cz/TV_FUN1
 #EXTINF:0, For Music TV
@@ -43,7 +47,7 @@ http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:0, Go TV [COLOR red]OFF[/COLOR]
 http://stream1.gotv.at:1935/live/gotvlive_360p/chunklist.m3u8
-#EXTINF:0, Gold TV
+#EXTINF:0, Gold TV SD
 http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
 #EXTINF:0, HARD LIFE [COLOR red]OFF[/COLOR]
 http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
@@ -73,7 +77,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0, MCM TOP [COLOR red]OFF[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2
-#EXTINF:0, MELODY CHANNEL TV
+#EXTINF:0, MELODY CHANNEL TV HD
 rtmp://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0, MFM TV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
@@ -81,17 +85,11 @@ http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 http://188.93.94.46:80/mezzo/index.m3u8
 #EXTINF:0, Miami Music TV
 http://74.208.152.93/music/stream3/stream.m3u8
-#EXTINF:0, MIMUSICA HD
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0, MIMUSICA HD (2)
-http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0, MTV AM HD (Armenia)
+#EXTINF:0, MTV AM FHD (Armenia)
 http://94.125.187.18/hlsam/hd/playlist.m3u8
-#EXTINF:0, MTV AM HD (Armenia) (2)
+#EXTINF:0, MTV AM FHD (Armenia) (2)
 http://mtvam.ru/hlsam/playlist.m3u8
-#EXTINF:0 tvg-logo="http://logos.iptvglobal.com.br/Multishow.jpg", MULTISHOW
-http://bit.ly/IPTVGlobal-multshow
-#EXTINF:0 tvg-logo="Multishow.png" tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow (2)
+#EXTINF:0 tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow SD
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 #EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Russioan Musicbox
 http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
@@ -131,10 +129,6 @@ http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
 #EXTINF:0, Pop Beat TV SD
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/pop_beat_tv-tablet.3gp/pop_beat_tv-tablet.3gp-mr648k.m3u8
-#EXTINF:0, QUIERO MÚSICA (Latino)
-mms://streamqm.uigc.net/qmusica
-#EXTINF:0, QUIERO MÚSICA (Latino)(2)
-mms://200.42.92.6:1755/qmusica
 #EXTINF:0, RADIO 5 TV 
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Radio 105 TV
@@ -165,9 +159,7 @@ http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
 #EXTINF:0, RTL TV 102.5
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF:0, SI! TV (Latino)
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:0, Single TV
+#EXTINF:0, Single TV SD
 http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
 #EXTINF:0, Soy FM TV
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
@@ -175,24 +167,14 @@ http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0, Telemusica ES
-http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:0, Telemusica (2) ES
-http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
-#EXTINF:0, Televitrola ES
-http://186.155.200.118:1935/live/Televitrola/playlist.m3u8
-#EXTINF:0, tigo MUSIC (Latino)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:0, tigo MUSIC (Latino) (2)
-http://tinyurl.com/nmlwdq8
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
 #EXTINF:0, Tuba TV [COLOR red]OFF[/COLOR]
 rtmp://fms.gazeta.pl/aglive/tuba_tv
 #EXTINF:0, tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
-#EXTINF:0, TV Polanco Colombia [COLOR red]OFF[/COLOR]
-http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
+#EXTINF:0, TVM Channel HD
+http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:0, UMF TV
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 #EXTINF:0, UTV
@@ -242,7 +224,7 @@ http://
 http://cdn.djing.com/tv/05.m3u8
 #EXTINF:0 group-title="Djing", Djing HD
 http://www.djing.com/tv/h-05.m3u8
-#EXTINF:0 group-title="Djing", Djing Ibiza HD
+#EXTINF:0 group-title="Djing", Djing Ibiza HD-
 http://www.djing.com/tv/d-05.m3u8
 #EXTINF:0 group-title="Djing", Djind Underground
 http://www.djing.com/tv/underground.m3u8
@@ -254,9 +236,9 @@ http://www.djing.com/tv/a-05.m3u8
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 #EXTINF:0 group-title="Djing", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
-#EXTINF:0 group-title="Djing", Djind HOT HOT HOT HD
+#EXTINF:0 group-title="Djing", Djind HOT HOT HOT HD-
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:0 group-title="Djing", Djind Dancefloor 
+#EXTINF:0 group-title="Djing", Djind Dancefloor SD
 http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:0, [COLOR yellow]--Egypt--[/COLOR]
@@ -272,7 +254,7 @@ http://178.33.88.130:888/udp/239.102.0.189:1234
 
 #EXTINF:0, [COLOR yellow]--ESKA--[/COLOR]
 http://
-#EXTINF:0 group-title="ESKA", Eska TV
+#EXTINF:0 group-title="ESKA", Eska TV SD
 http://stream.smcloud.net/live/eskatv/aylist.m3u8
 #EXTINF:0 group-title="ESKA", Eska Best Music HD
 rtmp://stream.smcloud.net:1935/live2/best/best_720p
@@ -282,26 +264,34 @@ rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
 #EXTINF:0 group-title="ESKA", Eska Best Music [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://42dedd20c5b9e4239c895bf9bd272a9d025dd7f6&name=EskaBestMusic
+#EXTINF:0 group-title="ESKA", Eska Best Music SD
+rtmp://stream.smcloud.net/live2/best/best_360p
 #EXTINF:0 group-title="ESKA", Eska Rock TV HD
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
-#EXTINF:0 group-title="ESKA", Eska Rock TV
+#EXTINF:0 group-title="ESKA", Eska Rock TV HD (2)
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:0 group-title="ESKA", Eska Rock TV (2)
+#EXTINF:0 group-title="ESKA", Eska Rock TV (3)
 rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
+#EXTINF:0 group-title="ESKA", Eska Rock TV SD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
 #EXTINF:0 group-title="ESKA", Eska Party HD
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:0 group-title="ESKA", Eska Party [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://e0e441ee6858a6db9c5a02033015c483ea41f731&name=EskaBestMusic
+#EXTINF:0 group-title="ESKA", Eska Party SD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
 #EXTINF:0 group-title="ESKA", Eska Wawa
 rtmp://stream.smcloud.net/live2/wawa/wawa_360p
 #EXTINF:0 group-title="ESKA", Eska Wawa HD
 rtmp://stream.smcloud.net/live2/wawa/wawa_720p
-#EXTINF:0 group-title="ESKA" tvg-logo="http://i.imgur.com/MiNwILg.png", Eska VOX TV 
+#EXTINF:0 group-title="ESKA" tvg-logo="http://i.imgur.com/MiNwILg.png", Eska VOX TV HD
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:0 group-title="ESKA", Eska VOX HD
 http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
 #EXTINF:0 group-title="ESKA", Eska VOX [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://f17437a6c27f0ec3ee6788037798f5ac0554f398&name=EskaBestMusic
+#EXTINF:0 group-title="ESKA", Eska VOX SD
+rtmp://stream.smcloud.net/live2/vox/vox_360p
 #EXTINF:0 group-title="ESKA", Eska POLO 
 rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0 group-title="ESKA", Eska POLO Party HD
@@ -317,6 +307,35 @@ http://zhegal.com.ua/tv/triolan?id=47
 http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV US
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+
+#EXTINF:-1, [COLOR brown]--Latino--[/COLOR]
+http://
+#EXTINF:0 group-title="Latino", Mi Gente TV SD-
+http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u
+#EXTINF:0 group-title="Latino", MIMUSICA HD
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 group-title="Latino", MIMUSICA HD (2)
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 group-title="Latino", QUIERO MÚSICA SD-
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0 group-title="Latino", QUIERO MÚSICA (2)
+mms://200.42.92.6:1755/qmusica
+#EXTINF:0 group-title="Latino", SI! TV HD (Latino)
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:0 group-title="Latino", Telemusica HD
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:0 group-title="Latino", Televitrola HD
+http://186.155.200.118:1935/live/Televitrola/playlist.m3u8
+#EXTINF:0 group-title="Latino", Televitrola HD (2)
+rtmp://186.155.200.118:1935/live/Televitrola
+#EXTINF:0 group-title="Latino", TV Polanco Colombia
+rtmp://186.155.200.118:1935/live/ColombiasuMusica
+#EXTINF:0 group-title="Latino", tigo MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0 group-title="Latino", tigo MUSIC (2)
+http://tinyurl.com/nmlwdq8
+#EXTINF:0 group-title="Latino", Vivra SD-
+http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8
 
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
 http://
@@ -461,8 +480,6 @@ plugin://program.plexus/?mode=1&url=acestream://d6520943d0e5a6cfa4bf17f109e60eff
 http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0 group-title="Russia", лдПP TB
 rtmp://213.247.198.250:1935/live//ldpr.stream_720p
-#EXTINF:0 group-title="Russia", PIK TV
-rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
 #EXTINF:0 group-title="Russia" audio-track="eng", Bridge TV [COLOR red]OFF[/COLOR]
 http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
 #EXTINF:0 group-title="Russia", City TV
@@ -473,16 +490,22 @@ rtmp://80.245.113.12/live/pubtalk1
 http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
 #EXTINF:0 group-title="Russia", Курай
 http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
+#EXTINF:0 group-title="Russia", Music Box UA
+rtmp://212.26.132.86/live/mb_ua
 #EXTINF:0 group-title="Russia", Муз ТВ
 http://188.128.118.189:4020
 #EXTINF:0 group-title="Russia", Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0 group-title="Russia", PIK TV HD
+rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
 #EXTINF:0 group-title="Russia", Русская Эстрада
 rtmp://78.140.209.20:1935/tv/ruestrada2
 #EXTINF:0 group-title="Russia", S TV
 http://iptv1.zargacum.net/iptv/ZQX7ZTT69P/105/index.m3u8
 #EXTINF:0 group-title="Russia", Туган Тел
 rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
+#EXTINF:0 group-title="Russia", Yumor TV HD
+http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Russia", Zik
 http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
 #EXTINF:0 group-title="Russia", [Alguem Russo que me ajude a escrever]
@@ -496,29 +519,25 @@ http://
 http://31.186.24.233:8002/67
 #EXTINF:0 group-title=”Turkia”, dream TV TÜRK HD
 http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:0 group-title=”Turkia”, dream TV TÜRK SD
-http://212.224.108.80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:0 group-title=”Turkia”, dream TV TÜRK (2)
-http://origin.live.web.tv.streamprovider.net/streams/f9051a29d5def26626ff1fba0fa12872_live_0_0/index.m3u8
-#EXTINF:0 group-title=”Turkia”, dream TV HD
+#EXTINF:0 group-title=”Turkia”, dream TV TÜRK HD (2)
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0 group-title=”Turkia”, dream TV TÜRK SD
+http://origin.live.web.tv.streamprovider.net/streams/f9051a29d5def26626ff1fba0fa12872_live_0_0/index.m3u8
 #EXTINF:0 group-title=”Turkia”, dream TV SD
 http://origin.live.web.tv.streamprovider.net/streams/287b096e02ad5f19c0e92d4f39c33213_live_0_0/index.m3u8
-#EXTINF:0 group-title=”Turkia”, FINEST TV
+#EXTINF:0 group-title=”Turkia”, FINEST TV SD
 http://62.153.171.60:1466
-#EXTINF:0 group-title=”Turkia”, MÜZIK ANKARA TV
+#EXTINF:0 group-title=”Turkia”, MÜZIK ANKARA TV SD
 http://31.186.24.233:8002/66
 #EXTINF:0 group-title=”Turkia”, NR1 TURK SD
 http://origin.live.web.tv.streamprovider.net/streams/28093c3307f7e9afe35a7e35899953dc_live_0_0/index.m3u8
 #EXTINF:0 group-title=”Turkia”, NR1 TURK SD-
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
-#EXTINF:0 group-title=”Turkia”, Power Turk
+#EXTINF:0 group-title=”Turkia”, Power Turk HD
 http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
-#EXTINF:0 group-title=”Turkia”, Power Turk SD (2)
-http://origin.live.web.tv.streamprovider.net/streams/d9d36ec8292fc3eacb4f93ee659918c8_live_0_0/index.m3u8
 #EXTINF:0 group-title=”Turkia”, TEK Damar TV SD
 http://origin.live.web.tv.streamprovider.net/streams/241d91d49c3557f57d5f9a735ea461da_live_0_0/index.m3u8
-#EXTINF:0 group-title=”Turkia”, TRT MUZIK (Turk)
+#EXTINF:0 group-title=”Turkia”, TRT MUZIK (Turk) HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0 group-title=”Turkia”, VİZYONTÜRK TV
+#EXTINF:0 group-title=”Turkia”, VİZYONTÜRK TV SD
 http://origin2.live.web.tv.streamprovider.net/streams/5527a42e382445c2f08ce46012bb1cf4/index.m3u8
