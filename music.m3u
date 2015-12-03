@@ -7,7 +7,7 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, B4U MUSIC UK [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://397f52be3d31ad84658ae3488ce8646d66d04c43&name=B4UMusic
-#EXTINF:0, BIG POND MUSIC 
+#EXTINF:0, BIG POND MUSIC SD
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0, BIM TV
 rtmp://188.254.62.124:11935/live/video2
@@ -15,7 +15,7 @@ rtmp://188.254.62.124:11935/live/video2
 http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/122/index.m3u8
 #EXTINF:0, CANTINAZO TV (Latino)
 http://tinyurl.com/pz9hfsy
-#EXTINF:0, CAPITAL TV 
+#EXTINF:0, CAPITAL TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, CineStreamTV HD / Nation 720P
 http://68.71.42.179/live/livestream1/playlist.m3u8
@@ -23,13 +23,15 @@ http://68.71.42.179/live/livestream1/playlist.m3u8
 http://46.249.213.87/iPhone/HLS_TS/broadcast/clubbingtv-tablet.3gp/clubbingtv-tablet.3gp-mr648k.m3u8?trackingid=3011270000&os=desktop
 #EXTINF:0, CLUBLAND 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0, CMC TV SD-
+rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3
 #EXTINF:0, Dance TV HD 720P
 http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
 #EXTINF:0, DELUXE MUSIC [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://fb3553b94340ac9fc821eb9e33bfbd440c9c9726&name=Deluxe
 #EXTINF:0, dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0, ELECTROSOUND TV
+#EXTINF:0, ELECTROSOUND TV HD
 rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:0, EUROPA PLUS TV [COLOR red]OFF[/COLOR]
 rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
@@ -49,7 +51,7 @@ http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
 rtmp://70.166.98.130:1935/hmtv/myStream
 #EXTINF:0, HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, HEART TV (2)
+#EXTINF:0, HEART TV HD (2)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0, IBIZA ON TV [COLOR red]OFF[/COLOR]
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
@@ -61,11 +63,13 @@ http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
 rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim
 #EXTINF:0, KiSS TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:0, KiSS TV SD (2)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:0, M1
 http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
 #EXTINF:0, M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, M6 MUSIC
+#EXTINF:0, M6 MUSIC SD
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0, MCM TOP [COLOR red]OFF[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2
@@ -125,6 +129,8 @@ http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
 #EXTINF:0, PMC IRAN
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
+#EXTINF:0, Pop Beat TV SD
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/pop_beat_tv-tablet.3gp/pop_beat_tv-tablet.3gp-mr648k.m3u8
 #EXTINF:0, QUIERO MÚSICA (Latino)
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0, QUIERO MÚSICA (Latino)(2)
@@ -133,11 +139,11 @@ mms://200.42.92.6:1755/qmusica
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Radio 105 TV
 http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
-#EXTINF:0, RADIO 105 TV (2)
+#EXTINF:0, RADIO 105 TV HD (2)
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Radio Musichie Luna TV Partenopeo
 mmsh://83.216.165.134/rltv?MSWMExt=.asf
-#EXTINF:0, RADIO MONTE CARLO TV  
+#EXTINF:0, RADIO MONTE CARLO TV HD
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:0, RADIO MONTE CARLO TV (2)
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
@@ -151,10 +157,12 @@ http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:0, Retro TV
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
-#EXTINF:0, Rock One
+#EXTINF:0, Rock One HD
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:0, Rouge TV HD
+#EXTINF:0, Rouge TV SD
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:0, Rouge TV SD (2)
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
 #EXTINF:0, RTL TV 102.5
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 #EXTINF:0, SI! TV (Latino)
@@ -195,7 +203,7 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchanne
 http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 #EXTINF:0, VM Music [COLOR red]OFF[/COLOR]
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
-#EXTINF:0, W9
+#EXTINF:0, W9 SD
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
 #EXTINF:0, XITE TV
 rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
@@ -307,8 +315,8 @@ http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 http://zhegal.com.ua/tv/triolan?id=47
 #EXTINF:0 group-title="JuCeTV", JuCeTV TV Россия
 http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
-#EXTINF:0 group-title="JuCeTV", JuCeTV US [COLOR red]OFF[/COLOR]
-http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="JuCeTV", JuCeTV US
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 
 #EXTINF:-1, [COLOR grey]--MTV--[/COLOR]
 http://
@@ -351,6 +359,14 @@ rtmp://smit1237.asuscomm.com/hls/live_1080p
 http://rtmp.one.by:2200
 #EXTINF:0 group-title="ONE", ONE Россия HD
 http://rtmp.one.by:2300
+#EXTINF:0 group-title="ONE", ONE Classic HD
+rtmp://91.201.78.3:1935/live/classicshd
+#EXTINF:0 group-title="ONE", ONE Pop HD
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:0 group-title="ONE", ONE Rock HD
+rtmp://91.201.78.3:1935/live/rockhd
+#EXTINF:0 group-title="ONE", ONE Dance HD
+rtmp://91.201.78.3:1935/live/dancehd
 
 #EXTINF:-1, [COLOR pink]--VIVA--[/COLOR]  
 http://
@@ -413,7 +429,7 @@ http://92.50.181.6/tv/1282/index.m3u8
 
 #EXTINF:0, [COLOR red]--VIRGIN--[/COLOR]  
 http://
-#EXTINF:0 group-title="Virgin", Virgin TV
+#EXTINF:0 group-title="Virgin", Virgin TV SD
 rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:0 group-title="Virgin", Virgin TV Radio
 http://fms.105.net:1935/live/virgin1/playlist.m3u8
