@@ -117,11 +117,9 @@ http://iptv.klfree.cz:8016/
 http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
 #EXTINF:0, OH TV 
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, Onda Latina
-http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, Penki TV
 rtmp://bb.5ci.lt/live/PenkiTV_VGA
-#EXTINF:0, PIK [COLOR red]OFF[/COLOR]
+#EXTINF:0, PIK
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0, Pink Music [COLOR red]OFF[/COLOR]
 http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
@@ -161,8 +159,6 @@ http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 #EXTINF:0, Single TV SD
 http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
-#EXTINF:0, Soy FM TV
-http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
 #EXTINF:0, Spirit TV HD
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 #EXTINF:0, Super Sonic TV
@@ -316,12 +312,16 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:0 group-title="Latino", MIMUSICA HD (2)
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 group-title="Latino", Onda Latina SD
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="Latino", QUIERO MÚSICA SD-
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0 group-title="Latino", QUIERO MÚSICA (2)
 mms://200.42.92.6:1755/qmusica
 #EXTINF:0 group-title="Latino", SI! TV HD (Latino)
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:0 group-title="Latino", Soy FM TV HD
+http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
 #EXTINF:0 group-title="Latino", Telemusica HD
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 #EXTINF:0 group-title="Latino", Televitrola HD
