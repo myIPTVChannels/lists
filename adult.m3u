@@ -110,28 +110,26 @@ http://188.165.220.116:8081/live/62/playlist.m3u8
 
 #EXTINF:0, === [B][COLOR red]AceStream/Plexus[/COLOR][/B] ===
 http://
-#EXTINF:0, brazzers-tv-europe Ace
-acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1
 #EXTINF:0, brazzers-tv-europe Plexus
 plugin://program.plexus/?mode=1&url=acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1&name=brazzers-tv-europe
 #EXTINF:0, candy
-acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff
+plugin://program.plexus/?mode=1&url=acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff&name=candy
 #EXTINF:0, candyman
-acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8
+plugin://program.plexus/?mode=1&url=acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8&name=candyman
 #EXTINF:0, centoxcento-tv
-acestream://c12fb25dd0389272b6632778584dad2698f4b3ea
+plugin://program.plexus/?mode=1&url=acestream://c12fb25dd0389272b6632778584dad2698f4b3ea&name=centoxcento-tv
 #EXTINF:0, eroxxx-hd
-acestream://b9511ea6be2739814eb9ac95db82572767b0f367
+plugin://program.plexus/?mode=1&url=acestream://b9511ea6be2739814eb9ac95db82572767b0f367&name=eroxxx-hd
 #EXTINF:0, exotica-tv
-acestream://822fed2c7a6acd2e05ceefab0c2afed00f64e5fa
+plugin://program.plexus/?mode=1&url=acestream://822fed2c7a6acd2e05ceefab0c2afed00f64e5fa&name=exotica-tv
 #EXTINF:0, hustler-hd
-acestream://2d8915e2357b581712152ee0c3f4ca2a3112942f
+plugin://program.plexus/?mode=1&url=acestream://2d8915e2357b581712152ee0c3f4ca2a3112942f&name=hustler-hd
 #EXTINF:0, hustler-tv
-acestream://5ab50fbb36c6e04eac57b36e930ea9d126e4dc36
+plugin://program.plexus/?mode=1&url=acestream://5ab50fbb36c6e04eac57b36e930ea9d126e4dc36&name=hustler-tv
 #EXTINF:0, nuart-tv
-acestream://662c6ad696aa6567e24a9b14fd9e9526720ae243
+plugin://program.plexus/?mode=1&url=acestream://662c6ad696aa6567e24a9b14fd9e9526720ae243&name=nuart-tv
 #EXTINF:0, o-la-la
-acestream://edc6f1a8b654b648715e640a731c3e0596f486d1
+plugin://program.plexus/?mode=1&url=acestream://edc6f1a8b654b648715e640a731c3e0596f486d1
 #EXTINF:0, pink-o-tv
 acestream://765e2401b0aa154545f4b55cc32860b523f7f96b
 #EXTINF:0, playboy-tv
