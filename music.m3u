@@ -55,7 +55,7 @@ rtmp://70.166.98.130:1935/hmtv/myStream
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, HEART TV HD (2)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0, IBIZA ON TV [COLOR red]OFF[/COLOR]
+#EXTINF:0, IBIZA ON TV
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
