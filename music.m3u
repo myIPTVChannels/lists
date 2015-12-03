@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:0, Albmusic HD (Albania)
+rtmp://188.138.17.8:1935/albuk/albmus.stream
 #EXTINF:0, AMAZING TV HD
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
@@ -27,6 +29,8 @@ rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CM
 http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
 #EXTINF:0, DELUXE MUSIC [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://fb3553b94340ac9fc821eb9e33bfbd440c9c9726&name=Deluxe
+#EXTINF:0, DEEN TV MUSIC SD
+http://iphone-streaming.ustream.tv/ustreamVideo/15274797/streams/live/playlist.m3u8
 #EXTINF:0, dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, dream TV HD
@@ -47,6 +51,8 @@ http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 http://stream1.gotv.at:1935/live/gotvlive_360p/chunklist.m3u8
 #EXTINF:0, Gold TV SD
 http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:0, Greek Music Hits SD-
+mmsh://wpso.com:200/music
 #EXTINF:0, HARD LIFE [COLOR red]OFF[/COLOR]
 http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
 #EXTINF:0, HEAVY METAL TV
@@ -394,6 +400,8 @@ rtmp://91.201.78.3:1935/live/pophd
 rtmp://91.201.78.3:1935/live/rockhd
 #EXTINF:0 group-title="ONE", ONE Dance HD
 rtmp://91.201.78.3:1935/live/dancehd
+#EXTINF:0 group-title="ONE", ONE Jazz HD
+rtmp://91.201.78.3:1935/live/jazzhd
 
 #EXTINF:-1, [COLOR pink]--VIVA--[/COLOR]  
 http://
