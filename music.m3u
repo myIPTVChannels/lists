@@ -13,8 +13,6 @@ mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 rtmp://188.254.62.124:11935/live/video2
 #EXTINF:0, Bridge TV [COLOR red]OFF[/COLOR]
 http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/122/index.m3u8
-#EXTINF:0, CANTINAZO TV (Latino)
-http://tinyurl.com/pz9hfsy
 #EXTINF:0, CAPITAL TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, CineStreamTV HD / Nation 720P
@@ -68,7 +66,7 @@ rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim
 #EXTINF:0, KiSS TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:0, KiSS TV SD (2)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:0, M1
 http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
 #EXTINF:0, M2O Music
@@ -163,6 +161,8 @@ http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:0 , TELEHIT SD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
 #EXTINF:0, Tuba TV [COLOR red]OFF[/COLOR]
@@ -306,6 +306,8 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 
 #EXTINF:-1, [COLOR brown]--Latino--[/COLOR]
 http://
+#EXTINF:0 group-title="Latino", CANTINAZO TV SD
+http://tinyurl.com/pz9hfsy
 #EXTINF:0 group-title="Latino", Mi Gente TV SD-
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u
 #EXTINF:0 group-title="Latino", MIMUSICA HD
@@ -318,6 +320,8 @@ http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/index_600_av-p.m3u8?
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0 group-title="Latino", QUIERO MÚSICA (2)
 mms://200.42.92.6:1755/qmusica
+#EXTINF:0 group-title="Latino", RITMOSON
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="Latino", SI! TV HD (Latino)
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:0 group-title="Latino", Soy FM TV HD
@@ -341,8 +345,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m
 http://
 #EXTINF:0 group-title="MTV", MTV [COLOR red]OFF[/COLOR]
 http://stream-full.selfip.com:8000/live/jack/jack/165.ts
-#EXTINF:0 group-title="MTV", MTV Latina
+#EXTINF:0 group-title="MTV", MTV Latina SD
 http://latinochannels.2fh.co/canales/hls/mtv.m3u8
+#EXTINF:0 group-title="MTV", MTV Latina SD (2)
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0, MTV HD Italia [COLOR red]OFF[/COLOR]
 http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/162.m3u8
 #EXTINF:0 group-title="MTV", MTV Azerbaijan
@@ -353,10 +359,12 @@ http://stream-full.selfip.com:8000/live/jack/jack/168.ts
 http://stream-full.selfip.com:8000/live/jack/jack/169.ts
 #EXTINF:0 group-title="MTV", MTV Dance [COLOR red]OFF[/COLOR]
 http://92.50.181.6/tv/1280/index.m3u8
-#EXTINF:0 group-title="MTV", MTV LIVE HD [COLOR red]OFF[/COLOR]
-http://78.30.254.27:8989/udp/239.0.0.196:4000
-#EXTINF:0 group-title="MTV", MTV HITS
+#EXTINF:0 group-title="MTV", MTV LIVE HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:0 group-title="MTV", MTV HITS SD
 http://latinochannels.2fh.co/canales/hls/mtv-hits.m3u8
+#EXTINF:0 group-title="MTV", MTV HITS SD (2)
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="MTV", MTV Russia [COLOR red]OFF[/COLOR]
 http://j.mp/ZCH_C03_MTV_sly
 #EXTINF:0 group-title="MTV", MTV Vietnam [COLOR red]OFF[/COLOR]
@@ -441,10 +449,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
 
 #EXTINF:0, [COLOR red]--VH1--[/COLOR]  
 http://
-#EXTINF:0 group-title="VH1", VH1 [COLOR red]OFF[/COLOR]
-http://92.50.181.6/tv/1281/index.m3u8
-#EXTINF:0 group-title="VH1", VH1 Classic [COLOR red]OFF[/COLOR]
-http://92.50.181.6/tv/1282/index.m3u8
+#EXTINF:0 group-title="VH1", VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:0 group-title="VH1", VH1 Classic
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
 
 #EXTINF:0, [COLOR red]--VIRGIN--[/COLOR]  
 http://
@@ -490,6 +498,8 @@ rtmp://80.245.113.12/live/pubtalk1
 http://78.140.209.20:1935/tv/42tv1/playlist.m3u8
 #EXTINF:0 group-title="Russia", Курай
 http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
+#EXTINF:0 group-title="Russia", Music Box HD
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Russia", Music Box UA
 rtmp://212.26.132.86/live/mb_ua
 #EXTINF:0 group-title="Russia", Муз ТВ
