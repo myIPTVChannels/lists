@@ -99,8 +99,8 @@ http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
 #EXTINF:0, Music Box TV
 http://u.to/jaacAg
-#EXTINF:0, Music Box TV (2) [COLOR red]OFF[/COLOR]
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
+#EXTINF:0, Music BOX France (80s) SD
+http://teleclub.fr/musicbox.mp4
 #EXTINF:0, Musica Israel
 http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
 #EXTINF:0, Now Music [COLOR red]OFF[/COLOR]
