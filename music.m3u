@@ -160,7 +160,7 @@ rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
 #EXTINF:0, XITE TV Party
 http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8
 
-#EXTINF:-1,[COLOR grey]--MTV--[/COLOR]
+#EXTINF:-1,[B][COLOR white]--MTV--[/COLOR]
 http://
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD
 http://latinochannels.2fh.co/canales/hls/mtv.m3u8
@@ -171,19 +171,19 @@ http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxvsvt1433326477.png" group-title="MTV", MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vpxwty1438373956.png" group-title="MTV", MTV Dance [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://653aaf9336ec42d01c627403c155237900eb44c1
+plugin://program.plexus/?mode=1&url=acestream://653aaf9336ec42d01c627403c155237900eb44c1&name=MTVDance
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits
 http://latinochannels.2fh.co/canales/hls/mtv-hits.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits (2)
 http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://6916f9905f5a9c540b7c36af6e9cd46d134d049b
+plugin://program.plexus/?mode=1&url=acestream://6916f9905f5a9c540b7c36af6e9cd46d134d049b&name=MTVHits
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks
 http://78.30.254.27:8989/udp/239.0.0.143:4000
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://a697fec937131e2f25ac3b73f4b7afec7ddf18b2
+plugin://program.plexus/?mode=1&url=acestream://a697fec937131e2f25ac3b73f4b7afec7ddf18b2&name=MTVRocks
 
-#EXTINF:0, [COLOR red]--VH1--[/COLOR]  
+#EXTINF:0,[B][COLOR purple]--VH1--[/COLOR]  
 http://
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?supertvlat=%2F.ts
@@ -194,7 +194,7 @@ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png" group-title="VH1", VH1 Classic [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://5b087e1ce8f69a2daf38237518dc4cec44c48f61&name=VH1Classic
 
-#EXTINF:-1, [COLOR green]--VEVO--[/COLOR]  
+#EXTINF:0,[B][COLOR red]--VEVO--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="VEVO", VEVO Music FHD
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
@@ -204,13 +204,13 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO 1 HD (3)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 1 SD+ (1)
+#EXTINF:0 group-title="VEVO", VEVO 1 FSD (1)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 1 SD- (2)
+#EXTINF:0 group-title="VEVO", VEVO 1 SD (2)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/01/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 1 SD- (3)
+#EXTINF:0 group-title="VEVO", VEVO 1 SD (3)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO 1 SD- (4)
+#EXTINF:0 group-title="VEVO", VEVO 1 SD (4)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO Hip Hop TV FHD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
@@ -218,30 +218,30 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO Hip Hop TV HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD+
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV FSD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
 #EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD-
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/01/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD-
+#EXTINF:0 group-title="VEVO", VEVO Hip Hop TV SD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 FHD
+#EXTINF:0 group-title="VEVO", VEVO Nashville - The Best Country 24/7 FHD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 FHD
+#EXTINF:0 group-title="VEVO", VEVO Nashville - The Best Country 24/7 FHD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 HD
+#EXTINF:0 group-title="VEVO", VEVO Nashville - The Best Country 24/7 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD+
+#EXTINF:0 group-title="VEVO", VEVO Nashville - The Best Country 24/7 FSD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD-
+#EXTINF:0 group-title="VEVO", VEVO Nashville - The Best Country 24/7 SD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/01/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD-
+#EXTINF:0 group-title="VEVO", VEVO Nashville - The Best Country 24/7 SD (1)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
-#EXTINF:0 group-title="VEVO", VEVO NASHVILLE The BEST COUNTRY 24/7 SD- (2)
+#EXTINF:0 group-title="VEVO", VEVO Nashville - The Best Country 24/7 SD (2)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
 
-#EXTINF:0, [COLOR yellow]--Black Music--[/COLOR]  
+#EXTINF:0,[B][COLOR yellow]--Black Music--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Black Music", AFRO Music
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8
@@ -256,8 +256,7 @@ rtmp://188.165.135.22/gospeltv/livestream
 #EXTINF:0 group-title="Black Music", SKY GOSPEL WEB TV
 http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
 
-
-#EXTINF:-1, [COLOR blue]--Djing--[/COLOR]  
+#EXTINF:0,[B][COLOR blue]--Djing--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Djing", Djing  
 http://cdn.djing.com/tv/05.m3u8
@@ -280,7 +279,7 @@ http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:0 group-title="Djing", Djind Dancefloor SD
 http://www.djing.com/tv/dancefloor.m3u8
 
-#EXTINF:0, [COLOR yellow]--ESKA--[/COLOR]
+#EXTINF:0,[B][COLOR yellow]--ESKA--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="ESKA", Eska TV SD
 http://stream.smcloud.net/live/eskatv/aylist.m3u8
@@ -325,7 +324,7 @@ rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0 group-title="ESKA", Eska POLO Party HD
 rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
 
-#EXTINF:-1, [COLOR green]--JuCeTV--[/COLOR]
+#EXTINF:-1,[B][COLOR green]--JuCeTV--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="JuCeTV", JuCeTV HD TV 
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
@@ -336,7 +335,7 @@ http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV US
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 
-#EXTINF:-1, [COLOR brown]--Latino--[/COLOR]
+#EXTINF:-1,[B][COLOR orange]--Latino--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Latino", CANTINAZO TV SD
 http://tinyurl.com/pz9hfsy
@@ -373,7 +372,7 @@ http://tinyurl.com/nmlwdq8
 #EXTINF:0 group-title="Latino", Vivra SD-
 http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8
 
-#EXTINF:-1, [COLOR yellow]--ONE--[/COLOR]  
+#EXTINF:-1,[B][COLOR blue]--ONE--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="ONE", ONE 1 HD
 http://rtmp.one.by:1300
@@ -398,12 +397,12 @@ rtmp://91.201.78.3:1935/live/dancehd
 #EXTINF:0 group-title="ONE", ONE Jazz HD
 rtmp://91.201.78.3:1935/live/jazzhd
 
-#EXTINF:-1, [COLOR pink]--VIVA--[/COLOR]  
+#EXTINF:-1,[B][COLOR brown]--VIVA--[/COLOR][/B] 
 http://
 #EXTINF:0 group-title="VIVA", VIVA DE [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://026fea149c67730230be601de17b75ef7b7df5a4
+plugin://program.plexus/?mode=1&url=acestream://026fea149c67730230be601de17b75ef7b7df5a4&name=VIVA
 
-#EXTINF:0, [COLOR red]--VIRGIN--[/COLOR]  
+#EXTINF:0,[B][COLOR pink]--VIRGIN--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Virgin", Virgin TV SD
 rtmp://fms.105.net:1935/live/virgin2
@@ -420,12 +419,12 @@ http://fms.105.net:1935/live/virgin1/livestream.m3u8
 #EXTINF:0 group-title="Virgin", Virgin TV Radio (6)
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
-#EXTINF:-1, [COLOR brown]--Asia--[/COLOR]  
+#EXTINF:-1,[B][COLOR yellow]--Asia--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Asia", Muzzone
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 
-#EXTINF:-1, [COLOR red]--Russia--[/COLOR]  
+#EXTINF:-1,[B][COLOR white]--Russia--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Russia", 1HD Music Television (Первый HDльный HD)
 http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
@@ -470,7 +469,7 @@ rtmp://grey.ether.tv:1935/live/pfo/broadcast4
 #EXTINF:0 group-title=”Russia”, [Alguem Russo que me ajude a escrever]
 http://78.140.209.14/unost/festival/chunklist.m3u8
 
-#EXTINF:-1, [COLOR red]--Turkia--[/COLOR]  
+#EXTINF:-1,[B][COLOR red]--Turkia--[/COLOR][/B]
 http://
 #EXTINF:0 group-title=”Turkia”, ARABESK MELODI TV
 http://31.186.24.233:8002/67
