@@ -24,10 +24,10 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_hig
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttyuuw1433944209.png",BBC World News [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://c1c4681c5393be38b3db40cead8c32f4b50d1a1b&name=BBCWorldNews
+plugin://program.plexus/?mode=1&url=acestream://44b0aa8c73ca0c6f3a2937ead9021b8ae121847a&name=BBCWorldNews
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uyswus1433941237.png",CNN [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://d5987a74c3b12a3a4776c2c5bf234ae1cdf7b260&name=CNN
+plugin://program.plexus/?mode=1&url=acestream://352252a8214bfc91c4160c6ea2bc8c0a7c89a084&name=CNN
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png",Bloomberg
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
