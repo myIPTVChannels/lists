@@ -160,7 +160,7 @@ rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
 #EXTINF:0, XITE TV Party
 http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8
 
-#EXTINF:-1,[B][COLOR white]--MTV--[/COLOR]
+#EXTINF:-1,[B][COLOR white]--MTV--[/COLOR][/B]
 http://
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD
 http://latinochannels.2fh.co/canales/hls/mtv.m3u8
@@ -170,29 +170,19 @@ http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?supertvlat=%2F.ts
 http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxvsvt1433326477.png" group-title="MTV", MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vpxwty1438373956.png" group-title="MTV", MTV Dance [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://653aaf9336ec42d01c627403c155237900eb44c1&name=MTVDance
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits
 http://latinochannels.2fh.co/canales/hls/mtv-hits.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits (2)
 http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://6916f9905f5a9c540b7c36af6e9cd46d134d049b&name=MTVHits
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks
 http://78.30.254.27:8989/udp/239.0.0.143:4000
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://a697fec937131e2f25ac3b73f4b7afec7ddf18b2&name=MTVRocks
 
-#EXTINF:0,[B][COLOR purple]--VH1--[/COLOR]  
+#EXTINF:0,[B][COLOR purple]--VH1--[/COLOR][/B]
 http://
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://328c1ca2469f9af14432fbd5bdf89ad276c7d6b2&name=VH1
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png" group-title="VH1", VH1 Classic
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png" group-title="VH1", VH1 Classic [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://5b087e1ce8f69a2daf38237518dc4cec44c48f61&name=VH1Classic
 
 #EXTINF:0,[B][COLOR red]--VEVO--[/COLOR][/B]
 http://
