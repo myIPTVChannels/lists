@@ -5,6 +5,9 @@ O projecto é aberto à participação de todos.
 
 Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>.
 
+Plugin Surikata TV by Discave
+Com base neste projecto, o Discave 
+
 ##URLs myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
 
