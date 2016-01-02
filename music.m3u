@@ -137,9 +137,11 @@ http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovis
 http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
 #EXTINF:0, Spirit TV HD
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
+#EXTINF:0, sporttime.tv sports music FSD
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0 , TELEHIT SD
+#EXTINF:0, TELEHIT SD
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
@@ -235,6 +237,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
 http://
 #EXTINF:0 group-title="Black Music", AFRO Music
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8
+#EXTINF:0 group-title="Black Music", Africa tv Musica HD
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия HD
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия HD (2)
