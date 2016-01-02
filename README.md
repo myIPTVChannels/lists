@@ -6,7 +6,7 @@ O projecto é aberto à participação de todos.
 Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>.
 
 ##Plugin surikata TV
-Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqui presentes já configuradas. Agora basta descarregar e instalar o ficheiro discave.repo.zip disponível em <b>http://kodi.discavehb.com</b> para adicionar o addon <b>surikata TV</b>.
+Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqui presentes já configuradas. Agora basta descarregar e instalar o ficheiro discave.repo.zip disponível em <b>http://kodi.discavehb.com</b> e adicionar o addon <b>surikata TV</b>.
 
 ##URLs myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
