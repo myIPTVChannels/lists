@@ -1,4 +1,86 @@
 <channels>
+<channel> 
+<name>[COLOR deepskyblue] √ [COLOR lime]CaboVisão [/COLOR][COLOR orange]•[HugoCosta]•[/COLOR] </name> 
+<thumbnail> </thumbnail>
+ <fanart> </fanart> 
+</subitem>
+ </item> 
+<item>  
+ <title>[COLOR=yellow][B][I]RTP 1 [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/RTP1.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=yellow][B][I]RTP 2 [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/RTP2.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=yellow][B][I]Sic [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/SIC.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=yellow][B][I]Tvi [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/TVI.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=yellow][B][I]Sic Notícias [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/SICN.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=yellow][B][I]Tvi 24 [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/TVI24.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=yellow][B][I]Disney Channel [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/Disney.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=yellow][B][I]Canal Panda [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/Panda.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=orange][B][I]Hollywood [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/Hollywood.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=orange][B][I]Mov [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/Mov.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=orange][B][I]Axn [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/AXN.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=orange][B][I]Tv Record [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/TVRecord.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=orange][B][I]Discovery Channel [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/Discovery.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=orange][B][I]Fox [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/Fox.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+<item>  
+ <title>[COLOR=orange][B][I]Fox Life [/I][/B][/COLOR]</title> 
+<link> http://127.0.0.1:9294/c/FoxLife.m3u8</link>
+ <thumbnail> </thumbnail>   
+ </item>
+</channel>
 <channel>
 <name>[COLOR deepskyblue] √ [COLOR lime]Portugal [/COLOR][COLOR orange]•[HugoCosta]•[/COLOR] </name>
 <thumbnail>http://st2.depositphotos.com/1605004/5311/v/450/depositphotos_53114741-Abstract-stamp-with-text-Original-Product-of-Portugal.jpg</thumbnail>
