@@ -1,48 +1,51 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal",RTP 3 [SD]
+#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal", RTP 3 [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal",SIC Notícias [SD]
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal", SIC Notícias [SD]
 http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal",TVI24 [FSD]
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal", TVI24 [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal",Económico TV [FSD]
+#EXTINF:-1 tvg-id="EconomicoTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal",Económico TV [FSD]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal",Euronews [SD]
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal", Euronews [SD]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal",TPA Internacional [FSD]
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal", Euronews [SD]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal", TPA Internacional [FSD]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png",Aljazeera English
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png", Aljazeera English
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/ABC_News_2013b.png",ABC News
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/ABC_News_2013b.png", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png",Bloomberg
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png", Bloomberg
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vqsspx1443638480.png",i24news
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vqsspx1443638480.png", i24news
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xxtsyv1436895578.png",Deutsche Welle (Europe)
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xxtsyv1436895578.png", Deutsche Welle (Europe)
 http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qqtssw1436894339.png",TVE 24h
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qqtssw1436894339.png", TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/sxryur1433426110.png",CCTV News
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/sxryur1433426110.png", CCTV News
 http://77.36.61.45:8010/CCTVNews.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qttvuy1436846679.png",NHK World
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qttvuy1436846679.png", NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png",Aljazeera Arabic
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png", Aljazeera Arabic
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 
-#EXTINF:0 tvg-logo="http://www.quadplay.tv/images/ch/al_maghribia.png",Al Maghribia
+#EXTINF:0 tvg-logo="http://www.quadplay.tv/images/ch/al_maghribia.png", Al Maghribia
 http://178.33.88.130:888/udp/239.102.0.198:1234 
