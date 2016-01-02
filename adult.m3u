@@ -99,6 +99,8 @@ http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
 #EXTINF:0, Venus
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:0, Venus HD (2)
+rtmp://edge2.everyon.tv/etv2/phd1005
 #EXTINF:0, XXX0
 http://188.165.220.116:8081/live2/37/playlist.m3u8
 #EXTINF:0, XXX1
