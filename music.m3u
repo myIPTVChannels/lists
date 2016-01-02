@@ -61,7 +61,7 @@ http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
 rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim
 #EXTINF:0, KiSS TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:0, KiSS TV SD (2)
+#EXTINF:0, HIT TV SD (2)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:0, M1
 http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
@@ -469,6 +469,8 @@ http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:0 group-title=”Turkia”, dream TV TÜRK SD
 http://origin.live.web.tv.streamprovider.net/streams/f9051a29d5def26626ff1fba0fa12872_live_0_0/index.m3u8
+#EXTINF:0 group-title=”Turkia”, dream TV HD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0 group-title=”Turkia”, dream TV SD
 http://origin.live.web.tv.streamprovider.net/streams/287b096e02ad5f19c0e92d4f39c33213_live_0_0/index.m3u8
 #EXTINF:0 group-title=”Turkia”, FINEST TV SD
@@ -483,7 +485,11 @@ rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
 http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
 #EXTINF:0 group-title=”Turkia”, TEK Damar TV SD
 http://origin.live.web.tv.streamprovider.net/streams/241d91d49c3557f57d5f9a735ea461da_live_0_0/index.m3u8
-#EXTINF:0 group-title=”Turkia”, TRT MUZIK (Turk) HD
+#EXTINF:0 group-title=”Turkia”, TRT MÜZIK HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0 group-title=”Turkia”, TRT MÜZIK SD
+http://origin.live.web.tv.streamprovider.net/streams/a9ee44c3dd6cb3889345731968c3a480_live_0_0/index.m3u8
+#EXTINF:0 group-title=”Turkia”, TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title=”Turkia”, VİZYONTÜRK TV SD
 http://origin2.live.web.tv.streamprovider.net/streams/5527a42e382445c2f08ce46012bb1cf4/index.m3u8
