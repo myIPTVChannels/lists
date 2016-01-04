@@ -14,13 +14,13 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
-#EXTINF:-1,SIC Noticias
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png",SIC Noticias
 http://213.13.26.12:1935/live/sicnoticias/cookiemonster.m3u8
-#EXTINF:-1,Economico TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png",Economico TV
 rtmp://213.13.26.11/live/etv_direto
-#EXTINF:-1,Economico TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png",Economico TV
 http://213.13.26.12:1935/live/etv_direto/cookiemonster.m3u8
-#EXTINF:-1,AR TV Parlamento
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/artv.png",AR TV Parlamento
 rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1,Cancao Nova
 http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
