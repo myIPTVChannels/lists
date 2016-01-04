@@ -8,6 +8,15 @@ http://37.203.209.34:443/mobile/flash24sd/live.m3u8
 #EXTINF:0 tvg-logo="sbt.png" tvg-logo="http://www.tvaovivolista.com/sbt.png", SBT HQ
 http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
 
+#EXTINF:0, TVCINE 1
+http://teuportal.dyndns.org:8000/live/pedro/pedro/31.ts
+#EXTINF:0, TVCINE 2
+http://teuportal.dyndns.org:8000/live/pedro/pedro/30.ts
+#EXTINF:0, TVCINE 3
+http://teuportal.dyndns.org:8000/live/pedro/pedro/29.ts
+#EXTINF:0, TVCINE 4
+http://teuportal.dyndns.org:8000/live/pedro/pedro/28.ts
+
 
 #EXTINF:-1, [B]--- Filmes ---[/B]
 http://0.0.0.0
