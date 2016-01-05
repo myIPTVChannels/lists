@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 radio="true",[B][COLOR white]--Portugal--[/COLOR][/B]
-http://
 #EXTINF:0 radio="true" radio="true" tvg-logo="94fm.png" group-title="Portugal",94FM
 http://195.8.58.150:35022/;stream.nsv
 #EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",ANTENA 1
