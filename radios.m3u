@@ -23,9 +23,9 @@ http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
 http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
 #EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RADAR
 http://stream.radio.com.pt:8497/stream
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal", RADIO TOP 40
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RADIO TOP 40
 http://31.12.64.204:8000/A-RADIO-TOP-40
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal", REGAEE RADIO 808
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",REGAEE RADIO 808
 http://66.225.205.5:80
 #EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RENASCENÇA
 http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
@@ -45,8 +45,6 @@ http://94.23.76.235:9956/
 
 #EXTINF:0 radio="true",[B][COLOR mediumslateblue]--di.fm--[/COLOR][/B]
 http://
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",Ambient
-http://www.di.fm/mp3/ambient.pls
 #EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—LOUNGE
 http://pub1.di.fm/di_lounge_aacplus?&type=.flv
 #EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—CHILLOUT
@@ -55,24 +53,20 @@ http://pub1.di.fm/di_chillout_aacplus?&type=.flv
 http://pub1.di.fm/di_djmixes_aacplus?&type=.flv
 #EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—DISCO HOUSE
 http://pub1.di.fm/di_discohouse_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",VOCAL CHILLOUT
+#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—VOCAL CHILLOUT
 http://goo.gl/qLs0Oj
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",VOCAL LOUNGE
+#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—VOCAL LOUNGE
 http://goo.gl/Xsh9a1
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",AMBIENT
+#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—AMBIENT
 http://goo.gl/KYZEXC
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",BIG ROOM HOUSE
+#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—BIG ROOM HOUSE
 http://goo.gl/nM9KJO
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",BASS & JACKIN HOUSE
+#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—BASS & JACKIN HOUSE
 http://goo.gl/pnw00c
 
 
 #EXTINF:0 radio="true",[B][COLOR red]--Antenne Bayern--[/COLOR][/B]
 http://
-#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern (AAC)
-http://www.antenne.de/webradio/antenne-aac.pls
-#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern (MP3 Surround)
-http://www.antenne.de/webradio/antenne-surround.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern (MP3)
 http://www.antenne.de/webradio/antenne.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern 80er Kulthits (AAC)
@@ -89,11 +83,9 @@ http://www.antenne.de/webradio/channels/chillout.aac.pls
 http://www.antenne.de/webradio/channels/chillout.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Classic Rock Live (AAC)
 http://www.antenne.de/webradio/channels/classic-rock-live.aac.pls
-#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Classic Rock Live (MP3 Surround)
-http://www.antenne.de/webradio/channels/classic-rock-live-surround.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Classic Rock Live (MP3)
 http://www.antenne.de/webradio/channels/classic-rock-live.m3u
-#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Das Antenne Bayern 'Event' Radio (M
+#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Das Antenne Bayern Event Radio
 http://www.antenne.de/webradio/channels/event.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Die jungen Wilden (AAC)
 http://www.antenne.de/webradio/channels/die-jungen-wilden.aac.pls
