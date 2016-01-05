@@ -331,6 +331,8 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 
 #EXTINF:-1,[B][COLOR orange]--Latino--[/COLOR][/B]
 http://
+#EXTINF:0 group-title="Latino", Anadolu TV
+rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
 #EXTINF:0 group-title="Latino", CANTINAZO TV SD
 http://tinyurl.com/pz9hfsy
 #EXTINF:0 group-title="Latino", Mi Gente TV SD-
