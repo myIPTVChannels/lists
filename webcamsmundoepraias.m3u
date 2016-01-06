@@ -4,10 +4,10 @@
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DrUPBwW6nJc/UvahHDNNLAI/AAAAAAAAJHk/kKDUQFgLuIc/s1600/logo.png" tvg-id="" group-title="Webcams",Beachcam: Liga Moche Surf
 rtmp://213.13.26.11/live playpath=surfstream.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/AF98tRzyzpZfvdfvv6rU timeout=15 conn=S:OK –live
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_cSd9TLc-_ac/S1eXKdRkHmI/AAAAAAAAAD4/ABAtsC2l29s/s1600-h/le%C3%A7a+2+copy.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Leça da Palmeira
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/matosinhos/leca-da-palmeira/praia-de-leca-da-palmeira-6.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Leça da Palmeira
 rtmp://213.13.26.43/live playpath=leca.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/OF4ntVhaeSihG8JIWV8n timeout=15 conn=S:OK –live
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_cSd9TLc-_ac/S2Rr8IByh_I/AAAAAAAAAFA/o6JfjWrOJqU/s1600-h/matosas.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Matosinhos
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/matosinhos/matosinhos/praia-de-matosinhos-6.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Matosinhos
 rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb timeout=15 conn=S:OK –live
 
 #EXTINF:-1 tvg-logo="http://inviita.com/blog/wp-content/uploads/2015/07/DSC03818-1024x768.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Espinho
