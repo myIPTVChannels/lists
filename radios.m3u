@@ -1,68 +1,212 @@
 #EXTM3U
-#EXTINF:0 radio="true" radio="true" tvg-logo="94fm.png" group-title="Portugal",94FM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title="Portugal",94FM
 http://195.8.58.150:35022/;stream.nsv
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",ANTENA 1
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Portugal",ANTENA 1
 mms://rdp.oninet.pt/antena1
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",ANTENA 3
+#EXTINF:0 radio="true" radio="true" tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-title="Portugal",ANTENA 3
 mms://rdp.oninet.pt/antena3
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",AMÁLIA
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Portugal",AMÁLIA
 http://stream.radio.com.pt:9496/stream
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",CIDADE FM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cidade.iol.pt/images/logo.png" group-title="Portugal",CIDADE FM
 rtmp://195.23.102.206:1935/cidadefmlc playpath=cidadefmlc.sdp
-#EXTINF:0 radio="true" radio="true" tvg-logo="Radio_Comercial.png" group-title="Portugal",COMERCIAL
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Portugal",COMERCIAL
 rtmp://195.23.102.206/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf pageUrl=http://radiocomercial.iol.pt/player/webcam.asp
-#EXTINF:0 radio="true" radio="true" tvg-logo="hiperfm.png" group-title="Portugal",HIPER FM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="Portugal",HIPER FM
 http://85.25.73.243:10460/
-#EXTINF:0 radio="true" radio="true" tvg-logo="ibiza_sonica.png" group-title="Portugal",IBIZA SONICA
+#EXTINF:0 radio="true" radio="true" tvg-logo="https://eclecticavenuerecords.files.wordpress.com/2011/11/logos_sonica_fuera1.jpg" group-title="Portugal",IBIZA SONICA
 http://stream2.wft.es:1025/;stream.mp3
-#EXTINF:0 radio="true" radio="true" tvg-logo="m80.png" group-title="Portugal",M80
+#EXTINF:0 radio="true" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/567268926417948672/PKaVt7Ru.png" group-title="Portugal",M80
 http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",MEGA FM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Portugal",MEGA FM
 http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",OCEANO PACIFICO
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://rfm.sapo.pt/images/logo_webr_oceano.png" group-title="Portugal",OCEANO PACIFICO
 http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RADAR
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" group-title="Portugal",RADAR
 http://stream.radio.com.pt:8497/stream
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RADIO TOP 40
+#EXTINF:0 radio="true" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/70959338-55ee-4bdb-a4c8-dc10c482b8a3.jpg" group-title="Portugal",RADIO TOP 40
 http://31.12.64.204:8000/A-RADIO-TOP-40
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",REGAEE RADIO 808
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="Portugal",REGGAE RADIO 808
 http://66.225.205.5:80
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RENASCENÇA
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Portugal",RENASCENÇA
 http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RFM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" group-title="Portugal",RFM
 http://7719.live.streamtheworld.com/RFM_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",RFM 80
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="Portugal",RFM 80
 http://11073.live.streamtheworld.com/GR80SRFMAAC?
-#EXTINF:0 radio="true" radio="true" tvg-logo="rfmclubbing.png" group-title="Portugal",RFM CLUBBING
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2011/07/logoClubbingPlayer.png" group-title="Portugal",RFM CLUBBING
 http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",VODAFONE FM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone.jpg" group-title="Portugal",VODAFONE FM
 rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="Portugal",SMOOTH FM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/logo_smooth.png" group-title="Portugal",SMOOTH FM
 rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp
-#EXTINF:0 radio="true" radio="true" tvg-logo="superfm.png" group-title="Portugal",SUPER FM
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Portugal",SUPER FM
 http://94.23.76.235:9956/
 
 
 #EXTINF:0 radio="true",[B][COLOR mediumslateblue]--di.fm--[/COLOR][/B]
 http://
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—LOUNGE
+#EXTINF:0 radio="true" radio="true"  tvg-logo="http://cdn-images.audioaddict.com/8/4/d/3/4/e/84d34e19efed230a40372a3baefc36ae.png" group-title="di.fm",DI.FM—LOUNGE
 http://pub1.di.fm/di_lounge_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—CHILLOUT
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/0/a/c/5/a/9/0ac5a9ce5b258e16fec514722b92d580.png" group-title="di.fm",DI.FM—CHILLOUT
 http://pub1.di.fm/di_chillout_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—DJ MIXES
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/9/2/4/2/0/1924207c886a3da744a152450f5b6d27.png" group-title="di.fm",DI.FM—DJ MIXES
 http://pub1.di.fm/di_djmixes_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—DISCO HOUSE
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/3/b/c/1/1/6/3bc1165683457f8b40e6f27c67f035f2.png" group-title="di.fm",DI.FM—DISCO HOUSE
 http://pub1.di.fm/di_discohouse_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—VOCAL CHILLOUT
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/c/c/8/b/5/1cc8b5c256d603302446b51cc242b9fd.png" group-title="di.fm",DI.FM—VOCAL CHILLOUT
 http://goo.gl/qLs0Oj
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—VOCAL LOUNGE
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/a/c/c/c/4/9/accc49b2d1b70feb5b21603d67cc444f.png" group-title="di.fm",DI.FM—VOCAL LOUNGE
 http://goo.gl/Xsh9a1
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—AMBIENT
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/c/4/9/3/9/b/c4939b4e0129cd9abada597e35332db3.png" group-title="di.fm",DI.FM—AMBIENT
 http://goo.gl/KYZEXC
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—BIG ROOM HOUSE
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/4/7/0/c/3/c/470c3c21ce2cc8a75de82bfd4e150db5.png" group-title="di.fm",DI.FM—BIG ROOM HOUSE
 http://goo.gl/nM9KJO
-#EXTINF:0 radio="true" radio="true" group-title="di.fm",DI.FM—BASS & JACKIN HOUSE
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/8/9/b/0/d/f/89b0dfb93cb7eba4d345d116f7fc00e7.png" group-title="di.fm",DI.FM—BASS & JACKIN HOUSE
 http://goo.gl/pnw00c
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/f/2/1/8/9/1f2189badb0bb9ccba20e54163afff69.png" group-title="di.fm", DI.FM-00's Club Hits
+http://pub1.diforfree.org:8000/di_00sclubhits_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/d/b/2/f/e/c/db2fec32340bb5bc70750150794f2b02.png" group-title="di.fm", DI.FM-Bassline
+http://pub1.diforfree.org:8000/di_bassline_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/9/4/9/e/f/b/949efba54329d6d9264dfd54eeebbc31.png" group-title="di.fm", DI.FM-Big Beat
+http://pub1.diforfree.org:8000/di_bigbeat_hi
+
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Breaks
+http://pub1.diforfree.org:8000/di_breaks_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-ChillHop
+http://pub1.diforfree.org:8000/di_chillhop_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Chillout Dreams
+http://pub1.diforfree.org:8000/di_chilloutdreams_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Chillstep
+http://pub1.diforfree.org:8000/di_chillstep_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic EuroDance
+http://pub1.diforfree.org:8000/di_classiceurodance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic EuroDisco
+http://pub1.diforfree.org:8000/di_classiceurodisco_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic Trance
+http://pub1.diforfree.org:8000/di_classictrance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic Vocal Trance
+http://pub1.diforfree.org:8000/di_classicvocaltrance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Club Dubstep
+http://pub1.diforfree.org:8000/di_clubdubstep_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Club Sounds
+http://pub1.diforfree.org:8000/di_club_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dark DnB
+http://pub1.diforfree.org:8000/di_darkdnb_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep House
+http://pub1.diforfree.org:8000/di_deephouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep Nu-Disco
+http://pub1.diforfree.org:8000/di_deepnudisco_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep Tech
+http://pub1.diforfree.org:8000/di_deeptech_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Downtempo Lounge
+http://pub1.diforfree.org:8000/di_downtempolounge_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Drum 'n Bass
+http://pub1.diforfree.org:8000/di_drumandbass_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dub
+http://pub1.diforfree.org:8000/di_dub_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dub Techno
+http://pub1.diforfree.org:8000/di_dubtechno_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dubstep
+http://pub1.diforfree.org:8000/di_dubstep_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-EcLectronica
+http://pub1.diforfree.org:8000/di_eclectronica_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electro House
+http://pub1.diforfree.org:8000/di_electrohouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electro Swing
+http://pub1.diforfree.org:8000/di_electroswing_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electropop
+http://pub1.diforfree.org:8000/di_electropop_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Epic Trance
+http://pub1.diforfree.org:8000/di_epictrance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-EuroDance
+http://pub1.diforfree.org:8000/di_eurodance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Funky House
+http://pub1.diforfree.org:8000/di_funkyhouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Future Garage
+http://pub1.diforfree.org:8000/di_futuregarage_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Future Synthpop
+http://pub1.diforfree.org:8000/di_futuresynthpop_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Gabber
+http://pub1.diforfree.org:8000/di_gabber_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Goa-Psy Trance
+http://pub1.diforfree.org:8000/di_goapsy_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hands Up
+http://pub1.diforfree.org:8000/di_handsup_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hard Dance
+http://pub1.diforfree.org:8000/di_harddance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hard Techno
+http://pub1.diforfree.org:8000/di_hardtechno_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hardcore
+http://pub1.diforfree.org:8000/di_hardcore_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hardstyle
+http://pub1.diforfree.org:8000/di_hardstyle_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-House
+http://pub1.diforfree.org:8000/di_house_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Indie Dance
+http://pub1.diforfree.org:8000/di_indiedance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Jazz House
+http://pub1.diforfree.org:8000/di_jazzhouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Jungle
+http://pub1.diforfree.org:8000/di_jungle_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Latin House
+http://pub1.diforfree.org:8000/di_latinhouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid DnB
+http://pub1.diforfree.org:8000/di_liquiddnb_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid Dubstep
+http://pub1.diforfree.org:8000/di_liquiddubstep_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid Trap
+http://pub1.diforfree.org:8000/di_liquidtrap_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Mainstage
+http://pub1.diforfree.org:8000/di_mainstage_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Melodic Progressive
+http://pub1.diforfree.org:8000/di_melodicprogressive_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Minimal
+http://pub1.diforfree.org:8000/di_minimal_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Nightcore
+http://pub1.diforfree.org:8000/di_nightcore_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Nu Disco
+http://pub1.diforfree.org:8000/di_nudisco_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Acid
+http://pub1.diforfree.org:8000/di_oldschoolacid_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool House
+http://pub1.diforfree.org:8000/di_oldschoolhouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Rave
+http://pub1.diforfree.org:8000/di_oldschoolrave_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Techno & Trance
+http://pub1.diforfree.org:8000/di_classicelectronica_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Progressive
+http://pub1.diforfree.org:8000/di_progressive_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Progressive Psy
+http://pub1.diforfree.org:8000/di_progressivepsy_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Psybient
+http://pub1.diforfree.org:8000/di_psybient_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-PsyChill
+http://pub1.diforfree.org:8000/di_psychill_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Russian Club Hits
+http://pub1.diforfree.org:8000/di_russianclubhits_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Soulful House
+http://pub1.diforfree.org:8000/di_soulfulhouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Space Dreams
+http://pub1.diforfree.org:8000/di_spacemusic_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Tech House
+http://pub1.diforfree.org:8000/di_techhouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Techno
+http://pub1.diforfree.org:8000/di_techno_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Trance
+http://pub1.diforfree.org:8000/di_trance_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Trap
+http://pub1.diforfree.org:8000/di_trap_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Tribal House
+http://pub1.diforfree.org:8000/di_tribalhouse_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-UMF Radio
+http://pub1.diforfree.org:8000/di_umfradio_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Underground Techno
+http://pub1.diforfree.org:8000/di_undergroundtechno_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Vocal Lounge
+http://pub1.diforfree.org:8000/di_vocallounge_hi
+#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Vocal Trance
+http://pub1.diforfree.org:8000/di_vocaltrance_hi
+
 
 
 #EXTINF:0 radio="true",[B][COLOR red]--Antenne Bayern--[/COLOR][/B]
@@ -87,10 +231,18 @@ http://www.antenne.de/webradio/channels/classic-rock-live.aac.pls
 http://www.antenne.de/webradio/channels/classic-rock-live.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Das Antenne Bayern Event Radio
 http://www.antenne.de/webradio/channels/event.m3u
+#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Die jungen Wilden (AAC)
+http://www.antenne.de/webradio/channels/die-jungen-wilden.aac.pls
+#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Die jungen Wilden (MP3)
+http://www.antenne.de/webradio/channels/die-jungen-wilden.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Hits fur Kids (AAC)
 http://www.antenne.de/webradio/channels/hits-fuer-kids.aac.pls
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Hits fur Kids (MP3)
 http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u
+#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Kino Hits (AAC)
+http://www.antenne.de/webradio/channels/kino-hits.aac.pls
+#EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Kino Hits (MP3)
+http://www.antenne.de/webradio/channels/kino-hits.m3u
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Lovesongs (AAC)
 http://www.antenne.de/webradio/channels/lovesongs.aac.pls
 #EXTINF:0 radio="true" group-title="Antenne Bayern",Antenne Bayern Lovesongs (MP3)
@@ -117,11 +269,13 @@ http://buecrplb01.cienradios.com.ar/50_32000.aac
 http://buecrplb01.cienradios.com.ar/60_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",70's
 http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
+#EXTINF:0 radio="true" group-title="Internacional",70's Europa
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_UK_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",70's USA
 http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Radio Beatles
 http://108.61.73.119:8062/;stream.nsv
-#EXTINF:0 radio="true" group-title="Internacional",80´s International
+#EXTINF:0 radio="true" group-title="Internacional",80´s
 http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",80's Argentina
 http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
@@ -131,9 +285,11 @@ http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
 http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",90's Europa
 http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
+#EXTINF:0 radio="true" group-title="Internacional",90´s USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_USA_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Adulto Contemporaneo
 http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Power Ballads
+#EXTINF:0 radio="true" group-title="Internacional",Baladas
 http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Bossa Nova
 http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
@@ -141,21 +297,25 @@ http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
 http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",BritPop
 http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Chill Out
+#EXTINF:0 radio="true" group-title="Internacional",Chillout
 http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+#EXTINF:0 radio="true" group-title="Internacional",JPop
+http://pub1.radiotunes.com:80/radiotunes_jpop?c99c0d59b19e3b7c9f99d515
+#EXTINF:0 radio="true" group-title="Internacional",Country
+http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
 #EXTINF:0 radio="true" group-title="Internacional",Cuarteto
 http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Estrenos
 http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Electronica
 http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Electronic Tango
+#EXTINF:0 radio="true" group-title="Internacional",Electro Tango
 http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
 #EXTINF:0 radio="true" group-title="Internacional",Fiesta Dance
 http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Lentos
 http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Live
+#EXTINF:0 radio="true" group-title="Internacional",Live music
 http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Raggae
 http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
@@ -163,57 +323,161 @@ http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
 http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Rock Hits
 http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Rock Latinoamericano
+#EXTINF:0 radio="true" group-title="Internacional",Rock Latino
 http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Salsa
 http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Smooth Jazz
 http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
+#EXTINF:0 radio="true" group-title="Internacional",Mellow Jazz
+http://pub6.radiotunes.com:80/radiotunes_mellowjazz?c99c0d59b19e3b7c9f99d515
 #EXTINF:0 radio="true" group-title="Internacional",Top 40
 http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Top Europa
 http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Top USA
 http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
+#EXTINF:0 radio="true" group-title="Internacional",Lounge
+http://pub3.radiotunes.com:80/radiotunes_smoothlounge?
+#EXTINF:0 radio="true" group-title="Internacional",Musica del Mundo
+http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
 #EXTINF:0 radio="true" group-title="Internacional",Yoga
 http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
 #EXTINF:0 radio="true" group-title="Internacional",Reiki
 http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Classic
+#EXTINF:0 radio="true" group-title="Internacional",Relajación
+http://pub7.radiotunes.com:80/radiotunes_relaxation?c99c0d59b19e3b7c9f99d515
+#EXTINF:0 radio="true" group-title="Internacional",New Age
+http://pub7.radiotunes.com:80/radiotunes_newage?c99c0d59b19e3b7c9f99d515
+#EXTINF:0 radio="true" group-title="Internacional",Clasica
 http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Classic Cinema
+#EXTINF:0 radio="true" group-title="Internacional",Clasica Cine
 http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:0 radio="true" group-title="Internacional",Classica Meditacion
+#EXTINF:0 radio="true" group-title="Internacional",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+#EXTINF:0 radio="true" group-title="Internacional",American Songbook - SKY
+http://72.26.204.28:6864
+#EXTINF:0 radio="true" group-title="Internacional",AMNA TV
+http://89.212.25.109:8080/stream/?fw=true&route=si1_1&rule=null&sp=freetv&channel=tvamna&stream=1mb&u=tvamna&p=tvamna&player=http
+#EXTINF:0 radio="true" group-title="Internacional",Amouzesh TV Network
+rtmp://50.7.241.82/totalstreamer/learning-256.sdp
+#EXTINF:0 radio="true" group-title="Internacional",AMTV
+rtsp://mms.amtv.ru/BizOne
+#EXTINF:0 radio="true" group-title="Internacional",AmysFMSoGood
+http://streaming205.radionomy.com:80/AmysFM-SoGood
 #EXTINF:0 radio="true" group-title="Internacional",AmysFMSoGood
 http://streaming203.radionomy.com:80/AmysFM-SoGood
-#EXTINF:0 radio="true" group-title="Internacional",Antena Zagreb
+#EXTINF:0 radio="true" group-title="Internacional",Anadolu TV
+rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
+#EXTINF:0 radio="true" group-title="Internacional",Animania
+http://teleclub.fr/animania.mp4
+#EXTINF:0 radio="true" group-title="Internacional",ANKARA POLIS RADYOSU
+mms://212.175.37.110/pr3
+#EXTINF:0 radio="true" group-title="Internacional",ANN TV
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:0 radio="true" group-title="Internacional",ANNAHAR
+http://cdn-delay1.magictvbox.com/5.m3u8
+#EXTINF:0 radio="true" group-title="Internacional",ANNAHAR
+http://cdn-streamer1.magictvbox.com/live/10150.stream/chunklist.m3u8
+#EXTINF:0 radio="true" group-title="Internacional",ANNAHAR DRAMA
+http://cdn-delay1.magictvbox.com/11.m3u8
+#EXTINF:0 radio="true" group-title="Internacional",ANNAHAR DRAMA
+http://cdn-streamer1.magictvbox.com/live/10151.stream/chunklist.m3u8
+#EXTINF:0 radio="true" group-title="Internacional",ANNAHAR SPORT
+http://cdn-streamer1.magictvbox.com/live/10179.stream/chunklist.m3u8
+#EXTINF:0 radio="true" group-title="Internacional",ANTENA 5
+http://217.115.140.23:8000/antenna5.mp3
+#EXTINF:0 radio="true" group-title="Internacional",ANTENA ZAGREB
 http://173.192.137.34:8050/
+#EXTINF:0 radio="true" group-title="Internacional",Antenna 5
+rtmp://fls.7.c3.audiovideoweb.com/live/7c3flslive1082
 #EXTINF:0 radio="true" group-title="Internacional",Antenne Brandenburg (MP3)
 http://www.antennebrandenburg.de/live.m3u
 #EXTINF:0 radio="true" group-title="Internacional",Antiguos,perobuenos
 http://streaming203.radionomy.com:80/Antiguos--pero-buenos
+#EXTINF:0 radio="true" group-title="Internacional",ANTV
+rtsp://cdn.mivo.tv/mivotvjkt/antv2
 #EXTINF:0 radio="true" group-title="Internacional",AnUrbanRadio
 http://streaming203.radionomy.com:80/An-Urban-Radio
-#EXTINF:0 radio="true" group-title="Internacional",Elium
+#EXTINF:0 radio="true" group-title="Internacional",anzoradio
 http://streaming204.radionomy.com:80/anzoradio
-#EXTINF:0 radio="true" group-title="Internacional",Arab Music Radio
+#EXTINF:0 radio="true" group-title="Internacional",Ao vivo
+rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35/viamorena
+#EXTINF:0 radio="true" group-title="Internacional",ArabMusicRadio
 http://streaming208.radionomy.com:80/ArabMusicRadio
 #EXTINF:0 radio="true" group-title="Internacional",ARC MUSIQUE
 http://broadcast.infomaniak.net/arcmusique-128.mp3
-#EXTINF:0 radio="true" group-title="Internacional",ARJ PARIS 128kbs mp3
+#EXTINF:0 radio="true" group-title="Internacional",ARCHIPELAGOS TV
+mms://stream.isol.gr/ARCHIPELAGOS
+#EXTINF:0 radio="true" group-title="Internacional",Archipelagos TV
+rtsp://stream.isol.gr/ARCHIPELAGOS
+#EXTINF:0 radio="true" group-title="Internacional",Arcoiris TV
+mms://193.41.7.40/vive-adsl
+#EXTINF:0 radio="true" group-title="Internacional",Arcoiris tv
+mms://streaming3.arcoiris.tv/vive-adsl
+#EXTINF:0 radio="true" group-title="Internacional",Argent
+rtmp://cp39414.live.edgefcs.net/live/argent@9751
+#EXTINF:0 radio="true" group-title="Internacional",ARJ 128kbs mp3
 http://broadcast.infomaniak.net/arj-france-high.mp3
+#EXTINF:0 radio="true" group-title="Internacional",ARJ 64kbs AAC+
+http://broadcast.infomaniak.net/arj-france-high.aac
+#EXTINF:0 radio="true" group-title="Internacional",ARM
+rtsp://www.tvarm.ru:1935/live/myStream1.sdp
+#EXTINF:0 radio="true" group-title="Internacional",art Tv
+mms://62.240.24.94:8080
+#EXTINF:0 radio="true" group-title="Internacional",Art TV Beograd
+http://62.240.24.94:8080/
+#EXTINF:0 radio="true" group-title="Internacional",Arte
+rtmp://lm01.everyon.tv:1935/ptv/pld35
+#EXTINF:0 radio="true" group-title="Internacional",Arte
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:0 radio="true" group-title="Internacional",Arte
+http://82.220.10.66/udp/239.3.0.2:1234
+#EXTINF:0 radio="true" group-title="Internacional",Artn
+http://204.174.105.58/wmtencoder/artn.wmv
+#EXTINF:0 radio="true" group-title="Internacional",ARTVIN RADYO 08
+http://217.20.122.130:1732
+#EXTINF:0 radio="true" group-title="Internacional",Asia N
+rtmp://lm01.everyon.tv:1935/ptv/pld433
 #EXTINF:0 radio="true" group-title="Internacional",ASK FM
 http://yayin.asymedya.com:8020/
+#EXTINF:0 radio="true" group-title="Internacional",Aspara TV
+rtsp://203.176.130.114:5656/live///apsaratv_100k.stream
+#EXTINF:0 radio="true" group-title="Internacional",Assirat TV
+rtsp://assiratlive.nanocdn.com:1935/live/assirat256
 #EXTINF:0 radio="true" group-title="Internacional",AstraHits
 http://streaming203.radionomy.com:80/AstraHits
 #EXTINF:0 radio="true" group-title="Internacional",Asvel Tonic Radio
 http://broadcast.infomaniak.net/asveltonicradio-128.mp3
+#EXTINF:0 radio="true" group-title="Internacional",AT 5
+rtsp://82.94.228.213:1935/broadcast/_definst_/stream1
+#EXTINF:0 radio="true" group-title="Internacional",Atmospheric ambient space music.[SomaFM]
+http://streamer-ntc-aa04.somafm.com:80/stream/1032
+#EXTINF:0 radio="true" group-title="Internacional",Ato moto TV
+mms://100automoto.tv/100livesport
 #EXTINF:0 radio="true" group-title="Internacional",Atomicrock
 http://streaming204.radionomy.com:80/Atomic-rock
+#EXTINF:0 radio="true" group-title="Internacional",ATTARIK
+http://cdn-streamer2.magictvbox.com/43.m3u8
+#EXTINF:0 radio="true" group-title="Internacional",ATV
+http://194.158.91.91/Atv?MSWMExt=.asf
+#EXTINF:0 radio="true" group-title="Internacional",ATV
+rtmp://yayin.canlitv.com/live/atv
+#EXTINF:0 radio="true" group-title="Internacional",Audiograted
+http://streaming205.radionomy.com:80/Audiograted
 #EXTINF:0 radio="true" group-title="Internacional",AudiogratedTop20
 http://streaming203.radionomy.com:80/Audiograted-Top-20
-#EXTINF:0 radio="true" group-title="Internacional",ABCLounge
+#EXTINF:0 radio="true" group-title="Internacional",Audiosonic Wunderchic
+http://broadcast.infomaniak.net/audiosonic-wunderchic.mp3
+#EXTINF:0 radio="true" group-title="Internacional",aufilduson80s
 http://streaming203.radionomy.com:80/aufilduson80s
+#EXTINF:0 radio="true" group-title="Internacional",Aup Radio
+http://public.wavepanel.net/VSBRZ6WBALI2E39P/listen/80/AUPRadio
+#EXTINF:0 radio="true" group-title="Internacional",Auto Moto TV
+http://100automoto.tv/bgtv1.asx
+#EXTINF:0 radio="true" group-title="Internacional",Auto Moto TV BMW
+mms://100automoto.tv/bmw
+#EXTINF:0 radio="true" group-title="Internacional",Auto Moto TV Gaz
+mms://100automoto.tv/100gaz
 #EXTINF:0 radio="true" group-title="Internacional",AutobahnRadio
 http://streaming206.radionomy.com:80/Autobahn-Radio
