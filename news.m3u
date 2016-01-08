@@ -20,6 +20,21 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal", TPA Internacional [FSD]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwwxru1438374081.png" group title="World", Sky News [1080p]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/y60wDzZt8yg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/eTYwd0R6WnQ4eWcuMQ.96/hls_chunk_host/r3---sn-2vgu0b5auxaxjvh-apne.googlevideo.com/gcr/pt/playlist_type/DVR/pmbypass/yes/mm/32/mn/sn-2vgu0b5auxaxjvh-apne/ms/lv/mv/m/pcm2cms/yes/pl/40/dover/3/keepalive/yes/sver/3/fexp/9406983,9416126,9420452,9422596,9423662/upn/AMPSXdVNzoc/mt/1452281647/ip/2001:8a0:7f41:5501:920:b551:b185:c615/ipbits/0/expire/1452303315/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,gcr,playlist_type,pmbypass,mm,mn,ms,mv,pcm2cms,pl/signature/3559A0825AE95FEB47745C1C2D9E92DCAF7EF5EC.30A5C32E0BC783A9DD6EB61D4523FDAC1BC97C81/key/dg_yt0/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uyyvps1434018285.png" group title="World", RT USA [HD]
+http://rt-lh.akamaihd.net/i/ch_04@325608/index_720p_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uyyvps1434018285.png" group title="World", RT UK [HD]
+http://rt-lh.akamaihd.net/i/ch_06@325610/index_720p_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yywurx1452283188.png" group title="World", PRESS TV [HD]
+http://presstv-ch03.level3.hls.live.cdn.overon.es/livehigh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8a/CBS_HD.png" group title="World", CBS [HD]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png", Aljazeera English
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 
@@ -27,6 +42,9 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_hig
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png", Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png", Bloomberg (2)
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vqsspx1443638480.png", i24news
