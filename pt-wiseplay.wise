@@ -22,14 +22,7 @@
                     "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
                     "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8"
                 },
-                    
-                {
-                    "name": "SPORT TV AMERICAS opc1",
-                    "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
-                    "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8"
-                },
-                    
-								{
+                						{
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
 					"url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
@@ -173,16 +166,10 @@
                             "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
                             "url": "acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad"
                 },
-				
-										{
-                            "name": "BENFICA TV 1 pt novo",
-                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://top-iptv.zapto.org:8000/live/adem/adem/660.m3u8"
-                },
-				{
+		{
                             "name": "BENFICA TV 1 Bosslulamen&Lacasitos",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3308.m3u8"
+                            "url": "http://91.204.214.106:23201/stolen/250l/xenixos.7z"
                 },
                 {
                             "name": "BENFICA TV 1 pt opc1 ON ace",
@@ -198,7 +185,7 @@
 										{
                             "name": "BENFICA TV 2 Bosslulamen&Lacasitos",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3308.m3u8"
+                            "url": "http://91.204.214.106:23201/stolen/233w/xenixos.7z"
                 },
                 {
                             "name": "BENFICA TV 2 pt opc1 ace",
@@ -209,7 +196,7 @@
 										{
                             "name": "SPORTING TV Bosslulamen&Lacasitos",
                             "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
-                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8"
+                            "url": "http://91.204.214.106:23201/stolen/242a/xenixos.7z"
                 },
 				{
                             "name": "SPORTING TV Novo",
