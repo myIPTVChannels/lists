@@ -21,7 +21,7 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwwxru1438374081.png" group title="World", Sky News [1080p]
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/y60wDzZt8yg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/eTYwd0R6WnQ4eWcuMQ.96/hls_chunk_host/r3---sn-2vgu0b5auxaxjvh-apne.googlevideo.com/gcr/pt/playlist_type/DVR/pmbypass/yes/mm/32/mn/sn-2vgu0b5auxaxjvh-apne/ms/lv/mv/m/pcm2cms/yes/pl/40/dover/3/keepalive/yes/sver/3/fexp/9406983,9416126,9420452,9422596,9423662/upn/AMPSXdVNzoc/mt/1452281647/ip/2001:8a0:7f41:5501:920:b551:b185:c615/ipbits/0/expire/1452303315/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,gcr,playlist_type,pmbypass,mm,mn,ms,mv,pcm2cms,pl/signature/3559A0825AE95FEB47745C1C2D9E92DCAF7EF5EC.30A5C32E0BC783A9DD6EB61D4523FDAC1BC97C81/key/dg_yt0/playlist/index.m3u8
+http://www.youtube.com/watch?v=y60wDzZt8yg
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uyyvps1434018285.png" group title="World", RT USA [HD]
 http://rt-lh.akamaihd.net/i/ch_04@325608/index_720p_av-p.m3u8?sd=10&amp;rebase=on
