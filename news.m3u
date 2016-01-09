@@ -20,8 +20,8 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal", TPA Internacional [FSD]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwwxru1438374081.png" group title="World", Sky News [1080p]
-http://www.youtube.com/watch?v=y60wDzZt8yg
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwwxru1438374081.png" group title="World", Sky News [1080p] (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y60wDzZt8yg
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uyyvps1434018285.png" group title="World", RT USA [HD]
 http://rt-lh.akamaihd.net/i/ch_04@325608/index_720p_av-p.m3u8?sd=10&amp;rebase=on
@@ -38,7 +38,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&re
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png", Aljazeera English
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/ABC_News_2013b.png", ABC News [COLOR blue]HD[/COLOR]
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/ABC_News_2013b.png", ABC News [HD]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png", Bloomberg
