@@ -5,14 +5,20 @@ http://0.0.0.0:1234
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV-1 (Public)" tvg-logo="public.jpg" group-title="NASA TV",[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1 tvg-id="NTV-1 (Public)" tvg-logo="public.jpg" group-title="NASA TV",[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]HD[/COLOR][/COLOR] (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HDh4uK9PvJU
 #EXTINF:-1 tvg-id="NTV-2 (Education)" tvg-logo="edu.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV-2 (Education)" tvg-logo="edu.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
 http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
+#EXTINF:-1 tvg-id="NTV-2 (Education)" tvg-logo="edu.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]HD[/COLOR][/COLOR] (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nhORZ6Ep_jE
 #EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/10414700/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
 http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+#EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]HD[/COLOR][/COLOR] (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OX9I1KyNa8M
 #EXTINF:-1 tvg-logo="iss.jpg" group-title="NASA TV",[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR blue][B]By: [I]Rui Moreira[/I][/B][/COLOR]
