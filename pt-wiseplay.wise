@@ -711,12 +711,12 @@
                  {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5547.m3u8"
+                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/211.m3u8"
                  },
                  {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5548.m3u8"
+                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/212.m3u8"
                  },
                       
     ]
