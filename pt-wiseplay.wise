@@ -606,7 +606,7 @@
 					{
                         "name": "Nat Geo Wild",
                         "image": "http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3306.m3u8"
+                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/1648.m3u8"
                     },
 					{
                         "name": "Odiseia",
@@ -626,7 +626,7 @@
                     {
                         "name": "AXN White HD",
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8"
+                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/1646.m3u8"
                     },
 									{
                         "name": "FX",
@@ -647,7 +647,7 @@
 					{
                         "name": "FOX Life HD",
                         "image": "http://4.bp.blogspot.com/-Ct7fmLFCJSI/VhOA-w5pJBI/AAAAAAAAGR8/lwqLfU2g8Ao/s1600/fox-life.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8"
+                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/1650.m3u8"
                     },
 					{
                         "name": "FOX Movies",
@@ -683,7 +683,7 @@
 								{
                         "name": "TV SERIES",
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3304.m3u8"
+                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2920.m3u8"
                  },
 				 {
                         "name": "TVCine 1 HD",
@@ -1575,7 +1575,7 @@
 				                {
                         "name": "HOT TV PT(+18)",
                         "image": "http://meogo.meo.pt/oquee/PublishingImages/CanaisPremium/premium_mobile_hot.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3262.m3u8"
+                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2710.m3u8"
                 },
 								{
                         "name": "VENUS PT(+18)",
