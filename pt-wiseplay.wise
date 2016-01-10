@@ -729,7 +729,7 @@
                 {
                         "name": "La 2",
                         "image": "http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png",
-                        "url": "http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8",
+                        "url": "http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8"
                 },
                 {
 			"name": "Antena 3 HD",
@@ -741,7 +741,7 @@
 			"image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
 			"url": "http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-b.m3u8"
 		},
-       	{
+       	        {
 			"name": "Telecinco HD",
 			"image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
 			"url": "http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8"
