@@ -80,6 +80,8 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8
 #EXTINF:-1 audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png" group title="Portugal", TVI Ficção [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8
+#EXTINF:-1 audio-track="pt" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2015/09/tviReality.jpg" group title="Portugal", TVI Reality 
+http://bit.do/bJoVs
 
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
