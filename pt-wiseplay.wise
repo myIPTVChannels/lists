@@ -724,33 +724,32 @@
 					{
 			"name": "La 1 HD",
 			"image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
-			"url": "rtmp://31.220.0.86/pull/ playpath=laprimera6?keys=b9VDY2TMfUdqnfPblYf_sg&keyt=1443156208 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=laprimera6&width=600&height=450"
+			"url": "http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8"
 		},
                 {
                         "name": "La 2",
                         "image": "http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png",
-                        "url": "http://gblackstreaming.com/embed.php?a=33&id=&width=650&height=400&autostart=true&strech=",
-                        "isHost": "true"
+                        "url": "http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8",
                 },
                 {
 			"name": "Antena 3 HD",
 			"image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antena3hd.png/200px-Antena3hd.png",
-			"url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8"
+			"url": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8"
 		},
 		{
 			"name": "Cuatro HD",
 			"image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
-			"url": "rtmp://31.220.0.155/pull/ playpath=cuatrocu?keys=mnWnW5FSPhr6SP4YnvdN4Q&keyt=1443156430 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cuatrocu&width=600&height=450"
+			"url": "http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-b.m3u8"
 		},
        	{
 			"name": "Telecinco HD",
 			"image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
-			"url": "rtmp://31.220.40.39/pull/ playpath=telecincoin?keys=7Bi3FEX-IbR1oBpDuwWs-g&keyt=1443156534 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=telecincoin&width=600&height=450"
+			"url": "http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8"
 		},
 		{
 			"name": "La Sexta HD",
 			"image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_de_la_Sexta_HD.png/200px-Logo_de_la_Sexta_HD.png",
-			"url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8"
+			"url": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8"
 		},
 		{
                         "name": "NON STOP PEOPLE HD",
@@ -765,7 +764,7 @@
 		{
 			"name": "Energy HD",
 			"image": "http://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",
-			"url": "rtmp://31.220.40.59/pull/ playpath=energy35?keys=nLfsRREYy-7jgPCNmiaQRw&keyt=1443156954 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=energy35&width=600&height=450"
+			"url": "http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8"
 		},
 		{
 			"name": "Divinity HD",
