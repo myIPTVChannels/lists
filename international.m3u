@@ -2,6 +2,7 @@
 
 #EXTINF:-1, [B][COLOR blue]CANAIS INTERNACIONAIS[/COLOR][/B]
 http://0.0.0.0
+-----------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]INGLATERRA[/COLOR][/B]
 http://0.0.0.0
 #EXTINF:-1, World Fashion Channel [B][COLOR green]FHD[/COLOR][/B]
@@ -42,3 +43,49 @@ http://lv7.oedg.ustvnow.com/dvrtest/mp4:0948BWPMTUSTVNOW4/chunklist.m3u8?f1a2823
 
 #EXTINF:-1, Arirang TV World [B][COLOR blue]HD[/COLOR][/B]
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+----------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]MOLDAVIA/ROMENIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:0, MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+#EXTINF:0, Moldova 1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:0, Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:0, Publika TV
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+#EXTINF:0, Realitatea TV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+#EXTINF:0, TVR
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:1,Pro tv
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:1,M1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:1,Tvr
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:1,Bravo
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+#EXTINF:1,Rtr
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+#EXTINF:1,N4
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+#EXTINF:1,Alt tv
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+#EXTINF:1,Accent
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+#EXTINF:1,Ren tv
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+#EXTINF:1,Busuioc tv
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+#EXTINF:1,2Plus tv
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+#EXTINF:1,Canal3
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+#EXTINF:0,Russia Today
+http://87.248.160.8/edge/smil:rust/playlist.m3u8
+#EXTINF:0,DW
+http://87.248.160.8/edge/smil:dw/playlist.m3u8
+------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]inter[/COLOR][/B]
+http://0.0.0.0
