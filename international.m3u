@@ -1,1 +1,44 @@
-Inter Channels
+#EXTM3U
+
+#EXTINF:-1, [B][COLOR blue]CANAIS INTERNACIONAIS[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1, [B][COLOR red]INGLATERRA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1, World Fashion Channel [B][COLOR green]FHD[/COLOR][/B]
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8
+
+#EXTINF:-1, ABC [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:FEEC6WHTMUSTVNOW4/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:-1, CBS [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:831C3WHP0USTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:-1, NBC [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:53AE6WGALUSTVNOW4/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:-1, PBS [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:C1AAFWPSUUSTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:-1, The CW [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:65A04WLYHUSTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:-1, Russia Today [B][COLOR blue]HD[/COLOR][/B]
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8|X-Forwarded-For=78.43.32.8
+
+#EXTINF:-1, Nasa TV Public [B][COLOR blue]HD[/COLOR][/B]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1, Nasa TV Educational [B][COLOR blue]HD[/COLOR][/B]
+http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
+
+#EXTINF:-1, Nasa TV Media [B][COLOR blue]HD[/COLOR][/B]
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+
+#EXTINF:-1, ABC News [B][COLOR blue]HD[/COLOR][/B]
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Fox [B][COLOR blue]HD[/COLOR][/B]
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:0948BWPMTUSTVNOW4/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fc4f0400f082ec3baee8c0a5b680f6bebd7add991d91c9571bf8c068de65f466d3
+
+#EXTINF:-1, Arirang TV World [B][COLOR blue]HD[/COLOR][/B]
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
