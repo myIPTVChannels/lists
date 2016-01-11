@@ -87,5 +87,14 @@ http://87.248.160.8/edge/smil:rust/playlist.m3u8
 #EXTINF:0,DW
 http://87.248.160.8/edge/smil:dw/playlist.m3u8
 ------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]HUNGRIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,Light Channel TV
+rtsp://streamer1.streamhost.org/salive/hungarian
+#EXTINF:-1,Oxygen_Hir_TV_640_360
+rtmp://91.82.85.41:1935/liverelay/o2tv.sdp
+#EXTINF:-1,Dunaujvaros DSTV_MX
+http://91.82.85.71:1935/liverelay/dstv.sdp/playlist.m3u8
+----------------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]inter[/COLOR][/B]
 http://0.0.0.0
