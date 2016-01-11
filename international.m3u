@@ -96,5 +96,64 @@ rtmp://91.82.85.41:1935/liverelay/o2tv.sdp
 #EXTINF:-1,Dunaujvaros DSTV_MX
 http://91.82.85.71:1935/liverelay/dstv.sdp/playlist.m3u8
 ----------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]UCRANIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1, First National
+http://kirito.la.net.ua/tv/9001.m3u8
+#EXTINF: -1,1 + 1
+http://kirito.la.net.ua/tv/9002.m3u8
+#EXTINF:-1, TET
+http://kirito.la.net.ua/tv/9010.m3u8
+#EXTINF:-1, TONIS
+http://kirito.la.net.ua/tv/9011.m3u8
+#EXTINF:-1, Gamma
+http://kirito.la.net.ua/tv/9015.m3u8
+#EXTINF: -1,2 + 2
+http://kirito.la.net.ua/tv/9016.m3u8
+#EXTINF:-1, PlyusPlyus
+http://kirito.la.net.ua/tv/9017.m3u8
+#EXTINF:-1, Mega
+http://kirito.la.net.ua/tv/9021.m3u8
+#EXTINF:-1, QTV
+http://kirito.la.net.ua/tv/9022.m3u8
+#EXTINF:-1, Ru Music
+http://kirito.la.net.ua/tv/9025.m3u8
+#EXTINF:-1, MusicBox UA
+http://kirito.la.net.ua/tv/9028.m3u8
+#EXTINF:-1, Dobro
+http://kirito.la.net.ua/tv/9031.m3u8
+#EXTINF:-1, NewsOne
+http://kirito.la.net.ua/tv/9034.m3u8
+#EXTINF:-1, Busines
+http://kirito.la.net.ua/tv/9036.m3u8
+#EXTINF:-1, Ubr
+http://kirito.la.net.ua/tv/9038.m3u8
+#EXTINF:-1, CHP.INFO
+http://kirito.la.net.ua/tv/9039.m3u8
+#EXTINF:-1, Maxxi-TV
+http://kirito.la.net.ua/tv/9041.m3u8
+#EXTINF:-1, Planet
+http://kirito.la.net.ua/tv/9042.m3u8
+#EXTINF:-1, Rymp
+http://kirito.la.net.ua/tv/9044.m3u8
+#EXTINF:-1, Curler
+http://kirito.la.net.ua/tv/9047.m3u8
+#EXTINF: -1,112
+http://kirito.la.net.ua/tv/9053.m3u8
+#EXTINF:-1, About everything
+http://kirito.la.net.ua/tv/9055.m3u8
+#EXTINF:-1, UNIAN TV
+http://kirito.la.net.ua/tv/9065.m3u8
+#EXTINF:-1, Ukraine Today
+http://kirito.la.net.ua/tv/9068.m3u8
+#EXTINF:-1, EuroNews
+http://kirito.la.net.ua/tv/9070.m3u8
+#EXTINF:-1, Gromadska-TB
+http://kirito.la.net.ua/tv/1001.m3u8
+#EXTINF:-1, Espreso HD
+http://kirito.la.net.ua/tv/1002.m3u8
+#EXTINF:-1, Hel.tv
+http://kirito.la.net.ua/tv/1004.m3u8
+-------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]inter[/COLOR][/B]
 http://0.0.0.0
