@@ -155,5 +155,35 @@ http://kirito.la.net.ua/tv/1002.m3u8
 #EXTINF:-1, Hel.tv
 http://kirito.la.net.ua/tv/1004.m3u8
 -------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]FRANCA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:0,Teleclub West MOVIES mp4
+http://teleclub.fr/west.mp4?start=0
+#EXTINF:0,Teleclub Sicence Fiction
+http://teleclub.fr/sfx.mp4?start=0
+#EXTINF:0,Teleclub Mystries TV
+http://tvclub.fr/ch12.ts
+#EXTINF:0,Teleclub Club de Noël
+http://tvclub.fr/ch14.ts
+#EXTINF:0,Teleclub WEST .ts
+http://tvclub.fr/ch08.ts
+#EXTINF:0,Teleclub CLUB 1
+http://tvclub.fr/ch01.ts
+#EXTINF:0,Teleclub MusicBox
+http://teleclub.fr/ch07.ts
+#EXTINF:0,Teleclub DOCUMENTARY
+http://tvclub.fr/ch04.ts
+#EXTINF:0,Teleclub Collection
+http://tvclub.fr/ch00.ts
+#EXTINF:0,Teleclub COMEDY
+http://teleclub.fr/rire.mp4?start=0
+#EXTINF:0,Teleclub VINTAGE
+http://teleclub.fr/carreblanc.mp4?start=0
+#EXTINF:-1,Teleclub CineFil
+http://tvclub.fr/ch09.ts
+#EXTINF:0,Teleclub Premiere
+http://teleclub.fr/cinetoile.mp4?start=0
+#EXTINF:0,Teleclub CINQ+
+http://tvclub.fr/ch05.ts
 #EXTINF:-1, [B][COLOR red]inter[/COLOR][/B]
 http://0.0.0.0
