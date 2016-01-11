@@ -185,5 +185,17 @@ http://tvclub.fr/ch09.ts
 http://teleclub.fr/cinetoile.mp4?start=0
 #EXTINF:0,Teleclub CINQ+
 http://tvclub.fr/ch05.ts
+--------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]ISRAEL[/COLOR][/B]
+http://0.0.0.0
+#EXTINF: 0,IL LAND
+http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8
+#EXTINF:-1,Shalom Tv
+http://109.68.190.192:1935/israil/israil.stream/playlist.m3u8
+#EXTINF: 0,Hidabrut
+http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8
+#EXTINF: 0,Mair Tv
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+------------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]inter[/COLOR][/B]
 http://0.0.0.0
