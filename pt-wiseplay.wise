@@ -169,7 +169,7 @@
 		{
                             "name": "BENFICA TV 1 Bosslulamen&Lacasitos",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://91.204.214.106:23201/stolen/250l/xenixos.7z"
+                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/783.m3u8"
                 },
                 {
                             "name": "BENFICA TV 1 pt opc1 ON ace",
@@ -196,12 +196,12 @@
 										{
                             "name": "SPORTING TV Bosslulamen&Lacasitos",
                             "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
-                            "url": "http://91.204.214.106:23201/stolen/242a/xenixos.7z"
+                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/787.m3u8"
                 },
 				{
                             "name": "SPORTING TV Novo",
                             "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
-                            "url": "http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7847.m3u8"
+                            "url": "http://91.204.214.106:23201/stolen/242a/xenixos.7z"
                 },
 				{
                             "name": "Sport 1 Voetboll ace jogos da liga portuguesa",
@@ -571,22 +571,22 @@
 									{
                         "name": "Abola TV (PT)",
                         "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5540.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/781.m3u8"
                     },
 									{
                             "name": "PORTO CANAL Bosslulamen&Lacasitos",
                             "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
-                            "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2708.m3u8"
+                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/785.m3u8"
                     },
 					{
                         "name": "Caça y Pesca",
                         "image": "http://4.bp.blogspot.com/-LXaNAwkPqak/VTaSNHOU67I/AAAAAAAAFDg/bGPtESadCcQ/s1600/caza%2By%2Bpesca.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5543.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1435.m3u8"
                     },
 					{
                         "name": "CM TV",
                         "image": "http://4.bp.blogspot.com/-79rUnfByE0A/VhNXhQ8Q0JI/AAAAAAAAGP4/-7uoNFoYBbA/s1600/CM_TVpng.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/771.m3u8"
                     },
 					{
                         "name": "CBS Reality",
@@ -606,12 +606,12 @@
 					{
                         "name": "Nat Geo Wild",
                         "image": "http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/1648.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/840.m3u8"
                     },
 					{
                         "name": "Odiseia",
                         "image": "http://megatvonline.es/kaiserintv/logos/documentales/logoodisea.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3230.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/837.m3u8"
                     },
 					{
                         "name": "FASHION TV HD",
@@ -626,39 +626,39 @@
                     {
                         "name": "AXN White HD",
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/1646.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/811.m3u8"
                     },
 									{
                         "name": "FX",
                         "image": "http://canakanten.net/wp-content/uploads/fx.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3231.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/816.m3u8"
                     },
 					
 									{
                         "name": "FOX HD",
                         "image": "http://maresvivas.meo.pt/content/img/fox_2.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/812.m3u8"
                     },
 					{
                         "name": "FOX Crime HD",
                         "image": "http://3.bp.blogspot.com/-adoBh5WVbwQ/VhODhnlorpI/AAAAAAAAGSI/DFteSBFbjww/s1600/Fox-Crime.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/813.m3u8"
                     },
 					{
                         "name": "FOX Life HD",
                         "image": "http://4.bp.blogspot.com/-Ct7fmLFCJSI/VhOA-w5pJBI/AAAAAAAAGR8/lwqLfU2g8Ao/s1600/fox-life.png",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/1650.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/815.m3u8"
                     },
 					{
                         "name": "FOX Movies",
                         "image": "http://2.bp.blogspot.com/-jRzG1Dkqqpg/VhN_KSkNSOI/AAAAAAAAGRw/Qdx088aX3Ec/s1600/Fox_Movies.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/5550.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/814.m3u8"
                     },
 					
 									{
                         "name": "História",
                         "image": "http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3238.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/836.m3u8"
                     },
 									{
                         "name": "Hollywood",
@@ -668,42 +668,42 @@
 									{
                         "name": "SyFy",
                         "image": "http://img3.wikia.nocookie.net/__cb20110408015403/logopedia/images/d/dc/Syfy_hd.png",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2717.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/820.m3u8"
                     },
 									{
                         "name": "AFRO Music",
                         "image": "http://1.bp.blogspot.com/-JFocXAe9vKE/VVsVpMmoPhI/AAAAAAAAFJg/DxauxeVau9k/s1600/Destaque%2BLan%25C3%25A7amento%2BAfro%2BMusic%2BChannel%2Bna%2BVodafone.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/832.m3u8"
                     },
 									{
                         "name": "24 Kitchen HD",
                         "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3243.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1434.m3u8"
                     },
 								{
                         "name": "TV SERIES",
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2920.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/807.m3u8"
                  },
 				 {
                         "name": "TVCine 1 HD",
                         "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/209.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/803.m3u8"
                  },
 				 {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/210.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/804.m3u8"
                	 },
                  {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/211.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/805.m3u8"
                  },
                  {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/212.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/806.m3u8"
                  },
                       
     ]
