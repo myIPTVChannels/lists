@@ -526,7 +526,7 @@
                     {
                             "name": "TVI REALITY (A QUINTA)",
                             "image": "http://1.bp.blogspot.com/-Wy8eiOgDnrU/VhggLLxKeTI/AAAAAAAAuf8/2RknFrCz4os/s1600/AQUINTA.png",
-                            "url": "rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430"
+                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1657.m3u8"
                     },
                                     {
                             "name": "RTP INTERNACIONAL",
@@ -1574,12 +1574,17 @@
 				                {
                         "name": "HOT TV PT(+18)",
                         "image": "http://meogo.meo.pt/oquee/PublishingImages/CanaisPremium/premium_mobile_hot.png",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2710.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1588.m3u8"
+                },         
+                        					{
+                        "name": "Playboy TV USA (+18)",
+                        "image": "https://thesinosaudiblog.files.wordpress.com/2010/03/pb-tv.jpg",
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1584.m3u8"
                 },
 								{
                         "name": "VENUS PT(+18)",
                         "image": "http://fotos.sapo.pt/AYSfHwIZNFyP2gOzvMSS/500x500",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3261.m3u8"
+                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1586.m3u8"
                 },
 				
 				                {
