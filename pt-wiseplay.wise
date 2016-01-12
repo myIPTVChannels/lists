@@ -1576,12 +1576,12 @@
                         "image": "http://meogo.meo.pt/oquee/PublishingImages/CanaisPremium/premium_mobile_hot.png",
                         "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1585.m3u8"
                 },         
-                        					{
+                				{
                         "name": "Playboy TV USA (+18)",
                         "image": "https://thesinosaudiblog.files.wordpress.com/2010/03/pb-tv.jpg",
                         "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1584.m3u8"
                 },
-								{
+						{
                         "name": "VENUS PT(+18)",
                         "image": "http://fotos.sapo.pt/AYSfHwIZNFyP2gOzvMSS/500x500",
                         "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1586.m3u8"
