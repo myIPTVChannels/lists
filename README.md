@@ -27,9 +27,9 @@ News Channels: news.m3u = http://git.io/vlxJD
 
 Radios: radios.m3u = http://git.io/vuWqF
 
-United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP
+~~United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP~~
 
-Russia RU Channels: ru.m3u = http://git.io/vZoha
+~~Russia RU Channels: ru.m3u = http://git.io/vZoha~~
 
 Indian IN Channels: hindi.m3u = http://git.io/vZoJg
 
