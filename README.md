@@ -10,6 +10,7 @@ Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqu
 
 ##Tutoriais
 1 - Legendas nos filmes - http://kodiportugal.pt/adicionar-legendas-nos-filmes-e-series/
+
 2 - Usar várias listas  - http://kodiportugal.pt/usar-varias-listas-iptv/
 
 ##URLs myIPTVChannels (Kodi, VLC, etc.)
