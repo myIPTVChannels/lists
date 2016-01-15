@@ -13,6 +13,8 @@ Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqu
 
 2 - Usar várias listas  - http://kodiportugal.pt/usar-varias-listas-iptv/
 
+3 - Add-on do Projecto  - http://kodiportugal.pt/surikata-tv-filmes-series-iptv/
+
 ##URLs myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
 
