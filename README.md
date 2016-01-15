@@ -8,6 +8,10 @@ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram r
 ##Addon surikata TV (Kodi)
 Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqui presentes já configuradas. Agora basta adicionar o repositório <b>http://kodi.discavehb.com</b>, instalar o mesmo (discave.repo.zip) e depois adicionar o addon: Discave Repositório > Video addon > <b>"surikata TV"</b>.
 
+##Tutoriais
+1 - Legendas nos filmes - http://kodiportugal.pt/adicionar-legendas-nos-filmes-e-series/
+2 - Usar várias listas  - http://kodiportugal.pt/usar-varias-listas-iptv/
+
 ##URLs myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
 
