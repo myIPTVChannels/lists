@@ -628,6 +628,13 @@
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
                         "url": "http://www.t12v.com:8000/live/afef/afef/1155.m3u8"
                     },
+                    {
+			"name": "FDF",
+			"image": "http://www.formulatv.com/fotos/a/76000/76431/padbf9eho699ynmv5c4fa5578f9aca2_logo-factoria-de-ficcion.png",
+			"url": "http://tv.verdirectotv.org/channel.php?file=103951&width=650&height=400&autostart=true",
+			"referer": "http://cinestrenostv.tv/canales/emision4/fdf.html",
+			"isHost": "true"
+		    },
 									{
                         "name": "FX",
                         "image": "http://canakanten.net/wp-content/uploads/fx.png",
