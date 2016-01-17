@@ -95,7 +95,6 @@ No nosso grupo do Facebook: https://www.facebook.com/groups/listasiptv/
 
 No blog do Adriano Afonso: http://www.adrianoafonso.net/blog/2015/kodi-no-raspberrypi-mediacenter/
 
-Como usar várias listas ao mesmo tempo no KODI - http://kodiportugal.com/PlayList.pdf
 
 ##Channels Sources
 
