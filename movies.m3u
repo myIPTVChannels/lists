@@ -174,13 +174,13 @@ http://www.watch-simpsons.com/downloads/The%20Walking%20Deceased%20(2015)%20%5b1
 
 #EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/14_11/2015/884732/l_884732_d04d9db8.jpg", The Wedding Ringer [COLOR blue](2015)[/COLOR]
 http://www.watch-simpsons.com/downloads/The%20Wedding%20Ringer%20(2015)/The.Wedding.Ringer.2015.720p.BluRay.x264.YIFY.mp4
-#EXTINF:-1, tvg-logo="https://www.cinematerial.com/media/posters/md/md/mdjvkmug.jpg", Escape Plan [COLOR blue](2013)[/COLOR] [COLOR red][SD][/COLOR] 
+#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/md/mdjvkmug.jpg", Escape Plan [COLOR blue](2013)[/COLOR] [COLOR red][SD][/COLOR] 
 http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4 
-‪#EXTINF:-1, tvg-logo="https://www.cinematerial.com/media/posters/md/x1/x1zhjkkb.jpg", Flight: Decisao de Risco [COLOR blue](2012)[/COLOR] [COLOR red][SD][/COLOR]
-http://www.deadlyblogger.com/NewRelease/flight1.mp4 
-#EXTINF:-1, tvg-logo="https://www.cinematerial.com/media/posters/md/qp/qptxrvdh.jpg", Grudge Match [COLOR blue](2013)[/COLOR] [COLOR red][SD][/COLOR] 
+‪#EXTINF:-, tvg-logo="https://www.cinematerial.com/media/posters/md/x1/x1zhjkkb.jpg", Flight: Decisao de Risco [COLOR blue](2012)[/COLOR] [COLOR red][SD][/COLOR]
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/qp/qptxrvdh.jpg", Grudge Match [COLOR blue](2013)[/COLOR] [COLOR red][SD][/COLOR]
 http://www.deadlyblogger.com/NewRelease/grudgematch.mp4 
-#EXTINF:-1, tvg-logo="https://www.cinematerial.com/media/posters/md/0q/0qzo0h1r.jpg", Maleficent [COLOR blue](2014)[/COLOR] [COLOR red][SD][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/0q/0qzo0h1r.jpg", Maleficent [COLOR blue](2014)[/COLOR] [COLOR red][SD][/COLOR]
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
 
 -------------------
