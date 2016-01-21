@@ -1,12 +1,6 @@
 #EXTM3U
-
-
-
-
-
-
-
 #EXTINF:-1, [COLOR yellow]--Brazilian--[/COLOR] 
+http://
 
 #EXTINF:0, ZOOMOO
 http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8
@@ -29,11 +23,8 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
 http://bit.do/bkWKR
 
 
-
-
-
 #EXTINF:-1, [COLOR yellow]--Spanish--[/COLOR]
-
+http://
 
 #EXTINF:0,Nickeloden
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE02-954/1369-20160121T130440.ts
