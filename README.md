@@ -22,7 +22,7 @@ Sports Channels: sports.m3u = http://git.io/vZPSM
 
 Portugal Channels para Wiseplay: pt-wiseplay.wise = http://git.io/v8TRX
 
-Portugal Channels XML: pt.xml = http://git.io/vut0O
+~~Portugal Channels XML: pt.xml = http://git.io/vut0O~~
 
 Movies: movies.m3u = http://git.io/vnUb0
 
