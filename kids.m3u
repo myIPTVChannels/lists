@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1, [COLOR red]Atualizado a 21-01-16[/COLOR]
+
+
+
+
 #EXTINF:-1, [COLOR yellow]--Brazilian--[/COLOR] 
 
 #EXTINF:0, ZOOMOO
@@ -22,3 +27,13 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
 
 #EXTINF:-1, Nickeloden 1080p (Rus/Eng)
 http://bit.do/bkWKR
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]--Spanish--[/COLOR]
+
+
+#EXTINF:-1,NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
