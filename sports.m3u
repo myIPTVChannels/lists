@@ -354,6 +354,11 @@ http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png" group-title="UK",Sky Sports 5 [FSD]
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/6/3/63341/espn_brasil.png", ESPN BRASIL [SD]
+http://213.163.65.116:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.noticiasemoda.com.br/wp-content/uploads/2012/02/fox-sports-brasil1-300x200.jpg", FOX SPORTS [SD]
+http://213.163.65.116:8081/live/foxsport/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="UK",Sky Sports F1 [FSD]
 rtmpe://134.19.185.204:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
 
