@@ -46,6 +46,7 @@ http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 
 #EXTINF:0, EL FINANCIERO BLOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR yellow]Documentaries[/COLOR][/B]
 http://0.0.0.0
@@ -103,6 +104,18 @@ http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, H&H HD
 http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+----------------------------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]DUBAI[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,Dubai
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=1053886998
+#EXTINF:-1,Sama dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/gmswf.m3u8?v=1053886998
+#EXTINF:-1,Dubai drama
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/gmswf.m3u8?v=1053886998
+#EXTINF:-1,Future tv
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 
 ----------------------------------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]MOLDAVIA/ROMENIA[/COLOR][/B]
@@ -175,7 +188,7 @@ http://kirito.la.net.ua/tv/9016.m3u8
 http://kirito.la.net.ua/tv/9017.m3u8
 #EXTINF:-1, Mega
 http://kirito.la.net.ua/tv/9021.m3u8
-#EXTINF:-1, QTV
+#EXTINF:-1, QTV [COLOR orange]OFF[/COLOR]
 http://kirito.la.net.ua/tv/9022.m3u8
 #EXTINF:-1, Ru Music
 http://kirito.la.net.ua/tv/9025.m3u8
@@ -257,6 +270,225 @@ http://109.68.190.192:1935/israil/israil.stream/playlist.m3u8
 http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8
 #EXTINF: 0,Mair Tv
 http://82.80.198.100:1935/live/live1/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]CHINA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1, CHC TV
+http://202.199.27.91/chchd.m3u8
+#EXTINF:-1, HUNAN TV
+http://202.199.27.91/hunanhd.m3u8
+#EXTINF:-1, New Channel
+http://202.199.27.91/ahhd.m3u8
+#EXTINF:-1, ZJ TV
+http://202.199.27.91/zjhd.m3u8
+#EXTINF:-1, DF TV
+http://202.199.27.91/dfhd.m3u8
+#EXTINF:-1, SZ TV
+http://202.199.27.91/szhd.m3u8
+#EXTINF:-1, B T V1
+http://202.199.27.91/btv1hd.m3u8
+#EXTINF:-1, JS TV
+http://202.199.27.91/jshd.m3u8
+#EXTINF:-1, TJ TV
+http://202.199.27.91/tjhd.m3u8
+#EXTINF:-1, HB TV
+http://202.199.27.91/hbhd.m3u8
+#EXTINF:-1, GD TV
+http://202.199.27.91/gdhd.m3u8
+#EXTINF:-1, LN TV
+http://202.199.27.91/lnhd.m3u8
+#EXTINF:-1, HLJ TV
+http://202.199.27.91/hljhd.m3u8
+#EXTINF:-1, B T V2
+http://202.199.27.91/btv2hd.m3u8
+#EXTINF:-1, B T V3
+http://202.199.27.91/btv3.m3u8
+#EXTINF:-1, B T V4
+http://202.199.27.91/btv4.m3u8
+#EXTINF:-1, B T V5
+http://202.199.27.91/btv5.m3u8
+#EXTINF:-1, B T V6
+http://202.199.27.91/btv6hd.m3u8
+#EXTINF:-1, B T V7
+http://202.199.27.91/btv7.m3u8
+#EXTINF:-1, B T V8
+http://202.199.27.91/btv8.m3u8
+#EXTINF:-1, B T V9
+http://202.199.27.91/btv9.m3u8
+#EXTINF:-1, B T V10
+http://202.199.27.91/btv10.m3u8
+#EXTINF:-1, GS TV
+http://202.199.27.91/gstv.m3u8
+#EXTINF:-1, SX TV
+http://202.199.27.91/sxtv.m3u8
+#EXTINF:-1, DN TV
+http://202.199.27.91/dntv.m3u8
+#EXTINF:-1, CQ Tv
+http://202.199.27.91/cqtv.m3u8
+#EXTINF:-1, Jl TV
+http://202.199.27.91/jltv.m3u8
+#EXTINF:-1, GX TV
+http://202.199.27.91/gxtv.m3u8
+#EXTINF:-1, HN TV
+http://202.199.27.91/hntv.m3u8
+#EXTINF:-1, NX TV
+http://202.199.27.91/nxtv.m3u8
+#EXTINF:-1, YN TV
+http://202.199.27.91/yntv.m3u8
+#EXTINF:-1, LY TV
+http://202.199.27.91/lytv.m3u8
+#EXTINF:-1, XM TV
+http://202.199.27.91/xmtv.m3u8
+#EXTINF:-1, BT TV
+http://202.199.27.91/bttv.m3u8
+#EXTINF:-1, HeB TV
+http://202.199.27.91/hebtv.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]LATVIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,Vremja
+rtmp://streamer1.tvdom.tv/stream/Vremja.stream_720p
+#EXTINF:-1,Dom Kino
+rtmp://streamer1.tvdom.tv/stream/Dom_kino.stream_720p
+#EXTINF:-1,Karusel
+rtmp://streamer1.tvdom.tv/stream/Karusel.stream_720p
+#EXTINF:-1,MUZ1
+rtmp://streamer1.tvdom.tv/stream/MUZ1.stream_720p
+#EXTINF:-1,NTV
+rtmp://streamer1.tvdom.tv/stream/NTV.stream_720p
+#EXTINF:-1,PBK
+rtmp://streamer1.tvdom.tv/stream/PBK.stream_720p
+#EXTINF:-1,PBMK
+rtmp://streamer1.tvdom.tv/stream/PBMK.stream_720p
+#EXTINF:-1,REN
+rtmp://streamer1.tvdom.tv/stream/REN.stream_720p
+#EXTINF:-1,Telekafe
+rtmp://streamer1.tvdom.tv/stream/Telekafe.stream_720p
+
+------------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]TURQUIA[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,7/24 TV
+http://ift.tt/1NzwqeH
+#EXTINF:-1,360
+http://ift.tt/1OTkMtZ
+#EXTINF:-1,BEYAZ TV
+http://ift.tt/1OTkMu3
+#EXTINF:-1,BLOOMBERG HT
+http://ift.tt/1IEGgvj
+#EXTINF:-1,BLOOMBERG HT
+http://ift.tt/1OTkNhs
+#EXTINF:-1,CNN TÜRK HD
+http://ift.tt/1OTkMKp
+#EXTINF:-1,CNN TÜRK
+http://ift.tt/1IEGfHD
+#EXTINF:-1,DİSNEY CHANNEL
+http://ift.tt/1IEGgvn
+#EXTINF:-1,DREAM TV
+http://ift.tt/1wlhi73
+#EXTINF:-1,DREAM TV
+http://ift.tt/1IEGgvp
+#EXTINF:-1,DREAM TÜRK TV
+http://ift.tt/1OTkNxW
+#EXTINF:-1,DREAM TÜRK TV
+http://ift.tt/1wlhi75
+#EXTINF:-1,FLASH TV
+http://ift.tt/1RWIF68
+#EXTINF:-1,HABERTÜRK
+http://ift.tt/1OTkMKA
+#EXTINF:-1,HABERTÜRK
+http://ift.tt/1IEGfHJ
+#EXTINF:-1,IRMAK TV
+http://ift.tt/1OTkNy5
+#EXTINF:-1,KANAL 7 HD
+http://ift.tt/1IEGfHL
+#EXTINF:-1,KANAL 7 HD
+http://ift.tt/1OTkNy7
+#EXTINF:-1,KANAL 7 AVRUPA
+http://ift.tt/1IEGfHN
+#EXTINF:-1,KANAL 7 AVRUPA
+http://ift.tt/1OTkNyb
+#EXTINF:-1,KANAL A
+http://ift.tt/1HahiNi
+#EXTINF:-1,KANAL A
+http://ift.tt/1IEGgLO
+#EXTINF:-1,KANAL D
+http://ift.tt/1OTkNOp
+#EXTINF:-1,KANAL D
+http://ift.tt/1IEGgLR
+#EXTINF:-1,KANAL D
+http://ift.tt/1UJ35ke
+#EXTINF:-1,KANAL D
+http://ift.tt/1IEGgLT
+#EXTINF:-1,KANALTÜRK
+http://ift.tt/1iFP5ZZ
+#EXTINF:-1,NUMBER ONE TV
+http://ift.tt/1RWIFTt
+#EXTINF:-1,NUMBER ONE TÜRK TV
+http://ift.tt/1HahiNg
+#EXTINF:-1,POWER TV
+http://ift.tt/1OZGRIb
+#EXTINF:-1,POWERTÜRK TV
+http://ift.tt/1NugyIH
+#EXTINF:-1,SAMANYOLU EU
+http://ift.tt/1IEGh2b
+#EXTINF:-1,SAMANYOLU HABER
+http://ift.tt/1OTkPWC
+#EXTINF:-1,SHOW TV HD
+http://ift.tt/1IEGfY7
+#EXTINF:-1,SHOW TV HD
+http://ift.tt/1OTkPWK
+#EXTINF:-1,SHOWTÜRK
+http://ift.tt/1IEGh2e
+#EXTINF:-1,SHOWTÜRK
+http://ift.tt/1OTkNOH
+#EXTINF:-1,SHOWTÜRK
+http://ift.tt/1IEGfYb
+#EXTINF:-1,TGRT EU
+http://ift.tt/1IEGh2i
+#EXTINF:-1,TGRT HABER
+http://ift.tt/1OTkQd2
+#EXTINF:-1,TRT 1 HD
+http://ift.tt/1wlhiE2
+#EXTINF:-1,TRT 1 HD
+http://ift.tt/1IEGfYg
+#EXTINF:-1,TRT BELGESEL
+http://ift.tt/1VEL6Lq
+#EXTINF:-1,TRT ÇOCUK
+http://ift.tt/1N97qde
+#EXTINF:-1,TRT ÇOCUK
+http://ift.tt/1IEGh2q
+#EXTINF:-1,TRT HABER HD
+http://ift.tt/1xhMprn
+#EXTINF:-1,TRT HABER HD
+http://ift.tt/1OTkO51
+#EXTINF:-1,TRT HD
+http://ift.tt/1xhMrzn
+#EXTINF:-1,TRT HD
+http://ift.tt/1IEGhiG
+#EXTINF:-1,TRT MÜZİK
+http://ift.tt/1IC1YML
+#EXTINF:-1,TRT SPOR
+http://ift.tt/1FyAKqe
+#EXTINF:-1,TV2
+http://ift.tt/1IEGiTL
+#EXTINF:-1,TV2
+http://ift.tt/1OTkQd8
+#EXTINF:-1,TV8
+http://ift.tt/1NugyIr
+#EXTINF:-1,TVEM
+http://ift.tt/1HahfRz
+#EXTINF:-1,ÜLKE TV HD
+http://ift.tt/1OTkQdd
+#EXTINF:-1,ÜLKE TV HD
+http://ift.tt/1IEGhiL
+#EXTINF:-1,YABAN TV
+http://ift.tt/1IEGiTT
+#EXTINF:-1,YUMURCAK TV
+http://ift.tt/1OTkOlB
+
 ------------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]inter[/COLOR][/B]
 http://0.0.0.0
