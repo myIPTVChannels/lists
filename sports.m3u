@@ -505,3 +505,17 @@ http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 
 #EXTINF:-1, ARABIC-BAHRAIN SPORTS
 rtmp://alayam.netromedia.net/btv3/btv3
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN+" tvg-logo="http://img-youpeliculas.com/images/2015/10/07/espnm.png" ,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN+" tvg-logo="http://img-youpeliculas.com/images/2015/10/07/espnm.png" ,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN2" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn2.png" ,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn3.png" ,ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsports.png" ,FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsp2.png" ,FOX 2 SPORTS
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
