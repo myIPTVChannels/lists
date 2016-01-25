@@ -6,7 +6,7 @@ http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png" group title="Portugal", RTP 1 [SD]
-http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png" group title="Portugal", RTP 2 [SD]
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
