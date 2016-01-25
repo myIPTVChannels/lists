@@ -490,5 +490,181 @@ http://ift.tt/1IEGiTT
 http://ift.tt/1OTkOlB
 
 ------------------------------------------------------------------------------------
+
+#EXTINF:-1, [B][COLOR red]MEXICO[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/canalfox.png" group-title="Entretenimiento",FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/canalfox.png" group-title="Entretenimiento",FOX HQ
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX1 HD" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/fox1hd.png" group-title="Cine",FOX1 HQ
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX1 HD" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/fox1hd.png" group-title="Cine",FOX1 HQ
+http://200.76.77.237:80/LIVE/H01/CANAL415/PROFILE03.m3u8?-2020/1703-20151018T105438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Action" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/foxactionoZOcL.png" group-title="Cine",FOX Action
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/FOXMOVIESHD.png" group-title="Cine",FOX Movies
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies" tvg-logo="http://oneplay.tv/uploads/video_thumbs/foxcinemaqaSR.png" group-title="Cine",FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_2998.png" group-title="Cine",FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1tvg-ID="" tvg-name="FOX Movies" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Classic-Logo-01.png" group-title="Cine",FOX CLASSIC
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX life" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxlife.png" group-title="Entretenimiento",FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/fxhd.png" group-title="Entretenimiento",FX,FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinecanal+" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/cinecanmas.png" group-title="Cine",CINECANAL+
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinecanal" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cinecanal.png" group-title="Cine",CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/tnt.png" group-title="Cine",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/tnt.png" group-title="Cine",TNT LA
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/tntseries.png" group-title="Entretenimiento",TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golden HD" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/goldenhd.png" group-title="Cine",GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golden HD" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/goldenhd.png" group-title="Cine",GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filme Zone HD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/filmezone.png" group-title="Cine",FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="De Pelicula HD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/depeli.png" group-title="Cine",De Pelicula HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/amc.png" group-title="Cine",AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Space" tvg-logo="http://img-youpeliculas.com/images/2014/09/29/spacec.png" group-title="Cine",SPACE
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/cinemax1.png" group-title="Cine",CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Studio Universal" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/stuuni.png" group-title="Cine",STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tcmc.png" group-title="Cine",TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/canalae.png" group-title="Entretenimiento",A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/axnhd.png" group-title="Entretenimiento",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/canalsony.png" group-title="Entretenimiento",SONY HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Warner channel" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/warnerhd.png" group-title="Entretenimiento",WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel HD" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/unihd.png" group-title="Cine",UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TruTV" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tru.png" group-title="Entretenimiento",TRUE TV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/comedy.png" group-title="Entretenimiento",COMEDY CENTRAL HD
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Unicable" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/unicable.png" group-title="Entretenimiento",U UNICABLE HD
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Azcorazon" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/azcora.png" group-title="TV Abierta",AZ CORAZON HD
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC entertainment" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/bbc.png" group-title="Entretenimiento",BBC ENTERTAINMENT
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E!" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/eee.png" group-title="Entretenimiento",E!
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel HD" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/unihd.png" group-title="Cine",UNIVERSAL CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SyFy" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/syfy.png" group-title="Entretenimiento",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/idd.png" group-title="Entretenimiento", ID INVESTIGATION DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="Gourmet" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/elgourmet.png" group-title="Entretenimiento",GOURMET TV
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="Garaje TV" tvg-logo="http://img-youpeliculas.com/images/2015/03/25/garajetv.png" group-title="Entretenimiento",GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-name="glitz" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/glitz.png" group-title="Entretenimiento",GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Distrito Comedia" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/distritocomedia.png" group-title="Entretenimiento",DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TBS" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tbs.png" group-title="Entretenimiento",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,CASA
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="tlnovelas" tvg-logo="http://img-youpeliculas.com/images/2014/07/14/tlnovelas.png" group-title="Entretenimiento",TLNOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/discoverykids.png" group-title="Infantil",DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBeebies" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cbee.png" group-title="Infantil",CBEEBIES BBC
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Jr" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disnerjunior.png" group-title="Infantil",DISNEY JUNIOR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="nick jr" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nickjr.png" group-title="Infantil",NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="http://img-youpeliculas.com/images/2014/10/19/disneychanneln.png" group-title="Infantil",DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="http://vignette1.wikia.nocookie.net/qm-coorpration-channel/images/6/6e/Nicktoons.png" group-title="Infantil",NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="nick HD" tvg-logo="http://img-youpeliculas.com/images/2014/09/28/nickhd.png" group-title="Infantil",NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="nick" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png" group-title="Infantil",NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cn.png" group-title="Infantil",CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disneyxdesp.png" group-title="Infantil",DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/boomerang.png" group-title="Infantil",BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TIIN" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tiin.png" group-title="Infantil",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="tooncast" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tooncast.png" group-title="Infantil",TOON CAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/natwild.png" group-title="Mundo y Cultura",NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="World Discovery HD" tvg-logo="http://img-youpeliculas.com/images/2015/03/30/discowor.png" group-title="Mundo y Cultura",DISCOVERY WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery channel" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/dc.png" group-title="Mundo y Cultura",DISCOVERY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/animalplanet.png" group-title="Mundo y Cultura",ANIMALS PLANET DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H&H Discovery" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/hhd.png" group-title="Mundo y Cultura",H&H DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/natgreo.png" group-title="Mundo y Cultura",NATIONAL GEOGRAPHIC CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime" tvg-logo="http://img-youpeliculas.com/images/2014/10/02/lifetime.png" group-title="Mundo y Cultura",LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/sci.png" group-title="Mundo y Cultura",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Civilization" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/discv.png" group-title="Mundo y Cultura",DISCOVERY CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/turbo.png" group-title="Mundo y Cultura",DISCOVERY TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="http://img-youpeliculas.com/images/2014/09/27/tlc.png" group-title="Mundo y Cultura",TLC DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV live" tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/9/91/20141015105606!MTV_Live_HD_Logo.png" group-title="Mundo y Cultura",MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="http://vignette4.wikia.nocookie.net/the-hills/images/7/75/MTV_Logo_white1.png" group-title="Mundo y Cultura",MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEHIT" tvg-logo="http://www.tvctepa.com/servidorweb/images/Logos%20PNG/logo-telehit.png" group-title="Mundo y Cultura",TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bandamax" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png" group-title="Mundo y Cultura",BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="1 classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Vh1_classic.png" group-title="Mundo y Cultura",1 classic
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/30/VH1_India.png" group-title="Mundo y Cultura",VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PX tv" tvg-logo="http://www.pxtv.tv/wp-content/uploads/2015/10/Logo-Rojo-Con-Slogan-2500px-300x169.png" group-title="Deportes",PX TV
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN+" tvg-logo="http://img-youpeliculas.com/images/2015/10/07/espnm.png" group-title="Deportes",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN+" tvg-logo="http://img-youpeliculas.com/images/2015/10/07/espnm.png" group-title="Deportes",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN2" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn2.png" group-title="Deportes",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/espn3.png" group-title="Deportes",ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsports.png" group-title="Deportes",FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2" tvg-logo="http://img-youpeliculas.com/images/2014/07/15/foxsp2.png" group-title="Deportes",FOX 2 SPORTS
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+
+
+
+
+
 #EXTINF:-1, [B][COLOR red]inter[/COLOR][/B]
 http://0.0.0.0
