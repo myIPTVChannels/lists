@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR=orange][B]AGENDA DESPORTIVA ARENAVISION[/B][/COLOR] [COLOR=red]*Necessario PLEXUS[/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
+<thumbnail>http://i.imgur.com/OXrlo31.png</thumbnail>
+</item>
