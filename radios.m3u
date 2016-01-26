@@ -54,15 +54,15 @@ http://pub1.di.fm/di_djmixes_aacplus?&type=.flv
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/3/b/c/1/1/6/3bc1165683457f8b40e6f27c67f035f2.png" group-title="di.fm",DI.FM—DISCO HOUSE
 http://pub1.di.fm/di_discohouse_aacplus?&type=.flv
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/c/c/8/b/5/1cc8b5c256d603302446b51cc242b9fd.png" group-title="di.fm",DI.FM—VOCAL CHILLOUT
-http://goo.gl/qLs0Oj
+http://pub2.diforfree.org:8000/di_vocalchillout_hi
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/a/c/c/c/4/9/accc49b2d1b70feb5b21603d67cc444f.png" group-title="di.fm",DI.FM—VOCAL LOUNGE
-http://goo.gl/Xsh9a1
+http://pub2.diforfree.org:8000/di_vocallounge_hi
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/c/4/9/3/9/b/c4939b4e0129cd9abada597e35332db3.png" group-title="di.fm",DI.FM—AMBIENT
-http://goo.gl/KYZEXC
+http://pub2.diforfree.org:8000/di_ambient_hi
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/4/7/0/c/3/c/470c3c21ce2cc8a75de82bfd4e150db5.png" group-title="di.fm",DI.FM—BIG ROOM HOUSE
-http://goo.gl/nM9KJO
+http://pub2.diforfree.org:8000/di_bigroomhouse_hi
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/8/9/b/0/d/f/89b0dfb93cb7eba4d345d116f7fc00e7.png" group-title="di.fm",DI.FM—BASS & JACKIN HOUSE
-http://goo.gl/pnw00c
+http://pub2.diforfree.org:8000/di_bassnjackinhouse_hi
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/f/2/1/8/9/1f2189badb0bb9ccba20e54163afff69.png" group-title="di.fm", DI.FM-00's Club Hits
 http://pub2.diforfree.org:8000/di_00sclubhits_hi
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/d/b/2/f/e/c/db2fec32340bb5bc70750150794f2b02.png" group-title="di.fm", DI.FM-Bassline
