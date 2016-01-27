@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&name=SportTV1
 
@@ -38,12 +37,19 @@ plugin://program.plexus/?mode=1&url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&nam
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=BTV2
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&name=btv2
 
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/logo-americas.png" group-title="Desporto",Sport TV Américas [FSD]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/logo-americas.png" group-title="Desporto",Sport TV Américas [FSD]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport Klub 2 HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8ceba9805d3cdf5baa7a41167a943e41493fbe1e&name=
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport Klub 3 HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&name=
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto",Sport TV 1 [FSD]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
@@ -92,6 +98,8 @@ rtmp://178.162.211.97/live/ playpath=sportcanal1906?id=20795&pk=1ca74c78554532aa
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="Plexus",Sky Sports 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10351.acelive&amp;mode=1&amp;name=sky1
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="Plexus",Sky Sports 1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://9eae8bfcaf6841b27117604cd552d5d47b18fa2b&name=
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png" group-title="Plexus",Sky Sports 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12738.acelive&amp;mode=1&amp;name=skysports2
@@ -125,57 +133,91 @@ plugin://program.plexus/?mode=1&url=acestream://a3f3c82edac8c14ff7bb9b9a25a46d91
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 1 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://1fb25e97a67e248dd3b0063afdd9d011f3b2e622&mode=1&name=acestream&mode=1&name=ARENAVISION1
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://039ee3afe79ab0567cd778a1d376aafefcda8f4a&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 2 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://226a136156bcbfb38b7ffb0c006ff8057a3a2b71&mode=1&name=acestream&mode=1&name=ARENAVISION2
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 2 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://85634315e91c3707362ff47b57eb69939749a1c5&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 3 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://c9a478a606ac1a89b587fc33dd3875c2c399413d&mode=1&name=acestream&mode=1&name=ARENAVISION3
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 3 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e3daa00d6c84d6931fc69af153fc1295b982a1cf&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 4 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://9966974dcc3beea8a26ca80d4d44a392745f9bc9&mode=1&name=acestream&mode=1&name=ARENAVISION4
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 5 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://841e9d86b7f084d74e915f330ec0f72fef672720&mode=1&name=acestream&mode=1&name=ARENAVISION5
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 5 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://bcd888f75c82d570a9b7b65dac8915ca30f63669&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 6 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://3b9f349b604ebcbb95df13837f23273bf572d8ff&mode=1&name=acestream&mode=1&name=ARENAVISION6
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 6 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://cbbb9f9cddcdfe47b2e439238676d5feb353d3d3&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 7 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://cdd0d07b506da7c11ea7f1996b40e147772f8e3d&mode=1&name=acestream&mode=1&name=ARENAVISION7
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 7 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://94c2eb9c4ab461b69af937c1a80da2758b3ddc57&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 8 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://2333e543c96e5efc32a6812e72a3ee3ed9fcd468&mode=1&name=acestream&mode=1&name=ARENAVISION8
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 8 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://34e3ceb16b48f48f84df71d3e0df2e3bc58cae28&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 9 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://082773a0620f0f422df79e9ca6206afacd390592&mode=1&name=acestream&mode=1&name=ARENAVISION9
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 9 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://446122d3dc4a8d3a25f3c0eb4553b5535ce697a4&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 10 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://96e6352a9ec7f2fd877e0074d24ba14725cd9417&mode=1&name=acestream&mode=1&name=ARENAVISION10
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 10 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://2a72ce98686ec66c9fd42b9fd6e9e3cfd43e2c4c&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 11 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://df2a122905416b0664b608fbe98f863fed457548&mode=1&name=acestream&mode=1&name=ARENAVISION11
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 11 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://db857f446220eb8ac49f50056c241ec03be70307&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 12 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://4b504d4704066bc6386e02ff19ae2edbf7e1d5fe&mode=1&name=acestream&mode=1&name=ARENAVISION12
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 12 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://be7512886da5cd63fe306943b2b1f213cd00e28f&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 13 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://c1d440b686884a0ff0f21c439415d5dd1a09d24b&mode=1&name=acestream&mode=1&name=ARENAVISION13
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 13 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://187e1fa315f0af36c8c7fad940ccf63574a83883&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 14 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://58b9fb41fdd44d71596ebd604725ac4de8fe6085&mode=1&name=acestream&mode=1&name=ARENAVISION14
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 14 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://6c693abec46edf571b8620fef6b6fc434e96378f&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 15 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7dd7c43f4ad137851b98aefb453a4d3184dcac8d&mode=1&name=acestream&mode=1&name=ARENAVISION15
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 15 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3ea4ecca6f7ad205be23284f56edf871d26213cc&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 16 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://f90669ec7c24858b696111442d9b346661a51574&mode=1&name=acestream&mode=1&name=ARENAVISION16
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 16 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://68db0d585c512f48421e00381c7374f3c784d0d9&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 17 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://6dbd32f6f05f1af6aac073d9a285032080bdd487&mode=1&name=acestream&mode=1&name=ARENAVISION17
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 17 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://9a2ee3ab73ff301a3e9f882d9d850053962a4f89&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 18 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7cf25ec4d074f2a7741ad12220604a481254f22a&mode=1&name=acestream&mode=1&name=ARENAVISION18
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Arenavision 18 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://2d1ba49b0809c872cfcedd29668a8dac15dcaff5&name=
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 19 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://f85a01cb9418e8bfb8b9af7b0ddb7e69e4fb7494&mode=1&name=acestream&mode=1&name=ARENAVISION19
@@ -185,18 +227,31 @@ plugin://program.plexus/?mode=1&url=acestream://719565f991bcd94e288999bebd1512f2
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title="Plexus",Arena Sport 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://d33479c1c47dc23420fb5894cc71cedf650754eb&mode=1&name=acestream&mode=1&name=ARENASPORT1
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title="Plexus",Arena Sport 1 (Спорт) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://07e6572f996caf5171c50018f732ad38efa67eb4&name=Arena Sport 1
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png" group-title="Plexus",Arena Sport 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21&mode=1&name=acestream&mode=1&name=ARENASPORT2
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png" group-title="Plexus",Arena Sport 2 (Спорт) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a611bffd57f141c5091e7e7c835b64e9fdaa46a3&name=Arenasport2
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png" group-title="Plexus",Arena Sport 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9&mode=1&name=acestream&mode=1&name=ARENASPORT3
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png" group-title="Plexus",Arena Sport 3 (Спорт) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&name=arenasport3
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title="Plexus",Arena Sport 4 (Спорт) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d&name=arenasport4
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="Plexus",Eurosport (UK) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORTUK
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tytyxu1444912725.png" group-title="Plexus",Eurosport British [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://810cb483f5ecd9e380ab98e1b01ad7659f4ecbdc&name=
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="Plexus",Eurosport 2 (UK) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT2UK
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vspsqp1444912735.png" group-title="Plexus",Eurosport 2 British [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8d441efa70182c65291a1b739ec0c6eaa48d6921&name=
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wpttyu1433780385.png" group-title="Plexus",Premier Sports [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
@@ -209,18 +264,26 @@ plugin://program.plexus/?mode=1&url=acestream://77353129af1bafbf313e2a2925d91660
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/svtrtx1433355701.png" group-title="Plexus",CANAL+ Deportes [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a994a04ff801f11872fc1e89258d53c5601ccfbd&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTES
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/svtrtx1433355701.png" group-title="Plexus",Canal+ Deportes [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b7b5b339e21754e81797a7be2e1b031fa323fe01&name=
 
 #EXTINF:-1 group-title="Plexus",CANAL+ Deportes 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTE 2
+#EXTINF:-1 tvg-logo="http://adrian.kodistream.info/adryan/Logos/deportes2.jpg" group-title="Plexus",Canal+ Deportes 2 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://eb7263149ec1b5210c1dfe9307ca0699ceb2f139&name=
 
 #EXTINF:-1 group-title="Plexus",CANAL+ Sport 2 PL [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://0aba4407456cf7bc420e930ae7ba0697e53d35fe&mode=1&name=acestream&mode=1&name=CANAL+ SPORT 2 PL
 
 #EXTINF:-1 group-title="Plexus",CANAL+ Futbol [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852&mode=1&name=acestream&mode=1&name=CANAL+ FUTBOL
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1453834181.png" group-title="Plexus",Canal+ Futbol [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4d485425a414d36f0a5c4fe53bb2e1043aed7d86&name=
 
 #EXTINF:-1 group-title="Plexus",CANAL+ Liga [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a20d9f4af8e4e0f30797c67fc87fa6dfe39740ae&mode=1&name=acestream&mode=1&name=CANAL+ LIGA
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpxsq1435144103.png" group-title="Plexus",Canal+ Liga [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://25ac320248637096698f13f8e93ca001c73b3a31&name=
 
 #EXTINF:-1 group-title="Plexus",CANAL+ Liga 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://d7586f582a41990286d438894bfe67dd0f961b18&mode=1&name=acestream&mode=1&name=CANAL+ LIGA 2
@@ -236,6 +299,8 @@ plugin://program.plexus/?mode=1&url=acestream://78e3496e60eb6531f1335639f84b28d7
 
 #EXTINF:-1 group-title="Plexus",Movistar F1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://98b327d19a16be09070212124826e9209cb97540&mode=1&name=acestream&mode=1&name=MOVISTAR F1
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyxuqs1453834780.png" group-title="Plexus",Movistar F1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0d321ea1e93dc14da93c48f51b859f9d4bbf64ce&name=
 
 #EXTINF:-1 group-title="Plexus",Movistar Moto GP [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7c01784bfeba11565fce3626e155da1fcdb45976&mode=1&name=acestream&mode=1&name=MOVISTAR MOTO GP
@@ -269,12 +334,16 @@ plugin://program.plexus/?mode=1&url=acestream://2dd6f07b0f6b600ee0ced7e9e8af3529
 
 #EXTINF:-1 group-title="Plexus",NOVA SPORT BG [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7437157eccc3c23fef405bf277e0d635329428cf&mode=1&name=acestream&mode=1&name=NOVA SPORT BG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_(Bulgaria)_logo.png" group-title="Plexus",Nova Sport BG [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://af863cf043df2cb8f63f2026d971e95d0a5c94e6&name=
 
 #EXTINF:-1 group-title="Plexus",nSPORT+ [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9&mode=1&name=acestream&mode=1&name=nSPORT+
 
 #EXTINF:-1 group-title="Plexus",POLSAT SPORT [FHD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://dfb1115adb7c8740bea94431bdadf2e19fc9bd99&mode=1&name=acestream&mode=1&name=POLSAT SPORT
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuusrx1453835139.png" group-title="Plexus",Polsat Sport HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://bf52d0e0068079ed2ac884a07ba2e31e0949f718&name=
 
 #EXTINF:-1 group-title="Plexus",POLSAT SPORT EXTRA [FHD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://ed20cc93e89e6b232ee9e515b7cdeed57fd773b5&mode=1&name=acestream&mode=1&name=POLSAT SPORT EXTRA
@@ -284,15 +353,21 @@ plugin://program.plexus/?mode=1&url=acestream://4c0c928a085aaa180288be1d749ccfd4
 
 #EXTINF:-1 group-title="Plexus",SETANTA SPORTS [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsuuw1445657091.png" group-title="Plexus",Setanta Sports + HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b3620883a7d43ed90067111f5f44b6dd495cc498&name=
 
 #EXTINF:-1 group-title="Plexus",SETANTA SPORTS EUROASIA  [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://4f341d4014b588016bdc636b906b880af6a26e63&mode=1&name=acestream&mode=1&name=SETANTA SPORTS EUROASIA 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yvxwts1453835354.png" group-title="Plexus",Setanta Sports Eurasia [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e00c2ac746a81d4f2192baec0d06d264c3fb3381&name=
 
 #EXTINF:-1 group-title="Plexus",SETANTA SPORTS EUROASIA + [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS EUROASIA +
 
 #EXTINF:-1 group-title="Plexus",SPORT 1 CZ [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60&mode=1&name=acestream&mode=1&name=SPORT 1 CZ
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport 1 Cz [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://224647f6b35f20a68f72633d588a8f208a896bcc&name=
 
 #EXTINF:-1 group-title="Plexus",SPORT 2 CZ [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://923bfb351663df55f2708a82eeadb50225bc213d&mode=1&name=acestream&mode=1&name=SPORT 2 CZ
@@ -302,6 +377,8 @@ plugin://program.plexus/?mode=1&url=acestream://3a619efa4e9efb342affe2042a806474
 
 #EXTINF:-1 group-title="Plexus",SPORT 1 LT [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://3ab9ae81a0f6a99c1317e98ba2b39547bf9c4276&mode=1&name=acestream&mode=1&name=SPORT 1 LT
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport 1 LT [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e11d4acac424daa996e838e4ebf5b8a182061abe&name=
 
 #EXTINF:-1 group-title="Plexus",SPORT 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a13c2dcd8796d78e3a196e0397b0818f78f41d3d&mode=1&name=acestream&mode=1&name=SPORT 5
@@ -311,9 +388,14 @@ plugin://program.plexus/?mode=1&url=acestream://c0348d263ba7bbb3044b156f806999b0
 
 #EXTINF:-1 group-title="Plexus",TELEDEPORTE [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://c6635313ebda29534b908d1e67d724d443236a0a&mode=1&name=acestream&mode=1&name=TELEDEPORTE
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Teledeporte [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://95daaab70cdec45f6ee2f1447502b53b473b7bc3&name=
 
 #EXTINF:-1 group-title="Plexus",TPOPEN [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://1a42fa588512dadda85b2025b661c848abbfcb37&mode=1&name=acestream&mode=1&name=TPOPEN
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Viasat Golf [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://02ae9c43ec33c33ad239a094923b9a14681c207c&name=
 
 #EXTINF:-1 group-title="Plexus",VIASAT FOTBOLL [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d&mode=1&name=acestream&mode=1&name=VIASAT FOTBOLL
@@ -326,6 +408,11 @@ plugin://program.plexus/?mode=1&url=acestream://b70983ba89591f00e2602a35e957a2d8
 
 #EXTINF:-1 group-title="Plexus",VIASAT BALTIC [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://3bea2f854be3b3fc2f6192347c5161611c70fb5f&mode=1&name=acestream&mode=1&name=VIASAT BALTIC
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Viasat TV3 Sport 1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://f7b5faa515b1ff88635857649a3ca1a96cd6a93d&name=
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Viasat TV3 Sport 2 DN [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://747791c28682e20b4fd1b7242e0401f98ea724a1&name=
 
 #EXTINF:-1 group-title="Plexus",BELARUS 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://b391b04a8981d61883d5189f1566cdb0922b1a4b&mode=1&name=acestream&mode=1&name=BELARUS 5
@@ -373,6 +460,9 @@ rtmpe://134.19.185.236:1935/livedge playpath=mamahdbteu swfUrl=http://player.hdc
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="UK",Eurosport [FSD]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",TSN 1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225&name=
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="UK",Eurosport (UK) [FSD]
 http://live.p2pcast.tv:8010/tv2/500839.m3u8?sf=NTVlM2YwYTBiYTg4Nw==&token=4ouoLcAg93qmnkcaSsEArw|Referer=http://cdn.p2pcast.tv/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
@@ -446,6 +536,8 @@ http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png",Eurosport France
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trrqwt1433356293.png" group-title="Plexus",Real Madrid TV (Спорт) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3981706bfdaacc532fd3b8a070efc7fcee44c96c&name=
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trrqwt1433356293.png",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
