@@ -2,12 +2,6 @@
 #EXTINF:-1, [COLOR yellow]--Brazilian--[/COLOR] 
 http://0.0.0.0
 
-#EXTINF:0, ZOOMOO
-http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8
-
-#EXTINF:0, DISNEY JUNIOR
-http://bit.ly/IPTVGlobal-disneyjr
-
 #EXTINF:-1, [COLOR yellow]--English--[/COLOR] 
 http://0.0.0.0
 
