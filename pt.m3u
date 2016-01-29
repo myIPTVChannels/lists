@@ -34,19 +34,11 @@ rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal", TVI24 [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal", TVI24
-http://185.26.175.200:5000/udp/239.200.1.13:10000
 
-#EXTINF:0 tvg-id="CMTV" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal", CMTV
-http://185.26.175.200:5000/udp/239.200.1.42:10000
+
 
 #EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal", Económico TV [FSD]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bola" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group title="Portugal", Bola TV
-http://185.26.175.200:5000/udp/239.200.1.59:10000
-#EXTINF:-1 tvg-id="chelsea" tvg-logo="http://www.thelogodb.com/images/media/logo/rwpwxr1433377901.png" group title="Portugal", Chelsea TV
-http://185.26.175.200:5000/udp/239.200.1.61:10000
 
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal", Euronews [SD]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
@@ -77,41 +69,46 @@ http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png" group title="Portugal", ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/suyuur1436891341.png" group title="Portugal", Sic Mulher
-http://185.26.175.200:5000/udp/239.200.1.24:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png" group title="Portugal", Sic Caras
-http://185.26.175.200:5000/udp/239.200.1.41:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png" group title="Portugal", Odisseia
-http://185.26.175.200:5000/udp/239.200.1.22:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvspv1436899675.png" group title="Portugal", Hollywood
-http://185.26.175.200:5000/udp/239.200.1.18:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vxrxrt1433522140.png" group title="Portugal",MTV Hits
-http://185.26.175.200:5000/udp/239.200.1.19:10000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg" group title="Portugal", Historia
-http://185.26.175.200:5000/udp/239.200.1.20:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrtvps1433462279.png" group title="Portugal", Cine Mundo
-http://185.26.175.200:5000/udp/239.200.1.45:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group title="Portugal", Discovery
-http://185.26.175.200:5000/udp/239.200.1.21:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rprruu1433942038.png", TLC
-http://185.26.175.200:5000/udp/239.200.1.25:10000
+---------------------------
+#EXTINF:-1 tvg-logo="" group title="Portugal", VeVo 2 HD
+http://luckyiptv.ddns.net:23000/live/andi/andi/12019.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group title="Portugal", TV Globo
+http://luckyiptv.ddns.net:23000/live/andi/andi/12031.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtvrvw1435091662.png" group title="Portugal", TPA
+http://luckyiptv.ddns.net:23000/live/andi/andi/12032.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/twyypw1436898859.png" group title="Portugal", SportTV 3
+http://luckyiptv.ddns.net:23000/live/andi/andi/12037.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png" group title="Portugal", Sporting TV
+http://luckyiptv.ddns.net:23000/live/andi/andi/12040.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rpquyv1446848022.png" group title="Portugal", RTP Memoria
+http://luckyiptv.ddns.net:23000/live/andi/andi/12045.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png" group title="Portugal", RTP Madeira
+http://luckyiptv.ddns.net:23000/live/andi/andi/12046.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png" group title="Portugal", RTP 1 SD
+http://luckyiptv.ddns.net:23000/live/andi/andi/12051.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png" group title="Portugal", Porto Canal
+http://luckyiptv.ddns.net:23000/live/andi/andi/12053.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png" group title="Portugal", Plus TVI
+http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group title="Portugal", Nat Geo Wild
+http://luckyiptv.ddns.net:23000/live/andi/andi/12060.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png" group title="Portugal", MOV HD
+http://luckyiptv.ddns.net:23000/live/andi/andi/12061.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png" group title="Portugal", FOX MOvies
+http://luckyiptv.ddns.net:23000/live/andi/andi/12068.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal", Economico TV
+http://luckyiptv.ddns.net:23000/live/andi/andi/12070.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png" group title="Portugal", CineMundo
+http://luckyiptv.ddns.net:23000/live/andi/andi/12076.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group title="Portugal", CBS Reality
+http://luckyiptv.ddns.net:23000/live/andi/andi/12077.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxswvq1433343102.png" group title="Portugal", AXN
+http://luckyiptv.ddns.net:23000/live/andi/andi/12087.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png" group title="Portugal", A&E
-http://185.26.175.200:5000/udp/239.200.1.27:10000
+http://luckyiptv.ddns.net:23000/live/andi/andi/12091.m3u8
+----------------------------
+#EXTINF:-1 tvg-logo="" group title="Portugal", 
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png" group title="Portugal", AMC
-http://185.26.175.200:5000/udp/239.200.1.46:10000
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xppsrs1436898382.png" group title="Portugal", TVS
-http://185.26.175.200:5000/udp/239.200.1.56:10000
 
 #EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png" group title="Portugal", AXN [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8
@@ -123,23 +120,11 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8
 http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8
 #EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png" group title="Portugal", FOX Life [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8
-#EXTINF:-1 tvg-name="foxmovies" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sxuwxq1435104089.png" group title="Portugal", FOX Movies
-http://185.26.175.200:5000/udp/239.200.1.26:10000
 #EXTINF:-1  audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png" group title="Portugal", Hollywood [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
 #EXTINF:-1 tvg-name="SyFy" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png" group title="Portugal", SYFY
-http://185.26.175.200:5000/udp/239.200.1.51:10000
-#EXTINF:-1 audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png" group title="Portugal", TVI Ficção
-http://185.26.175.200:5000/udp/239.200.1.58:10000
-#EXTINF:-1 audio-track="pt" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2015/09/tviReality.jpg" group title="Portugal", TVI Reality 
-http://185.26.175.200:5000/udp/239.200.1.34:10000
-#EXTINF:-1 audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png", VH1 Classics
-http://185.26.175.200:5000/udp/239.200.1.36:10000
-#EXTINF:-1 tvg-name="motorvision" tvg-logo="http://www.thelogodb.com/images/media/logo/tprpvy1453990598.png" group title="Portugal",Motorvision TV
-http://185.26.175.200:5000/udp/239.200.1.43:10000
+http://luckyiptv.ddns.net:23000/live/andi/andi/12034.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png" group title="Portugal", Motors TV
-http://185.26.175.200:5000/udp/239.200.1.52:10000
 
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
