@@ -15,14 +15,12 @@ Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqu
 
 3 - Add-on do Projecto  - http://kodiportugal.pt/surikata-tv-filmes-series-iptv/
 
-##URLs myIPTVChannels (Kodi, VLC, etc.)
+## URLs das listas myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
 Portugal Channels para Wiseplay: pt-wiseplay.wise = http://git.io/v8TRX
-
-~~Portugal Channels XML: pt.xml = http://git.io/vut0O~~
 
 Movies: movies.m3u = http://git.io/vnUb0
 
@@ -30,15 +28,13 @@ TV Shows: tvshows.m3u = http://git.io/vWISS
 
 Music Channels: music.m3u = http://git.io/vZohs
 
+Kids: kids.m3u = http://git.io/vWI93
+
 News Channels: news.m3u = http://git.io/vlxJD
 
 Radios: radios.m3u = http://git.io/vuWqF
 
 Internacional: international.m3u = https://git.io/vznaV
-
-~~United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP~~
-
-~~Russia RU Channels: ru.m3u = http://git.io/vZoha~~
 
 Indian IN Channels: hindi.m3u = http://git.io/vZoJg
 
@@ -46,12 +42,16 @@ NASA Space Channels: nasa.m3u = http://git.io/vZPFO
 
 SMART TV (LG, Samsung, Philips): smart-tv.m3u = http://git.io/vZQlR
 
-Kids: kids.m3u = http://git.io/vWI93
+Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
-Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
+## Listas Removidas
+~~Portugal Channels XML: pt.xml = http://git.io/vut0O~~ Deprecated
 
+~~United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP~~ > international.m3u
+
+~~Russia RU Channels: ru.m3u = http://git.io/vZoha~~ > international.m3u
 
 ##Regras
 1) KISS = Keep it simple, stupid (as possible)!
