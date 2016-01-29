@@ -68,9 +68,6 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUr
 #EXTINF:0 tvg-id="tvL" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png" group title="Portugal", tvL [HD]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
-#EXTINF:0 tvg-id="PC" tvg-logo="http://marketingportugal.pt/images/uploads/Porto-Canal.jpg" group title="Portugal", Porto Canal [FSD]
-http://grandiptv.myftp.org:8000/live/test45/test45/785.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png" group title="Portugal", Porto Canal
 http://luckyiptv.ddns.net:23000/live/andi/andi/12053.m3u8
 
