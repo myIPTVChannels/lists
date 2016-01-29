@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://seebo.com.au/wp-content/uploads/2015/03/Channel_logos/ip/for_site/1HD.png", 1HD
+http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0, Albmusic HD (Albania)
@@ -13,6 +15,8 @@ plugin://program.plexus/?mode=1&url=acestream://397f52be3d31ad84658ae3488ce8646d
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:0, BIM TV
 rtmp://188.254.62.124:11935/live/video2
+#EXTINF:0, BRAVA
+http://82.135.224.135:88/udp/239.255.2.17:1234$OPT:network-caching=100
 #EXTINF:0, CAPITAL TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, CineStreamTV HD / Nation 720P
@@ -164,6 +168,10 @@ http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8
 
 #EXTINF:-1,[B][COLOR white]--MTV--[/COLOR][/B]
 http://
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="MTV", MTV Dance
+http://tv3.noip.me/stream/RA9KFWMDAH/147.m3u8
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Russia
+http://www.iptvsaga.com/play/tv3/0182.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD
 http://latinochannels.2fh.co/canales/hls/mtv.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD (2)
@@ -185,6 +193,8 @@ http://
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png" group-title="VH1", VH1 Classic
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 Europe
+http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
 
 #EXTINF:0,[B][COLOR red]--VEVO--[/COLOR][/B]
 http://
