@@ -1,0 +1,164 @@
+Olá e Bem Vindos à Lista de Testes
+Os links desta lista são provenientes de testes de serviços pagos, o que significa que o seu tempo de vida é curto.
+Para apoiar a lista atualize assim que puder os links da mesma e as informações de emissão se o tempo tiver acabado
+Algumas listas podem funcionar apenas num IP de cada vez, por isso atualize conforme as informações do teste atual e não consoante se estes funcionam ou não
+Atualize a data e a duração do teste antes de trocar os links.
+Quantos mais ajudarem, menos serão as horas sem canais :D
+Para atualizar, substitua todos os "EXTINF's" dos canais atuais (Excepto o que contém as informações do teste atual) pelos novos canais (Apenas canais Portugueses! Se a lista contiver canais
+de pacotes estrangeiros, estes deverão ser removidos!), e de seguida altere as informações do teste atual.
+Obrigado e bom trabalho!
+#EXTM3U
+
+#EXTINF:-1, Informações do teste atual: Teste de 12 Horas - Emitido em 30/1/2015, 23:17.
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 SD/HD" tvg-logo="" group-title="Portugal",PT: RTP 1 SD/HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3208.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="" group-title="Portugal",PT: RTP 2
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3209.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="" group-title="Portugal",PT: SIC
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3227.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="Portugal",PT: TVI
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3214.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias" tvg-logo="" group-title="Portugal",PT: SIC Noticias
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3229.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="" group-title="Portugal",PT: RTP 3
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3213.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="" group-title="Portugal",PT: TVI 24
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5536.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="" group-title="Portugal",PT: CMTV
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3236.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS Reality" tvg-logo="" group-title="Portugal",PT: CBS Reality
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3215.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memoria" tvg-logo="" group-title="Portugal",PT: RTP Memoria
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3212.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Madeira" tvg-logo="" group-title="Portugal",PT: RTP Madeira
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3211.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Acores" tvg-logo="" group-title="Portugal",PT: RTP Acores
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3210.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 4 HD" tvg-logo="" group-title="Portugal",PT: TVCine 4 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5548.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 3 HD" tvg-logo="" group-title="Portugal",PT: TVCine 3 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5547.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 2 HD" tvg-logo="" group-title="Portugal",PT: TVCine 2 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5546.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 1 HD" tvg-logo="" group-title="Portugal",PT: TVCine 1 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5545.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Movies" tvg-logo="" group-title="Portugal",PT: FOX Movies
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5550.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life HD" tvg-logo="" group-title="Portugal",PT: Fox Life HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3233.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox HD" tvg-logo="" group-title="Portugal",PT: Fox HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Crime HD" tvg-logo="" group-title="Portugal",PT: FOX Crime HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5549.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CineMundo" tvg-logo="" group-title="Portugal",PT: CineMundo
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5544.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HollyWood SD/HD" tvg-logo="" group-title="Portugal",PT: HollyWood SD/HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3307.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD" tvg-logo="" group-title="Portugal",PT: AXN HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3255.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE HD" tvg-logo="" group-title="Portugal",PT: AXN WHITE HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3242.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Black HD" tvg-logo="" group-title="Portugal",PT: AXN Black HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5551.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FX" tvg-logo="" group-title="Portugal",PT: FX
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3231.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOV HD" tvg-logo="" group-title="Portugal",PT: MOV HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3246.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Caca & Pesca" tvg-logo="" group-title="Portugal",PT: Caca & Pesca
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5543.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD" tvg-logo="" group-title="Portugal",PT: BTV 1 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5541.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Tvi ficcao" tvg-logo="" group-title="Portugal",PT: Tvi ficcao
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5542.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV 2 HD" tvg-logo="" group-title="Portugal",PT: Benfica TV 2 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3309.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV 1 Full HD" tvg-logo="" group-title="Portugal",PT: Benfica TV 1 Full HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3308.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 5" tvg-logo="" group-title="Portugal",PT: SportTV 5
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3225.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 4 HD/SD" tvg-logo="" group-title="Portugal",PT: SportTV 4 HD/SD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3224.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 3" tvg-logo="" group-title="Portugal",PT: SportTV 3
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3223.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 2 HD/SD" tvg-logo="" group-title="Portugal",PT: SportTV 2 HD/SD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3222.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 1 HD/SD" tvg-logo="" group-title="Portugal",PT: SportTV 1 HD/SD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3221.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motors TV" tvg-logo="" group-title="Portugal",PT: Motors TV
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3252.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EuroSport 1 HD/SD" tvg-logo="" group-title="Portugal",PT: EuroSport 1 HD/SD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3234.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: VeVo 3 HD" tvg-logo="" group-title="Portugal",PT: VeVo 3 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3220.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: VeVo 2 HD" tvg-logo="" group-title="Portugal",PT: VeVo 2 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3219.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: VeVo 1 HD" tvg-logo="" group-title="Portugal",PT: VeVo 1 HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3218.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! Entertaunment" tvg-logo="" group-title="Portugal",PT: E! Entertaunment
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3257.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Real Madrid TV HD" tvg-logo="" group-title="Portugal",PT: Real Madrid TV HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5552.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Globo Premium" tvg-logo="" group-title="Portugal",PT: TV Globo Premium
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3217.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Globo" tvg-logo="" group-title="Portugal",PT: TV Globo
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3216.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA" tvg-logo="" group-title="Portugal",PT: TPA
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3245.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sy-Fy" tvg-logo="" group-title="Portugal",PT: Sy-Fy
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3226.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC HD" tvg-logo="" group-title="Portugal",PT: PFC HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3248.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Kids" tvg-logo="" group-title="Portugal",PT: SIC Kids
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3228.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Toros TV" tvg-logo="" group-title="Portugal",PT: Toros TV
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5555.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP África" tvg-logo="" group-title="Portugal",PT: RTP África
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5539.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal" tvg-logo="" group-title="Portugal",PT: Porto Canal
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5538.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Plus TVI" tvg-logo="" group-title="Portugal",PT: Plus TVI
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5537.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nat Geo Wild" tvg-logo="" group-title="Portugal",PT: Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5556.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoon NetWork" tvg-logo="" group-title="Portugal",PT: Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5554.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Panda Biggs" tvg-logo="" group-title="Portugal",PT: Panda Biggs
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5553.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Abola TV" tvg-logo="" group-title="Portugal",PT: Abola TV
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/5540.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Series SD/HD" tvg-logo="" group-title="Portugal",PT: TV Series SD/HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3304.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV HD" tvg-logo="" group-title="Portugal",PT: Sporting TV HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3305.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nat Geographic Channel" tvg-logo="" group-title="Portugal",PT: Nat Geographic Channel
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3306.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Channel" tvg-logo="" group-title="Portugal",PT: Disney Channel
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3310.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Record" tvg-logo="" group-title="Portugal",PT: TV Record
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3249.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia" tvg-logo="" group-title="Portugal",PT: Odisseia
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3230.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Niclelodeon" tvg-logo="" group-title="Portugal",PT: Niclelodeon
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3240.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC HD" tvg-logo="" group-title="Portugal",PT: AFRO MUSIC HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3250.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV AMERICA" tvg-logo="" group-title="Portugal",PT: SPORT TV AMERICA
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3253.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Economico TV" tvg-logo="" group-title="Portugal",PT: Economico TV
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3256.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Junior" tvg-logo="" group-title="Portugal",PT: Disney Junior
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3258.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery HD" tvg-logo="" group-title="Portugal",PT: Discovery HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3247.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A&E" tvg-logo="" group-title="Portugal",PT: A&E
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3259.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cancao Nova" tvg-logo="" group-title="Portugal",PT: Cancao Nova
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3237.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="" group-title="Portugal",PT: CANAL PANDA
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3239.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Historia HD" tvg-logo="" group-title="Portugal",PT: Canal Historia HD
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3238.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen" tvg-logo="" group-title="Portugal",PT: 24 Kitchen
+http://portal.rapidiptv.com:8080/live/DiogoBot/VuvbfhkeJ3/3243.ts
