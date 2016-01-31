@@ -51,6 +51,12 @@ plugin://program.plexus/?mode=1&url=acestream://8ceba9805d3cdf5baa7a41167a943e41
 #EXTINF:-1 tvg-logo="" group-title="Plexus",Sport Klub 3 HD [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&name=
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto",Sport TV 1 [HD]
+http://78.31.65.171:20000/live/uxxeJW4r4C/qxxNrHCT55/9.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto",Sport TV 1 [FSD]
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto",Sport TV 1 [FSD]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
 
