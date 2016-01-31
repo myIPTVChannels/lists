@@ -144,14 +144,17 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12034.m3u8
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
 
-#EXTINF:-1,Cancao Nova
+#EXTINF:0 group title="Brasil",Cancao Nova
 http://185.26.175.200:5000/udp/239.200.1.35:10000
 
-#EXTINF:-1,Globo
+#EXTINF:0 group title="Brasil", CHEFE COZINHA
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+
+#EXTINF:0 group title="Brasil",Globo
 http://185.26.175.200:5000/udp/239.200.1.12:10000
 
-#EXTINF:-1 tvg-logo="" group-title="Brasil", TV Foco
+#EXTINF:0 group-title="Brasil", TV Foco
 http://185.26.175.200:5000/udp/239.200.1.15:10000
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="Brasil", Record
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="Brasil", Record
 http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
