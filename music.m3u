@@ -484,6 +484,8 @@ rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
 rtmp://78.140.209.20:1935/tv/ruestrada2
 #EXTINF:0 group-title="Russia", S TV
 http://iptv1.zargacum.net/iptv/ZQX7ZTT69P/105/index.m3u8
+#EXTINF:0 group-title=”Russia”, ТВА Чернівці
+rtmp://gigaz.wi.com.ua/hallDemoHLS/TBALife
 #EXTINF:0 group-title="Russia", Туган Тел
 rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
 #EXTINF:0 group-title="Russia", Yumor TV HD
@@ -492,8 +494,9 @@ http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
 http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
 #EXTINF:0 group-title="Russia", [Alguem Russo que me ajude a escrever]
 rtmp://grey.ether.tv:1935/live/pfo/broadcast4
-#EXTINF:0 group-title=”Russia”, [Alguem Russo que me ajude a escrever]
+#EXTINF:0 group-title=”Russia”, Фестивальная-12 (Екатеринбург)
 http://78.140.209.14/unost/festival/chunklist.m3u8
+
 
 #EXTINF:-1,[B][COLOR red]--Turkia--[/COLOR][/B]
 http://
