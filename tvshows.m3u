@@ -7,7 +7,15 @@ http://37.203.209.34:443/mobile/flash20sd/live.m3u8
 #EXTINF:0 tvg-logo="tcpremium.png" tvg-logo="http://www.tvaovivolista.com/tcpremium.png" group-title="Filmes", Telecine Premium
 http://37.203.209.34:443/mobile/flash24sd/live.m3u8
 
-#EXTINF:-1, TV Cine 5
+#EXTINF:-1, TVCINE 1 HD
+http://www.t12v.com:8000/live/prevot/prevot/1145.ts
+#EXTINF:-1, TVCINE 2 HD
+http://www.t12v.com:8000/live/prevot/prevot/1146.ts
+#EXTINF:-1, TVCINE 3 HD
+http://www.t12v.com:8000/live/prevot/prevot/886.ts
+#EXTINF:-1, TVCINE 4 HD
+http://www.t12v.com:8000/live/prevot/prevot/1147.ts
+#EXTINF:-1, TVCINE 5 HD
 http://www.t12v.com:8000/live/prevot/prevot/1152.ts
 
 #EXTINF:-1, ---- Séries ----
