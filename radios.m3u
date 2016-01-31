@@ -1,210 +1,225 @@
 #EXTM3U
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title="Portugal",94FM
+#EXTINF:0 radio="true" tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title="Portugal", 94FM
 http://195.8.58.150:35022/;stream.nsv
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Portugal",ANTENA 1
+#EXTINF:0 radio="true" tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Portugal", ANTENA 1
 mms://rdp.oninet.pt/antena1
-#EXTINF:0 radio="true" radio="true" tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-title="Portugal",ANTENA 3
+#EXTINF:0 radio="true" tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-title="Portugal", ANTENA 3
 mms://rdp.oninet.pt/antena3
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Portugal",AMÁLIA
+#EXTINF:0 radio="true" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Portugal", AMÁLIA
 http://stream.radio.com.pt:9496/stream
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cidade.iol.pt/images/logo.png" group-title="Portugal",CIDADE FM
+#EXTINF:0 radio="true" tvg-logo="http://cidade.iol.pt/images/logo.png" group-title="Portugal", CIDADE FM
 rtmp://195.23.102.206:1935/cidadefmlc playpath=cidadefmlc.sdp
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Portugal",COMERCIAL
+#EXTINF:0 radio="true" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Portugal", COMERCIAL
 rtmp://195.23.102.206/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf pageUrl=http://radiocomercial.iol.pt/player/webcam.asp
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="Portugal",HIPER FM
+#EXTINF:0 radio="true" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="Portugal", HIPER FM
 http://85.25.73.243:10460/
-#EXTINF:0 radio="true" radio="true" tvg-logo="https://eclecticavenuerecords.files.wordpress.com/2011/11/logos_sonica_fuera1.jpg" group-title="Portugal",IBIZA SONICA
+#EXTINF:0 radio="true" tvg-logo="https://eclecticavenuerecords.files.wordpress.com/2011/11/logos_sonica_fuera1.jpg" group-title="Portugal", IBIZA SONICA
 http://stream2.wft.es:1025/;stream.mp3
-#EXTINF:0 radio="true" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/567268926417948672/PKaVt7Ru.png" group-title="Portugal",M80
+#EXTINF:0 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/567268926417948672/PKaVt7Ru.png" group-title="Portugal", M80
 http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Portugal",MEGA FM
+#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="https://www.phonostar.de/images/auto_created/Radio_Marginal184x184.png", Rádio Marginal
+mms://stream.radio.com.pt/ROLI-ENC-499
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Portugal", MEGA FM
 http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://rfm.sapo.pt/images/logo_webr_oceano.png" group-title="Portugal",OCEANO PACIFICO
+#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.radionovaera.pt/media/logo2.png", Rádio Nova Era
+mms://stream.radio.com.pt/ROLI-ENC-478
+#EXTINF:0 radio="true" tvg-logo="http://rfm.sapo.pt/images/logo_webr_oceano.png" group-title="Portugal", OCEANO PACIFICO
 http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" group-title="Portugal",RADAR
+#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.orbital.pt/imagem.php?1454265689194", Orbital
+http://stream.radio.com.pt/ROLI-ENC-401
+#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png", Rádio Oxigénio
+mms://stream.radio.com.pt/ROLI-ENC-498
+#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://static.radio.pt/images/broadcasts/80/74/27391/c175.png", Rádio Clube Emigrante
+http://198.24.186.218:8172/;?1425436566045.mp3
+
+#EXTINF:0 radio="true" tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" group-title="Portugal", RADAR
 http://stream.radio.com.pt:8497/stream
-#EXTINF:0 radio="true" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/70959338-55ee-4bdb-a4c8-dc10c482b8a3.jpg" group-title="Portugal",RADIO TOP 40
+#EXTINF:0 radio="true" tvg-logo="https://i3.radionomy.com/radios/400/70959338-55ee-4bdb-a4c8-dc10c482b8a3.jpg" group-title="Portugal", RADIO TOP 40
 http://31.12.64.204:8000/A-RADIO-TOP-40
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="Portugal",REGGAE RADIO 808
+#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.radiorcs.pt/imagens/programas/logorcs.png", Rádio Clube de Sintra
+mms://stream.radio.com.pt/ROLI-ENC-445
+#EXTINF:0 radio="true" tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="Portugal", REGGAE RADIO 808
 http://66.225.205.5:80
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Portugal",RENASCENÇA
+#EXTINF:0 radio="true" tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Portugal", RENASCENÇA
 http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" group-title="Portugal",RFM
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" group-title="Portugal", RFM
 http://7719.live.streamtheworld.com/RFM_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="Portugal",RFM 80
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="Portugal", RFM 80
 http://11073.live.streamtheworld.com/GR80SRFMAAC?
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2011/07/logoClubbingPlayer.png" group-title="Portugal",RFM CLUBBING
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2011/07/logoClubbingPlayer.png" group-title="Portugal", RFM CLUBBING
 http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone.jpg" group-title="Portugal",VODAFONE FM
+#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png", Rádio TSF
+mmsh://emdirecto.tsf.pt/tsfdirecto?MSWMExt=.asf
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone.jpg" group-title="Portugal", VODAFONE FM
 rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/logo_smooth.png" group-title="Portugal",SMOOTH FM
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/logo_smooth.png" group-title="Portugal", SMOOTH FM
 rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Portugal",SUPER FM
+#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Portugal", SUPER FM
 http://94.23.76.235:9956/
 
 
 #EXTINF:0 radio="true",[B][COLOR mediumslateblue]--di.fm--[/COLOR][/B]
 http://
-#EXTINF:0 radio="true" radio="true"  tvg-logo="http://cdn-images.audioaddict.com/8/4/d/3/4/e/84d34e19efed230a40372a3baefc36ae.png" group-title="di.fm",DI.FM—LOUNGE
+#EXTINF:0 radio="true"  tvg-logo="http://cdn-images.audioaddict.com/8/4/d/3/4/e/84d34e19efed230a40372a3baefc36ae.png" group-title="di.fm",DI.FM—LOUNGE
 http://pub1.di.fm/di_lounge_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/0/a/c/5/a/9/0ac5a9ce5b258e16fec514722b92d580.png" group-title="di.fm",DI.FM—CHILLOUT
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/0/a/c/5/a/9/0ac5a9ce5b258e16fec514722b92d580.png" group-title="di.fm",DI.FM—CHILLOUT
 http://pub1.di.fm/di_chillout_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/9/2/4/2/0/1924207c886a3da744a152450f5b6d27.png" group-title="di.fm",DI.FM—DJ MIXES
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/9/2/4/2/0/1924207c886a3da744a152450f5b6d27.png" group-title="di.fm",DI.FM—DJ MIXES
 http://pub1.di.fm/di_djmixes_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/3/b/c/1/1/6/3bc1165683457f8b40e6f27c67f035f2.png" group-title="di.fm",DI.FM—DISCO HOUSE
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/3/b/c/1/1/6/3bc1165683457f8b40e6f27c67f035f2.png" group-title="di.fm",DI.FM—DISCO HOUSE
 http://pub1.di.fm/di_discohouse_aacplus?&type=.flv
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/c/c/8/b/5/1cc8b5c256d603302446b51cc242b9fd.png" group-title="di.fm",DI.FM—VOCAL CHILLOUT
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/c/c/8/b/5/1cc8b5c256d603302446b51cc242b9fd.png" group-title="di.fm",DI.FM—VOCAL CHILLOUT
 http://pub2.diforfree.org:8000/di_vocalchillout_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/a/c/c/c/4/9/accc49b2d1b70feb5b21603d67cc444f.png" group-title="di.fm",DI.FM—VOCAL LOUNGE
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/a/c/c/c/4/9/accc49b2d1b70feb5b21603d67cc444f.png" group-title="di.fm",DI.FM—VOCAL LOUNGE
 http://pub2.diforfree.org:8000/di_vocallounge_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/c/4/9/3/9/b/c4939b4e0129cd9abada597e35332db3.png" group-title="di.fm",DI.FM—AMBIENT
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/c/4/9/3/9/b/c4939b4e0129cd9abada597e35332db3.png" group-title="di.fm",DI.FM—AMBIENT
 http://pub2.diforfree.org:8000/di_ambient_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/4/7/0/c/3/c/470c3c21ce2cc8a75de82bfd4e150db5.png" group-title="di.fm",DI.FM—BIG ROOM HOUSE
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/4/7/0/c/3/c/470c3c21ce2cc8a75de82bfd4e150db5.png" group-title="di.fm",DI.FM—BIG ROOM HOUSE
 http://pub2.diforfree.org:8000/di_bigroomhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/8/9/b/0/d/f/89b0dfb93cb7eba4d345d116f7fc00e7.png" group-title="di.fm",DI.FM—BASS & JACKIN HOUSE
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/8/9/b/0/d/f/89b0dfb93cb7eba4d345d116f7fc00e7.png" group-title="di.fm",DI.FM—BASS & JACKIN HOUSE
 http://pub2.diforfree.org:8000/di_bassnjackinhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/f/2/1/8/9/1f2189badb0bb9ccba20e54163afff69.png" group-title="di.fm", DI.FM-00's Club Hits
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/1/f/2/1/8/9/1f2189badb0bb9ccba20e54163afff69.png" group-title="di.fm", DI.FM-00's Club Hits
 http://pub2.diforfree.org:8000/di_00sclubhits_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/d/b/2/f/e/c/db2fec32340bb5bc70750150794f2b02.png" group-title="di.fm", DI.FM-Bassline
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/d/b/2/f/e/c/db2fec32340bb5bc70750150794f2b02.png" group-title="di.fm", DI.FM-Bassline
 http://pub2.diforfree.org:8000/di_bassline_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="http://cdn-images.audioaddict.com/9/4/9/e/f/b/949efba54329d6d9264dfd54eeebbc31.png" group-title="di.fm", DI.FM-Big Beat
+#EXTINF:0 radio="true" tvg-logo="http://cdn-images.audioaddict.com/9/4/9/e/f/b/949efba54329d6d9264dfd54eeebbc31.png" group-title="di.fm", DI.FM-Big Beat
 http://pub2.diforfree.org:8000/di_bigbeat_hi
 
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Breaks
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Breaks
 http://pub2.diforfree.org:8000/di_breaks_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-ChillHop
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-ChillHop
 http://pub2.diforfree.org:8000/di_chillhop_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Chillout Dreams
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Chillout Dreams
 http://pub2.diforfree.org:8000/di_chilloutdreams_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Chillstep
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Chillstep
 http://pub2.diforfree.org:8000/di_chillstep_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic EuroDance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic EuroDance
 http://pub2.diforfree.org:8000/di_classiceurodance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic EuroDisco
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic EuroDisco
 http://pub2.diforfree.org:8000/di_classiceurodisco_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic Trance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic Trance
 http://pub2.diforfree.org:8000/di_classictrance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic Vocal Trance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Classic Vocal Trance
 http://pub2.diforfree.org:8000/di_classicvocaltrance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Club Dubstep
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Club Dubstep
 http://pub2.diforfree.org:8000/di_clubdubstep_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Club Sounds
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Club Sounds
 http://pub2.diforfree.org:8000/di_club_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dark DnB
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dark DnB
 http://pub2.diforfree.org:8000/di_darkdnb_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep House
 http://pub2.diforfree.org:8000/di_deephouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep Nu-Disco
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep Nu-Disco
 http://pub2.diforfree.org:8000/di_deepnudisco_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep Tech
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Deep Tech
 http://pub2.diforfree.org:8000/di_deeptech_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Downtempo Lounge
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Downtempo Lounge
 http://pub2.diforfree.org:8000/di_downtempolounge_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Drum 'n Bass
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Drum 'n Bass
 http://pub2.diforfree.org:8000/di_drumandbass_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dub
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dub
 http://pub2.diforfree.org:8000/di_dub_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dub Techno
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dub Techno
 http://pub2.diforfree.org:8000/di_dubtechno_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dubstep
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Dubstep
 http://pub2.diforfree.org:8000/di_dubstep_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-EcLectronica
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-EcLectronica
 http://pub2.diforfree.org:8000/di_eclectronica_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electro House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electro House
 http://pub2.diforfree.org:8000/di_electrohouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electro Swing
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electro Swing
 http://pub2.diforfree.org:8000/di_electroswing_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electropop
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Electropop
 http://pub2.diforfree.org:8000/di_electropop_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Epic Trance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Epic Trance
 http://pub2.diforfree.org:8000/di_epictrance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-EuroDance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-EuroDance
 http://pub2.diforfree.org:8000/di_eurodance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Funky House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Funky House
 http://pub2.diforfree.org:8000/di_funkyhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Future Garage
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Future Garage
 http://pub2.diforfree.org:8000/di_futuregarage_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Future Synthpop
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Future Synthpop
 http://pub2.diforfree.org:8000/di_futuresynthpop_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Gabber
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Gabber
 http://pub2.diforfree.org:8000/di_gabber_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Goa-Psy Trance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Goa-Psy Trance
 http://pub2.diforfree.org:8000/di_goapsy_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hands Up
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hands Up
 http://pub2.diforfree.org:8000/di_handsup_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hard Dance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hard Dance
 http://pub2.diforfree.org:8000/di_harddance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hard Techno
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hard Techno
 http://pub2.diforfree.org:8000/di_hardtechno_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hardcore
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hardcore
 http://pub2.diforfree.org:8000/di_hardcore_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hardstyle
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Hardstyle
 http://pub2.diforfree.org:8000/di_hardstyle_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-House
 http://pub2.diforfree.org:8000/di_house_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Indie Dance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Indie Dance
 http://pub2.diforfree.org:8000/di_indiedance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Jazz House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Jazz House
 http://pub2.diforfree.org:8000/di_jazzhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Jungle
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Jungle
 http://pub2.diforfree.org:8000/di_jungle_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Latin House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Latin House
 http://pub2.diforfree.org:8000/di_latinhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid DnB
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid DnB
 http://pub2.diforfree.org:8000/di_liquiddnb_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid Dubstep
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid Dubstep
 http://pub2.diforfree.org:8000/di_liquiddubstep_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid Trap
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Liquid Trap
 http://pub2.diforfree.org:8000/di_liquidtrap_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Mainstage
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Mainstage
 http://pub2.diforfree.org:8000/di_mainstage_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Melodic Progressive
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Melodic Progressive
 http://pub2.diforfree.org:8000/di_melodicprogressive_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Minimal
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Minimal
 http://pub2.diforfree.org:8000/di_minimal_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Nightcore
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Nightcore
 http://pub2.diforfree.org:8000/di_nightcore_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Nu Disco
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Nu Disco
 http://pub2.diforfree.org:8000/di_nudisco_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Acid
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Acid
 http://pub2.diforfree.org:8000/di_oldschoolacid_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool House
 http://pub2.diforfree.org:8000/di_oldschoolhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Rave
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Rave
 http://pub2.diforfree.org:8000/di_oldschoolrave_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Techno & Trance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Oldschool Techno & Trance
 http://pub2.diforfree.org:8000/di_classicelectronica_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Progressive
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Progressive
 http://pub2.diforfree.org:8000/di_progressive_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Progressive Psy
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Progressive Psy
 http://pub2.diforfree.org:8000/di_progressivepsy_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Psybient
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Psybient
 http://pub2.diforfree.org:8000/di_psybient_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-PsyChill
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-PsyChill
 http://pub2.diforfree.org:8000/di_psychill_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Russian Club Hits
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Russian Club Hits
 http://pub2.diforfree.org:8000/di_russianclubhits_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Soulful House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Soulful House
 http://pub2.diforfree.org:8000/di_soulfulhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Space Dreams
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Space Dreams
 http://pub2.diforfree.org:8000/di_spacemusic_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Tech House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Tech House
 http://pub2.diforfree.org:8000/di_techhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Techno
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Techno
 http://pub2.diforfree.org:8000/di_techno_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Trance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Trance
 http://pub2.diforfree.org:8000/di_trance_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Trap
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Trap
 http://pub2.diforfree.org:8000/di_trap_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Tribal House
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Tribal House
 http://pub2.diforfree.org:8000/di_tribalhouse_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-UMF Radio
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-UMF Radio
 http://pub2.diforfree.org:8000/di_umfradio_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Underground Techno
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Underground Techno
 http://pub2.diforfree.org:8000/di_undergroundtechno_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Vocal Lounge
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Vocal Lounge
 http://pub2.diforfree.org:8000/di_vocallounge_hi
-#EXTINF:0 radio="true" radio="true" tvg-logo="" group-title="di.fm", DI.FM-Vocal Trance
+#EXTINF:0 radio="true" tvg-logo="" group-title="di.fm", DI.FM-Vocal Trance
 http://pub2.diforfree.org:8000/di_vocaltrance_hi
 
 
