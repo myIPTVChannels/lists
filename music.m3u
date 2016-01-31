@@ -145,7 +145,7 @@ rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0, TELEHIT SD
+#EXTINF:0, TELEHIT HD
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
@@ -168,6 +168,8 @@ http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8
 
 #EXTINF:-1,[B][COLOR white]--MTV--[/COLOR][/B]
 http://
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yrutpr1433945579.png" group-title="MTV", MTV SD
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="MTV", MTV Dance
 http://tv3.noip.me/stream/RA9KFWMDAH/147.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Russia
@@ -182,10 +184,10 @@ http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits
 http://latinochannels.2fh.co/canales/hls/mtv-hits.m3u8
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits (2)
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits FSD (3)
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits FSD
 http://www.t12v.com:8000/live/prevot/prevot/1083.ts
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits SD
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks
 http://78.30.254.27:8989/udp/239.0.0.143:4000
 
@@ -193,8 +195,8 @@ http://78.30.254.27:8989/udp/239.0.0.143:4000
 http://
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 SD
 http://www.t12v.com:8000/live/prevot/prevot/499.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png" group-title="VH1", VH1 Classic
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 Europe
@@ -347,6 +349,8 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 http://
 #EXTINF:0 group-title="Latino", Anadolu TV
 rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
+#EXTINF:0, group-title="Latino", BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="Latino", CANTINAZO TV SD
 http://tinyurl.com/pz9hfsy
 #EXTINF:0 group-title="Latino", Mi Gente TV SD-
