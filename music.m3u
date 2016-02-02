@@ -109,11 +109,9 @@ http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
 #EXTINF:0, Pop Beat TV SD [COLOR red]OFF[/COLOR]
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/pop_beat_tv-tablet.3gp/pop_beat_tv-tablet.3gp-mr648k.m3u8
-#EXTINF:0, RADIO 5 TV 
+#EXTINF:0, RADIO 105 TV SD
 rtmp://fms.105.net/live/105Test1
-#EXTINF:0, Radio 105 TV
-http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
-#EXTINF:0, RADIO 105 TV HD (2)
+#EXTINF:0, RADIO 105 TV HD
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Radio Musichie Luna TV Partenopeo
 mmsh://83.216.165.134/rltv?MSWMExt=.asf
