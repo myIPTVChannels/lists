@@ -61,10 +61,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0, JIM TV
+#EXTINF:0, JIM TV [COLOR red]OFF[/COLOR]
 http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
-#EXTINF:0, JIM TV (2)
-rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim
 #EXTINF:0, KAZAKISTAN hit TV HD
 http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
 #EXTINF:0, KiSS TV
