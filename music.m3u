@@ -95,19 +95,19 @@ http://u.to/jaacAg
 http://teleclub.fr/musicbox.mp4
 #EXTINF:0, Musica Israel
 http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
-#EXTINF:0, NRJ TV
+#EXTINF:0, NRJ TV [COLOR red]OFF[/COLOR]
 rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
 #EXTINF:0, Ocko Gold
 http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
 #EXTINF:0, OH TV 
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, Penki TV
+#EXTINF:0, Penki TV [COLOR red]OFF[/COLOR]
 rtmp://bb.5ci.lt/live/PenkiTV_VGA
 #EXTINF:0, PIK
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0, PMC IRAN
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
-#EXTINF:0, Pop Beat TV SD
+#EXTINF:0, Pop Beat TV SD [COLOR red]OFF[/COLOR]
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/pop_beat_tv-tablet.3gp/pop_beat_tv-tablet.3gp-mr648k.m3u8
 #EXTINF:0, RADIO 5 TV 
 rtmp://fms.105.net/live/105Test1
