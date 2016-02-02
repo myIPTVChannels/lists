@@ -65,7 +65,7 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
 #EXTINF:0, KAZAKISTAN hit TV HD
 http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
-#EXTINF:0, KiSS TV
+#EXTINF:0, HIT TV SD
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:0, HIT TV SD (2)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
