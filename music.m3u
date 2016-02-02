@@ -75,9 +75,9 @@ http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJ
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, M6 MUSIC SD
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:0, MELODY CHANNEL TV HD
+#EXTINF:0, MELODY CHANNEL TV HD [COLOR red]OFF[/COLOR]
 rtmp://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:0, MFM TV
+#EXTINF:0, MFM TV France
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 #EXTINF:0, Miami Music TV
 http://74.208.152.93/music/stream3/stream.m3u8
@@ -87,16 +87,14 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow SD
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Russioan Musicbox
+#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Russian Musicbox
 http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
 #EXTINF:0, Music Box TV
 http://u.to/jaacAg
-#EXTINF:0, Music BOX France (80s) SD
+#EXTINF:0, Music BOX France (80s) SD [COLOR red]OFF[/COLOR]
 http://teleclub.fr/musicbox.mp4
 #EXTINF:0, Musica Israel
 http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
-#EXTINF:0, NR1
-rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
 #EXTINF:0, NRJ TV
 rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
 #EXTINF:0, Ocko Gold
@@ -523,6 +521,8 @@ http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
 #EXTINF:0 group-title=”Turkia”, MÜZIK ANKARA TV SD
 http://31.186.24.233:8002/66
 #EXTINF:0 group-title=”Turkia”, NR1 TURK SD
+rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
+#EXTINF:0 group-title=”Turkia”, NR1 TURK SD 
 http://origin.live.web.tv.streamprovider.net/streams/28093c3307f7e9afe35a7e35899953dc_live_0_0/index.m3u8
 #EXTINF:0 group-title=”Turkia”, NR1 TURK SD-
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
