@@ -127,8 +127,6 @@ rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0, TELEHIT HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0, Top Music
 http://5.35.240.130:30005
 #EXTINF:0, tvm3
@@ -139,8 +137,6 @@ http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 #EXTINF:0, UTV
 http://82.76.249.77:80/utvedge/utvlive/index.m3u8
-#EXTINF:0, Ven FM TV
-http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 #EXTINF:0, W9 SD
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
 #EXTINF:0, XITE TV
@@ -260,8 +256,6 @@ http://
 #EXTINF:0 group-title="JuCeTV", JuCeTV HD TV 
 http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV Россия
-http://zhegal.com.ua/tv/triolan?id=47
-#EXTINF:0 group-title="JuCeTV", JuCeTV TV Россия
 http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV US
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
@@ -270,7 +264,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 http://
 #EXTINF:0 group-title="Latino", Anadolu TV
 rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
-#EXTINF:0, group-title="Latino", BANDAMAX
+#EXTINF:0 group-title="Latino", BANDAMAX
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="Latino", CANTINAZO TV SD
 http://tinyurl.com/pz9hfsy
@@ -302,8 +296,12 @@ rtmp://186.155.200.118:1935/live/Televitrola
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:0 group-title="Latino", Ultra Fiesta SD
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
+#EXTINF:0 group-title="Latino", TELEHIT HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="Latino", TV Polanco Colombia
 rtmp://186.155.200.118:1935/live/ColombiasuMusica
+#EXTINF:0 group-title="Latino", Ven FM TV
+http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 #EXTINF:0 group-title="Latino", tigo MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0 group-title="Latino", tigo MUSIC (2)
