@@ -12,12 +12,15 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12051.m3u8
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal", SIC (1) [SD]
-http://213.13.26.11:1935/live/sic/livestream.m3u8
+http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal", SIC (2) [SD]
-http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+http://213.13.26.11:1935/live/sic/livestream.m3u8
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal", SIC (3) [SD]
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal", SIC (4) [SD]
 rtmp://213.13.26.13/live playpath=sic swfUrl=http://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf pageUrl=http://videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk
 
 #EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group title="Portugal", TVI [FSD]
