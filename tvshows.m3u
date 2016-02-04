@@ -20,158 +20,29 @@ http://www.t12v.com:8000/live/prevot/prevot/1152.ts
 
 #EXTINF:-1, ---- Séries ----
 http://0.0.0.0
-
-
-#EXTINF:-1, 30 Rock
-http://185.63.255.87:1935/liveedge/30rock_7kuysfdx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjA2OjI1IFBNJmhhc2hfdmFsdWU9MDliMk9KYitZdU1wblViS2tmbE1yZz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, American Dad!
-http://185.63.255.169:1935/liveedge/americandad_0ifvqmwl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjA2OjU2IFBNJmhhc2hfdmFsdWU9b2hSZ3V2VU9Uc1ZkcmhFMTVDQ3Yzdz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Ancient Aliens
-http://vaughnlive.tv/aliensandufos
-
-#EXTINF:-1, Arrested Development
-http://185.63.255.169:1935/liveedge/arrested_na2acwj7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjA3OjMxIFBNJmhhc2hfdmFsdWU9RzR0RmM4TDZubDZEOFBwdG5hZTliUT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Blue Ray Movies
-http://vaughnlive.tv/bluray_movies
-
-#EXTINF:-1, Bob's Burgers
-http://185.63.252.221:1935/liveedge/bobsburger_u5kaib40/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjA4OjA3IFBNJmhhc2hfdmFsdWU9NG14bzQvaHNQSGJnTFRKYjUveHBnQT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Chappelle's Show
-http://vaughnlive.tv/6brian_6
-
-#EXTINF:-1, Chuck
-http://185.63.255.10:1935/liveedge/chuck_zrygvrk7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjA4OjQ1IFBNJmhhc2hfdmFsdWU9amtvWmR1RG80R1p0VzE5aXZhTkIrQT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Cops
-http://vaughnlive.tv/profe3196
-
-#EXTINF:-1, Dexter
-http://185.63.252.221:1935/liveedge/dexter_gemjyemr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjA5OjIyIFBNJmhhc2hfdmFsdWU9NmsvTlU4aG9tbDBFNmVKdXVlVjhuUT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Doctor Who (2005)
-http://185.63.252.131:1935/liveedge/drwho_5gh6ejrt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjEwOjQxIFBNJmhhc2hfdmFsdWU9T3BDNkxlSk9XN0JIYXdoYjV5UjF4QT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Duck Dynasty
-http://vaughnlive.tv/lmshows_dd
-
-#EXTINF:-1, Friends
-http://185.63.252.131:1935/liveedge/friends_6e58sf8v/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjExOjE0IFBNJmhhc2hfdmFsdWU9c1NEK1psd08ydVNFemtTNUVFU3drUT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Fringe
-http://185.63.255.169:1935/liveedge/fringe_80gp9n2h/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjEyOjE1IFBNJmhhc2hfdmFsdWU9eVZpSnNtWU1aYUgzQlE2ZUFnOXpPQT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Futurama
-http://185.63.255.169:1935/liveedge/futurama_fu8wwudr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjEyOjM2IFBNJmhhc2hfdmFsdWU9SjZJUUFIZ0FWZVc3RUZ4Z1d2WS9Odz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Game of Thrones 1
-http://185.63.255.169:1935/liveedge/gotib_1ha93wua/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjEzOjEzIFBNJmhhc2hfdmFsdWU9Q0oxQTBwWkw0Y0FCZ1dHL1JSQm5BQT09JnZhbGlkbWludXRlcz01
-
-#EXTINF:-1, Game of Thrones 2
-http://185.63.252.131:1935/liveedge/gotib_1ha93wua/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjEzOjM0IFBNJmhhc2hfdmFsdWU9V3VpejZlOEI2UGNtcFExV25zamM5UT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Gilligan's Island
-http://vaughnlive.tv/mdufres2
-
-#EXTINF:-1, Golden Girls
-http://vaughnlive.tv/goldengirlsfan
-
-#EXTINF:-1, Home Improvements
-http://vaughnlive.tv/lmshows_hi
-
-#EXTINF:-1, House
-http://185.63.255.169:1935/liveedge/house_zfkbashy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE1OjAzIFBNJmhhc2hfdmFsdWU9ZDI1UVBWcmltck11VGJUSmlhNzliUT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, It's Always Sunny
-http://vaughnlive.tv/111aaacharkcomedy
-
-#EXTINF:-1, King of Queens
-http://vaughnlive.tv/lmshows_koq
-
-#EXTINF:-1, Kitchen Nightmares
-http://vaughnlive.tv/changoxpr
-
-#EXTINF:-1, Law and Order
-http://vaughnlive.tv/getyourdocsoff
-
-#EXTINF:-1, Little House On The Prairie
-http://vaughnlive.tv/trekchad
-
-#EXTINF:-1, Looney Tunes
-http://185.63.255.10:1935/liveedge/looney_7hitu3jg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE1OjM1IFBNJmhhc2hfdmFsdWU9WUVnMVJoMnJYMjF0RVM0dmdEVVliQT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Man vs Wild
-http://vaughnlive.tv/lmshows_mws
-
-#EXTINF:-1, Married With Children
-http://vaughnlive.tv/lmshows_mwc
-
-#EXTINF:-1, Master Chef
-http://vaughnlive.tv/changoxpr
-
-#EXTINF:-1, Movies
-http://vaughnlive.tv/111aaacharkmovies
-
-#EXTINF:-1, Nat Geo Nature
-http://vaughnlive.tv/lmshows_ngbbc
-
-#EXTINF:-1, New Girl
-rtmpe://179.43.188.16/goLive/ playpath=drJaZZCbpYhR6SeQLBpI swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.tv/embed.php?a=2070&id=&width=640&height=480&autostart=true&strech= token=OOG17t.x#K9Vh#|
-
-#EXTINF:-1, Pawn Stars (& other shows)
-http://vaughnlive.tv/lmshows_hps
-
-#EXTINF:-1, Psych
-http://vaughnlive.tv/highspothorror109
-
-#EXTINF:-1, Scrubs
-http://185.63.255.10:1935/liveedge/scrubs_ieq08wpd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE2OjA5IFBNJmhhc2hfdmFsdWU9RHhLQ1BZZ0JiSWM5cytJM0hkSE9vdz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Seinfeld
-http://185.63.255.10:1935/liveedge/seinfield_b2zbcknl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE2OjI4IFBNJmhhc2hfdmFsdWU9UWNodUlnTmp1N1lJYXBKa3hnbWMrUT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=1
-
-#EXTINF:-1, Shark Tank
-http://vaughnlive.tv/111aaacharkreality
-
-#EXTINF:-1, South Park 1
-http://vaughnlive.tv/profe3195
-
-#EXTINF:-1, South Park 2
-http://185.63.255.10:1935/liveedge/southpark_efybkxmm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE2OjU3IFBNJmhhc2hfdmFsdWU9OHhZbG84ZWdhdnJDMkw2b1oxcURhQT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Suits
-http://185.63.255.10:1935/liveedge/suits_j1hz6m1o/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE3OjI0IFBNJmhhc2hfdmFsdWU9b0xaRnhZdDhTbzVSR3IvMS96azJ6Zz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, The Big Bang Theory
-http://vaughnlive.tv/profe3194
-
-#EXTINF:-1, The Flintstones
-http://185.63.255.10:1935/liveedge/flintstones_bxpz55dp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE4OjU4IFBNJmhhc2hfdmFsdWU9c28rQmVWZ0VMVVF0aE9nZDRUVkhpZz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, The Simpsons
-http://185.63.255.10:1935/liveedge/simpsons_ngnarvzu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE4OjI5IFBNJmhhc2hfdmFsdWU9amlOZnArd0c1OTJWdmZCVVNNMHFtdz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, The Sopranos
-http://185.63.255.10:1935/liveedge/sopranos_hosv2q7n/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA1OjE3OjUyIFBNJmhhc2hfdmFsdWU9NGFUZU1mQmhJSkI1THo0Z1dodkZWUT09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, The Walking Dead
-rtmpe://179.43.188.14/goLive/ playpath=8JGgJCqjcOesXNjJ1ZPz swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.tv/embed.php?a=2045&id=&width=640&height=480&autostart=true&strech= token=OOG17t.x#K9Vh#|
-
-#EXTINF:-1, Tom and Jerry
-http://185.63.252.131:1935/liveedge/tomjerry_jk2ry4a9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxNSA0OjQ4OjMwIFBNJmhhc2hfdmFsdWU9Q0JJdEIvV3ozc0tYQjEwVVpVM3c4dz09JnZhbGlkbWludXRlcz01 token=OOG17t.x#K9Vh#| swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/ live=true timeout=15
-
-#EXTINF:-1, Top Gear
-http://vaughnlive.tv/profe3191
-
-#EXTINF:-1, Trailer Park Boys
-http://vaughnlive.tv/mdufresboat
-
-#EXTINF:-1, UFC
-http://vaughnlive.tv/profe3193
-
-#EXTINF:-1, War Documentaries
-http://vaughnlive.tv/wardocs
-
+#EXTINF:-1, [COLOR blue]---- 100 Code ----[/COLOR]
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x12 LEG-MOB Everytime You Think You’re Winning - Season Finale
+https://www.blogger.com/video-play.mp4?contentId=9392e704c33da582
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x11 LEG-MOB Still Living After All
+https://www.blogger.com/video-play.mp4?contentId=5d82f3bef56e9fc3
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x10 LEG-MOB Secrets
+https://www.blogger.com/video-play.mp4?contentId=bdd450bda05659dd
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x09 LEG-MOB The Deep Heart’s Core
+https://www.blogger.com/video-play.mp4?contentId=6d65215229617c37
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x08 LEG-MOB Nobody Sleeps
+https://www.blogger.com/video-play.mp4?contentId=7d3c9990294ea7b6
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x07 LEG-MOB The Cop That Hugs
+https://www.blogger.com/video-play.mp4?contentId=90a9765aa0c994b7
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x06 LEG-MOB There Are No Heroes
+https://www.blogger.com/video-play.mp4?contentId=635f78eebbc699c1
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x05 LEG-MOB The First Blush
+https://www.blogger.com/video-play.mp4?contentId=1397acd922aa09bd
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x04 LEG-MOB My Only Friend
+https://www.blogger.com/video-play.mp4?contentId=25e7f8e2ca635e03
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x03 LEG-MOB Down the Rabbit Hole
+https://www.blogger.com/video-play.mp4?contentId=871cd0003828e34d
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x02 LEG-MOB Flowers in Hell
+https://www.blogger.com/video-play.mp4?contentId=d192d0d02d5e38e5
+#EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x01 LEG-MOB Pilot
+https://www.blogger.com/video-play.mp4?contentId=04e33edddae03add
