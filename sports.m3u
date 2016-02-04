@@ -134,15 +134,6 @@ plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png" group-title="Plexus",BeIN Sports 1 France [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd&mode=1&name=acestream&mode=1&name=BEINSPORTS1FR
 
-#EXTINF:0,beinHD_Sports_HD1
-http://37.187.24.177:80/samir/samir/699.ch
-#EXTINF:0,beinHD_Sports_HD2
-http://37.187.24.177:80/samir/samir/700.ch
-#EXTINF:0,beinHD_Sports_HD3
-http://37.187.24.177:80/samir/samir/701.ch
-#EXTINF:0,beinHD_Sports_HD4
-http://37.187.24.177:80/samir/samir/702.ch
-
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png" group-title="Plexus",BeIN Sports 2 France [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mode=1&name=acestream&mode=1&name=BEINSPORTS2FR
 
