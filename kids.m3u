@@ -17,11 +17,10 @@ http://www.t12v.com:8000/live/prevot/prevot/1423.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title="Portugal", Disney Channel
 http://www.t12v.com:8000/live/prevot/prevot/1162.ts
 
-#EXTINF:-1,PT_BABY_TV
+#EXTINF:-1, Baby TV
 http://www.t12v.com:8000/live/prevot/prevot/1395.ts
 
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png" group-title="Portugal", Sic K
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png" group-title="Portugal", SIC Kids
 http://www.t12v.com:8000/live/prevot/prevot/1164.ts
 
 
@@ -36,6 +35,9 @@ http://bit.do/bkWKR
 
 #EXTINF:0, Musiq 1 tv
 http://212.79.96.134:8005/
+
+#EXTINF:0, Baby
+http://0100dyndns.tv:7879/live/khaleed/khaleed/852.ts
 
 
 #EXTINF:0, [COLOR yellow]--Spanish--[/COLOR]
