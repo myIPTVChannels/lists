@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://seebo.com.au/wp-content/uploads/2015/03/Channel_logos/ip/for_site/1HD.png", 1HD
 http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:0, 365 Music TV
+http://188.138.9.107:8000/365music/index.m3u8
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0, Albmusic HD (Albania)
