@@ -73,6 +73,8 @@ http://0100dyndns.tv:7879/live/tazia/tazia/864.m3u8
 http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
 #EXTINF:0, M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, M2O Music FSD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/4050.m3u8
 #EXTINF:0, M6 MUSIC SD
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0, MELODY CHANNEL TV HD [COLOR red]OFF[/COLOR]
@@ -242,12 +244,18 @@ rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
 
 #EXTINF:0,[B][COLOR white]--Italia--[/COLOR][/B]
 http://
+#EXTINF:0 group-title="Italia", Classica HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3903.m3u8
 #EXTINF:0 group-title="Italia", For Music TV
 http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
 #EXTINF:0 group-title="Italia", For Music TV SD
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/bratumarian.m3u8
+#EXTINF:0 group-title="Italia", Onda Latina FSD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/4051.m3u8
 #EXTINF:0 group-title="Italia", RTL TV 102.5
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:0 group-title="Italia", RTL TV 102.5 FSD (2)
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3474.m3u8
 #EXTINF:0 group-title="Italia", RADIO 105 TV SD
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0 group-title="Italia", RADIO 105 TV HD
