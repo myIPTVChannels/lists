@@ -65,6 +65,8 @@ http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:0, HIT TV SD (2)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0, HIT TV SD (3)
+http://0100dyndns.tv:7879/live/tazia/tazia/864.m3u8
 #EXTINF:0, M1
 http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
 #EXTINF:0, M2O Music
@@ -83,7 +85,7 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow SD
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Russian Musicbox
+#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Musicbox (Russian)
 http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
 #EXTINF:0, Music Box TV
 http://u.to/jaacAg
@@ -113,7 +115,7 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:0, Rock One HD
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:0, Rotana Music
+#EXTINF:0, Rotana Music (Arabic) HD
 http://0100dyndns.tv:7879/live/tazia/tazia/564.m3u8
 #EXTINF:0, Rouge TV SD
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
@@ -141,9 +143,13 @@ http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 http://82.76.249.77:80/utvedge/utvlive/index.m3u8
 #EXTINF:0, W9 SD
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:0, XITE TV
+#EXTINF:0, WOS TV (Netherland) HD
+http://0100dyndns.tv:7879/live/tazia/tazia/1131.m3u8
+#EXTINF:0, XITE TV (Netherland) FSD
 rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
-#EXTINF:0, XITE TV Party
+#EXTINF:0, XITE TV (Netherland) FSD (2)
+http://0100dyndns.tv:7879/live/tazia/tazia/1132.m3u8
+#EXTINF:0, XITE TV Party (Netherland) FSD
 http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8
 
 
@@ -505,6 +511,8 @@ http://31.186.24.233:8002/67
 http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:0 group-title=”Turkia”, dream TV TÜRK HD (2)
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0 group-title=”Turkia”, dream TV TÜRK HD (3)
+http://0100dyndns.tv:7879/live/tazia/tazia/797.m3u8
 #EXTINF:0 group-title=”Turkia”, dream TV TÜRK FSD
 http://www.t12v.com:8000/live/prevot/prevot/1168.ts
 #EXTINF:0 group-title=”Turkia”, dream TV TÜRK SD
@@ -513,6 +521,8 @@ http://origin.live.web.tv.streamprovider.net/streams/f9051a29d5def26626ff1fba0fa
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0 group-title=”Turkia”, dream TV HD (2)
 http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0 group-title=”Turkia”, dream TV HD (3)
+http://0100dyndns.tv:7879/live/tazia/tazia/811.m3u8
 #EXTINF:0 group-title=”Turkia”, dream TV FSD
 http://www.t12v.com:8000/live/prevot/prevot/1167.ts
 #EXTINF:0 group-title=”Turkia”, dream TV SD
@@ -529,8 +539,14 @@ rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
 http://origin.live.web.tv.streamprovider.net/streams/28093c3307f7e9afe35a7e35899953dc_live_0_0/index.m3u8
 #EXTINF:0 group-title=”Turkia”, NR1 TURK SD-
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
+#EXTINF:0 group-title=”Turkia”, NR1 TURK SD- (2)
+http://0100dyndns.tv:7879/live/tazia/tazia/810.ts
+#EXTINF:0 group-title=”Turkia”, NR1 TV TURK SD
+http://0100dyndns.tv:7879/live/tazia/tazia/811.m3u8
 #EXTINF:0 group-title=”Turkia”, Power Turk HD
 http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
+#EXTINF:0 group-title=”Turkia”, Power Turk HD (2)
+http://0100dyndns.tv:7879/live/tazia/tazia/817.m3u8
 #EXTINF:0 group-title=”Turkia”, TEK Damar TV SD
 http://origin.live.web.tv.streamprovider.net/streams/241d91d49c3557f57d5f9a735ea461da_live_0_0/index.m3u8
 #EXTINF:0 group-title=”Turkia”, TRT MÜZIK HD
@@ -539,6 +555,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 rtmp://sol.trtcdn.com/tv/trtmuzik/mp4:trtmuzik_3
 #EXTINF:0 group-title=”Turkia”, TRT MÜZIK SD
 http://origin.live.web.tv.streamprovider.net/streams/a9ee44c3dd6cb3889345731968c3a480_live_0_0/index.m3u8
+#EXTINF:0 group-title=”Turkia”, TRT MÜZIK SD (2)
+http://0100dyndns.tv:7879/live/tazia/tazia/831.m3u8
 #EXTINF:0 group-title=”Turkia”, TRT OKUL
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title=”Turkia”, VİZYONTÜRK TV SD
