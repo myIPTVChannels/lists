@@ -25,8 +25,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:0, CLUBLAND SD
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, CMC TV SD- [COLOR red]OFF[/COLOR]
-rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-MobH8cMpQYU/VB_5bEoSGlI/AAAAAAAACEs/3J7n2SPcqus/s1600/CMC%2BCALIFORNIA%2BMUSIC%2BCHANNEL.jpg", CMC TV SD-
+rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3 swfUrl=http://http.vitalstreamcdn.com/flashskins/V2Player.swf live=1 pageUrl=http://www.cmc-tv.com/ 
 #EXTINF:0, Dance TV HD [COLOR red]OFF[/COLOR]
 http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
 #EXTINF:0, DELUXE MUSIC [B][COLOR red]Plexus[/COLOR][/B]
