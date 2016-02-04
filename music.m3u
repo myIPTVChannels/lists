@@ -222,25 +222,33 @@ http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
 #EXTINF:0 group-title="ESKA", Eska Best Music [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://42dedd20c5b9e4239c895bf9bd272a9d025dd7f6&name=EskaBestMusic
 #EXTINF:0 group-title="ESKA", Eska Best Music SD
+http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
+#EXTINF:0 group-title="ESKA", Eska Best Music SD-
 rtmp://stream.smcloud.net/live2/best/best_360p
 #EXTINF:0 group-title="ESKA", Eska Rock TV HD
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?Vd?u#bt!25
-#EXTINF:0 group-title="ESKA", Eska Rock TV HD (2)
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:0 group-title="ESKA", Eska Rock TV HD (2)
+http://stream.smcloud.net/live2/eska_rock/eska_rock_720p/Eska&Rock&TV.m3u8
 #EXTINF:0 group-title="ESKA", Eska Rock TV (3)
 rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
 #EXTINF:0 group-title="ESKA", Eska Rock TV SD
+http://stream.smcloud.net/live2/eska_rock/eska_rock_480p/Eska&Rock&TV.m3u8
+#EXTINF:0 group-title="ESKA", Eska Rock TV SD-
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
 #EXTINF:0 group-title="ESKA", Eska Party HD
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:0 group-title="ESKA", Eska Party [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://e0e441ee6858a6db9c5a02033015c483ea41f731&name=EskaBestMusic
 #EXTINF:0 group-title="ESKA", Eska Party SD
+http://stream.smcloud.net/live2/eska_party/eska_party_480p
+#EXTINF:0 group-title="ESKA", Eska Party SD-
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
-#EXTINF:0 group-title="ESKA", Eska Wawa
-rtmp://stream.smcloud.net/live2/wawa/wawa_360p
 #EXTINF:0 group-title="ESKA", Eska Wawa HD
 rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+#EXTINF:0 group-title="ESKA", Eska Wawa SD
+http://stream.smcloud.net/live2/wawa/wawa_480p/playlist.m3u8
+#EXTINF:0 group-title="ESKA", Eska Wawa SD-
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
 #EXTINF:0 group-title="ESKA" tvg-logo="http://i.imgur.com/MiNwILg.png", Eska VOX TV HD
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:0 group-title="ESKA", Eska VOX HD
