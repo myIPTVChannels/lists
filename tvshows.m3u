@@ -20,7 +20,7 @@ http://www.t12v.com:8000/live/prevot/prevot/1152.ts
 
 #EXTINF:-1, ---- Séries ----
 http://0.0.0.0
-#EXTINF:-1, [COLOR blue]---- 100 Code ----[/COLOR]
+#EXTINF:-1, [COLOR blue][B]---- 100 Code ----[/B][/COLOR]
 http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x12 LEG-MOB Everytime You Think You’re Winning - Season Finale
 https://www.blogger.com/video-play.mp4?contentId=9392e704c33da582
@@ -46,3 +46,32 @@ https://www.blogger.com/video-play.mp4?contentId=871cd0003828e34d
 https://www.blogger.com/video-play.mp4?contentId=d192d0d02d5e38e5
 #EXTINF:-1 tvg-logo="https://goo.gl/WJJyMl" group-title="100 Code Legendado",100 Code 1x01 LEG-MOB Pilot
 https://www.blogger.com/video-play.mp4?contentId=04e33edddae03add
+==================================================================================
+#EXTINF:-1, [COLOR blue][B]---- 12 Monkeys ----[/B][/COLOR]
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x13 LEG-MOB Arms of Mine - Season Finale
+https://www.blogger.com/video-play.mp4?contentId=0796e333c8508f9d
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x12 LEG-MOB Paradox
+https://www.blogger.com/video-play.mp4?contentId=0796e333c8508f9d
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x11 LEG-MOB Shonin
+https://www.blogger.com/video-play.mp4?contentId=20be90f9533a92f8
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x10 LEG-MOB Divine Move
+https://www.blogger.com/video-play.mp4?contentId=e13c27e218aefb22
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x09 LEG-MOB Tomorrow
+https://www.blogger.com/video-play.mp4?contentId=1ca23d9a2883da3e
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x08 LEG-MOB Yesterday
+https://www.blogger.com/video-play.mp4?contentId=26c0ba6234b6c927
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x07 LEG-MOB The Keys
+https://www.blogger.com/video-play.mp4?contentId=3cd644e2e67c84b2
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x06 LEG-MOB The Red Forest
+https://www.blogger.com/video-play.mp4?contentId=9a5755c0c89cb547
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x05 LEG-MOB The Night Room
+https://www.blogger.com/video-play.mp4?contentId=78d5d4ac68190c40
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x04 LEG-MOB Atari
+https://www.blogger.com/video-play.mp4?contentId=1f0878f961142eaa
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x03 LEG-MOB Cassandra Complex
+https://www.blogger.com/video-play.mp4?contentId=e4b289f0240b0a03
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x02 LEG-MOB Mentally Divergent
+https://www.blogger.com/video-play.mp4?contentId=13536e81430ca426
+#EXTINF:-1 tvg-logo="http://goo.gl/H7jjiu" group-title="12 Monkeys Legendado",12 Monkeys 1x01 LEG-MOB Pilot
+https://www.blogger.com/video-play.mp4?contentId=04560846aab726a2
