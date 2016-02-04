@@ -19,6 +19,8 @@ http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 #EXTINF:0, BSX
 http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=1294940186
+#EXTINF:0, BSX
+http://0100dyndns.tv:7879/live/tazia/tazia/557.m3u8
 #EXTINF:0, Boys Mania
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:0, ButGo
@@ -32,13 +34,15 @@ http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
 #EXTINF:0, CLARO ADULTO PREMIUM (2)
 http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
 #EXTINF:0, erotic 1
-http://www.nasatv.eu:80/live?channelId=66&uid=49&deviceUser=alena&devicePass=alena
+http://0100dyndns.tv:7879/live/tazia/tazia/155.m3u8
 #EXTINF:0, erotic 2
 http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:0, erotic 3
 http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:0, erotic 4
 http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, FilmOn
+http://0100dyndns.tv:7879/live/tazia/tazia/154.m3u8
 #EXTINF:0, Flower (RU)
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
 #EXTINF:0, Hustler TV
@@ -83,8 +87,12 @@ http://91.213.59.190:8000/239.0.1.156
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:0, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:0, PASSI XXX
+http://0100dyndns.tv:7879/live/tazia/tazia/153.m3u8
 #EXTINF:0, Playy
 http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
+#EXTINF:0, PLAY 2
+http://0100dyndns.tv:7879/live/tazia/tazia/152.m3u8
 #EXTINF:0, Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0, Русская Ночь
@@ -291,3 +299,43 @@ http://ru-porn.tv/videofile?id=11174&hq=high&ex=mp4
 http://ru-porn.tv/videofile?id=11188&hq=high&ex=mp4
 #EXTINF:0,50
 http://ru-porn.tv/videofile?id=11182&hq=high&ex=mp4
+#EXTINF:-1,X_MOVIE_1
+http://0100dyndns.tv:7879/movie/tazia/tazia/679.mp4
+#EXTINF:-1,X_MOVIE_2
+http://0100dyndns.tv:7879/movie/tazia/tazia/680.mp4
+#EXTINF:-1,X_MOVIE_3
+http://0100dyndns.tv:7879/movie/tazia/tazia/681.mp4
+#EXTINF:-1,X_MOVIE_4
+http://0100dyndns.tv:7879/movie/tazia/tazia/682.mp4
+#EXTINF:-1,X_MOVIE_5
+http://0100dyndns.tv:7879/movie/tazia/tazia/683.mp4
+#EXTINF:-1,X_MOVIE_6
+http://0100dyndns.tv:7879/movie/tazia/tazia/684.mp4
+#EXTINF:-1,X_MOVIE_7
+http://0100dyndns.tv:7879/movie/tazia/tazia/685.mp4
+#EXTINF:-1,X_MOVIE_8
+http://0100dyndns.tv:7879/movie/tazia/tazia/686.mp4
+#EXTINF:-1,X_MOVIE_9
+http://0100dyndns.tv:7879/movie/tazia/tazia/687.mp4
+#EXTINF:-1,X_MOVIE_10
+http://0100dyndns.tv:7879/movie/tazia/tazia/688.mp4
+#EXTINF:-1,X_MOVIE_11
+http://0100dyndns.tv:7879/movie/tazia/tazia/692.mp4
+#EXTINF:-1,X_MOVIE_12
+http://0100dyndns.tv:7879/movie/tazia/tazia/693.mp4
+#EXTINF:-1,X_MOVIE_13
+http://0100dyndns.tv:7879/movie/tazia/tazia/694.mp4
+#EXTINF:-1,X_MOVIE_14
+http://0100dyndns.tv:7879/movie/tazia/tazia/695.mp4
+#EXTINF:-1,X_MOVIE_15
+http://0100dyndns.tv:7879/movie/tazia/tazia/696.mp4
+#EXTINF:-1,X_MOVIE_16
+http://0100dyndns.tv:7879/movie/tazia/tazia/697.mp4
+#EXTINF:-1,X_MOVIE_17
+http://0100dyndns.tv:7879/movie/tazia/tazia/698.mp4
+#EXTINF:-1,X_MOVIE_18
+http://0100dyndns.tv:7879/movie/tazia/tazia/699.mp4
+#EXTINF:-1,X_MOVIE_19
+http://0100dyndns.tv:7879/movie/tazia/tazia/700.mp4
+#EXTINF:-1,X_MOVIE_20
+http://0100dyndns.tv:7879/movie/tazia/tazia/701.mp4
