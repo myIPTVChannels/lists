@@ -36,6 +36,8 @@ http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 
 #EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal", SIC Notícias (2) [SD]
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
+#EXTINF:-1,PT_SIC_NOTICIAS
+http://www.t12v.com:8000/live/prevot/prevot/1123.ts
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal", TVI24 [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
@@ -76,10 +78,10 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUr
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png" group title="Portugal", Porto Canal
-http://luckyiptv.ddns.net:23000/live/andi/andi/12053.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1130.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtvrvw1435091662.png" group title="Portugal", TPA
-http://luckyiptv.ddns.net:23000/live/andi/andi/12032.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1383.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal", TPA Internacional [FSD]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
@@ -87,10 +89,19 @@ http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png" group title="Portugal", ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
 
+#EXTINF:-1,PT_SIC_RADICAL
+http://www.t12v.com:8000/live/prevot/prevot/1159.ts
+
 =================================================================================00
 
 #EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1,PT_SIC_CARAS
+http://www.t12v.com:8000/live/prevot/prevot/1422.ts
+
+#EXTINF:-1,PT_TRAVEL_CHANNEL
+http://www.t12v.com:8000/live/prevot/prevot/1402.ts
 
 #EXTINF:-1,PT_VH1
 http://www.t12v.com:8000/live/prevot/prevot/499.ts
@@ -117,13 +128,16 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
 http://www.t12v.com:8000/live/prevot/prevot/1126.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group title="Portugal", Nat Geo Wild
-http://luckyiptv.ddns.net:23000/live/andi/andi/12060.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1182.ts
+
+#EXTINF:-1,PT_NATIONAL_GEOGRAPHIC_HD
+http://www.t12v.com:8000/live/prevot/prevot/1184.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png" group title="Portugal", MOV HD
 http://luckyiptv.ddns.net:23000/live/andi/andi/12061.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png" group title="Portugal", FOX MOvies
-http://luckyiptv.ddns.net:23000/live/andi/andi/12068.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1148.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png" group title="Portugal", CineMundo
 http://luckyiptv.ddns.net:23000/live/andi/andi/12076.m3u8
@@ -134,32 +148,50 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12077.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxswvq1433343102.png" group title="Portugal", AXN
 http://luckyiptv.ddns.net:23000/live/andi/andi/12087.m3u8
 
+#EXTINF:-1,PT_MTV_HITS
+http://www.t12v.com:8000/live/prevot/prevot/1380.ts
+#EXTINF:-1,PT_MTV_DANCE
+http://www.t12v.com:8000/live/prevot/prevot/805.ts
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png" group title="Portugal", A&E
 http://luckyiptv.ddns.net:23000/live/andi/andi/12091.m3u8
+
+#EXTINF:-1,PT_MOTORS_TV
+http://www.t12v.com:8000/live/prevot/prevot/1193.ts
 
 #EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png" group title="Portugal", AXN [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8
 
 #EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png" group title="Portugal", AXN White [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1155.ts
+
+#EXTINF:-1,PT_AXN_BLACK
+http://www.t12v.com:8000/live/prevot/prevot/1156.ts
+
+#EXTINF:-1,PT_AMC
+http://www.t12v.com:8000/live/prevot/prevot/1410.ts
 
 #EXTINF:-1 tvg-name="fox.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png" group title="Portugal", FOX [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8
 
 #EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png" group title="Portugal", FOX Crime [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1151.ts
 
 #EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png" group title="Portugal", FOX Life [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1150.ts
 
 #EXTINF:-1  audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png" group title="Portugal", Hollywood [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
 
 #EXTINF:-1 tvg-name="SyFy" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png" group title="Portugal", SYFY
-http://luckyiptv.ddns.net:23000/live/andi/andi/12034.m3u8
+http://www.t12v.com:8000/live/prevot/prevot/1412.ts
 
 #EXTINF:-1,PT_TV_SERIES
 http://www.t12v.com:8000/live/prevot/prevot/1152.ts
+
+#EXTINF:-1,PT_ODISSEIA
+http://www.t12v.com:8000/live/prevot/prevot/1401.ts
+==============================================================================
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
 
