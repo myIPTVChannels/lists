@@ -33,6 +33,8 @@ http://wowza1.videos.movile.com:8080/live/adulto_1.smil/stream.m3u8
 http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
 #EXTINF:0, CLARO ADULTO PREMIUM (2)
 http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, Exotica TV HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3588.ts
 #EXTINF:0, erotic 1
 http://0100dyndns.tv:7879/live/tazia/tazia/155.m3u8
 #EXTINF:0, erotic 2
