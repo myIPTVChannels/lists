@@ -83,7 +83,9 @@ http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png" group title="Portugal", ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:-1, [B]--- Temáticos ---[/B]
+=================================================================================00
+
+#EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1,PT_VH1
