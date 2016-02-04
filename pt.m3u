@@ -25,6 +25,8 @@ rtmp://213.13.26.13/live playpath=sic swfUrl=http://js.sapo.pt/Projects/Video/15
 
 #EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group title="Portugal", TVI [FSD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1,PT_TVI
+http://www.t12v.com:8000/live/prevot/prevot/1125.ts
 
 #EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal", RTP 3 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
@@ -37,6 +39,8 @@ rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal", TVI24 [FSD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1,PT_TVI_24
+http://www.t12v.com:8000/live/prevot/prevot/808.ts
 
 #EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal", Económico TV [FSD]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
@@ -91,8 +95,11 @@ http://0.0.0.0
 #EXTINF:-1,PT_VH1
 http://www.t12v.com:8000/live/prevot/prevot/499.ts
 
-#EXTINF:-1 tvg-logo="" group title="Portugal", VeVo 2 HD
-http://luckyiptv.ddns.net:23000/live/andi/andi/12019.m3u8
+#EXTINF:-1,PT_VEVO_3_HD
+http://www.t12v.com:8000/live/prevot/prevot/1175.ts
+
+#EXTINF:-1 tvg-logo="" group title="Portugal", VeVo 2
+http://www.t12v.com:8000/live/prevot/prevot/1174.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group title="Portugal", TV Globo
 http://luckyiptv.ddns.net:23000/live/andi/andi/12031.m3u8
@@ -105,6 +112,9 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12040.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png" group title="Portugal", Plus TVI
 http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
+
+#EXTINF:-1,PT_TVI_FICCAO
+http://www.t12v.com:8000/live/prevot/prevot/1126.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group title="Portugal", Nat Geo Wild
 http://luckyiptv.ddns.net:23000/live/andi/andi/12060.m3u8
@@ -148,7 +158,8 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
 #EXTINF:-1 tvg-name="SyFy" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png" group title="Portugal", SYFY
 http://luckyiptv.ddns.net:23000/live/andi/andi/12034.m3u8
 
-
+#EXTINF:-1,PT_TV_SERIES
+http://www.t12v.com:8000/live/prevot/prevot/1152.ts
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
 
@@ -158,8 +169,12 @@ http://185.26.175.200:5000/udp/239.200.1.35:10000
 #EXTINF:0 group title="Brasil", CHEFE COZINHA
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
-#EXTINF:0 group title="Brasil",Globo
-http://185.26.175.200:5000/udp/239.200.1.12:10000
+#EXTINF:-1,PT_TV_RECORD
+http://www.t12v.com:8000/live/prevot/prevot/1393.ts
+#EXTINF:-1,PT_TV_GLOBO_PREMIUN
+http://www.t12v.com:8000/live/prevot/prevot/1388.ts
+#EXTINF:-1,PT_TV_GLOBO
+http://www.t12v.com:8000/live/prevot/prevot/1390.ts
 
 #EXTINF:0 group-title="Brasil", TV Foco
 http://185.26.175.200:5000/udp/239.200.1.15:10000
