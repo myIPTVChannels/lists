@@ -16,6 +16,8 @@ http://www.t12v.com:8000/live/prevot/prevot/1146.ts
 http://www.t12v.com:8000/live/prevot/prevot/886.ts
 #EXTINF:0, TVCINE 4
 http://www.t12v.com:8000/live/prevot/prevot/1147.ts
+#EXTINF:-1,PT_CINEMUNDO
+http://www.t12v.com:8000/live/prevot/prevot/507.ts
 
 
 #EXTINF:-1, [B]--- Filmes ---[/B]
