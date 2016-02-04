@@ -113,6 +113,8 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:0, Rock One HD
 mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0, Rotana Music
+http://0100dyndns.tv:7879/live/tazia/tazia/564.m3u8
 #EXTINF:0, Rouge TV SD
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 #EXTINF:0, Rouge TV SD (2)
