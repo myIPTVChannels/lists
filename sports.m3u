@@ -134,8 +134,14 @@ plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png" group-title="Plexus",BeIN Sports 1 France [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd&mode=1&name=acestream&mode=1&name=BEINSPORTS1FR
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png", BeIN Sports 1 France
+http://37.187.24.177:80/samir/samir/715.ch
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png" group-title="Plexus",BeIN Sports 2 France [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mode=1&name=acestream&mode=1&name=BEINSPORTS2FR
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png", BeIN Sports 2 France
+http://37.187.24.177:80/samir/samir/716.ch
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 1 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://1fb25e97a67e248dd3b0063afdd9d011f3b2e622&mode=1&name=acestream&mode=1&name=ARENAVISION1
