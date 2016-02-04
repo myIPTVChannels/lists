@@ -8,14 +8,14 @@ http://37.203.209.34:443/mobile/flash24sd/live.m3u8
 #EXTINF:0 tvg-logo="sbt.png" tvg-logo="http://www.tvaovivolista.com/sbt.png", SBT HQ
 http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0, TVCINE 1
-http://www.t12v.com:8000/live/prevot/prevot/1145.ts
-#EXTINF:0, TVCINE 2
-http://www.t12v.com:8000/live/prevot/prevot/1146.ts
-#EXTINF:0, TVCINE 3
-http://www.t12v.com:8000/live/prevot/prevot/886.ts
-#EXTINF:0, TVCINE 4
-http://www.t12v.com:8000/live/prevot/prevot/1147.ts
+#EXTINF:-1,TVCine 1
+http://163.172.14.11:12000/…/RzfEucfe8v/UhtrJh608m/1282.m3u8
+#EXTINF:-1,TVCine 2
+http://163.172.14.11:12000/…/RzfEucfe8v/UhtrJh608m/1283.m3u8
+#EXTINF‬:-1,TVCine 3
+http://163.172.14.11:12000/…/RzfEucfe8v/UhtrJh608m/1284.m3u8
+#EXTINF:-1,TVCine 4
+http://163.172.14.11:12000/…/RzfEucfe8v/UhtrJh608m/1285.m3u8
 #EXTINF:-1,PT_CINEMUNDO
 http://www.t12v.com:8000/live/prevot/prevot/507.ts
 
@@ -24,7 +24,7 @@ http://www.t12v.com:8000/live/prevot/prevot/507.ts
 http://0.0.0.0
 #EXTINF:-1, [COLOR blue]As legendas poderam nao aparecer automaticamente[/COLOR]
 http://0.0.0.0
-#EXTINF:-1, [COLOR blue]efectuar procura manual ([COLOR red]addon opensubstitles[/COLOR])[/COLOR]
+#EXTINF:-1, [COLOR blue]efectuar procura manual ([COLOR red]addon opensubtitles[/COLOR])[/COLOR]
 http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/1524575/l_1524575_d9a2607c.jpg", The Vatican Tapes [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][B][1080p][/B][/COLOR]
 http://bit.do/bsvZw
