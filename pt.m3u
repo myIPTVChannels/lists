@@ -86,6 +86,9 @@ rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1, [B]--- Temáticos ---[/B]
 http://0.0.0.0
 
+#EXTINF:-1,PT_VH1
+http://www.t12v.com:8000/live/prevot/prevot/499.ts
+
 #EXTINF:-1 tvg-logo="" group title="Portugal", VeVo 2 HD
 http://luckyiptv.ddns.net:23000/live/andi/andi/12019.m3u8
 
