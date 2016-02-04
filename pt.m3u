@@ -28,6 +28,9 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1,PT_TVI
 http://www.t12v.com:8000/live/prevot/prevot/1125.ts
 
+#EXTINF:-1,PT_CM_TV
+http://www.t12v.com:8000/live/prevot/prevot/498.ts
+
 #EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal", RTP 3 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
@@ -97,6 +100,9 @@ http://www.t12v.com:8000/live/prevot/prevot/1159.ts
 
 #EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1,PT_24_KITCHEN_HD
+http://www.t12v.com:8000/live/prevot/prevot/1187.ts
 
 #EXTINF:-1,PT_CANAL_HISTORIA
 http://www.t12v.com:8000/live/prevot/prevot/1183.ts
