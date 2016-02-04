@@ -239,6 +239,34 @@ http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 --------------------------------------------------------------------------------
+#EXTINF:-1, [B][COLOR red]ITALY[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1,Alice
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/4250.m3u8
+#EXTINF:-1,Rai 1 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3378.m3u8
+#EXTINF:-1,Rai 2 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3379.m3u8
+#EXTINF:-1,RAI 3 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/4278.m3u8
+#EXTINF:-1,Rai 4
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3503.m3u8
+#EXTINF:-1,Rete 4 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3381.m3u8
+#EXTINF:-1,Canale 5 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3383.m3u8
+#EXTINF:-1,Italia 1 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3382.m3u8
+#EXTINF:-1,RSI LA 1 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3384.m3u8
+#EXTINF:-1,RSI LA 2 HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3385.m3u8
+#EXTINF:-1,La 7
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3418.m3u8
+#EXTINF:-1,7 Gold
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3417.m3u8
+
+--------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]ISRAEL[/COLOR][/B]
 http://0.0.0.0
 #EXTINF: 0,IL LAND
