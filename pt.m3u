@@ -92,10 +92,14 @@ rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1,PT_SIC_RADICAL
 http://www.t12v.com:8000/live/prevot/prevot/1159.ts
 
+
 =================================================================================00
 
 #EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1,PT_CANAL_HISTORIA
+http://www.t12v.com:8000/live/prevot/prevot/1183.ts
 
 #EXTINF:-1,PT_SIC_CARAS
 http://www.t12v.com:8000/live/prevot/prevot/1422.ts
