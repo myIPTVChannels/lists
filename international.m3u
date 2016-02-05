@@ -178,6 +178,8 @@ http://tvclub.fr/ch09.ts
 http://teleclub.fr/cinetoile.mp4?start=0
 #EXTINF:0,Teleclub CINQ+
 http://tvclub.fr/ch05.ts
+#EXTINF:-1,FR : W9*
+http://62.210.162.88:80/live/FR91/132105022016/1838.ts
 
 ------------------------------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]HUNGRIA[/COLOR][/B]
