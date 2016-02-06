@@ -150,60 +150,89 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 -------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]ESPANHA[/COLOR][/B]
 http://0.0.0.0
-#EXTINF:-1,ES : TVE 1*
-http://62.210.162.88:80/live/ES91/152005022016/1722.ts
-#EXTINF:-1,ES : LA 2*
-http://62.210.162.88:80/live/ES91/152005022016/1723.ts
-#EXTINF:-1,ES : TV3 24*
-http://62.210.162.88:80/live/ES91/152005022016/1762.ts
-#EXTINF:-1,ES : TRAVEL TV*
-http://62.210.162.88:80/live/ES91/152005022016/1754.ts
-#EXTINF:-1,ES : RTP ASTURIAS*
-http://62.210.162.88:80/live/ES91/152005022016/1747.ts
-#EXTINF:-1,ES : RT EN ESPAÑOL HD*
-http://62.210.162.88:80/live/ES91/152005022016/1757.ts
-#EXTINF:-1,ES : ONDA SEVILLA*
-http://62.210.162.88:80/live/ES91/152005022016/1761.ts
-#EXTINF:-1,ES : MEGA*
-http://62.210.162.88:80/live/ES91/152005022016/1742.ts
-#EXTINF:-1,ES : LA SEXTA*
-http://62.210.162.88:80/live/ES91/152005022016/1726.ts
-#EXTINF:-1,ES : ANTENA 3*
-http://62.210.162.88:80/live/ES91/152005022016/1724.ts
-#EXTINF:-1,ES : INTERECONOMIA*
-http://62.210.162.88:80/live/ES91/152005022016/1758.ts
-#EXTINF:-1,ES : GALIZA TV EUROPA*
-http://62.210.162.88:80/live/ES91/152005022016/1745.ts
-#EXTINF:-1,ES : GALIZA TV AMERICA*
-http://62.210.162.88:80/live/ES91/152005022016/1746.ts
-#EXTINF:-1,ES : FOX*
-http://62.210.162.88:80/live/ES91/152005022016/1739.ts
-#EXTINF:-1,ES : CANAL  FUTBOL*
-http://62.210.162.88:80/live/ES91/152005022016/1728.ts
-#EXTINF:-1,ES : EXTREMADURA TV*
-http://62.210.162.88:80/live/ES91/152005022016/1748.ts
-#EXTINF:-1,ES : EURONEWS*
-http://62.210.162.88:80/live/ES91/152005022016/1756.ts
-#EXTINF:-1,ES : CEUTA TV*
-http://62.210.162.88:80/live/ES91/152005022016/1753.ts
-#EXTINF:-1,ES : CASTILLA LA MANCHA TV*
-http://62.210.162.88:80/live/ES91/152005022016/1750.ts
-#EXTINF:-1,ES : CANAL+ ESTRENOS*
-http://62.210.162.88:80/live/ES91/152005022016/1721.ts
-#EXTINF:-1,ES : CANAL DCINE*
-http://62.210.162.88:80/live/ES91/152005022016/1737.ts
-#EXTINF:-1,ES : CANAL COMEDIA*
-http://62.210.162.88:80/live/ES91/152005022016/1738.ts
-#EXTINF:-1,ES : AXN WHITE*
-http://62.210.162.88:80/live/ES91/152005022016/1741.ts
-#EXTINF:-1,ES : CANAL COSTA*
-http://62.210.162.88:80/live/ES91/152005022016/1759.ts
-#EXTINF:-1,ES : ANIME TV*
-http://62.210.162.88:80/live/ES91/152005022016/1755.ts
-#EXTINF:-1,ES : ANDORRA TV*
-http://62.210.162.88:80/live/ES91/152005022016/1749.ts
-#EXTINF:-1,ES : 13 TV*
-http://62.210.162.88:80/live/ES91/152005022016/1744.ts
+http://iptv-supplier.com:8000/live/bibi/bibi/488.ts
+#EXTINF:-1,ES:CANAL_1
+http://iptv-supplier.com:8000/live/bibi/bibi/479.ts
+#EXTINF:-1,ES:CANAL_2
+http://iptv-supplier.com:8000/live/bibi/bibi/480.ts
+#EXTINF:-1,ES:CANAL_TOROS
+http://iptv-supplier.com:8000/live/bibi/bibi/385.ts
+#EXTINF:-1,ES:CANAL_LIGA
+http://iptv-supplier.com:8000/live/bibi/bibi/386.ts
+#EXTINF:-1,ES:CANAL_GOLF
+http://iptv-supplier.com:8000/live/bibi/bibi/387.ts
+#EXTINF:-1,ES:CANAL_FUTBOL
+http://iptv-supplier.com:8000/live/bibi/bibi/388.ts
+#EXTINF:-1,ES:CANAL+_DEPORTES
+http://iptv-supplier.com:8000/live/bibi/bibi/2036.ts
+#EXTINF:-1,ES:CANAL_COMEDIA
+http://iptv-supplier.com:8000/live/bibi/bibi/389.ts
+#EXTINF:-1,ES:CANAL_ACCION
+http://iptv-supplier.com:8000/live/bibi/bibi/481.ts
+#EXTINF:-1,ES:CANAL_ESTRENOS
+http://iptv-supplier.com:8000/live/bibi/bibi/1853.ts
+#EXTINF:-1,ES:C+_SERIES
+http://iptv-supplier.com:8000/live/bibi/bibi/1854.ts
+#EXTINF:-1,ES:CANAL_DCINE
+http://iptv-supplier.com:8000/live/bibi/bibi/482.ts
+#EXTINF:-1,ES:ODISEA
+http://iptv-supplier.com:8000/live/bibi/bibi/1857.ts
+#EXTINF:-1,ES:CANAL_DE_LASESTRELLAS
+http://iptv-supplier.com:8000/live/bibi/bibi/1856.ts
+#EXTINF:-1,ES:LA_SEXTA
+http://iptv-supplier.com:8000/live/bibi/bibi/382.ts
+#EXTINF:-1,ES:REAL_MADRID
+http://iptv-supplier.com:8000/live/bibi/bibi/1662.ts
+#EXTINF:-1,ES:Barça
+http://iptv-supplier.com:8000/live/bibi/bibi/484.ts
+#EXTINF:-1,ES:EUROSPORT
+http://iptv-supplier.com:8000/live/bibi/bibi/1668.ts
+#EXTINF:-1,ES:EURONEWS
+http://iptv-supplier.com:8000/live/bibi/bibi/1806.ts
+#EXTINF:-1,ES:SYFY
+http://iptv-supplier.com:8000/live/bibi/bibi/1876.ts
+#EXTINF:-1,ES:KISS_TV
+http://iptv-supplier.com:8000/live/bibi/bibi/1877.ts
+#EXTINF:-1,ES:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bibi/bibi/1671.ts
+#EXTINF:-1,ES:CUATRO
+http://iptv-supplier.com:8000/live/bibi/bibi/1673.ts
+#EXTINF:-1,ES:TELECINCO
+http://iptv-supplier.com:8000/live/bibi/bibi/1660.ts
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC
+http://iptv-supplier.com:8000/live/bibi/bibi/1664.ts
+#EXTINF:-1,ES:MOVISTAR_F1
+http://iptv-supplier.com:8000/live/bibi/bibi/1661.ts
+#EXTINF:-1,ES:MEGA
+http://iptv-supplier.com:8000/live/bibi/bibi/383.ts
+#EXTINF:-1,ES:La2
+http://iptv-supplier.com:8000/live/bibi/bibi/1666.ts
+#EXTINF:-1,ES:La1
+http://iptv-supplier.com:8000/live/bibi/bibi/1667.ts
+#EXTINF:-1,ES:HOLLYWOOD_HD
+http://iptv-supplier.com:8000/live/bibi/bibi/973.ts
+#EXTINF:-1,ES:HISTORIA
+http://iptv-supplier.com:8000/live/bibi/bibi/381.ts
+#EXTINF:-1,ES:GALICIA
+http://iptv-supplier.com:8000/live/bibi/bibi/1669.ts
+#EXTINF:-1,ES:FOX_LIFE
+http://iptv-supplier.com:8000/live/bibi/bibi/1665.ts
+#EXTINF:-1,ES:FOX1
+http://iptv-supplier.com:8000/live/bibi/bibi/1670.ts
+#EXTINF:-1,ES:CLAN_TVE
+http://iptv-supplier.com:8000/live/bibi/bibi/1676.ts
+#EXTINF:-1,ES:CANAL_13
+http://iptv-supplier.com:8000/live/bibi/bibi/969.ts
+#EXTINF:-1,ES:BEIN_SPORTS
+http://iptv-supplier.com:8000/live/bibi/bibi/486.ts
+#EXTINF:-1,ES:AXN_WHITE_SPAIN
+http://iptv-supplier.com:8000/live/bibi/bibi/1674.ts
+#EXTINF:-1,ES:AXN
+http://iptv-supplier.com:8000/live/bibi/bibi/487.ts
+#EXTINF:-1,ES:ANTENNA3
+http://iptv-supplier.com:8000/live/bibi/bibi/1675.ts
+#EXTINF:-1,ES:ANDALUCIA_TV
+http://iptv-supplier.com:8000/live/bibi/bibi/1807.ts
 
 -------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]FRANCA[/COLOR][/B]
@@ -434,7 +463,6 @@ http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 --------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]ITALY[/COLOR][/B]
 http://0.0.0.0
-#EXTM3U
 #EXTINF:-1,-=====TivuSat=====-
 http://iptv-online.ddns.net:8000/live/silvio/silvio/46.ts
 #EXTINF:-1,Rai 1 HD
