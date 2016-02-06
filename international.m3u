@@ -208,74 +208,169 @@ http://62.210.162.88:80/live/ES91/152005022016/1744.ts
 -------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]FRANCA[/COLOR][/B]
 http://0.0.0.0
-#EXTINF:0,Teleclub West MOVIES mp4
-http://teleclub.fr/west.mp4?start=0
-#EXTINF:0,Teleclub Sicence Fiction
-http://teleclub.fr/sfx.mp4?start=0
-#EXTINF:0,Teleclub Mystries TV
-http://tvclub.fr/ch12.ts
-#EXTINF:0,Teleclub Club de Noël
-http://tvclub.fr/ch14.ts
-#EXTINF:0,Teleclub WEST .ts
-http://tvclub.fr/ch08.ts
-#EXTINF:0,Teleclub CLUB 1
-http://tvclub.fr/ch01.ts
-#EXTINF:0,Teleclub MusicBox
-http://teleclub.fr/ch07.ts
-#EXTINF:0,Teleclub DOCUMENTARY
-http://tvclub.fr/ch04.ts
-#EXTINF:0,Teleclub Collection
-http://tvclub.fr/ch00.ts
-#EXTINF:0,Teleclub COMEDY
-http://teleclub.fr/rire.mp4?start=0
-#EXTINF:0,Teleclub VINTAGE
-http://teleclub.fr/carreblanc.mp4?start=0
-#EXTINF:-1,Teleclub CineFil
-http://tvclub.fr/ch09.ts
-#EXTINF:0,Teleclub Premiere
-http://teleclub.fr/cinetoile.mp4?start=0
-#EXTINF:0,Teleclub CINQ+
-http://tvclub.fr/ch05.ts
-#EXTINF:-1,FR : W9*
-http://62.210.162.88:80/live/FR91/132105022016/1838.ts
-#EXTINF:-1,FR : FRANCE O*
-http://62.210.162.88:80/live/FR91/132105022016/1800.ts
-#EXTINF:-1,FR : FRANCE 2*
-http://62.210.162.88:80/live/FR91/132105022016/1797.ts
-#EXTINF:-1,FR : FRANCE 3*
-http://62.210.162.88:80/live/FR91/132105022016/1794.ts
-#EXTINF:-1,FR : FRANCE 4*
-http://62.210.162.88:80/live/FR91/132105022016/1798.ts
-#EXTINF:-1,FR : FRANCE 5*
-http://62.210.162.88:80/live/FR91/132105022016/1799.ts
-#EXTINF:-1,FR : D8*
-http://62.210.162.88:80/live/FR91/132105022016/1795.ts
-#EXTINF:-1,FR : D17*
-http://62.210.162.88:80/live/FR91/132105022016/1796.ts
-#EXTINF:-1,FR_NRJ12*
-http://62.210.162.88:80/live/FR91/132105022016/1320.ts
-#EXTINF:-1,FR : RTS UN*
-http://62.210.162.88:80/live/FR91/132105022016/1818.ts
-#EXTINF:-1,FR : RTS DEUX*
-http://62.210.162.88:80/live/FR91/132105022016/1817.ts
-#EXTINF:-1,FR_6TER*
-http://62.210.162.88:80/live/FR91/132105022016/1322.ts
-#EXTINF:-1,FR:CanalCinema
-http://62.210.162.88:80/live/FR91/132105022016/1299.ts
-#EXTINF:-1,FR:CanalFamily
-http://62.210.162.88:80/live/FR91/132105022016/1298.ts
-#EXTINF:-1,FR_RMC DECOUVERTE*
-http://62.210.162.88:80/live/FR91/132105022016/1327.ts
-#EXTINF:-1,FR_ARTE*
-http://62.210.162.88:80/live/FR91/132105022016/1325.ts
-#EXTINF:-1,FR_I TELE*
-http://62.210.162.88:80/live/FR91/132105022016/1326.ts
-#EXTINF:-1,FR_BFM TV*
-http://62.210.162.88:80/live/FR91/132105022016/1330.ts
-#EXTINF:-1,FR_BFM BUSINESS*
-http://62.210.162.88:80/live/FR91/132105022016/1331.ts
-#EXTINF:-1,FR_GULLI*
-http://62.210.162.88:80/live/FR91/132105022016/1328.ts
+#EXTINF:-1,FR:CANAL+CINEMA
+http://iptv-supplier.com:8000/live/bibi/bibi/193.ts
+#EXTINF:-1,FR:CANAL+FAMILY
+http://iptv-supplier.com:8000/live/bibi/bibi/194.ts
+#EXTINF:-1,FR:CANAL+SPORT
+http://iptv-supplier.com:8000/live/bibi/bibi/446.ts
+#EXTINF:-1,FR:CANAL+_DECALE
+http://iptv-supplier.com:8000/live/bibi/bibi/1825.ts
+#EXTINF:-1,FR:CANAL+SERIES
+http://iptv-supplier.com:8000/live/bibi/bibi/195.ts
+#EXTINF:-1,FR:CINE+PREMIER
+http://iptv-supplier.com:8000/live/bibi/bibi/207.ts
+#EXTINF:-1,FR:CINE+FRISSON
+http://iptv-supplier.com:8000/live/bibi/bibi/200.ts
+#EXTINF:-1,FR:CINE+FAMIZ
+http://iptv-supplier.com:8000/live/bibi/bibi/210.ts
+#EXTINF:-1,FR:CINE+EMOTION
+http://iptv-supplier.com:8000/live/bibi/bibi/209.ts
+#EXTINF:-1,FR:CINE_CLASSIC
+http://iptv-supplier.com:8000/live/bibi/bibi/1827.ts
+#EXTINF:-1,FR:OCS_CITY
+http://iptv-supplier.com:8000/live/bibi/bibi/2045.ts
+#EXTINF:-1,FR:OCS_MAX
+http://iptv-supplier.com:8000/live/bibi/bibi/196.ts
+#EXTINF:-1,FR:OCS_GEANTS
+http://iptv-supplier.com:8000/live/bibi/bibi/198.ts
+#EXTINF:-1,FR:OCS_CHOC
+http://iptv-supplier.com:8000/live/bibi/bibi/197.ts
+#EXTINF:-1,FR:ACTION
+http://iptv-supplier.com:8000/live/bibi/bibi/213.ts
+#EXTINF:-1,FR:13EME_RUE
+http://iptv-supplier.com:8000/live/bibi/bibi/224.ts
+#EXTINF:-1,FR:TV_BREIZH
+http://iptv-supplier.com:8000/live/bibi/bibi/1828.ts
+#EXTINF:-1,FR:SYFY
+http://iptv-supplier.com:8000/live/bibi/bibi/228.ts
+#EXTINF:-1,FR:SERIE_CLUB
+http://iptv-supplier.com:8000/live/bibi/bibi/237.ts
+#EXTINF:-1,FR:RTS_UN
+http://iptv-supplier.com:8000/live/bibi/bibi/241.ts
+#EXTINF:-1,FR:RTS_DEUX
+http://iptv-supplier.com:8000/live/bibi/bibi/242.ts
+#EXTINF:-1,FR:CHERIE25
+http://iptv-supplier.com:8000/live/bibi/bibi/1386.ts
+#EXTINF:-1,FR:D8
+http://iptv-supplier.com:8000/live/bibi/bibi/1782.ts
+#EXTINF:-1,FR:PARIS_PREMIERE
+http://iptv-supplier.com:8000/live/bibi/bibi/223.ts
+#EXTINF:-1,FR:NORMANDIE_TV
+http://iptv-supplier.com:8000/live/bibi/bibi/249.ts
+#EXTINF:-1,FR:COMEDIE
+http://iptv-supplier.com:8000/live/bibi/bibi/225.ts
+#EXTINF:-1,FR:D17
+http://iptv-supplier.com:8000/live/bibi/bibi/208.ts
+#EXTINF:-1,FR:RTL9
+http://iptv-supplier.com:8000/live/bibi/bibi/222.ts
+#EXTINF:-1,FR:TMC
+http://iptv-supplier.com:8000/live/bibi/bibi/251.ts
+#EXTINF:-1,FR:TEVA
+http://iptv-supplier.com:8000/live/bibi/bibi/244.ts
+#EXTINF:-1,FR:NT1
+http://iptv-supplier.com:8000/live/bibi/bibi/226.ts
+#EXTINF:-1,FR:NRJ12
+http://iptv-supplier.com:8000/live/bibi/bibi/253.ts
+#EXTINF:-1,FR:E
+http://iptv-supplier.com:8000/live/bibi/bibi/1829.ts
+#EXTINF:-1,FR:AB1
+http://iptv-supplier.com:8000/live/bibi/bibi/231.ts
+#EXTINF:-1,FR:6TER
+http://iptv-supplier.com:8000/live/bibi/bibi/203.ts
+#EXTINF:-1,FR:WEO
+http://iptv-supplier.com:8000/live/bibi/bibi/243.ts
+#EXTINF:-1,FR:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bibi/bibi/254.ts
+#EXTINF:-1,FR:DISNEY_CINEMA
+http://iptv-supplier.com:8000/live/bibi/bibi/1986.ts
+#EXTINF:-1,FR:DISNEY_JUNIOR
+http://iptv-supplier.com:8000/live/bibi/bibi/511.ts
+#EXTINF:-1,FR:GULLI
+http://iptv-supplier.com:8000/live/bibi/bibi/258.ts
+#EXTINF:-1,FR:PIWI+_FRANCE
+http://iptv-supplier.com:8000/live/bibi/bibi/1992.ts
+#EXTINF:-1,FR:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/bibi/bibi/257.ts
+#EXTINF:-1,FR:TELETOON+1
+http://iptv-supplier.com:8000/live/bibi/bibi/1689.ts
+#EXTINF:-1,FR:CANALJ
+http://iptv-supplier.com:8000/live/bibi/bibi/11.ts
+#EXTINF:-1,FR:BOOMERANG
+http://iptv-supplier.com:8000/live/bibi/bibi/256.ts
+#EXTINF:-1,FR:BOING
+http://iptv-supplier.com:8000/live/bibi/bibi/235.ts
+#EXTINF:-1,FR:MANGA
+http://iptv-supplier.com:8000/live/bibi/bibi/259.ts
+#EXTINF:-1,FR:M6_MUSIC
+http://iptv-supplier.com:8000/live/bibi/bibi/204.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD1
+http://iptv-supplier.com:8000/live/bibi/bibi/190.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD2
+http://iptv-supplier.com:8000/live/bibi/bibi/191.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD3
+http://iptv-supplier.com:8000/live/bibi/bibi/192.ts
+#EXTINF:-1,FR:EUROSPORT1
+http://iptv-supplier.com:8000/live/bibi/bibi/858.ts
+#EXTINF:-1,FR:EUROSPORT2
+http://iptv-supplier.com:8000/live/bibi/bibi/260.ts
+#EXTINF:-1,FR:EQUIPE21
+http://iptv-supplier.com:8000/live/bibi/bibi/1750.ts
+#EXTINF:-1,FR:FOOT+24/24
+http://iptv-supplier.com:8000/live/bibi/bibi/263.ts
+#EXTINF:-1,FR:MA_CHAINE_SPORT
+http://iptv-supplier.com:8000/live/bibi/bibi/262.ts
+#EXTINF:-1,FR:INFOSPORT+
+http://iptv-supplier.com:8000/live/bibi/bibi/199.ts
+#EXTINF:-1,FR:DISCOVERY_SCIENCE
+http://iptv-supplier.com:8000/live/bibi/bibi/230.ts
+#EXTINF:-1,FR:DISCOVERY_HD
+http://iptv-supplier.com:8000/live/bibi/bibi/232.ts
+#EXTINF:-1,FR:SCIENCES_VIE
+http://iptv-supplier.com:8000/live/bibi/bibi/229.ts
+#EXTINF:-1,FR:NATGEO_WILD
+http://iptv-supplier.com:8000/live/bibi/bibi/233.ts
+#EXTINF:-1,FR:NATGEO
+http://iptv-supplier.com:8000/live/bibi/bibi/234.ts
+#EXTINF:-1,FR:PLANETE+_CI
+http://iptv-supplier.com:8000/live/bibi/bibi/239.ts
+#EXTINF:-1,FR:CHASSE_ET_PECHE
+http://iptv-supplier.com:8000/live/bibi/bibi/212.ts
+#EXTINF:-1,FR:TOUTE_L'HISTOIRE
+http://iptv-supplier.com:8000/live/bibi/bibi/1830.ts
+#EXTINF:-1,FR:HISTOIRE
+http://iptv-supplier.com:8000/live/bibi/bibi/1694.ts
+#EXTINF:-1,FR:PLANETE_AE
+http://iptv-supplier.com:8000/live/bibi/bibi/1744.ts
+#EXTINF:-1,FR:PLANETE+
+http://iptv-supplier.com:8000/live/bibi/bibi/240.ts
+#EXTINF:-1,FR:ANIMAUX
+http://iptv-supplier.com:8000/live/bibi/bibi/236.ts
+#EXTINF:-1,FR:USHUAIA_TV
+http://iptv-supplier.com:8000/live/bibi/bibi/206.ts
+#EXTINF:-1,FR:VOYAGE
+http://iptv-supplier.com:8000/live/bibi/bibi/205.ts
+#EXTINF:-1,BE:LA_UNE
+http://iptv-supplier.com:8000/live/bibi/bibi/507.ts
+#EXTINF:-1,BE:LA_DEUX
+http://iptv-supplier.com:8000/live/bibi/bibi/202.ts
+#EXTINF:-1,BE:LA_TROIS
+http://iptv-supplier.com:8000/live/bibi/bibi/201.ts
+#EXTINF:-1,BE:CLUB_RTL
+http://iptv-supplier.com:8000/live/bibi/bibi/510.ts
+#EXTINF:-1,BE:RTL_TVI
+http://iptv-supplier.com:8000/live/bibi/bibi/508.ts
+#EXTINF:-1,BE:PLUG_RTL
+http://iptv-supplier.com:8000/live/bibi/bibi/509.ts
+#EXTINF:-1,BE:EEN
+http://iptv-supplier.com:8000/live/bibi/bibi/1765.ts
+#EXTINF:-1,BE:CANVAS
+http://iptv-supplier.com:8000/live/bibi/bibi/1764.ts
+#EXTINF:-1,BE:TVLUX
+http://iptv-supplier.com:8000/live/bibi/bibi/1727.ts
+#EXTINF:-1,BE:TELE_VESDRE
+http://iptv-supplier.com:8000/live/bibi/bibi/1728.ts
+#EXTINF:-1,BE:JIM_TV
 
 ------------------------------------------------------------------------------------------------------
 #EXTINF:-1, [B][COLOR red]HUNGRIA[/COLOR][/B]
