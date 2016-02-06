@@ -3,6 +3,8 @@
 http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:0, 365 Music TV
 http://188.138.9.107:8000/365music/index.m3u8
+#EXTINF:0, 365 Music TV HD (2)
+http://stream.365music.ru:8000/365music/365music.m3u8
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0, Albmusic HD (Albania)
@@ -11,6 +13,8 @@ rtmp://188.138.17.8:1935/albuk/albmus.stream
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0, Atomic TV SD
+rtmp://5.154.185.153/live/live.flv
 #EXTINF:0, B4U MUSIC UK [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://397f52be3d31ad84658ae3488ce8646d66d04c43&name=B4UMusic
 #EXTINF:0, BIG POND MUSIC SD
@@ -284,6 +288,8 @@ http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3474.m3u8
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0 group-title="Italia", RADIO 105 TV HD
 rtmp://fms.105.net/live/105Test1
+#EXTINF:0 group-title="Italia", Rádio CAPITAL TiVu SD
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:0 group-title="Italia", Radio Italia TV FSD
 http://cwedge.cdcache.net/cwedge/rilive/playlist.m3u8
 #EXTINF:0 group-title="Italia", Radio Musichie Luna TV Partenopeo
@@ -336,6 +342,8 @@ http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 http://186.155.200.118:1935/live/Televitrola/playlist.m3u8
 #EXTINF:0 group-title="Latino", Televitrola HD (2)
 rtmp://186.155.200.118:1935/live/Televitrola
+#EXTINF:0 group-title="Latino", trendy channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:0 group-title="Latino", Ultra Fiesta HD
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:0 group-title="Latino", Ultra Fiesta SD
@@ -361,10 +369,12 @@ http://www.t12v.com:8000/live/prevot/prevot/1380.ts
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="MTV", MTV Dance
 http://www.t12v.com:8000/live/prevot/prevot/805.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="MTV", MTV Dance
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="MTV", MTV Dance SD
 http://tv3.noip.me/stream/RA9KFWMDAH/147.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Russia
 http://www.iptvsaga.com/play/tv3/0182.m3u8
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Russia SD
+http://178.219.48.14:8000/mtv
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD
 http://latinochannels.2fh.co/canales/hls/mtv.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD (2)
@@ -383,6 +393,8 @@ http://www.t12v.com:8000/live/prevot/prevot/1083.ts
 http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks
 http://78.30.254.27:8989/udp/239.0.0.143:4000
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks SD
+http://lag3.tv-mobile.org/prgc.m3u8
 
 #EXTINF:-1,[B][COLOR blue]--ONE--[/COLOR][/B]
 http://
