@@ -27,7 +27,7 @@ plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261d
 plugin://plugin.video.p2p-streams/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10483.acelive&mode=1&name=SportTV4
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title="Plexus",Sport TV 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&name=SportTV5
+plugin://program.plexus/?mode=1&url=acestream://d8fcf49c7a32023b416353014e348489af56b904&name=SportTV5
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title="Plexus",Sport TV 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10484.acelive&mode=1&name=sporttv5
