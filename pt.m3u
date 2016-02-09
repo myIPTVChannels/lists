@@ -18,15 +18,12 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=
 http://hyper.de1-eu.com:8000/live/saeid/saeid/656.m3u8
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (1) [SD]
-http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8
+http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (2) [SD]
-http://213.13.26.11:1935/live/sic/livestream.m3u8
-
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (3) [SD]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (4) [SD]
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (3) [SD]
 http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
 
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (4) [SD]
@@ -42,7 +39,7 @@ http://www.t12v.com:8000/live/prevot/prevot/1125.ts
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias (1) [SD]
-http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+http://hyper.de1-eu.com:8000/live/saeid/saeid/653.m3u8
 
 #EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias (2) [SD]
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
@@ -76,6 +73,8 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12070.m3u8
 
 #EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
 http://www.t12v.com:8000/live/prevot/prevot/498.ts
+#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
+http://hyper.de1-eu.com:8000/live/saeid/saeid/671.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png", Euronews [SD]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
@@ -105,7 +104,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUr
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 #EXTINF:-1 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
-http://www.t12v.com:8000/live/prevot/prevot/1130.ts
+http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
 
 #EXTINF:-1 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png", TPA Internacional [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1383.ts
@@ -150,7 +149,7 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12040.m3u8
 http://www.t12v.com:8000/live/prevot/prevot/1182.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png", NATIONAL GEOGRAPHIC HD
-http://www.t12v.com:8000/live/prevot/prevot/1184.ts
+http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png", MOV HD
 http://luckyiptv.ddns.net:23000/live/andi/andi/12061.m3u8
@@ -159,13 +158,10 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12061.m3u8
 http://www.t12v.com:8000/live/prevot/prevot/1148.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png", CineMundo
-http://luckyiptv.ddns.net:23000/live/andi/andi/12076.m3u8
+http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png", CBS Reality
 http://luckyiptv.ddns.net:23000/live/andi/andi/12077.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxswvq1433343102.png", AXN
-http://luckyiptv.ddns.net:23000/live/andi/andi/12087.m3u8
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yrutpr1433945579.png" group-title="MTV", MTV PT SD
 http://www.t12v.com:8000/live/prevot/prevot/1380.ts
@@ -179,20 +175,26 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12091.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV
 http://www.t12v.com:8000/live/prevot/prevot/1193.ts
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxswvq1433343102.png", AXN
+http://luckyiptv.ddns.net:23000/live/andi/andi/12087.m3u8
 #EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png", AXN [SD]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8
 
 #EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png", AXN White [SD]
 http://www.t12v.com:8000/live/prevot/prevot/1155.ts
+#EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png", AXN White [HD]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png", AXN BLACK
 http://www.t12v.com:8000/live/prevot/prevot/1156.ts
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png", AXN BLACK
+http://hyper.de1-eu.com:8000/live/saeid/saeid/679.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png", AMC
 http://www.t12v.com:8000/live/prevot/prevot/1410.ts
 
 #EXTINF:-1 tvg-name="fox.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8
+http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
 
 #EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD]
 http://www.t12v.com:8000/live/prevot/prevot/1151.ts
@@ -208,11 +210,16 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
 #EXTINF:-1 tvg-name="SyFy" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY
 http://www.t12v.com:8000/live/prevot/prevot/1412.ts
 
+#EXTINF:-1 tvg-name="FX" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vvuxwx1433431651.png", FX Portugal
+http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
+
 #EXTINF:-1,PT_TV_SERIES
 http://www.t12v.com:8000/live/prevot/prevot/1152.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png",PT_ODISSEIA
 http://www.t12v.com:8000/live/prevot/prevot/1401.ts
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png",PT_ODISSEIA
+http://hyper.de1-eu.com:8000/live/saeid/saeid/659.m3u8
 ==============================================================================
 #EXTINF:-1, [B]--- Brasil ---[/B]
 http://0.0.0.0
