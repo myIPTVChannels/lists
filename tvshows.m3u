@@ -7,16 +7,16 @@ http://37.203.209.34:443/mobile/flash20sd/live.m3u8
 #EXTINF:0 tvg-logo="tcpremium.png" tvg-logo="http://www.tvaovivolista.com/tcpremium.png" group-title="Filmes", Telecine Premium
 http://37.203.209.34:443/mobile/flash24sd/live.m3u8
 
-#EXTINF:-1, TVCINE 1 HD
-http://www.t12v.com:8000/live/prevot/prevot/1145.ts
-#EXTINF:-1, TVCINE 2 HD
-http://www.t12v.com:8000/live/prevot/prevot/1146.ts
-#EXTINF:-1, TVCINE 3 HD
-http://www.t12v.com:8000/live/prevot/prevot/886.ts
-#EXTINF:-1, TVCINE 4 HD
-http://www.t12v.com:8000/live/prevot/prevot/1147.ts
-#EXTINF:-1, TVCINE 5 HD
-http://www.t12v.com:8000/live/prevot/prevot/1152.ts
+#EXTINF:-1, TVCine 1
+http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1351.m3u8
+#EXTINF:-1, TVCine 2
+http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1352.m3u8
+#EXTINF‬:-1 ,TVCine 3
+http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1353.m3u8
+#EXTINF:-1, TVCine 4
+http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1354.m3u8
+#EXTINF:-1, TV Series
+http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1355.m3u8
 
 #EXTINF:-1, ---- Séries ----
 http://0.0.0.0
