@@ -196,6 +196,8 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8
 
 #EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD]
 http://www.t12v.com:8000/live/prevot/prevot/1151.ts
+#EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [HD]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8
 
 #EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png", FOX Life [SD]
 http://www.t12v.com:8000/live/prevot/prevot/1150.ts
