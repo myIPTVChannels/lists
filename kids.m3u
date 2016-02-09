@@ -7,15 +7,19 @@ http://www.t12v.com:8000/live/prevot/prevot/1394.ts
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/srpsux1433342898.png" group-title="Portugal", Canal Panda
 http://www.t12v.com:8000/live/prevot/prevot/1165.ts
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/srpsux1433342898.png" group-title="Portugal", Canal Panda
+http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png" group-title="Portugal", Disney Junior
-http://185.26.175.200:5000/udp/239.200.1.33:10000
+http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png" group-title="Portugal", Jim Jam
 http://www.t12v.com:8000/live/prevot/prevot/1423.ts
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title="Portugal", Disney Channel
 http://www.t12v.com:8000/live/prevot/prevot/1162.ts
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title="Portugal", Disney Channel
+http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
 
 #EXTINF:-1, Baby TV
 http://www.t12v.com:8000/live/prevot/prevot/1395.ts
@@ -23,6 +27,8 @@ http://www.t12v.com:8000/live/prevot/prevot/1395.ts
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png" group-title="Portugal", SIC Kids
 http://www.t12v.com:8000/live/prevot/prevot/1164.ts
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png" group-title="Portugal", Cartoon Network Portugal
+http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8
 
 #EXTINF:0, [COLOR yellow]--English--[/COLOR] 
 http://0.0.0.0
