@@ -11,9 +11,9 @@ http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
 http://iphone-streaming.ustream.tv/ustreamVideo/10414700/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
 http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
-#EXTINF:-1 tvg-logo="iss.jpg" group-title="NASA TV",[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
+#EXTINF:-1 tvg-id="ISS (Live)" tvg-logo="iss.jpg" group-title="NASA TV",[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="radio.jpg" group-title="NASA RADIO",[COLOR yellow][B]THIRD ROCK RADIO[/B][/COLOR]
+#EXTINF:-1 tvg-id="THIRD ROCK RADIO (Radio)" tvg-logo="radio.jpg" group-title="NASA RADIO",[COLOR yellow][B]THIRD ROCK RADIO[/B][/COLOR]
 http://stream.radio.com.pt:8497/stream
 #EXTINF:-1,[COLOR blue][B]By: [I]Rui Moreira[/I][/B][/COLOR]
  
