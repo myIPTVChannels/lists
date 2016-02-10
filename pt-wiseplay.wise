@@ -169,7 +169,7 @@
 		{
                             "name": "BENFICA TV 1 Bosslulamen&Lacasitos",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://hyper.de1-eu.com:8000/live/tiago/tiago/677.m3u8"
+                            "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8"
                 },
                 {
                             "name": "BENFICA TV 1 pt opc1 ON ace",
@@ -491,12 +491,12 @@
                                     {
                             "name": "RTP 1",
                             "image": "http://3.bp.blogspot.com/-KZuUXV7b6M8/VhNF75ML75I/AAAAAAAAGOQ/TBFBhSGz88Y/s1600/RTP1.PNG",
-                                                    "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/chunklist_b600000_slpt.m3u8"
+                                                    "url": "http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8"
                     },
                                     {
                             "name": "RTP 2",
                             "image": "http://3.bp.blogspot.com/-RBc-PTf3-RI/UqyWRyGesKI/AAAAAAAAAUE/YUgteoZ7d7E/s200/imagesLPLBF395.jpg",
-                                                    "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/chunklist_b600000_slpt.m3u8"
+                                                    "url": "http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8"
                     },
                                     {
                             "name": "TVI",
@@ -506,7 +506,7 @@
                                     {
                             "name": "SIC",
                             "image": "http://3.bp.blogspot.com/-bjYohBQxBoM/VhNNjYeFU7I/AAAAAAAAGO8/gzTgZ0DWito/s1600/SIC%2Blogo.png",
-                            "url": "http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8"
+                            "url": "http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8"
                     },
                                     {
                             "name": "Rtp3",
@@ -541,12 +541,12 @@
 									{
                         "name": "TVI Ficção",
                         "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
-                        "url": "http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2718.m3u8"
+                        "url": "http://ipsatb.no-ip.info:8000/live/titanic/titanic/601.m3u8"
                     },
 									{
                         "name": "+ TVI",
                         "image": "https://upload.wikimedia.org/wikipedia/en/5/56/%2BTVI_logo.png",
-                        "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3231.m3u8"
+                        "url": "http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8"
                     },
 									{
                             "name": "RTP MADEIRA",
@@ -571,12 +571,12 @@
 									{
                         "name": "Abola TV (PT)",
                         "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1404.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8"
                     },
 									{
                             "name": "PORTO CANAL Bosslulamen&Lacasitos",
                             "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
-                            "url": "http://www.t12v.com:8000/live/afef/afef/1130.m3u8"
+                            "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8"
                     },
 					{
                         "name": "Caça y Pesca",
@@ -601,7 +601,7 @@
 					{
                         "name": "National Geographic HD",
                         "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpusvf5GAksJ2Eb9lbRhu19Iuataavy4O50g3KyP5GA24cJB9kQ",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1184.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8"
                     },
 					{
                         "name": "Nat Geo Wild",
@@ -611,7 +611,7 @@
 					{
                         "name": "Odiseia",
                         "image": "http://megatvonline.es/kaiserintv/logos/documentales/logoodisea.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1401.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/659.m3u8"
                     },
 					{
                         "name": "FASHION TV HD",
@@ -626,7 +626,7 @@
                     {
                         "name": "AXN White HD",
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1155.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8"
                     },
                     {
 			"name": "FDF",
@@ -644,12 +644,12 @@
 									{
                         "name": "FOX HD",
                         "image": "http://maresvivas.meo.pt/content/img/fox_2.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1149.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8"
                     },
 					{
                         "name": "FOX Crime HD",
                         "image": "http://3.bp.blogspot.com/-adoBh5WVbwQ/VhODhnlorpI/AAAAAAAAGSI/DFteSBFbjww/s1600/Fox-Crime.jpg",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1151.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8"
                     },
 					{
                         "name": "FOX Life HD",
@@ -690,27 +690,27 @@
 								{
                         "name": "TV SERIES",
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1152.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/651.m3u8"
                  },
 				 {
                         "name": "TVCine 1 HD",
                         "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1145.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/650.m3u8"
                  },
 				 {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1146.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/649.m3u8"
                	 },
                  {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/886.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/648.m3u8"
                  },
                  {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1147.m3u8"
+                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/647.m3u8"
                  },
                       
     ]
