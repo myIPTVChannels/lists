@@ -14,7 +14,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
 #EXTINF:-1 tvg-id="ISS (Live)" tvg-logo="iss.jpg" group-title="NASA TV",[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="THIRD ROCK RADIO (Radio)" tvg-logo="radio.jpg" group-title="NASA RADIO",[COLOR yellow][B]THIRD ROCK RADIO[/B][/COLOR]
-http://stream.radio.com.pt:8497/stream
+http://rfcmedia2.streamguys1.com/thirdrock.mp3
 #EXTINF:-1,[COLOR blue][B]By: [I]Rui Moreira[/I][/B][/COLOR]
  
 IMPORTANT NOTE - All links that are in my channels list are not of my authorship, but the hours of research and organization of the lists, this merit is all mine! Please do not remove the credits "By: Rui Moreira".
