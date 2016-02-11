@@ -665,7 +665,7 @@
 									{
                         "name": "História",
                         "image": "http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1183.m3u8"
+                        "url": "http://www.t12v.com:8000/live/prevot/prevot/1183.ts"
                     },
 									{
                         "name": "Hollywood",
@@ -675,7 +675,7 @@
 									{
                         "name": "SyFy",
                         "image": "http://img3.wikia.nocookie.net/__cb20110408015403/logopedia/images/d/dc/Syfy_hd.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1412.m3u8"
+                        "url": "http://www.t12v.com:8000/live/prevot/prevot/1412.ts"
                     },
 									{
                         "name": "AFRO Music",
@@ -685,7 +685,7 @@
 									{
                         "name": "24 Kitchen HD",
                         "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1187.m3u8"
+                        "url": "http://www.t12v.com:8000/live/prevot/prevot/1187.ts"
                     },
 								{
                         "name": "TV SERIES",
@@ -1517,17 +1517,17 @@
                     {
                         "name": "Canal Panda",
                         "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQE7LdsbU_j9GZ7zTjkdR3yhM5qvJh2xoezyBMeJKts0LCEIdD",
-                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1592.m3u8"
+                        "url": "http://www.t12v.com:8000/live/prevot/prevot/1165.ts"
                     },
 					{
-                        "name": "Disney Jr. HD",
+                        "name": "Disney Jr. HD ace",
                         "image": "http://4.bp.blogspot.com/-tRLNLZijHlk/VLRUgjbZD5I/AAAAAAAACWs/YJrarfQ3QGc/s320/Nick%2BJr.jpg",
-                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1591.m3u8"
+                        "url": "acestream://0550acb9f04664a86baf0723c8b543200fd02c94"
                     },
 					{
                         "name": "Disney Channel HD",
                         "image": "http://dolimg-emea.disneycdn.com/cdn_assets/20f53894a0ebd04f391c56a5cab93d47babb8fd7.png",
-                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/824.m3u8"
+                        "url": "http://www.t12v.com:8000/live/prevot/prevot/1162.ts"
                     },
 					{
                             "name": "NICKELODEON",
@@ -1537,12 +1537,12 @@
 					{
                             "name": "CARTOON NETWORK",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png",
-                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1593.m3u8"
+                            "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8"
                     },
                     {
                             "name": "DISNEY JR",
                             "image": "https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png",
-                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/825.m3u8"
+                            "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8"
                     },
                     {
                             "name": "BABY TV es",
