@@ -103,15 +103,17 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUr
 #EXTINF:0 tvg-id="tvL" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png", tvL [HD]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
-#EXTINF:-1 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
+#EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
 http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
 
-#EXTINF:-1 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png", TPA Internacional [FSD]
+#EXTINF:0 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png", TPA Internacional [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1383.ts
 
-#EXTINF:-1 tvg-id="ARTV" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png", ARTV - Canal Parlamento [SD]
+#EXTINF:0 tvg-id="ARTV" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png", ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
 
+#EXTINF:0 tvg-id="TV CIENCIA .pt" tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/TV-Ciencia.jpg", TV CIÊNCIA
+mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
 
 =================================================================================00
 
