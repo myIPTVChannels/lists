@@ -16,7 +16,7 @@ http://85.25.73.243:10460/
 #EXTINF:0 radio="true" tvg-logo="https://eclecticavenuerecords.files.wordpress.com/2011/11/logos_sonica_fuera1.jpg" group-title="Portugal", IBIZA SONICA
 http://stream2.wft.es:1025/;stream.mp3
 #EXTINF:0 radio="true" tvg-logo="http://m80.iol.pt/images/logo_final.png" group-title="Portugal", M80
-http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+rtmp://195.23.102.206/m80lc playpath=m80lc.sdp swfUrl=m80.iol.pt/player/player.swf?v=1.0 live=1 pageUrl=http://m80.iol.pt/
 #EXTINF:0 radio="true" group-title="Portugal" tvg-logo="https://www.phonostar.de/images/auto_created/Radio_Marginal184x184.png", Rádio Marginal
 mms://stream.radio.com.pt/ROLI-ENC-499
 #EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Portugal", MEGA FM
