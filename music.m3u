@@ -97,8 +97,8 @@ http://94.125.187.18/hlsam/hd/playlist.m3u8
 http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.tvaovivolista.com/Multishow.png", MultiShow SD
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Musicbox (Russian)
-http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Musicbox
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:0, Music Box TV
 http://u.to/jaacAg
 #EXTINF:0, Music BOX France (80s) SD [COLOR red]OFF[/COLOR]
@@ -179,6 +179,8 @@ http://
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8
 #EXTINF:0 group-title="Black Music", Africa tv Musica HD
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:0 group-title="Black Music", A-One Россия HD
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия HD
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия HD (2)
