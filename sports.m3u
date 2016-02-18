@@ -1,4 +1,47 @@
 #EXTM3U
+#EXTINF:0,[B][COLOR green]Temporários[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B7ESiQ0.png",[B][COLOR gold]18.02/18h00  BORUSSIA DORTMUND - PORTO[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/110UF6s.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 3[/B][/COLOR] Plexus15.02
+plugin://program.plexus/?mode=1&url=acestream://07ecdbd6b325d8a99bc70d132c5a7713a969a8e2&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fRND6bw.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 4[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://a3129a2d6cde0d459b0fdf83018e560c0bd580b2&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 3[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tuvupv1455550347.png",[B][COLOR white]DN: [/B][/COLOR][B][COLOR lawngreen]VIASAT SPORT BALTIC[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://f4cff303ba39c7a5336349367a8528704c6e861d&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I5hqfDr.png",[B][COLOR white]DE: [/B][/COLOR][B][COLOR lawngreen]SKY SPORTS 1[/B][/COLOR] http
+http://video.bossna-caffe.com:80/live?channelId=7&uid=8408&deviceUser=500mevlud&devicePass=500mevlud
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cEwbVAu.png",[B][COLOR gold]18.02/20h05  SPORTING - BAYER LEVERKUSSEN[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC[/B][/COLOR] http
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3459.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZlSJPAs.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 14[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://847d04e8dcbc5a54999fcb0d6e2eb75dca756239&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RfEICRX.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 15[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://47f86954bc03a9d1e17638ecb0391ef62d76b078&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png",[B][COLOR white]DE: [/B][/COLOR][B][COLOR lawngreen]SKY SPORT 1[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://037943cf5049c5f534385ea9e720dbbf6df11fdd&mode=1&name=acestream&mode=1&name=SPORTS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3AXdFll.png",[B][COLOR gold]18.02/20h05  SION - BRAGA[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tuvupv1455550347.png",[B][COLOR white]DN: [/B][/COLOR][B][COLOR lawngreen]VIASAT SPORT BALTIC[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://f4cff303ba39c7a5336349367a8528704c6e861d&mode=1&name=acestream&mode=1&name=SPORTS
+
+
+#EXTINF:0,[B][COLOR blue]Canais[/B][/COLOR]
+http://0.0.0.0:1234
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [FHD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&name=SportTV1
 
