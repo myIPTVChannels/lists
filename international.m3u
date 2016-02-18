@@ -457,24 +457,28 @@ http://iptv-online.ddns.net:8000/live/silvio/silvio/347.ts
 http://iptv-online.ddns.net:8000/live/silvio/silvio/152.ts
 #EXTINF:-1,Sky Atlantic +1 HD
 http://iptv-online.ddns.net:8000/live/silvio/silvio/390.ts
+#EXTINF:-1,Hollywood HD
+http://bit.do/Hollywood-HD
+#EXTINF:-1,Fox Movies Action HD
+http://bit.do/FOX-MOVIES-ACTION
 #EXTINF:-1,Fox Life HD
 http://iptv-online.ddns.net:8000/live/silvio/silvio/219.ts
 #EXTINF:-1,Fox Life +1
 http://iptv-online.ddns.net:8000/live/silvio/silvio/2236.ts
 #EXTINF:-1,Fox HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/119.ts
+http://bit.do/Fox-Hd
 #EXTINF:-1,Fox +1
 http://iptv-online.ddns.net:8000/live/silvio/silvio/701.ts
 #EXTINF:-1,Comedy Central
 http://iptv-online.ddns.net:8000/live/silvio/silvio/344.ts
 #EXTINF:-1,Fox Crime HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/160.ts
+http://bit.do/Fox-Crime-HD
 #EXTINF:-1,Fox Crime +1
 http://iptv-online.ddns.net:8000/live/silvio/silvio/700.ts
 #EXTINF:-1,Fox Crime +2
 http://iptv-online.ddns.net:8000/live/silvio/silvio/778.ts
 #EXTINF:-1,Fox Comedy HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/220.ts
+http://bit.do/Fox-Comedy-HD
 #EXTINF:-1,Fox Animation HD
 http://iptv-online.ddns.net:8000/live/silvio/silvio/221.ts
 #EXTINF:-1,Axn HD
