@@ -423,29 +423,29 @@ http://iptv-online.ddns.net:8000/live/silvio/silvio/575.ts
 http://iptv-online.ddns.net:8000/live/silvio/silvio/1532.ts
 #EXTINF:-1,-=====Sky-Cinema=====-
 http://iptv-online.ddns.net:8000/live/silvio/silvio/47.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/9.ts
+#EXTINF:-1,Sky Cinema 1 HD 
+http://bit.do/Sky-Cinema-1-HD
 #EXTINF:-1,Sky Cinema +1 HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/343.ts
+http://bit.do/Sky-cinema-plus-1-HD
 #EXTINF:-1,Sky Cinema + 24 HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/10.ts
+http://bit.do/Sky-Cinema-24-HD
 #EXTINF:-1,Sky Cinema Hits HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/120.ts
+http://bit.do/Sky-Cinema-Hits
 #EXTINF:-1,Sky Cinema Family HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/15.ts
+http://bit.do/Sky-Cinema-Family-HD
 #EXTINF:-1,Cinema Family +1 HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/1492.ts
+http://bit.do/Sky-Cinema-Family-plus-1-HD
 #EXTINF:-1,Sky Cinema Passion HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/13.ts
+http://bit.do/Sky-Cinema-Passion-HD
 #EXTINF:-1,Sky Cinema Comedy HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/12.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/121.ts
+http://bit.do/Sky-Cinema-Comedy-HD
+#EXTINF:-1,Sky Cinema Max HD [OFF18/02]
+http://bit.do/Sky-Cinema-Max-1-HD
 #EXTINF:-1,Sky Cinema Max +1 HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/346.ts
+http://bit.do/Sky-Cinema-Max-1-HD
 #EXTINF:-1,Sky Cinema Cult HD
-http://iptv-online.ddns.net:8000/live/silvio/silvio/118.ts
-#EXTINF:-1,Sky Cinema Classic HD
+http://bit.do/Sky-Cinema-Cult-HD
+#EXTINF:-1,Sky Cinema Classic HD[OFF18/02]
 http://iptv-online.ddns.net:8000/live/silvio/silvio/16.ts
 #EXTINF:-1,-=====Intrattenimento=====-
 http://iptv-online.ddns.net:8000/live/silvio/silvio/227.ts
