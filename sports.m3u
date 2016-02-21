@@ -5,34 +5,6 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mj4wMdX.png?2",[B][COLOR skyblue]LIGA NOS[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UCxMYkP.png",[B][COLOR gold]20.02/18h30  PACOS FERREIRA - BENFICA[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ps90qBW.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zPogoBx.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] http
-http://bit.do/PT_SPORT_TV_1
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERN[/B][/COLOR] http
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-logo="http://i.imgur.com/old8qH5.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://eb704b094c20015eb5641134183f6fc69980cf29&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4DnHANg.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://3a0339c143dacdb8985acaa699c41faa806d2446&name=SPORTS
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]BT SPORT 2[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://849981660225c0821bf311759fa0cb3523e4ae62&name=SPORTS
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/O5uuB0x.png",[B][COLOR gold]20.02/20h45  ACADEMICA - RIO AVE[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ps90qBW.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zPogoBx.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] http
-http://bit.do/PT_SPORT_TV_1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/old8qH5.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://eb704b094c20015eb5641134183f6fc69980cf29&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4DnHANg.jpg",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://3a0339c143dacdb8985acaa699c41faa806d2446&name=SPORTS
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/L03YXmm.png",[B][COLOR gold]21.02/16h00  BELENENSES - AROUCA[/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -88,6 +60,9 @@ plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&mode=1&name=SportTV1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png",Sport TV 1 [FSD]
+http://bit.do/PT_SPORT_TV_1
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Plexus",Sport TV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&name=SportTV2
