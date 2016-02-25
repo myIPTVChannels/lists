@@ -64,6 +64,9 @@ plugin://program.plexus/?mode=1&url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&nam
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png",BTV 2 [FSD]
 http://bit.do/bPcH8
 
+#EXTINF:-1, Poker Centra
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=BTV2
 
@@ -75,7 +78,6 @@ plugin://program.plexus/?mode=1&url=acestream://8ceba9805d3cdf5baa7a41167a943e41
 
 #EXTINF:-1 tvg-logo="" group-title="Plexus",Sport Klub 3 HD [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&name=SportKlub3
-
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="Plexus",Sky Sports 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10351.acelive&amp;mode=1&amp;name=sky1
@@ -172,7 +174,6 @@ plugin://program.plexus/?mode=1&url=acestream://b2825d1f94b08f246051365a75ad3b91
 
 #EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 20 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://719565f991bcd94e288999bebd1512f28b788bb7&name=ARENAVISION20
-
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title="Plexus",Arena Sport 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://037943cf5049c5f534385ea9e720dbbf6df11fdd&name=ARENASPORT1
