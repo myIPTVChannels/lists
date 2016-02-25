@@ -1,56 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
-http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
-
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 SD
-http://luckyiptv.ddns.net:23000/live/andi/andi/12051.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 SD
-http://hyper.de1-eu.com:8000/live/saeid/saeid/657.m3u8
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 
 #EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png", RTP 2 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png", RTP 2 [SD]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/656.m3u8
-
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (1) [SD]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
-
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (2) [SD]
-http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (3) [SD]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
-
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC (4) [SD]
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
 rtmp://213.13.26.13/live playpath=sic swfUrl=http://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf pageUrl=http://videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk
+
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
+http://213.13.26.11:1935/live/sic/livestream.m3u8
+
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
 #EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [FSD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [FSD]
-http://www.t12v.com:8000/live/prevot/prevot/1125.ts
-
 #EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png", RTP 3 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias (1) [SD]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/653.m3u8
-
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias (2) [SD]
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias [SD]
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias (3) [SD]
-http://www.t12v.com:8000/live/prevot/prevot/1123.ts
 
 #EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
 http://www.t12v.com:8000/live/prevot/prevot/1159.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1422.ts
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [FSD]
@@ -59,22 +38,17 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/808.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png", Plus TVI
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png", + TVI [FSD]
 http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1126.ts
 
 #EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png", Económico TV [FSD]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png", Economico TV
-http://luckyiptv.ddns.net:23000/live/andi/andi/12070.m3u8
-
-#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
+#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/498.ts
-#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
-http://hyper.de1-eu.com:8000/live/saeid/saeid/671.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png", Euronews [SD]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
@@ -100,7 +74,7 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12046.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png", RTP Açores [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:0 tvg-id="tvL" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png", tvL [HD]
+#EXTINF:0 tvg-id="tvL" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png", tvL [SD]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 #EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
@@ -112,7 +86,7 @@ http://www.t12v.com:8000/live/prevot/prevot/1383.ts
 #EXTINF:0 tvg-id="ARTV" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png", ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:0 tvg-id="TV CIENCIA .pt" tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/TV-Ciencia.jpg", TV CIÊNCIA
+#EXTINF:0 tvg-id="TV CIENCIA .pt" tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/TV-Ciencia.jpg", TV CIÊNCIA [SD]
 mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
 
 =================================================================================00
