@@ -32,6 +32,9 @@ rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 #EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
 http://www.t12v.com:8000/live/prevot/prevot/1159.ts
 
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
+rtmp://178.162.199.155/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/599/399 conn=S:OK
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1422.ts
 
@@ -83,6 +86,9 @@ http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 #EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
 http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
 
+#EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal 
+rtmp://146.185.16.58/live playpath=portocanalxx?id=84767&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500 conn=S:OK
+
 #EXTINF:0 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png", TPA Internacional [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1383.ts
 
@@ -127,14 +133,23 @@ http://www.t12v.com:8000/live/prevot/prevot/1182.ts
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png", NATIONAL GEOGRAPHIC SD
 http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png", NATIONAL GEOGRAPHIC SD
+rtmp://46.28.53.120/live playpath=natgeoax?id=84757&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/580/480 conn=S:OK
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA
 http://www.t12v.com:8000/live/prevot/prevot/1401.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA
+rtmp://178.162.199.73/live playpath=odisseiax?id=84765&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500 conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png", MOV HD [COLOR red]OFF[/COLOR]
 http://luckyiptv.ddns.net:23000/live/andi/andi/12061.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png", FOX Movies [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1148.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png", FOX Movies [SD]
+rtmp://146.185.16.62/live playpath=sical?id=24913&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/sical/1/599/399 conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png", CineMundo [COLOR red]OFF[/COLOR]
 http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
@@ -148,8 +163,14 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12091.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1193.ts
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV [SD]
+rtmp://46.28.53.120/live playpath=motorstvx?id=84752&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/motorstvx/1/599/399 conn=S:OK
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png", AXN [SD] [COLOR red]OFF[/COLOR]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png", AXN [SD]
+rtmp://46.28.53.142/live playpath=axn1x?id=84753&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/599/399 conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png", AXN BLACK [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1156.ts
@@ -160,14 +181,23 @@ http://www.t12v.com:8000/live/prevot/prevot/1410.ts
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX [SD] [COLOR red]OFF[/COLOR]
 http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX [SD]
+rtmp://146.185.16.60/live playpath=foxcrl?id=24274&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/foxcrl/1/650/500 conn=S:OK
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD] [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1151.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD]
+rtmp://46.28.53.120/live playpath=foxcrimex?id=84766&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/599/399 conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png", FOX Life [SD] [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1150.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png", Hollywood [HD] [COLOR red]OFF[/COLOR]
 http://bit.do/Hollywood-HD
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png", Hollywood [SD]
+rtmp://173.192.209.69/live playpath=hollywoodx?id=84769&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/599/399 conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1412.ts
