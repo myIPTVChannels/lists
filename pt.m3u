@@ -17,6 +17,9 @@ http://213.13.26.11:1935/live/sic/livestream.m3u8
 #EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
+rtmp://178.162.199.73/live playpath=sic90?id=85765&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 conn=S:OK
+
 #EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [FSD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
