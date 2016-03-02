@@ -14,7 +14,7 @@ plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EdjMuVH.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 4[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://4cb2fb637e9bd94f5fd1cffddb4dad524e2bd601&mode=1&name=acestream&mode=1&name=SPORTS
+plugin://program.plexus/?mode=1&url=acestream://6af91d931830bf2a441dc7337a14e46b90fb4c0a&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://167296a975b849736e9ebc9abd7f60d77f3be873&mode=1&name=acestream&mode=1&name=SPORTS
  
@@ -29,7 +29,7 @@ plugin://program.plexus/?mode=1&url=acestream://480f33fd6e95653faef453d416685d2c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tBT2560.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 3[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://4cb2fb637e9bd94f5fd1cffddb4dad524e2bd601&mode=1&name=acestream&mode=1&name=SPORTS
+plugin://program.plexus/?mode=1&url=acestream://6af91d931830bf2a441dc7337a14e46b90fb4c0a&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://167296a975b849736e9ebc9abd7f60d77f3be873&mode=1&name=acestream&mode=1&name=SPORTS
 
