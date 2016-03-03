@@ -208,6 +208,30 @@ http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
 #EXTINF:-1, TV SERIES [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1152.ts
 
+#EXTINF:-1,TV Cine 1
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
+
+#EXTINF:-1,TV Cine 2
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8
+
+#EXTINF:-1,TV Cine 3
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
+
+#EXTINF:-1,TV Cine 4
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
+
+#EXTINF:-1,TV Cine Series
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
+
+#EXTINF:-1,Hollywwod
+http://ipsatpro.com:8000/live/angelo/angelo/907.m3u8
+
+#EXTINF:-1,Mov
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/929.m3u8
+
+#EXTINF:-1,Syfy
+http://ipsatpro.com:8000/live/angelo/angelo/902.m3u8
+
 ==============================================================================
 #EXTINF:-1, [COLOR red][B]--- Brasil ---[/B][/COLOR]
 http://0.0.0.0
