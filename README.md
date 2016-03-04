@@ -11,11 +11,7 @@ Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqu
 ##Tutoriais
 1 - Legendas nos filmes - http://kodiportugal.pt/adicionar-legendas-nos-filmes-e-series/
 
-2 - Usar várias listas  - http://kodiportugal.pt/usar-varias-listas-iptv/
-
-3 - Add-on do Projecto  - http://kodiportugal.pt/surikata-tv-filmes-series-iptv/
-
-4 - Configurar SSIPTV em LG webOS 5.x (Legendas PT) - https://www.youtube.com/watch?v=faw-U6Su-0c
+2 - Configurar SSIPTV em LG webOS 5.x (Legendas PT) - https://www.youtube.com/watch?v=faw-U6Su-0c
 
 ## URLs das listas myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
