@@ -97,7 +97,7 @@ No blog do Adriano Afonso: http://www.adrianoafonso.net/blog/2015/kodi-no-raspbe
 ##Channels Sources
 
 ###Portugal
-http://kodiportugal.com/iptv.html
+http://kodiportugal.pt
 Based on Kitina, by Magellan
 
 ###Russia Channels
