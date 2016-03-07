@@ -30,9 +30,6 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl
 #EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png", RTP Internacional [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png", TVI Reality so me da a mim [SD]
-rtmp://149.202.95.165/live playpath=ggffgfwwew?id=244070&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK
- 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
 
