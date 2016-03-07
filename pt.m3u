@@ -122,48 +122,38 @@ http://www.t12v.com:8000/live/prevot/prevot/1401.ts
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA
 rtmp://178.162.199.73/live playpath=odisseiax?id=84765&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500 conn=S:OK
 
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20channel.png",Discovery Channel
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20channel.png",Discovery Channel Latino
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
  
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20civilization.png",Discovery Civilization
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20civilization.png",Discovery Civilization Latino
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTQzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
  
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20science.png",Discovery Science
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20science.png",Discovery Science Latino
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTM5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
  
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20turbo.png",Discovery Turbo
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20turbo.png",Discovery Turbo Latino
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
  
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/Discovery%20World.png",Discovery World
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/Discovery%20World.png",Discovery World Latino
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
  
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/investigacion%20discovery.png",Investigation Discovery
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/investigacion%20discovery.png",Investigation Discovery Latino
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuwqyv1444921041.png", TRAVEL CHANNEL [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1402.ts
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png", VH1 SD
-http://www.t12v.com:8000/live/prevot/prevot/499.ts
-
-#EXTINF:-1 tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 3 HD
-http://www.t12v.com:8000/live/prevot/prevot/1175.ts
-
-#EXTINF:-1 tvg-logo="http://houseofnot.com/images/shared/vevo.png", VeVo 2
-http://www.t12v.com:8000/live/prevot/prevot/1174.ts
-
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png", CBS Reality [COLOR red]OFF[/COLOR]
 http://luckyiptv.ddns.net:23000/live/andi/andi/12077.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E [COLOR red]OFF[/COLOR]
-http://luckyiptv.ddns.net:23000/live/andi/andi/12091.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E Latino
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png", AMC [COLOR red]OFF[/COLOR]
-http://www.t12v.com:8000/live/prevot/prevot/1410.ts
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png", AMC Latino
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY [COLOR red]OFF[/COLOR]
-http://www.t12v.com:8000/live/prevot/prevot/1412.ts
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY Latino
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vvuxwx1433431651.png", FX Portugal [COLOR red]OFF[/COLOR]
 http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
@@ -203,9 +193,6 @@ rtmp://46.28.53.142/live playpath=axn1x?id=84753&pk=85c415f79033d2a878f40b15c0ef
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png", AXN BLACK [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1156.ts
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png", Hollywood [HD] [COLOR red]OFF[/COLOR]
-http://bit.do/Hollywood-HD
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png", Hollywood [SD]
 rtmp://173.192.209.69/live playpath=hollywoodx?id=84769&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/599/399 conn=S:OK
@@ -303,3 +290,124 @@ http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=“BRASIL”,CANAL DO BO
 http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1, [COLOR red][B]--- Desporto ---[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+ 
+#EXTINF:-1, FIGHT SPORT 
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+ 
+#EXTINF:-1,POKER CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+ 
+#EXTINF:-1,DXTV SPORTS
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+ 
+#EXTINF:-1,UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1,FIGHTER CHANNEL (RUS) 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+#EXTINF:-1,KAZSPORT (KAZ)
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTINF:-1, [COLOR red][B]--- Musica ---[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,ROUGE TV HQ
+http://wownet.ro/str/0241.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1,Deluxe Music
+http://wownet.ro/str/0065.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,VEVO ROCK TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,VEVO MUSIC TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,IBIZA 
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1,ANIMATION 
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1,DJING CLASSIC
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1,JUCE TV 
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1,RADIO MONTE CARLO TV 
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1,CAPITAL TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,HEART TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,VIRGIN TV
+rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:-1,M6 MUSIC 
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1,RADIO U TV 
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+
+#EXTINF:-1,AFRICA MUSICA 
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+
+#EXTINF:-1,UNDERGROUND
+http://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1,DANCEFLOOR
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1,DREAM TV 
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,CLUBLAND 
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MI MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+
+#EXTINF:-1,REAL HIP HOP TV 
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+
+#EXTINF:-1,MIAMI MUSIC TV 
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:-1,ROUGE TV 
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+
+#EXTINF:-1,NRJ HITS
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+
+#EXTINF:-1,MUSIC BOX 
+http://tvclub.fr/ch07.ts
+
+#EXTINF:-1,MFM TV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:-1,MOLA TV 
+http://archlinux.frigola.cat:8080/mola/directe.m3u8
+
+#EXTINF:-1,SPORTTIME 1 
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
+
