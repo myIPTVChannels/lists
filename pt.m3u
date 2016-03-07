@@ -110,6 +110,9 @@ http://www.t12v.com:8000/live/prevot/prevot/1187.ts
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", CANAL HISTORIA SD
 http://www.t12v.com:8000/live/prevot/prevot/1183.ts
 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/animal%20planet.png",Animal Planet
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png", NATIONAL GEOGRAPHIC SD
 http://c.securestreaming.xyz:1935/live/natgeoLQkYv/chunklist_w752632707.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzNDc5OCZoYXNoX3ZhbHVlPTQyY2QwOTI5MDY2OWUwYjQ4MGYxMTY1Njc2MjYzMjg0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
  
