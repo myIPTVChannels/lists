@@ -81,22 +81,22 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1126.ts
 
+================================================================================================================================
+
+#EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
+http://0.0.0.0
+
 #EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
 http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
 
 #EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal 
 rtmp://146.185.16.58/live playpath=portocanalxx?id=84767&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500 conn=S:OK
 
-================================================================================================================================
-
-#EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
-http://0.0.0.0
-
 #EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/498.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png", A BOLA TV [COLOR red]OFF[/COLOR]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png", A BOLA TV SD
+http://c.securestreaming.xyz:1935/live/bolaZirMR/chunklist_w1779729088.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzM1NTk2NCZoYXNoX3ZhbHVlPTY1NjdlMDI2OWFiMTBjZTFmMWMzYmNjMjc3ZTYyODhlJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpsqps1436892971.png", 24 KITCHEN HD
 http://www.t12v.com:8000/live/prevot/prevot/1187.ts
