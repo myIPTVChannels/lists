@@ -89,19 +89,13 @@ http://0.0.0.0
 #EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
 http://c.securestreaming.xyz:1935/live/portocanalBmYH5/chunklist_w276004722.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzE0MTkyNSZoYXNoX3ZhbHVlPTg0NzJhYmMwZDRkZGNkNmNlMmU3NTY5YTcwZjhjNWUyJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
-#EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal 
-rtmp:
-
 #EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/498.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png", A BOLA TV SD
 http://c.securestreaming.xyz:1935/live/bolaZirMR/chunklist_w1779729088.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzM1NTk2NCZoYXNoX3ZhbHVlPTY1NjdlMDI2OWFiMTBjZTFmMWMzYmNjMjc3ZTYyODhlJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV [SD]
-rtmp://46.28.53.120/live playpath=motorstvx?id=84752&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/motorstvx/1/599/399 conn=S:OK
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV [COLOR red]OFF[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV 
 http://c.securestreaming.xyz:1935/live/motorstvkPGKa/chunklist_w456295998.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzE0MjAxMyZoYXNoX3ZhbHVlPTNiNDc2OWU4YWUwOTQ5N2U0Nzk5MjIyMTY3Njc4ODk3JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpsqps1436892971.png", 24 KITCHEN HD
@@ -147,7 +141,7 @@ http://c.securestreaming.xyz:1935/live/foxCNqBZ/chunklist_w515306870.m3u8?v&Toke
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD] 
 http://c.securestreaming.xyz:1935/live/foxcrimeTLVOF/chunklist_w931024935.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODkwMSZoYXNoX3ZhbHVlPWNkY2I2ODM1NmI1YTUwNWM5Yzg0ZGZkZDQ0MTlmNzg3JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png", FOX Life [SD] [COLOR red]OFF[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png", FOX Life 
 http://www.t12v.com:8000/live/prevot/prevot/1150.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png", FOX Movies [COLOR red]OFF[/COLOR]
