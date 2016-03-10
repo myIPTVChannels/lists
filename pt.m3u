@@ -126,8 +126,8 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZm
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png", AMC 
 rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTc1MTI3MTJ8ODMuNzcuMjA5LjEwMnw1NmRlOGY4ODNjMTUyfDk2YTY0YzI0NDcwMjRjM2JjZTM2NTI3ZDM1OWRhODNlOWI0ZTgzMmE. playpath=7pctmre0zfwsc24 swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=960&height=530&channel=68963&autoplay=true conn=S:OK
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY Latino [COLOR red]OFF[/COLOR]
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY (Temporário)
+http://evolive-tv.com:8000/live/balla/balla/288.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vvuxwx1433431651.png", FX Portugal [COLOR red]OFF[/COLOR]
 http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
@@ -183,6 +183,9 @@ rtmp://62.210.82.241:1935/liverepeat01?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE2I
 
 #EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png", TV Globo
 rtmp://62.210.83.152:1935/liverepeat01?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDg6Mjg6MjAgUE0maGFzaF92YWx1ZT1rRHB.CV1BmVTN3QS9LZWJYaDNiUzFBPT0mdmFsaWRtaW51dGVzPTMwMA== playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash..swf live=1 pageUrl=http://ppcast.org/embedP/3.php?file=trico3&width=100%&height=100%
+
+#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png", TV Globo (Temprário)
+http://evolive-tv.com:8000/live/balla/balla/289.m3u8
 
 #EXTINF:-1 group title="BRASIL" tvg-logo="http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png", TV RECORD
 http://www.t12v.com:8000/live/prevot/prevot/1393.ts
