@@ -18,6 +18,8 @@ Portugal Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
+MotorSports Channels:	motorsports.m3u = https://git.io/vai49
+
 Portugal Channels para Wiseplay: pt-wiseplay.wise = http://git.io/v8TRX
 
 Movies: movies.m3u = http://git.io/vnUb0
