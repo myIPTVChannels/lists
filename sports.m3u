@@ -5,48 +5,7 @@
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mj4wMdX.png?2",[B][COLOR skyblue]LIGA NOS - JORNADA 27[/B][/COLOR]
 http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZzU9ylF.png",[B][COLOR gold]18.03/20h30  RIO AVE-MARITIMO[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8aYyjMc.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 19[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://bf33bf1b4ab7d4b092b90e7f45e4a1b5be1c7c87&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BuWzoy0.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 20[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://5db25b83a3d46eeffc919a82f27e4de65b03965b&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/c0QA4et.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus
-rtmp://178.162.199.137/live playPath=sp1abc?id=25649&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2020,0,0,306 pageUrl=http://www.embedezcast.com/embedplayer/sp1abc/1/790/420
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2arlnkS.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL[/B][/COLOR] http
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tLtzjIH.png",[B][COLOR gold]19.03/18h30  SPORTING-AROUCA[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iYFId6r.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 3[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://1fb593731dbb42220f8392b948c65a05d5e6393f&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EKgiyIX.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 4[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://155a63b8360c59be255117739c1a45f94d5d80d4&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W23oElM.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 14[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://675a0e9405d16bffec1f771511e0543914fb76d7&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g4vChbm.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 15[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://9ab93d768e901961a9851384ecbc71d90987da81&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/c0QA4et.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus
-rtmp://178.162.199.137/live playPath=sp1abc?id=25649&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2020,0,0,306 pageUrl=http://www.embedezcast.com/embedplayer/sp1abc/1/790/420
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WGN3yPm.png",[B][COLOR gold]19.03/20h45  SETUBAL-PORTO[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iYFId6r.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 3[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://1fb593731dbb42220f8392b948c65a05d5e6393f&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EKgiyIX.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 4[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://155a63b8360c59be255117739c1a45f94d5d80d4&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W23oElM.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 14[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://675a0e9405d16bffec1f771511e0543914fb76d7&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g4vChbm.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 15[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://9ab93d768e901961a9851384ecbc71d90987da81&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/c0QA4et.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1[/B][/COLOR] Plexus
-rtmp://178.162.199.137/live playPath=sp1abc?id=25649&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2020,0,0,306 pageUrl=http://www.embedezcast.com/embedplayer/sp1abc/1/790/420
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2arlnkS.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL[/B][/COLOR] http
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KdjuAoz.png",[B][COLOR gold]20.03/16h00  NACIONAL-GUIMARAES[/B][/COLOR]
 http://0.0.0.0:1234
