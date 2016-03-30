@@ -177,87 +177,8 @@ http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
 #EXTINF:-1,TV Cine Series
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
 
-==============================================================================
-#EXTINF:-1, [COLOR red][B]--- Brasil ---[/B][/COLOR]
-http://0.0.0.0
+======================================================================================================
 
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png", TV Globo
-rtmp://62.210.82.241:1935/liverepeat01?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE2IDEyOjQxOjMxIFBNJmhhc2hfdmFsdWU9cmorOVpiVDBwMEVYOWRjclc0RVFXdz09JnZhbGlkbWludXRlcz0zMDA=/101010 swfUrl=http://www.streamcasttv.biz/embed/jwplayer/jwplayer.flash.swfGrupo_UP_e_DOWN pageUrl=http://www.streamcasttv.biz/embed/1c.php?file=lpcast3111ardq&width=468&height=360tvbobokkk
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png", TV Globo
-rtmp://62.210.83.152:1935/liverepeat01?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDg6Mjg6MjAgUE0maGFzaF92YWx1ZT1rRHB.CV1BmVTN3QS9LZWJYaDNiUzFBPT0mdmFsaWRtaW51dGVzPTMwMA== playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash..swf live=1 pageUrl=http://ppcast.org/embedP/3.php?file=trico3&width=100%&height=100%
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png", TV Globo (Temprário)
-http://evolive-tv.com:8000/live/balla/balla/289.m3u8
-
-#EXTINF:-1 group title="BRASIL" tvg-logo="http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png", TV RECORD
-http://www.t12v.com:8000/live/prevot/prevot/1393.ts
-
-#EXTINF:-1 group-title="BRASIL" tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png", TV RECORD SD
-http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/twwwyr1436891006.png", TV RECORD NEWS
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png", SBT
-rtmp://187.18.187.5/livepkgr/ playpath=tvjangadeiro1 swfUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png", SBT
-http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/trqtsr1436845716.png", TV BRASIL
-http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-
-#EXTINF:0 group title="BRASIL", CHEFE COZINHA
-http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-
-#EXTINF:0 group-title="BRASIL", TV Foco
-http://185.26.175.200:5000/udp/239.200.1.15:10000
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="Record RJ.png",TV RECORD RONDONIA 
-rtmp://cast2.player.tv.br/8126/8126
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="Record RJ.png",TV RECORD PERNAMBUCO 
-rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="Record RJ.png",TV RECORD ESPIRITO SANTO
-http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="Record RJ.png",TV RECORD NEWS
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="noticias-terra.png",TERRA NOTICIAS
-http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8?BRASILIPTV
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="bh news.png",BH NEWS
-rtmp://50.17.213.76/3125 playpath=3125-hotmedia.sdp  swfUrl=http://www.z1on.com/flashjw/playerjw.swf?IGOR_RANGEL  pageUrl=http://www.z1on.com/flashjw/3125/?src=iframe&embed=1&controlbar=1
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="",CINE FLASH
-rtmp://208.53.180.218/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="folha_tv.png",FOLHA TV
-http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8
-
-#EXTINF:-1 group-title=“BRASIL” tvg-logo="Rede TV HD.png",REDE TV
-rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
-
-#EXTINF:-1 tvg-logo="TV Aparecida.png" group-title=“BRASIL”,TV APARECIDA
-http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
-
-#EXTINF:-1 tvg-logo="TV Cultura.png" group-title=“BRASIL”,TV CULTURA
-rtmp://200.136.27.12/livepkgr playpath=tvcultura4?adbe-live-event=liveevent swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf?BRASILIPTV live=1 pageUrl=http://tvcultura.cmais.com.br/aovivo
-
-#EXTINF:-1 tvg-logo="TV Cultura.png" group-title=“BRASIL”,TV CULTURA SP
-http://31.204.128.127:8081/live/tvcultura/playlist.m3u8#20-12-2015
-
-#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title=“BRASIL”,TV GAZET
-http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title=“BRASIL”,TV DA CAMARA D
-http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title=“BRASIL”,CANAL DO BO
-http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1, [COLOR red][B]--- Desporto ---[/B][/COLOR]
 http://0.0.0.0
