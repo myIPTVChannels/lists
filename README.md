@@ -13,6 +13,8 @@ Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqu
 
 2 - Configurar SSIPTV em LG webOS 5.x (Legendas PT) - https://www.youtube.com/watch?v=faw-U6Su-0c
 
+3 - Usar várias listas em simultâneo no Kodi - http://kodiportugal.pt/usar-varias-listas-iptv-com-o-playlistloader/
+
 ## URLs das listas myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
 
