@@ -3,32 +3,28 @@
 http://0.0.0.0
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title="Portugal", Nickelodeon
-http://www.t12v.com:8000/live/prevot/prevot/1394.ts
+http://cp.dmbshare.net:8000/live/whelan/whelan/3470.ts
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/srpsux1433342898.png" group-title="Portugal", Canal Panda
-http://www.t12v.com:8000/live/prevot/prevot/1165.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/srpsux1433342898.png" group-title="Portugal", Canal Panda
-http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
+http://cp.dmbshare.net:8000/live/whelan/whelan/3468.ts
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png" group-title="Portugal", Disney Junior
-http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
+http://cp.dmbshare.net:8000/live/whelan/whelan/3484.ts
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png" group-title="Portugal", Jim Jam
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png" group-title="Portugal", Jim Jam [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1423.ts
 
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title="Portugal", Disney Channel
-http://www.t12v.com:8000/live/prevot/prevot/1162.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title="Portugal", Disney Channel
-http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
+http://cp.dmbshare.net:8000/live/whelan/whelan/3485.ts
 
 #EXTINF:-1, Baby TV
-http://www.t12v.com:8000/live/prevot/prevot/1395.ts
+http://cp.dmbshare.net:8000/live/whelan/whelan/3497.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png" group-title="Portugal", SIC Kids
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png" group-title="Portugal", SIC Kids[COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1164.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png" group-title="Portugal", Cartoon Network Portugal
-http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8
+http://cp.dmbshare.net:8000/live/whelan/whelan/3491.ts
 
 #EXTINF:0, [COLOR yellow]--English--[/COLOR] 
 http://0.0.0.0
