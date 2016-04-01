@@ -33,9 +33,9 @@
                     "url": "rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15"
                 },
 				{
-                    "name": "SPORT TV 1 opc2 Bosslulamen&Lacasitos",
+                    "name": "SPORT TV 1 opc2 Bosslulamen&Lacasitos ON",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                    "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8"
+                    "url": "http://evolive-tv.com:8000/live/genio/genio/291.m3u8"
                 },
 		        {
                             "name": "SPORT TV 1 opc3 novo servidor",
@@ -74,9 +74,9 @@
                             "url": "rtmpe://r.livecast.cc/rs/share/live2-bipmr swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
                 },
 				{
-                            "name": "SPORT TV 2 opc1 Bosslulamen&Lacasitos",
+                            "name": "SPORT TV 2 opc1 Bosslulamen&Lacasitos ON",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8"
+                            "url": "http://evolive-tv.com:8000/live/genio/genio/292.m3u8"
                 },
                 {
                             "name": "SPORT TV 2 pt ace",
@@ -105,9 +105,9 @@
                             "url": "rtmpe://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx"
                 },
 				{
-                            "name": "SPORT TV 3 opc1 Bosslulamen&Lacasitos",
+                            "name": "SPORT TV 3 opc1 Bosslulamen&Lacasitos ON",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8"
+                            "url": "http://evolive-tv.com:8000/live/genio/genio/293.m3u8"
                 },
                 {
                             "name": "SPORT TV 3 pt opc1 ace",
@@ -126,9 +126,9 @@
                 },
 				
 										{
-                            "name": "SPORT TV 4 Bosslulamen&Lacasitos",
+                            "name": "SPORT TV 4 Bosslulamen&Lacasitos ON",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "http://top-iptv.zapto.org:8000/live/adem/adem/656.m3u8"
+                            "url": "http://evolive-tv.com:8000/live/genio/genio/294.m3u8"
                 },
                 {
                             "name": "SPORT TV 4 pt opc1 ace",
@@ -147,9 +147,9 @@
                 },
 				
 										{
-                            "name": "SPORT TV 5 Bosslulamen&Lacasitos",
+                            "name": "SPORT TV 5 Bosslulamen&Lacasitos ON",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
-                            "url": "http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8"
+                            "url": "http://evolive-tv.com:8000/live/genio/genio/295.m3u8"
                 },
                 {
                             "name": "SPORT TV 5 pt opc1 ace",
@@ -254,9 +254,9 @@
                             "isHost": ""
                     },
                     {
-                            "name": "c+liga es ace",
+                            "name": "c+liga",
                             "image": "http://weblinks.altervista.org/LOGHI/c_liga.png",
-                            "url": "acestream://3f3c263e29698f8b764708164718448c97faf205"
+                            "url": "http://evolive-tv.com:8000/live/genio/genio/274.m3u8"
                                     },
                                     {
                             "name": "c+liga 2 es",
@@ -1520,9 +1520,9 @@
                         "url": "http://www.t12v.com:8000/live/prevot/prevot/1165.ts"
                     },
 					{
-                        "name": "Disney Jr. HD ace",
+                        "name": "Disney Jr. HD",
                         "image": "http://4.bp.blogspot.com/-tRLNLZijHlk/VLRUgjbZD5I/AAAAAAAACWs/YJrarfQ3QGc/s320/Nick%2BJr.jpg",
-                        "url": "acestream://0550acb9f04664a86baf0723c8b543200fd02c94"
+                        "url": "http://evolive-tv.com:8000/live/genio/genio/281.m3u8"
                     },
 					{
                         "name": "Disney Channel HD",
