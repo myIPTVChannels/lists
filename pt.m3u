@@ -94,63 +94,72 @@ http://c.securestreaming.xyz:1935/live/tvificcao3dVQo/chunklist_w1769820660.m3u8
 #EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-id="caca & Pesca" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwput1438005508.png",CACA E PESCA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3494.ts
+
+#EXTINF:-1 tvg-id="E! TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qxrvyy1433355456.png", E! ENTERTAINMENT  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3483.ts
+
+#EXTINF:-1 tvg-id="Toros TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",TOROS TV SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3450.ts
+
 #EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
-http://c.securestreaming.xyz:1935/live/portocanalBmYH5/chunklist_w276004722.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzE0MTkyNSZoYXNoX3ZhbHVlPTg0NzJhYmMwZDRkZGNkNmNlMmU3NTY5YTcwZjhjNWUyJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3467.ts
 
 #EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV [FSD]
-http://c.securestreaming.xyz:1935/live/cmtvU6O9b/chunklist_w395815691.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzE0MTYxMyZoYXNoX3ZhbHVlPTcyNDM5OTJjNTEyNDdjOWY1ZWZlZGVmNjJjNWUyZDIxJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3488.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png", A BOLA TV SD
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png", A BOLA TV SD [COLOR red]OFF[/COLOR]
 http://c.securestreaming.xyz:1935/live/bolaZirMR/chunklist_w1779729088.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzM1NTk2NCZoYXNoX3ZhbHVlPTY1NjdlMDI2OWFiMTBjZTFmMWMzYmNjMjc3ZTYyODhlJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV 
-http://c.securestreaming.xyz:1935/live/motorstvkPGKa/chunklist_w456295998.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzE0MjAxMyZoYXNoX3ZhbHVlPTNiNDc2OWU4YWUwOTQ5N2U0Nzk5MjIyMTY3Njc4ODk3JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3474.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpsqps1436892971.png", 24 KITCHEN HD
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpsqps1436892971.png", 24 KITCHEN HD[COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1187.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png", NATIONAL GEOGRAPHIC SD
-http://c.securestreaming.xyz:1935/live/natgeoLQkYv/chunklist_w752632707.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzNDc5OCZoYXNoX3ZhbHVlPTQyY2QwOTI5MDY2OWUwYjQ4MGYxMTY1Njc2MjYzMjg0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3471.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png", Discovery SD
-http://c.securestreaming.xyz:1935/live/discoverymDuit/chunklist_w1570853830.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODQ0NyZoYXNoX3ZhbHVlPTYwMzRhZmQ5MDkwNjRhNDAxNzJmZDg4YjQ2OTlkYjc0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3487.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", CANAL HISTORIA SD
-http://c.securestreaming.xyz:1935/live/historialTuF1/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzQyNDExNSZoYXNoX3ZhbHVlPTRlMDM1NWY0ZjE4NDUxYTdlZDNkYjlhMWNlYjJmMGY2JnZhbGlkbWludXRlcz0zMCZpcD1DSCY= conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3493.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA [COLOR red]OFF[/COLOR]
-http://
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3469.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuwqyv1444921041.png", TRAVEL CHANNEL 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuwqyv1444921041.png", TRAVEL CHANNEL [COLOR red]OFF[/COLOR]
 http://live-823.gv2.edge.filmon.com/live/842.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3c5b5f0d269da43179c8bd44a526831a07c6191ab2b3655b1562da01a6d1162f233f88144629f0fa3a567a7fa142a443fa4a87828dab175da0ebb7cfd7f7bd68ae16c689c4587c9c085aa5b9f87a462afb7f7256090a62faa3390182f9852ddbc9d38b8d314f9efde6277dbbaa292e42452623ac7b428a8f3 conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png", CBS Reality [COLOR red]OFF[/COLOR]
 http://luckyiptv.ddns.net:23000/live/andi/andi/12077.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E Latino [COLOR red]OFF[/COLOR]
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E Latino
+http://cp.dmbshare.net:8000/live/whelan/whelan/3500.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png", AMC 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png", AMC  [COLOR red]OFF[/COLOR]
 rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTc1MTI3MTJ8ODMuNzcuMjA5LjEwMnw1NmRlOGY4ODNjMTUyfDk2YTY0YzI0NDcwMjRjM2JjZTM2NTI3ZDM1OWRhODNlOWI0ZTgzMmE. playpath=7pctmre0zfwsc24 swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=960&height=530&channel=68963&autoplay=true conn=S:OK
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY (Temporário)
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY  [COLOR red]OFF[/COLOR]
 http://evolive-tv.com:8000/live/balla/balla/288.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vvuxwx1433431651.png", FX Portugal [COLOR red]OFF[/COLOR]
 http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png", MOV HD [COLOR red]OFF[/COLOR]
-http://luckyiptv.ddns.net:23000/live/andi/andi/12061.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png", MOV HD 
+http://cp.dmbshare.net:8000/live/whelan/whelan/3473.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX [SD] 
-http://c.securestreaming.xyz:1935/live/foxCNqBZ/chunklist_w515306870.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1Njk2NzMyNSZoYXNoX3ZhbHVlPTc1YTM3YTFjM2ZiZThmMTk2NTI5ZWJjMjdlMzExNTM0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3480.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD] 
-http://c.securestreaming.xyz:1935/live/foxcrimeTLVOF/chunklist_w931024935.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODkwMSZoYXNoX3ZhbHVlPWNkY2I2ODM1NmI1YTUwNWM5Yzg0ZGZkZDQ0MTlmNzg3JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3479.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png", FOX Life 
-http://www.t12v.com:8000/live/prevot/prevot/1150.ts
+http://cp.dmbshare.net:8000/live/whelan/whelan/3478.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png", FOX Movies [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1148.ts
@@ -159,13 +168,13 @@ http://www.t12v.com:8000/live/prevot/prevot/1148.ts
 http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png", AXN [SD] 
-http://c.securestreaming.xyz:1935/live/axnpCrwz/chunklist_w1762303413.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzOTIzNyZoYXNoX3ZhbHVlPWJlZGNiYmU4YjJiNTZmMTY4Y2QzOTc5M2U4NmVmYjUwJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3498.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png", AXN BLACK [COLOR red]OFF[/COLOR]
 http://www.t12v.com:8000/live/prevot/prevot/1156.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png", Hollywood [SD]
-http://c.securestreaming.xyz:1935/live/hollywoodTlGw3/chunklist_w1477038967.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODc3NyZoYXNoX3ZhbHVlPWUzMTlhNGY2YzgzNWEzMjY5ODE0YTc3MWU2ZGE4YWQ2JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+http://cp.dmbshare.net:8000/live/whelan/whelan/3475.ts
 
 #EXTINF:-1,TV Cine 1
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
@@ -257,9 +266,6 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 #EXTINF:-1,RADIO U TV 
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
 
-#EXTINF:-1,AFRICA MUSICA 
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-
 #EXTINF:-1,UNDERGROUND
 http://www.djing.com/tv/underground.m3u8
 
@@ -292,9 +298,6 @@ http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
 
 #EXTINF:-1,NRJ HITS
 rtsp://5.196.138.6:1935/live/nrjbelgique_360p
-
-#EXTINF:-1,MUSIC BOX 
-http://tvclub.fr/ch07.ts
 
 #EXTINF:-1,MFM TV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
