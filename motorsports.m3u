@@ -48,70 +48,72 @@ plugin://program.plexus/?mode=1&url=acestream://0afc6b95e79f63b7e0f00484453d5cc0
 plugin://program.plexus/?mode=1&url=acestream://51f823aa847b305a9f8c28839babccb3b1b7a989&mode=1&name=acestream&mode=1&name=SPORTS
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DAS TRANSMISSOES TELEVISIVAS[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AxHsgKI.jpg",[B][COLOR skyblue]MOTOGP 2016[/B][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DAS TRANSMISSOES TELEVISIVAS[/B][/COLOR] 
+http://0.0.0.0:1234 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AxHsgKI.jpg",[B][COLOR skyblue]MOTOGP 2016[/B][/COLOR] 
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TugwGLw.jpg",[B][COLOR skyblue]GP ARGENTINA [/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR] 
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]01.04/13h00 MOTO3 - FP1[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]01.04/13h55 MOTOGP - FP1[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]01.04/14h55 MOTO2 - FP1[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR] 
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]01.04/17h10 MOTO3 - FP2[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]01.04/18h05 MOTOGP - FP2[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]01.04/19h05 MOTO2 - FP2[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR] 
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/13h00 MOTO3 - FP3[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/13h55 MOTOGP - FP3[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/14h55 MOTO2 - FP3[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR] 
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/16h35 MOTO3 - QP[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/17h30 MOTOGP - FP4[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/18h10 MOTOGP - Q1[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/18h35 MOTOGP - Q2[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]02.04/19h05 MOTO2 - QP[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR] 
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]03.04/13h40 MOTO3 - WUP[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]03.04/14h10 MOTO2 - WUP[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]03.04/14h40 MOTOGP - WUP[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]03.04/17h00 MOTO3 - RAC[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]03.04/18h20 MOTO2 - RAC[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zF5AVWW.jpg",[B][COLOR gold]03.04/20h00 MOTOGP - RAC[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
-http://0.0.0.0:1234
- 
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR] 
+http://0.0.0.0:1234 
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vcfu9M3.png",[B][COLOR red]CANAIS DISPONIVEIS [/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Ir7pNi7.png",[B][COLOR white]ES: [/B][/COLOR][B][COLOR  lawngreen]ARENAVISION 11 (Movistar MotoGP) (ON)[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://7aa256f2042eb0e7b1f048a50d1e3ac3312dcaca&mode=1&name=acestream&mode=1&name=SPORTS
+plugin://program.plexus/?mode=1&url=acestream://7aa256f2042eb0e7b1f048a50d1e3ac3312dcaca&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TX7HKPa.png",[B][COLOR white]ES: [/B][/COLOR][B][COLOR  lawngreen]ARENAVISION 12 (Movistar MotoGP) (ON)[/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://115aa4f13384f85b88db545886d8871381a6e539&mode=1&name=acestream&mode=1&name=SPORTS
+plugin://program.plexus/?mode=1&url=acestream://115aa4f13384f85b88db545886d8871381a6e539&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uRyamzw.png",[B][COLOR white]ES: [/B][/COLOR][B][COLOR  lawngreen]MOVISTAR MOTOGP HD (ON)[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://2197680d09e6a2900746896b5cd17ba42aab111d&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/vv/viasat_motor.png",[B][COLOR white]SW: [/B][/COLOR][B][COLOR lawngreen]VIASAT MOTOR HD (ON) [/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://0afc6b95e79f63b7e0f00484453d5cc0c1a67290&mode=1&name=acestream&mode=1&name=SPORTS
