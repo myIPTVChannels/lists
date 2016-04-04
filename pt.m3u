@@ -1,10 +1,5 @@
 #EXTM3U
 
-
-
-===========================================================================================
-
-
 #EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
  
@@ -19,8 +14,11 @@ http://213.13.26.11:1935/live/sic/magellan.m3u8
  
 #EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
  
-#EXTINF:-1 tvg-name="tvi.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
 http://c.securestreaming.xyz:1935/live/tvia801o/chunklist_w530903838.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzOTQwNiZoYXNoX3ZhbHVlPWRmMGMzMzc5OTc1Njk4YWQ3YThmZDYwYjBiMzY3NmQ0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
  
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png", RTP Açores [SD]
@@ -40,6 +38,12 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [FSD]
+http://www.t12v.com:8000/live/prevot/prevot/808.ts
 
 #EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias [SD]
 rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
@@ -77,17 +81,14 @@ rtmp://178.162.199.155/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1422.ts
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [FSD]
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [FSD]
-http://www.t12v.com:8000/live/prevot/prevot/808.ts
-
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png", + TVI [FSD]
 http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção [FSD]
 http://c.securestreaming.xyz:1935/live/tvificcao3dVQo/chunklist_w1769820660.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzQzMTY4MiZoYXNoX3ZhbHVlPTU5NDRlNThmZTg1OTFhMDZkZDA3ZDU4ZjBlNzEyNzkzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+
+#EXTINF:-1 tvg-id="CancaoNova.PT" tvg-logo="http://diocesedelorena.com/wp-content/uploads/2013/12/Marca-Can%C3%A7%C3%A3o-Nova-2010.png", Canção Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 ================================================================================================================================
 
