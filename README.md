@@ -77,7 +77,7 @@ http://server.name/stream/to/video2
 
 2.1) group-title= Sugiro categorias clean para a organização dos canais.Evitar a criação de novas categorias
 
-2.2) tvg name pode consultar-se o xml do epg.kodiportugal.com
+2.2) tvg name pode consultar-se o xml do epg.kodiportugal.com ou http://kodiportugal.pt/o-nosso-epg-cresceu/
 
 2.3) tvg-id is value of channel id in EPG xml file. If the tag is absent then addon will use tvg-name for map channel to EPG;
 
