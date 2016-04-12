@@ -9,13 +9,13 @@ http://37.203.209.34:443/mobile/flash24sd/live.m3u8
 http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,TVCine 1
-http://bit.do/bPcHk
+http://iptv.temnet.pt:8000/live/gustavo/gustavo1/2.ts
 #EXTINF:-1,TVCine 2
-http://bit.do/bPcHj
+http://iptv.temnet.pt:8000/live/gustavo/gustavo1/29.ts
 #EXTINF‬:-1,TVCine 3
-http://bit.do/bPcHn
+http://iptv.temnet.pt:8000/live/gustavo/gustavo1/31.ts
 #EXTINF:-1,TVCine 4
-http://bit.do/bPcHp
+http://iptv.temnet.pt:8000/live/gustavo/gustavo1/30.ts
 #EXTINF:-1,TV Series
 http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1355.m3u8
 
