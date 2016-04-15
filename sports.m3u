@@ -3,173 +3,121 @@
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DAS TRANSMISSOES TELEVISIVAS[/B][/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mj4wMdX.png?2",[B][COLOR skyblue]LIGA NOS - JORNADA 30[/B][/COLOR]
+http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o1ZcOm6.jpg?1",[B][COLOR royalblue]CHAMPIONS LEAGUE[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Y25zKh0.png",[B][COLOR gold]16.04 / 16h45  AROUCA-RIO AVE[/B][/COLOR]
 http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/By6Oj7C.png",[B][COLOR gold]12.04 / 19h45  REAL MADRID-WOLFSBURG[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1 (PLAYBACK) (TEMP)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU8wHCd.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1 LQ (ON)[/B][/COLOR] 
+rtmp://213.152.180.243:5532/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r964i962yr140i1027rr8801a962kr8801a962kr962i888br8801a962kr1027i65mr2798i982lr1027i65mr8801a962kr982i2798n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,182 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t439i710yt743i4855rt1667a710kt1667a710kt710i514bt1667a710kt4855i357mt8119i7lt4855i357mt1667a710kt7i8119n&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s243f44474x254t2t27413q2t2s284&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y34363z3q274943474u2y24444r264o2x4c4q3l4v5v2x2p243x46476o4n4e5z313q4m484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2j5y24494i5u2z2q2b494l5m5e4w2j5x213c4c403z284a4z2i553x2i524k5i5k534p2o234z3n204o204&sooor=OQ==&str=is&ok=&cat=3&link=1&idom=firstrowas.co
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JHJp9a7.png",[B][COLOR RUS: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL SD (ON)[/B][/COLOR] 
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JHJp9a7.png",[B][COLOR RUS: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL SD (ON)[/B][/COLOR] 
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ndz711e.png",[B][COLOR gold]16.04 / 18h30  ESTORIL-BOAVISTA[/B][/COLOR]
 http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iYFId6r.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 3  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://effeacf79f343d2a622e954c385fb0ad0f111937&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EKgiyIX.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 4  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://ea4300e3e121c7e6313c4b015f3babb751468392&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9  (ON)[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9  (ON)[/B][/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 10  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/87tP276.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 1  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://037943cf5049c5f534385ea9e720dbbf6df11fdd&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jdYVQou.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]BELARUS 5 SD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://ccce682c9f6deca50fca77949dc426ba1192e865&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sI0Tm51.png",[B][COLOR white]RO: [/B][/COLOR][B][COLOR lawngreen]DOLCE SPORT 2 SD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://15770bf6d7b0e0503ec2068261e4be683916ccaa&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NFGn46q.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]MATCH! FUTBOL 1 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://a3231895506332316e7699a8b2712f28ec6da051&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NFGn46q.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]MATCH! FUTBOL 1 SD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://http://bukermovies.jimdo.com/flash/bein-sports-esp/bein-sports-2-fr/&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1  (TEMP)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1 (PLAYBACK) (TEMP)[/B][/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
- 
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6qCj7mS.png",[B][COLOR gold]12.04 / 19h45  MAN CITY-PSG[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU8wHCd.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1 LQ (ON)[/B][/COLOR] 
+rtmp://213.152.180.243:5532/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r964i962yr140i1027rr8801a962kr8801a962kr962i888br8801a962kr1027i65mr2798i982lr1027i65mr8801a962kr982i2798n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,182 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t439i710yt743i4855rt1667a710kt1667a710kt710i514bt1667a710kt4855i357mt8119i7lt4855i357mt1667a710kt7i8119n&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s243f44474x254t2t27413q2t2s284&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y34363z3q274943474u2y24444r264o2x4c4q3l4v5v2x2p243x46476o4n4e5z313q4m484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2j5y24494i5u2z2q2b494l5m5e4w2j5x213c4c403z284a4z2i553x2i524k5i5k534p2o234z3n204o204&sooor=OQ==&str=is&ok=&cat=3&link=1&idom=firstrowas.co
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Mo6t8b9.png",[B][COLOR gold]16.04 / 20h45  MOREIRENSE-SPORTING[/B][/COLOR]
 http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zKGisWh.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 1  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6c36497eb9ea71f7400dd41181c11cf65883046c&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4WCHUWA.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 2  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f8824086dd80ee78ccc43d7756f950b8668552dc&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ir7pNi7.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 11  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://7aa256f2042eb0e7b1f048a50d1e3ac3312dcaca&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TX7HKPa.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 12  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://5b238d004cf91248e6598bedc7b2d3baf3278d12&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W23oElM.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 14  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0937225dfedb7bcb01901a99d811ceacd1bc1070&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g4vChbm.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 15  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://9ab93d768e901961a9851384ecbc71d90987da81&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hx9a1pi.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 3  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0XSxA7e.png",[B][COLOR white]FR: [/B][/COLOR][B][COLOR lawngreen]beiN SPORTS 1  (ON)[/B][/COLOR]
-rtmpe://162.219.176.66:1935/hfufdxdhrh/mamahdbeinfr1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN\2021,0,0,182 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbeinfr1&vw=854&vh=480
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PDc3xp1.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]MATCH! FUTBOL 2 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://e7146efa3775b4e418a1eff1b013e5076b9b84fa&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PDc3xp1.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]MATCH! FUTBOL 2 SD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f30e68c989b195a8a319a98f32478ef5112a7f2e&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/SFj0Z0v.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 2  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/B5ye4NR.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]TSN 1 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb&mode=1&name=acestream&mode=1&name=SPORTS
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LMlimed.png",[B][COLOR gold]13.04 / 19h45  BENFICA-BAYERN[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zKGisWh.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 1  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6c36497eb9ea71f7400dd41181c11cf65883046c&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4WCHUWA.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 2  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f8824086dd80ee78ccc43d7756f950b8668552dc&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MrzUqPa.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 5  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c95a113175bf52a26e3b177d04b4d04353ac418b&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hx9a1pi.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 3  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0XSxA7e.png",[B][COLOR white]FR: [/B][/COLOR][B][COLOR lawngreen]beiN SPORTS 1  (ON)[/B][/COLOR]
-rtmpe://162.219.176.66:1935/hfufdxdhrh/mamahdbeinfr1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN\2021,0,0,182 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbeinfr1&vw=854&vh=480
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jdYVQou.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]BELARUS 5 SD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://ccce682c9f6deca50fca77949dc426ba1192e865&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Y9sy3nS.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]VIASAT SPORT BALTIC  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://3337a62f717461c59e25d44cc34ef232aa765cc2&mode=1&name=acestream&mode=1&name=SPORTS
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FjwBkRl.png",[B][COLOR gold]13.04 / 19h45  AT MADRID-BARCELONA[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sPnJbLq.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 7  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://146360a96ded7ee80b022975ae282b4de7ac4a2d&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NFVdJ47.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 8  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://7c8baa40602425f718d95cbb84626efcc41573b6&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W23oElM.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 14  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0937225dfedb7bcb01901a99d811ceacd1bc1070&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g4vChbm.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 15  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://9ab93d768e901961a9851384ecbc71d90987da81&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ghjiz58.png",[B][COLOR white]UKR: [/B][/COLOR][B][COLOR lawngreen]FUTBOL 2 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f78a9260ea3fd6b9c0acb7d6dfbdf1bfc1eb5e86&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ghjiz58.png",[B][COLOR white]UKR: [/B][/COLOR][B][COLOR orange]FUTBOL 2 SD (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://d5bff5cffa7c2874f5076042e55c697deea02eec&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/SFj0Z0v.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 2  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&mode=1&name=acestream&mode=1&name=SPORTS
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wb5pikH.png",[B][COLOR royalblue]EUROPA LEAGUE[/B][/COLOR]
-http://0.0.0.0:1234
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HgyXSKV.png",[B][COLOR gold]14.04 / 20h05  SHAKTAR-BRAGA[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ir7pNi7.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 11  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://7aa256f2042eb0e7b1f048a50d1e3ac3312dcaca&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TX7HKPa.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 12  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://5b238d004cf91248e6598bedc7b2d3baf3278d12&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hx9a1pi.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 3  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4et0qhC.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC SD (ON)[/B][/COLOR]
-rtmp://178.162.199.76/stream playpath=SIC813747234?id=23687&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4et0qhC.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC SD (ON)[/B][/COLOR]
-rtmp://109.123.95.180/live/ playPath=sic90?id=85765&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2020,0,0,306 pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/730/430
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o4bR55x.png",[B][COLOR gold]14.04 / 20h05  SEVILHA-AT BILBAO[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zKGisWh.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 1  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6c36497eb9ea71f7400dd41181c11cf65883046c&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4WCHUWA.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 2  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f8824086dd80ee78ccc43d7756f950b8668552dc&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6X6nIKm.png",[B][COLOR white]FR: [/B][/COLOR][B][COLOR lawngreen]beiN SPORTS 2  (ON)[/B][/COLOR]
-rtmpe://162.253.130.50:1935/hfufdxdhrh/mamahdbeinfr2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN\2021,0,0,182 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbeinfr2&vw=854&vh=480
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kTtt26J.png",[B][COLOR white]RO: [/B][/COLOR][B][COLOR lawngreen]DIGISPORT 1 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://587b978995d900afc17d4a5c3ef13797d2b3a0ec&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/K0kHc6F.png",[B][COLOR white]CZ: [/B][/COLOR][B][COLOR lawngreen]NOVA SPORT 1 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6ad08ea0a5c025f00be8ba1ad106821f27d17296&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/SFj0Z0v.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 2  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&mode=1&name=acestream&mode=1&name=SPORTS
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ix7r6Ut.png",[B][COLOR gold]14.04 / 20h05  LIVERPOOL-DORTMUND[/B][/COLOR]
-http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9  (ON)[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9  (ON)[/B][/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 10  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W23oElM.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 14  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0937225dfedb7bcb01901a99d811ceacd1bc1070&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g4vChbm.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 15  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://9ab93d768e901961a9851384ecbc71d90987da81&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0XSxA7e.png",[B][COLOR white]FR: [/B][/COLOR][B][COLOR lawngreen]beiN SPORTS 1  (ON)[/B][/COLOR]
-rtmpe://162.219.176.66:1935/hfufdxdhrh/mamahdbeinfr1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN\2021,0,0,182 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbeinfr1&vw=854&vh=480
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ghjiz58.png",[B][COLOR white]UKR: [/B][/COLOR][B][COLOR lawngreen]FUTBOL 2 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f78a9260ea3fd6b9c0acb7d6dfbdf1bfc1eb5e86&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ghjiz58.png",[B][COLOR white]UKR: [/B][/COLOR][B][COLOR orange]FUTBOL 2 SD (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://d5bff5cffa7c2874f5076042e55c697deea02eec&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1  (TEMP)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2x0BUI3.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]BT SPORT 2 SD (ON)[/B][/COLOR] 
+rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE2IDE6MTk6MTggUE0maGFzaF92YWx1ZT0zeGV1dkdmVTFWUW9ZekkxSWJxenBRPT0mdmFsaWRtaW51dGVzPTEw/ibrodtv27_8hps6ods swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN\2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv27&autoplay=true&strech=exactfit
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2x0BUI3.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]BT SPORT 2 SD (ON)[/B][/COLOR] 
+rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE2IDE6NTE6MTkgUE0maGFzaF92YWx1ZT1YbU03TEdqcDhLRG1WMGQzWWtWU1h3PT0mdmFsaWRtaW51dGVzPTEw/ibrodtv27_8hps6ods swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN\2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv27&autoplay=true&strech=exactfit
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2x0BUI3.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]BT SPORT 2 SD (ON)[/B][/COLOR] 
+http://163.172.14.237:8081/liverepeater/55d9a7b3aad72/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE2IDE6NDQ6MzQgUE0maGFzaF92YWx1ZT1wR3RHMFhldzhUdmNmYmxqZHQ4N1NBPT0mdmFsaWRtaW51dGVzPTYw|Referer=http%3A%2F%2Fchupala.biggestplayer.me%2Fstreamcr.php%3Fid%3D231712%26width%3D620%26height%3D490&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.182
+#EXTINF:-1 tvg-logo="http://i.imgur.com/peZh84I.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL LQ (ON)[/B][/COLOR] 
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-logo="http://i.imgur.com/peZh84I.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL SD (ON)[/B][/COLOR] 
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1 (PLAYBACK) (TEMP)[/B][/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Y9sy3nS.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]VIASAT SPORT BALTIC  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://3337a62f717461c59e25d44cc34ef232aa765cc2&mode=1&name=acestream&mode=1&name=SPORTS
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9T9A4jP.png",[B][COLOR gold]14.04 / 20h05  SPARTA PRAGA-VILLARREAL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU8wHCd.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1 LQ (ON)[/B][/COLOR] 
+rtmp://213.152.180.243:5532/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r964i962yr140i1027rr8801a962kr8801a962kr962i888br8801a962kr1027i65mr2798i982lr1027i65mr8801a962kr982i2798n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,182 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t439i710yt743i4855rt1667a710kt1667a710kt710i514bt1667a710kt4855i357mt8119i7lt4855i357mt1667a710kt7i8119n&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s243f44474x254t2t27413q2t2s284&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y34363z3q274943474u2y24444r264o2x4c4q3l4v5v2x2p243x46476o4n4e5z313q4m484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2j5y24494i5u2z2q2b494l5m5e4w2j5x213c4c403z284a4z2i553x2i524k5i5k534p2o234z3n204o204&sooor=OQ==&str=is&ok=&cat=3&link=1&idom=firstrowas.co
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j1gEw0V.png",[B][COLOR gold]17.04 / 16h00  BELENENSES-ACADEMICA[/B][/COLOR]
 http://0.0.0.0:1234
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iYFId6r.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR orange]ARENAVISION 3  (TEMP)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://effeacf79f343d2a622e954c385fb0ad0f111937&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EKgiyIX.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 4  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://ea4300e3e121c7e6313c4b015f3babb751468392&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/87tP276.png",[B][COLOR white]SRB: [/B][/COLOR][B][COLOR lawngreen]ARENA SPORT 1  (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://037943cf5049c5f534385ea9e720dbbf6df11fdd&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TDLULgi.png",[B][COLOR white]RO: [/B][/COLOR][B][COLOR lawngreen]DIGISPORT 2 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://3b0796661f783236f24756821f5efb1d15d59d7f&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sx0AY1a.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 3 HD (ON)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0b5582153832ddc45e407c71f3504736b642d59d&mode=1&name=acestream&mode=1&name=SPORTS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1 (PLAYBACK) (TEMP)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU8wHCd.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1 LQ (ON)[/B][/COLOR] 
+rtmp://213.152.180.243:5532/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r964i962yr140i1027rr8801a962kr8801a962kr962i888br8801a962kr1027i65mr2798i982lr1027i65mr8801a962kr982i2798n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,182 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t439i710yt743i4855rt1667a710kt1667a710kt710i514bt1667a710kt4855i357mt8119i7lt4855i357mt1667a710kt7i8119n&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s243f44474x254t2t27413q2t2s284&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y34363z3q274943474u2y24444r264o2x4c4q3l4v5v2x2p243x46476o4n4e5z313q4m484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2j5y24494i5u2z2q2b494l5m5e4w2j5x213c4c403z284a4z2i553x2i524k5i5k534p2o234z3n204o204&sooor=OQ==&str=is&ok=&cat=3&link=1&idom=firstrowas.co
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zwehkIq.png",[B][COLOR gold]17.04 / 18h15  MARITIMO-GUIMARAES[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1 (PLAYBACK) (TEMP)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU8wHCd.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1 LQ (ON)[/B][/COLOR] 
+rtmp://213.152.180.243:5532/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r964i962yr140i1027rr8801a962kr8801a962kr962i888br8801a962kr1027i65mr2798i982lr1027i65mr8801a962kr982i2798n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,182 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t439i710yt743i4855rt1667a710kt1667a710kt710i514bt1667a710kt4855i357mt8119i7lt4855i357mt1667a710kt7i8119n&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s243f44474x254t2t27413q2t2s284&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y34363z3q274943474u2y24444r264o2x4c4q3l4v5v2x2p243x46476o4n4e5z313q4m484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2j5y24494i5u2z2q2b494l5m5e4w2j5x213c4c403z284a4z2i553x2i524k5i5k534p2o234z3n204o204&sooor=OQ==&str=is&ok=&cat=3&link=1&idom=firstrowas.co
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yFdeufF.png",[B][COLOR gold]17.04 / 20h30  PORTO-NACIONAL[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o9hmuO0.png",[B][COLOR white]SER: [/B][/COLOR][B][COLOR lawngreen]SPORT KLUB 2 SD (ON)[/B][/COLOR] 
+http://cdn.sportlive.ws/hls/yJOkToioHqiGnoM5Eo4dqA/1460735331/sportklub2.m3u8|Referer=http://api.peer5.com/clappr/assets/HLSPlayer.swf&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1 (PLAYBACK) (TEMP)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU8wHCd.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1 LQ (ON)[/B][/COLOR] 
+rtmp://213.152.180.243:5532/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r964i962yr140i1027rr8801a962kr8801a962kr962i888br8801a962kr1027i65mr2798i982lr1027i65mr8801a962kr982i2798n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,182 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t439i710yt743i4855rt1667a710kt1667a710kt710i514bt1667a710kt4855i357mt8119i7lt4855i357mt1667a710kt7i8119n&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s243f44474x254t2t27413q2t2s284&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y34363z3q274943474u2y24444r264o2x4c4q3l4v5v2x2p243x46476o4n4e5z313q4m484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2j5y24494i5u2z2q2b494l5m5e4w2j5x213c4c403z284a4z2i553x2i524k5i5k534p2o234z3n204o204&sooor=OQ==&str=is&ok=&cat=3&link=1&idom=firstrowas.co
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JHJp9a7.png",[B][COLOR RUS: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL SD (ON)[/B][/COLOR] 
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JHJp9a7.png",[B][COLOR RUS: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL SD (ON)[/B][/COLOR] 
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/w43zqDb.png",[B][COLOR gold]18.04 / 19h00  BRAGA-TONDELA[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U8EuOQt.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR orange]SPORT TV 1 (PLAYBACK) (TEMP)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU8wHCd.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 1 LQ (ON)[/B][/COLOR] 
+rtmp://213.152.180.243:5532/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r964i962yr140i1027rr8801a962kr8801a962kr962i888br8801a962kr1027i65mr2798i982lr1027i65mr8801a962kr982i2798n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,182 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t439i710yt743i4855rt1667a710kt1667a710kt710i514bt1667a710kt4855i357mt8119i7lt4855i357mt1667a710kt7i8119n&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s243f44474x254t2t27413q2t2s284&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y34363z3q274943474u2y24444r264o2x4c4q3l4v5v2x2p243x46476o4n4e5z313q4m484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2j5y24494i5u2z2q2b494l5m5e4w2j5x213c4c403z284a4z2i553x2i524k5i5k534p2o234z3n204o204&sooor=OQ==&str=is&ok=&cat=3&link=1&idom=firstrowas.co
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JHJp9a7.png",[B][COLOR RUS: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL SD (ON)[/B][/COLOR] 
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JHJp9a7.png",[B][COLOR RUS: [/B][/COLOR][B][COLOR lawngreen]TELEKANAL SD (ON)[/B][/COLOR] 
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/58zeLeZ.png",[B][COLOR gold]18.04 / 21h00  BENFICA-SETUBAL[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/68RhoV5.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 9  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xZFbTaY.png",[B][COLOR white]INT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 10  (ON)[/B][/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iBRO1Yd.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]BT SPORT EUROPE LQ (SPORTS DEVIL) (ON)[/B][/COLOR] 
+http://195.154.156.48:8081/liverepeater/55d9a12ec6e87/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE2IDE6NDM6NDkgUE0maGFzaF92YWx1ZT1vK2cwbkNidEE4OWlmcEtCRDNPZzlBPT0mdmFsaWRtaW51dGVzPTYw|Referer=http%3A%2F%2Fchupala.biggestplayer.me%2Fstreamcr.php%3Fid%3D199710%26width%3D620%26height%3D490&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.182
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]BTV 1 LQ (SPORTS DEVIL) (ON)[/B][/COLOR] 
+rtmp://178.162.211.231/live playPath=slbueyec?id=22289&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 live=true conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyec/1/620/430
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]BTV 1 LQ (SPORTS DEVIL) (ON)[/B][/COLOR] 
+rtmp://46.165.251.98/live playPath=slbueyec?id=22289&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 live=true conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyec/1/620/430
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]BTV 1 LQ (SPORTS DEVIL) (ON)[/B][/COLOR] 
+rtmp://95.211.148.133/live playPath=slbueyec?id=22289&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 live=true conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyec/1/620/430
 
 
 #EXTINF:0,[B][COLOR blue]Canais[/B][/COLOR]
