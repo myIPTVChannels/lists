@@ -254,22 +254,6 @@
                             "isHost": ""
                     },
                     {
-                            "name": "c+liga",
-                            "image": "http://weblinks.altervista.org/LOGHI/c_liga.png",
-                            "url": "http://evolive-tv.com:8000/live/genio/genio/274.m3u8"
-                                    },
-                                    {
-                            "name": "c+liga 2 es",
-                            "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg",
-                            "url": "rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/"
-                                    },
-                                    {       "name": "Bein Sports Espanha",
-                            "image": "http://3vjhyn2i4tw93whkoj1sjvwx.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/BeIN-Sports-e1431718427932-300x180.jpg",
-                            "url": "http://www.dinostream.pw/channel.php?file=104837&width=650&height=400&autostart=true",
-                            "referer": "http://verdirectotv.com/tv/deportes2/goltv.html",
-                            "isHost": "true"
-									},
-					{
                             "name": "Mega Tv  (El Chiringuito) ",
                             "image": "http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg",
                             "url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8"
