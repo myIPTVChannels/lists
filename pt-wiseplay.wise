@@ -1591,9 +1591,11 @@
                         "isHost": "true"
                 },
 						{
-                        "name": "VENUS PT(+18)",
-                        "image": "http://fotos.sapo.pt/AYSfHwIZNFyP2gOzvMSS/500x500",
-                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1586.m3u8"
+                        "name": "VENUS (+18)",
+                        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9FH7r7PvgWsQTguTaAQkuSERWUzgHtm-zjIi1ehbVrSKW3kzC",
+                        "url": "http://tv.verdirectotv.org/channel.php?file=105255&width=650&height=400&autostart=true",
+                        "referer": "http://vercanalestv.com/tv/argentina/canal-venus.html",
+                        "isHost": "true"
                 },
 				
 				                {
