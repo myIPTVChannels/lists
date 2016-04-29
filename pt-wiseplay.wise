@@ -1520,19 +1520,23 @@
                         "url": "http://www.t12v.com:8000/live/prevot/prevot/1165.ts"
                     },
 					{
-                        "name": "Disney Jr. HD",
+                        "name": "Disney Jr. (Latino)",
                         "image": "http://4.bp.blogspot.com/-tRLNLZijHlk/VLRUgjbZD5I/AAAAAAAACWs/YJrarfQ3QGc/s320/Nick%2BJr.jpg",
-                        "url": "http://evolive-tv.com:8000/live/genio/genio/281.m3u8"
-                    },
+                        "url": "http://www.mipsplayer.com/embedplayer/junior2019/1/600/385",
+                        "referer": "http://tvpor-internet.com/disney-junior-en-vivo.html",
+                        "isHost": "true"
+                },
+                			{
+                        "name": "Nick (Latino)",
+                        "image": "http://1.bp.blogspot.com/-h4gjDOugRlo/VKs_Dl1n9AI/AAAAAAAACSU/i98HZc4BdDI/s1600/nick.jpg",
+                        "url": "http://www.embeducaster.com/embedplayer/nickelodeon2016/1/600/385",
+                        "referer": "http://tvpor-internet.com/nickelodeon-en-vivo.html",
+                        "isHost": "true"
+                },
 					{
                         "name": "Disney Channel HD",
                         "image": "http://dolimg-emea.disneycdn.com/cdn_assets/20f53894a0ebd04f391c56a5cab93d47babb8fd7.png",
                         "url": "http://www.t12v.com:8000/live/prevot/prevot/1162.ts"
-                    },
-					{
-                            "name": "NICKELODEON",
-                            "image": "http://cdn.slashgear.com/wp-content/uploads/2015/01/nick.jpg",
-                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1589.m3u8"
                     },
 					{
                             "name": "CARTOON NETWORK",
