@@ -294,30 +294,6 @@
                         "isHost": "true"
                     },
                                     {
-                            "name": "Canal+ Deportes HD",
-                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
-                            "url": "rtmp://31.220.40.59/pull/ playpath=deportes16?keys=_mWwPK-3oL00QGRCL5CEJQ&keyt=1443233608 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=deportes16&width=600&height=450"
-                    },
-                    {
-                            "name": "Canal+ Deportes (Opc.2)",
-                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
-                            "url": "http://gblackstreaming.com/embed.php?a=45&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Deportes (Opc.3)",
-                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
-                            "url": "http://vercosasgratis.com/embed.php?a=45&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Deportes (Opc.4)",
-                            "image": "http://1.bp.blogspot.com/-h7RTRpgFUas/VTkJQCzhBJI/AAAAAAAAFFM/qk6f4XYqEXk/s1600/canal%2Bdeportes.jpg",
-                            "url": "http://tv.verdirectotv.org/channel.php?file=103878&width=650&height=400&autostart=true",
-                            "referer": "http://cinestrenostv.tv/canales/emision4/plusdeportes.html",
-                            "isHost": "true"
-                    },
-                                    {
                         "name": "Bein Sports",
                         "image": "http://3vjhyn2i4tw93whkoj1sjvwx.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/BeIN-Sports-e1431718427932-300x180.jpg",
                         "url": "http://www.dinostream.pw/channel.php?file=105366&width=650&height=400&autostart=true",
@@ -343,6 +319,20 @@
                         "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
                         "url": "http://www.dinostream.pw/channel.php?file=104531&width=650&height=400&autostart=true",
                         "referer": "http://verdirectotv.com/tv/deportes/plusfutbol.html",
+                        "isHost": "true"
+                },
+                {
+                        "name": "Canal+ Deportes",
+                        "image": "http://2.bp.blogspot.com/-qP_HMX7RMss/Vnnms9KOglI/AAAAAAAAGdc/PVRN7vnu6-s/s1600/Canal%252B%2BDeportes%2BHD..png",
+                        "url": "http://www.ponlatv.com/channel.php?file=105577&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/emision/plusdeportes.html",
+                        "isHost": "true"
+                },
+                {
+                        "name": "Canal+ Deportes (Opc.2)",
+                        "image": "http://2.bp.blogspot.com/-qP_HMX7RMss/Vnnms9KOglI/AAAAAAAAGdc/PVRN7vnu6-s/s1600/Canal%252B%2BDeportes%2BHD..png",
+                        "url": "http://www.playerhd1.pw/channel.php?file=114&width=650&height=400&autostart=true",
+                        "referer": "http://telefivegb.com/canales/114.php",
                         "isHost": "true"
                 },
                                     {
