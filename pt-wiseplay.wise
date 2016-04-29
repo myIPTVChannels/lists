@@ -324,7 +324,6 @@
                         "referer": "http://cinestrenostv.tv/canales/emision/beinsport.html",
                         "isHost": "true"
                 },
- 
                 {      
                         "name": "Bein Sports (Opc.2)",
                         "image": "http://3vjhyn2i4tw93whkoj1sjvwx.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/BeIN-Sports-e1431718427932-300x180.jpg",
@@ -333,29 +332,19 @@
                         "isHost": "true"
                 },
                                     {
-                            "name": "Canal+ Fútbol HD",
-                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
-                            "url": "rtmp://31.220.0.196/pull/ playpath=futbolsala?keys=zG65P3qWwERBZ4aLeToNHQ&keyt=1443894233 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=futbolsala&width=600&height=450"
-                    },
-                    {
-                            "name": "Canal+ Fútbol (Opc.2)",
-                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
-                            "url": "http://gblackstreaming.com/embed.php?a=15969&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Fútbol (Opc.3)",
-                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
-                            "url": "http://vercosasgratis.com/embed.php?a=15969&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Fútbol (Opc.4)",
-                            "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
-                            "url": "http://www.dinostream.pw/channel.php?file=104531&width=650&height=400&autostart=true",
-                            "referer": "http://verdirectotv.com/tv/deportes/plusfutbol.html",
-                            "isHost": "true"
-                    },
+                        "name": "Canal+ Fútbol",
+                        "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
+                        "url": "http://www.playerhd1.pw/channel.php?file=112&width=650&height=400&autostart=true",
+                        "referer": "http://telefivegb.com/canales/112.php",
+                        "isHost": "true"
+                },
+                {
+                        "name": "Canal+ Fútbol (Opc.2)",
+                        "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
+                        "url": "http://www.dinostream.pw/channel.php?file=104531&width=650&height=400&autostart=true",
+                        "referer": "http://verdirectotv.com/tv/deportes/plusfutbol.html",
+                        "isHost": "true"
+                },
                                     {
                             "name": "SPORT 1 CZ ace",
                             "image": "http://torrent-tv.ru/uploads/kCLlfkFz3Ba3BL9Jc9ZPgUKXh2piyv.png",
