@@ -17,15 +17,10 @@
                     "url": "",
                     "referer": "",
                     "isHost": "" },
-								{
-                    "name": "SPORT TV AMERICAS",
-                    "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
-                    "url": "http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8"
-                },
-                						{
+								{                						{
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-					"url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
+		    "url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
                 },
                 {
                     "name": "SPORT TV 1 opc1",
@@ -55,7 +50,7 @@
                 {
                             "name": "SPORT TV 1 pt ace",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6"
+                            "url": "acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5"
                 },
                 {
                             "name": "SPORT TV 1 pt opc1 ace",
