@@ -1579,21 +1579,23 @@
 							"url": ""
                 },
 				                {
-                        "name": "HOT TV PT(+18)",
-                        "image": "http://meogo.meo.pt/oquee/PublishingImages/CanaisPremium/premium_mobile_hot.png",
-                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1585.m3u8"
+                        "name": "HOOT (+18)",
+                        "image": "http://nowwatchtvlive.me/wp-content/uploads/2014/06/hot_pt.png",
+                        "url": "http://www.ponlatv.com/channel.php?file=105488&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/emision1/hot.html",
+                        "isHost": "true"
                 },         
                 				{
                         "name": "Playboy TV (+18)",
                         "image": "http://i.imgur.com/bDcrR.png",
-                        "url": "http://tv.verdirectotv.org/channel.php?file=104003&width=650&height=400&autostart=true",
+                        "url": "http://www.ponlatv.com/channel.php?file=104003&width=650&height=400&autostart=true",
                         "referer": "http://verdirectotv.com/tv/xxx2/playboy.html",
                         "isHost": "true"
                 },
 						{
                         "name": "VENUS (+18)",
                         "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9FH7r7PvgWsQTguTaAQkuSERWUzgHtm-zjIi1ehbVrSKW3kzC",
-                        "url": "http://tv.verdirectotv.org/channel.php?file=105255&width=650&height=400&autostart=true",
+                        "url": "http://www.ponlatv.com/channel.php?file=105557&width=650&height=400&autostart=true",
                         "referer": "http://vercanalestv.com/tv/argentina/canal-venus.html",
                         "isHost": "true"
                 },
