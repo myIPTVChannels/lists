@@ -1584,9 +1584,11 @@
                         "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1585.m3u8"
                 },         
                 				{
-                        "name": "Playboy TV USA (+18)",
-                        "image": "https://thesinosaudiblog.files.wordpress.com/2010/03/pb-tv.jpg",
-                        "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1584.m3u8"
+                        "name": "Playboy TV (+18)",
+                        "image": "http://i.imgur.com/bDcrR.png",
+                        "url": "http://tv.verdirectotv.org/channel.php?file=104003&width=650&height=400&autostart=true",
+                        "referer": "http://verdirectotv.com/tv/xxx2/playboy.html",
+                        "isHost": "true"
                 },
 						{
                         "name": "VENUS PT(+18)",
