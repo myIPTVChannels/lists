@@ -335,6 +335,13 @@
                         "referer": "http://telefivegb.com/canales/114.php",
                         "isHost": "true"
                 },
+                {
+                        "name": "Canal+ Toros",
+                        "image": "http://3.bp.blogspot.com/-vESMTmM2bsk/Vqh14E1WqGI/AAAAAAAAGlU/_lHt_k4vC08/s1600/Canal%252B%2BToros..png",
+                        "url": "http://www.ponlatv.com/channel.php?file=103993&width=650&height=400&autostart=true",
+                        "referer": "http://verdirectotv.com/tv/digitales2/plustoros.html",
+                        "isHost": "true"
+                },
                                     {
                             "name": "SPORT 1 CZ ace",
                             "image": "http://torrent-tv.ru/uploads/kCLlfkFz3Ba3BL9Jc9ZPgUKXh2piyv.png",
