@@ -272,65 +272,42 @@
 					{
                             "name": "Mega Tv  (El Chiringuito) ",
                             "image": "http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg",
-                            "url": "http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_3_av-p.m3u8?sd=10&rebase=on"
+                            "url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8"
                     },
 					{
-                            "name": "Mega Tv opc1  (El Chiringuito) ",
-                            "image": "http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg",
-                            "url": "http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8"
+                        "name": "Mega (Opcion 2)",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png",
+                        "url": "http://www.ponlatv.com/channel.php?file=104337&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/emision/mega.html",
+                        "isHost": "true"
                     },
                     {
-                            "name": "Canal+ Liga HD",
-                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
-                            "url": "rtmp://31.220.0.72/pull/ playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=viajando&width=600&height=450"
+                        "name": "Canal+ Liga",
+                        "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
+                        "url": "http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true",
+                        "referer": "http://verdirectotv.com/tv/deportes2/plusliga.html",
+                        "isHost": "true"
                     },
                     {
-                            "name": "Canal+ Liga (Opc.2)",
-                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
-                            "url": "http://gblackstreaming.com/embed.php?a=16251&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
+                        "name": "Canal+ Liga (Opc.2)",
+                        "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
+                        "url": "http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true",
+                        "referer": "http://telefivegb.com/canales/111.php",
+                        "isHost": "true"
                     },
                     {
-                            "name": "Canal+ Liga (Opc.3)",
-                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
-                            "url": "http://vercosasgratis.com/embed.php?a=16251&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
+                        "name": "Canal+ Liga 2",
+                        "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
+                        "url": "http://www.playerhd1.pw/channel.php?file=119&width=650&height=400&autostart=true",
+                        "referer": "http://telefivegb.com/canales/119.php",
+                        "isHost": "true"
                     },
                     {
-                            "name": "Canal+ Liga (Opc.4)",
-                            "image": "http://3.bp.blogspot.com/-JRJ-L1PyKF4/UJrICss4u3I/AAAAAAAABY0/LgGhbU9ulPY/s400/CANAL%252B%2BLIGA%2BHD.png",
-                            "url": "http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true",
-                            "referer": "http://verdirectotv.com/tv/deportes2/plusliga.html",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Liga 2 HD",
-                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
-                            "url": "rtmp://31.220.2.55/pull/ playpath=liga258?keys=scP3bTn_Hbt8eGnBSSp_RA&keyt=1443235984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=liga258&width=600&height=450"
-                    },
-                    {
-                            "name": "Canal+ Liga 2 (Opc.2)",
-                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
-                            "url": "http://gblackstreaming.com/embed.php?a=14901&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Liga 2 (Opc.3)",
-                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
-                            "url": "http://vercosasgratis.com/embed.php?a=14901&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Liga 2 (Opc.4)",
-                            "image": "http://2.bp.blogspot.com/-LDTcps_q_Ko/Vdmrog4S7mI/AAAAAAAAF_c/EFmj7PoG9HM/s1600/CANAL%252B_LIGA_2.jpg",
-                            "url": "http://www.mipsplayer.com/embedplayer/verliga2222/1/650/400",
-                            "referer": "http://verliga.net/tv/verliga-2.html",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Partidazo HD",
-                            "image": "http://2.bp.blogspot.com/-S1W6xfsxrEg/VdmWCeD4pLI/AAAAAAAAF_A/VHE6AIY_E8Q/s1600/canal-plus-partidazo.jpg",
-                            "url": "rtmp://31.220.0.60/pull/ playpath=partdz456?keys=27z2McKjBSUf0SWsSNnv7w&keyt=1443235680 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=partdz456&width=600&height=450"
+                        "name": "Canal+ Partidazo",
+                        "image": "http://2.bp.blogspot.com/-S1W6xfsxrEg/VdmWCeD4pLI/AAAAAAAAF_A/VHE6AIY_E8Q/s1600/canal-plus-partidazo.jpg",
+                        "url": "http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/deportes/plus-partidazo.php",
+                        "isHost": "true"
                     },
                                     {
                             "name": "Canal+ Deportes HD",
@@ -357,22 +334,20 @@
                             "isHost": "true"
                     },
                                     {
-                            "name": "Canal+ Deportes 2 HD",
-                            "image": "http://1.bp.blogspot.com/-NyeQVCSU-NI/VTkIEm4MQtI/AAAAAAAAFFA/QRgU-BtkGcA/s1600/CANAL-PLUS-DEPORTES-2.png",
-                            "url": "rtmp://31.220.2.55/pull/ playpath=deportes26?keys=CKoLQMPKCUjJagTVGgaFqQ&keyt=1443229983 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=deportes16&width=600&height=450"
-                    },
-                    {
-                            "name": "Canal+ Deportes 2 (Opt.2)",
-                            "image": "http://1.bp.blogspot.com/-NyeQVCSU-NI/VTkIEm4MQtI/AAAAAAAAFFA/QRgU-BtkGcA/s1600/CANAL-PLUS-DEPORTES-2.png",
-                            "url": "http://gblackstreaming.com/embed.php?a=7&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
-                    {
-                            "name": "Canal+ Deportes 2 (Opt.3)",
-                            "image": "http://1.bp.blogspot.com/-NyeQVCSU-NI/VTkIEm4MQtI/AAAAAAAAFFA/QRgU-BtkGcA/s1600/CANAL-PLUS-DEPORTES-2.png",
-                            "url": "http://vercosasgratis.com/embed.php?a=7&id=&width=650&height=400&autostart=true&strech=",
-                            "isHost": "true"
-                    },
+                        "name": "Bein Sports",
+                        "image": "http://3vjhyn2i4tw93whkoj1sjvwx.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/BeIN-Sports-e1431718427932-300x180.jpg",
+                        "url": "http://www.dinostream.pw/channel.php?file=105366&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/emision/beinsport.html",
+                        "isHost": "true"
+                },
+ 
+                {      
+                        "name": "Bein Sports (Opc.2)",
+                        "image": "http://3vjhyn2i4tw93whkoj1sjvwx.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/BeIN-Sports-e1431718427932-300x180.jpg",
+                        "url": "http://www.playerhd1.pw/channel.php?file=113&width=650&height=400&autostart=true",
+                        "referer": "http://telefivegb.com/canales/113.php",
+                        "isHost": "true"
+                },
                                     {
                             "name": "Canal+ Fútbol HD",
                             "image": "http://4.bp.blogspot.com/-8VNGIODN8j8/UJrJQwL8YuI/AAAAAAAABZA/ULvnj-xo0Uk/s400/CANAL%252B%2BFUTBOL%2BHD.png",
