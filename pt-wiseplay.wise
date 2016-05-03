@@ -20,32 +20,7 @@
 							       {
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
-                },
-                {
-                    "name": "SPORT TV 1 opc1",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                    "url": "rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15"
-                },
-				{
-                    "name": "SPORT TV 1 opc2 Bosslulamen&Lacasitos ON",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                    "url": "http://37.59.14.193:8000/live/rica/rica/18.m3u8"
-                },
-		        {
-                            "name": "SPORT TV 1 opc3 novo servidor",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "http://top-iptv.zapto.org:8000/live/adem/adem/653.m3u8"
-                },
-                {
-                            "name": "SPORT TV 1 opc4",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "http://31.204.128.112:8081/live/portugal1/playlist.m3u8"
-                },
-                {
-                            "name": "SPORT TV 1 pt opc5",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"
+		    "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/158.ts"
                 },
                 {
                             "name": "SPORT TV 1 pt ace",
@@ -66,102 +41,24 @@
 										{
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "rtmpe://r.livecast.cc/rs/share/live2-bipmr swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to"
+                            "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/159.ts"
                 },
-				{
-                            "name": "SPORT TV 2 opc1 Bosslulamen&Lacasitos ON",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://evolive-tv.com:8000/live/genio/genio/292.m3u8"
-                },
-                {
-                            "name": "SPORT TV 2 pt ace",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "acestream://fbf8d2630934d7de5306254304f754f96569f2f3"
-                },
-                {
-                            "name": "SPORT TV 2 pt opc1 ace",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2"
-                },
-                {
-                            "name": "SPORT TV 2 pt opc2 ace OF",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "acestream://a3776be8c08f52b3366c83fff09609721e28cd69"
-                },
-                {
-                            "name": "SPORT TV 2 pt opc3 ace OF",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "acestream://24660dc5f5a642f7f5df8873ddac481bc4702115"
-                },
-				
 										{
                             "name": "SPORT TV 3 pt",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "rtmpe://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx"
+                            "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/160.ts"
                 },
-				{
-                            "name": "SPORT TV 3 opc1 Bosslulamen&Lacasitos ON",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "http://evolive-tv.com:8000/live/genio/genio/293.m3u8"
-                },
-                {
-                            "name": "SPORT TV 3 pt opc1 ace",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1"
-                },
-                {
-                            "name": "SPORT TV 3 pt opc2 ace OF",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280"
-                },
-                {
-                            "name": "SPORT TV 3 pt opc3 ace OF",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "acestream://cf8ff2d9d89f482de9127591c5781216d60368ae"
-                },
-				
-										{
+		{
                             "name": "SPORT TV 4 Bosslulamen&Lacasitos ON",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
                             "url": "http://evolive-tv.com:8000/live/genio/genio/294.m3u8"
                 },
                 {
-                            "name": "SPORT TV 4 pt opc1 ace",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "acestream://0e9bac041c943b759e65c28631d79376b5392460"
-                },
-                {
-                            "name": "SPORT TV 4 pt opc2 ace OF",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "acestream://4f256982b213a8b3346b01683b82261db8dcd524"
-                },
-                {
-                            "name": "SPORT TV 4 pt opc3 ace OF",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "acestream://d2a63635273232fc7710bb28c8775d18179c4038"
-                },
-				
-										{
                             "name": "SPORT TV 5 Bosslulamen&Lacasitos ON",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
                             "url": "http://evolive-tv.com:8000/live/genio/genio/295.m3u8"
                 },
                 {
-                            "name": "SPORT TV 5 pt opc1 ace",
-                            "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
-                            "url": "acestream://bf41112287550c64b2e18e81706e10356dbb8bbc"
-                },
-                {
-                            "name": "SPORT TV 5 pt opc2 ace OF",
-                            "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
-                            "url": "acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4"
-                },
-                {
-                            "name": "SPORT TV 5 pt opc3 ace OF",
-                            "image": "http://torrent-tv.ru/uploads/YyzfJTMsBcmTKptLzxZcAcLKFj52LT.png",
-                            "url": "acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad"
-                },
-		{
                             "name": "BENFICA TV 1 Bosslulamen&Lacasitos",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
                             "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8"
@@ -172,63 +69,11 @@
                             "url": "acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721"
                 },
                 {
-                            "name": "BENFICA TV 1 pt opc2 ace abre às vezes",
-                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415"
-                },
-				
-										{
                             "name": "BENFICA TV 2 Bosslulamen&Lacasitos",
                             "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
                             "url": "http://91.204.214.106:23201/stolen/233w/xenixos.7z"
                 },
-                {
-                            "name": "BENFICA TV 2 pt opc1 ace",
-                            "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
-                            "url": "acestream://c1646f459c86ab24533650333957a57b457d80c1"
-                },
-				
-										{
-                            "name": "SPORTING TV Bosslulamen&Lacasitos",
-                            "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
-                            "url": "http://grandiptv.myftp.org:8000/live/test45/test45/787.m3u8"
-                },
-				{
-                            "name": "SPORTING TV Novo",
-                            "image": "http://3.bp.blogspot.com/-cniHRD0_Vtw/U6oEIjWhMjI/AAAAAAAAGao/TtG05HXtWUo/s1600/79671.jpg",
-                            "url": "http://91.204.214.106:23201/stolen/242a/xenixos.7z"
-                },
-				{
-                            "name": "Sport 1 Voetboll ace jogos da liga portuguesa",
-                            "image": "http://oklivetv.com/wp-content/uploads/2015/06/sport1voetbal.jpg",
-                            "url": "acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471"
-                },
-                {
-                            "name": "bt sport tv1 ace jogos da liga portuguesa",
-                            "image": "https://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg",
-                            "url": "acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce"
-                },
-                {
-                            "name": "bt sport tv2 ace jogos da liga portuguesa",
-                            "image": "http://www.magnet.ie/wp-content/uploads/2011/12/BTSport2HD_RGB.jpg",
-                            "url": "acestream://3f3c263e29698f8b764708164718448c97faf205"
-                },
-                {
-                            "name": "Telecanal russia jogos da liga portuguesa",
-                            "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/telekanal_futbol.jpg",
-                            "url": "http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8"
-                },
-                {
-                            "name": "Telecanal russia opc1 jogos da liga portuguesa e espanhola",
-                            "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/telekanal_futbol.jpg",
-                            "url": "rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/"
-                },
-                {
-                            "name": "Cnopt Russia liga portuguesa",
-                            "image": "http://www.itodis.fr/football/cnopt1.jpg",
-                            "url": "http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8"
-                },
-     
+                
     ]
     },
      
