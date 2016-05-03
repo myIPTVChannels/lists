@@ -603,22 +603,22 @@
 				 {
                         "name": "TVCine 1 HD",
                         "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/650.m3u8"
+                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/444.ts"
                  },
 				 {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/649.m3u8"
+                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/445.ts"
                	 },
                  {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/648.m3u8"
+                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/446.ts"
                  },
                  {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/647.m3u8"
+                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/447.ts"
                  },
                       
     ]
