@@ -338,80 +338,203 @@
                         "isHost": "true"
                 },
                                     {
-                            "name": "SPORT 1 CZ ace",
-                            "image": "http://torrent-tv.ru/uploads/kCLlfkFz3Ba3BL9Jc9ZPgUKXh2piyv.png",
-                            "url": "acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60"
-                    },
-                    {
-                            "name": "SPORT 2 CZ ace",
-                            "image": "http://www.pickhandball.hu/files/4714/4240/8524/sport2.jpg",
-                            "url": "acestream://923bfb351663df55f2708a82eeadb50225bc213d"
-                    },
-                    {
-                            "name": "SPORT 1 SELECT ace",
-                            "image": "http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sport-1-SELECT-HD.jpg",
-                            "url": "acestream://a770493d86f72ac642fbd07633de46ebb026a8c1"
-                    },
-                    {
-                            "name": "EXTREME SPORTS ace",
-                            "image": "http://www.immaf.org/wp-content/uploads/2015/02/Extreme-Sports-Channel2.jpg",
-                            "url": "acestream://5e3f0a518bb4de8572a5b998c7b5424d81f5590a"
-                    },
-                    {
-                            "name": "BOXNATION ace",
-                            "image": "http://www.hattonboxing.com/media/1734029/boxnation.jpg",
-                            "url": "acestream://6523e673b7f5fe48627ac9c9ae15ff544e5b3652"
-                    },
-                    {
-                            "name": "BT SPORT/ESPN ace",
-                            "image": "http://mediaportal-uk-logos.googlecode.com/svn/trunk/TV/Simple/BT%20Sport%20ESPN%20HD.png",
-                            "url": "acestream://236b59bb00513c9fbb362ec3fbbd14671b8902e8"
-                    },
-                    {
-                            "name": "MOTORS TV ace",
-                            "image": "http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0025/4856/brand.gif?itok=QHxRgEMp",
-                            "url": "acestream://84c27a15472ee950e0567667dfd270cc81b01498"
-                    },
-                                    {
-                            "name": "MOTORSPORT ace",
-                            "image": "http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032011/untitled-1_400.png?itok=9kPAEjPN",
-                            "url": "acestream://78e3496e60eb6531f1335639f84b28d712874ae3"
-                    },
-                    {
-                            "name": "MOVISTAR F1 ace",
-                            "image": "https://pbs.twimg.com/profile_images/581423370916507648/pt9x1KgB.jpg",
-                            "url": "acestream://98b327d19a16be09070212124826e9209cb97540"
-                    },
-                    {
-                            "name": "MOVISTAR MOTOGP ace",
-                            "image": "https://pbs.twimg.com/profile_images/581423646729760768/RN5IUmFN.jpg",
-                            "url": "acestream://ed9387ebbf6caac72e04e7b66880fd4b69999069"
-                    },
-                    {
-                            "name": "SKY SPORTS F1 ace",
-                            "image": "http://img1.wikia.nocookie.net/__cb20130227130518/logopedia/images/f/f2/Sky_Sports_F1.svg",
-                            "url": "acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b"
-                    },
-                    {
-                            "name": "SKY SPORTS F1 HD ace",
-                            "image": "http://vignette3.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG/revision/latest?cb=20130902194359",
-                            "url": "acestream://983a3e2b00512a85430bbd1300b6c8d4abac11c7"
-                    },
-                                    {
-                            "name": "Viasat Fotboll ace",
-                            "image": "http://s20.postimg.org/4djyupt8d/VIASAT_FUTEBOL.jpg",
-                            "url": "acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d"
-                    },
-                    {
-                            "name": "VIASAT HOCKEY ace",
-                            "image": "http://img1.wikia.nocookie.net/__cb20100318124513/logopedia/images/d/de/Viasat_Hockey_logo.png",
-                            "url": "acestream://548d364053e6650458e3f347dfbda0dd852781da"
-                    },
-                    {
-                            "name": "SETANTA SPORTS ace",
-                            "image": "https://secure.setantasubs.com/images/setanta-logo.png",
-                            "url": "acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb"
-                    },
+                        "name": "Arenavision 1(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://91061803983c87712ac7b90ec3eb0fdc77b1176c"
+                        },
+                        {
+                        "name": "Arenavision 2(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://a6f8b81704ed38542fee8de49a3f37bb82309ed7"
+                        },
+                        {
+                        "name": "Arenavision 3(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://45b10cd864f66525c0122362d33b94ccf2e7bfe4"
+                        },
+                        {
+                        "name": "Arenavision 4(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://0fabfd96a9e7f0212a6068b1e0b0c4f3bdcf6ec3"
+                        },
+                        {
+                        "name": "Arenavision 5(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://c95a113175bf52a26e3b177d04b4d04353ac418b"
+                        },
+                        {
+                        "name": "Arenavision 6(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://d37a0ed9e37dc521e57e1210cde37d38b14c6d2b"
+                        },
+                        {
+                        "name": "Arenavision 7(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://0e341fc9ea6caf10b6564fc03723c1f5d65f6099"
+                        },
+                        {
+                        "name": "Arenavision 8(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://279826b1f8b302a9fa33644c33d9feaf1164f4b9"
+                        },
+                        {
+                        "name": "Arenavision 9(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5"
+                        },
+                        {
+                        "name": "Arenavision 10(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250"
+                        },
+                        {
+                        "name": "Arenavision 11(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://7aa256f2042eb0e7b1f048a50d1e3ac3312dcaca"
+                        },
+                        {
+                        "name": "Arenavision 12(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://4a7c04a13541e7d7cd838d1a871167d2d907f20b"
+                        },
+                        {
+                        "name": "Arenavision 13(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://5ce67c887de8fa560eee16753cc0d84830d800c8"
+                        },
+                        {
+                        "name": "Arenavision 14(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://0937225dfedb7bcb01901a99d811ceacd1bc1070"
+                        },
+                        {
+                        "name": "Arenavision 15(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://9ab93d768e901961a9851384ecbc71d90987da81"
+                        },
+                        {
+                        "name": "Arenavision 16(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://4430148b90bb4a952da9e5c9774d39fba51b0a81"
+                        },
+                        {
+                        "name": "Arenavision 17(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://5d9775a93fcbaaaeeadd716510b4255e7df6b85e"
+                        },
+                        {
+                        "name": "Arenavision 18(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://83a3011db96a09b36774e3231333f4f0559f99e3"
+                        },
+                        {
+                        "name": "Arenavision 19(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://a1836ad4cc1f6f12677351828ca075692b077876"
+                        },
+                        {
+                        "name": "Arenavision 20(A)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "acestream://56d9f9f96167758813bfc5bdcdc4673f6cd639d8"
+                        },
+ 
+ 
+ 
+                        {
+                        "name": "Arenavision 21(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258920"
+                        },
+     
+                        {
+                        "name": "Arenavision 22(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258921"
+                        },
+     
+                        {
+                        "name": "Arenavision 23(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258922"                    
+                        },
+     
+                        {
+                        "name": "Arenavision 24(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258923"
+                        },
+     
+                        {
+                        "name": "Arenavision 25(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258924"
+                        },
+               
+                        {
+                        "name": "Arenavision 26(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258925"
+                        },
+     
+                        {
+                        "name": "Arenavision 27(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258926"
+                        },
+                   
+                        {
+                        "name": "Arenavision 28(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258927"
+                        },
+     
+                        {
+                        "name": "Arenavision 29(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258928"
+                        },
+     
+                        {
+                        "name": "Arenavision 30(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/258929"
+                        },
+ 
+                        {
+                        "name": "Arenavision 31(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/261184"
+                        },
+ 
+                        {
+                        "name": "Arenavision 32(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/261185"
+                        },
+ 
+                        {
+                        "name": "Arenavision 33(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/259383"
+                        },
+ 
+                        {
+                        "name": "Arenavision 34(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/259509"
+                        },
+ 
+                        {
+                        "name": "Arenavision 35(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/261182"
+                        },
+ 
+                        {
+                        "name": "Arenavision 36(S)",
+                        "image": "http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg",
+                        "url": "sop://broker.sopcast.com:3912/261183"
+                        }
      
     ]
     },
