@@ -448,7 +448,7 @@
 									{
                         "name": "TVI Ficção",
                         "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
-                        "url": "http://ipsatb.no-ip.info:8000/live/titanic/titanic/601.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/8.ts"
                     },
 									{
                         "name": "+ TVI",
@@ -458,7 +458,7 @@
 									{
                             "name": "RTP MADEIRA",
                             "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
-                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/62.ts"
                     },
                     {
                             "name": "RTP MEMORIA",
@@ -468,7 +468,7 @@
                     {
                             "name": "RTP ACORES",
                             "image": "http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",
-                            "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/chunklist_b600000_slpt.m3u8"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/63.ts"
                     },
                     {
                             "name": "RTP AFRICA",
@@ -478,17 +478,17 @@
 									{
                         "name": "Abola TV (PT)",
                         "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/11.ts"
                     },
 									{
                             "name": "PORTO CANAL Bosslulamen&Lacasitos",
                             "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
-                            "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/9.ts"
                     },
 					{
                         "name": "Caça y Pesca",
                         "image": "http://4.bp.blogspot.com/-LXaNAwkPqak/VTaSNHOU67I/AAAAAAAAFDg/bGPtESadCcQ/s1600/caza%2By%2Bpesca.jpg",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1411.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/49.ts"
                     },
 					{
                         "name": "CM TV",
@@ -508,17 +508,17 @@
 					{
                         "name": "National Geographic HD",
                         "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpusvf5GAksJ2Eb9lbRhu19Iuataavy4O50g3KyP5GA24cJB9kQ",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/41.ts"
                     },
 					{
                         "name": "Nat Geo Wild",
                         "image": "http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1182.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/42.ts"
                     },
 					{
                         "name": "Odiseia",
                         "image": "http://megatvonline.es/kaiserintv/logos/documentales/logoodisea.png",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/659.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/43.ts"
                     },
 					{
                         "name": "FASHION TV HD",
@@ -533,7 +533,7 @@
                     {
                         "name": "AXN White HD",
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/29.ts"
                     },
                     {
 			"name": "FDF",
@@ -551,22 +551,22 @@
 									{
                         "name": "FOX HD",
                         "image": "http://maresvivas.meo.pt/content/img/fox_2.png",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/23.ts"
                     },
 					{
                         "name": "FOX Crime HD",
                         "image": "http://3.bp.blogspot.com/-adoBh5WVbwQ/VhODhnlorpI/AAAAAAAAGSI/DFteSBFbjww/s1600/Fox-Crime.jpg",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/25.ts"
                     },
 					{
                         "name": "FOX Life HD",
                         "image": "http://4.bp.blogspot.com/-Ct7fmLFCJSI/VhOA-w5pJBI/AAAAAAAAGR8/lwqLfU2g8Ao/s1600/fox-life.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1150.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/26.ts"
                     },
 					{
                         "name": "FOX Movies",
                         "image": "http://2.bp.blogspot.com/-jRzG1Dkqqpg/VhN_KSkNSOI/AAAAAAAAGRw/Qdx088aX3Ec/s1600/Fox_Movies.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1148.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/133.ts"
                     },
 					
 									{
@@ -577,7 +577,7 @@
 									{
                         "name": "Hollywood",
                         "image": "http://1.bp.blogspot.com/-BLDMTDfaSdo/VSrsDDtlfII/AAAAAAAAE0Q/utwqxSKD_DA/s1600/Hollywood.png",
-                        "url": "http://www.t12v.com:8000/live/afef/afef/1144.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/35.ts"
                     },
 									{
                         "name": "SyFy",
@@ -597,27 +597,27 @@
 								{
                         "name": "TV SERIES",
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
-                        "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/651.m3u8"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/71.ts"
                  },
 				 {
                         "name": "TVCine 1 HD",
                         "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
-                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/444.ts"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/30.ts"
                  },
 				 {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
-                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/445.ts"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/31.ts"
                	 },
                  {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/446.ts"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/32.ts"
                  },
                  {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://www.x-media.tv:58080/live/zakaria/satlover.com/447.ts"
+                        "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/33.ts"
                  },
                       
     ]
