@@ -23,55 +23,54 @@
 		    "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/158.ts"
                 },
                 {
-                            "name": "SPORT TV 1 pt ace",
+                            "name": "SPORT TV 1 opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/3.ts"
                 },
                 {
-                            "name": "SPORT TV 1 pt opc1 ace",
+                            "name": "SPORT TV 1 opc2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250"
+                            "url": "rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL"
                 },
-                {
-                            "name": "SPORT TV 1 pt opc2 ace OF",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                            "url": "acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59"
-                },
-				
-										{
+                								{
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/159.ts"
                 },
+                {
+                            "name": "SPORT TV 2 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/14.ts"
+                },
 										{
-                            "name": "SPORT TV 3 pt",
+                            "name": "SPORT TV 3",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/160.ts"
                 },
+                {
+                            "name": "SPORT TV 3 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/15.ts"
+                },
 		{
-                            "name": "SPORT TV 4 Bosslulamen&Lacasitos ON",
+                            "name": "SPORT TV 4",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "http://evolive-tv.com:8000/live/genio/genio/294.m3u8"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/16.ts"
                 },
                 {
-                            "name": "SPORT TV 5 Bosslulamen&Lacasitos ON",
+                            "name": "SPORT TV 5",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
-                            "url": "http://evolive-tv.com:8000/live/genio/genio/295.m3u8"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/17.ts"
                 },
                 {
-                            "name": "BENFICA TV 1 Bosslulamen&Lacasitos",
+                            "name": "BENFICA TV 1",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/18.ts"
                 },
-                {
-                            "name": "BENFICA TV 1 pt opc1 ON ace",
-                            "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721"
-                },
-                {
-                            "name": "BENFICA TV 2 Bosslulamen&Lacasitos",
+                                {
+                            "name": "BENFICA TV 2",
                             "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
-                            "url": "http://91.204.214.106:23201/stolen/233w/xenixos.7z"
+                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/19.ts"
                 },
                 
     ]
