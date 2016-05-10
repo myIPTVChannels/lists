@@ -32,6 +32,12 @@
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL"
                 },
+                {
+                            "name": "SPORT TV 1 acetream",
+                            "image": "http://i.imgur.com/upAVgqy.png",
+                            "url": "acestream://bf31f0641c56bc891da56e233063f0f463c634c3"
+                },
+                
                 								{
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
@@ -52,20 +58,24 @@
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/15.ts"
                 },
+                {
+                            "name": "SPORT TV 3 acetream",
+                            "image": "http://i.imgur.com/cgDpKT9.png",
+                            "url": "acestream://5b718748ce434a97ff85ddeabfd5bb84e08de963"
+                },
 		{
                             "name": "SPORT TV 4",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/16.ts"
-                },
+                            "image": "http://i.imgur.com/nhNdD9k.png",
+                            "url": "acestream://e02d9cd3da0079a46a69d08ff70eb4bd325370cd" 
                 {
                             "name": "SPORT TV 5",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
-                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/17.ts"
+                            "url": "acestream://7ef4b8116fbb920103e2007c1bb9eb8845207643"
                 },
                 {
                             "name": "BENFICA TV 1",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/18.ts"
+                            "url": "acestream://f641b69c412e13179f5891981afefd7d119e4a93"
                 },
                                 {
                             "name": "BENFICA TV 2",
