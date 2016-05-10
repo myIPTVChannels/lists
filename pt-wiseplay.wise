@@ -384,37 +384,37 @@
                             "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
                             "url": ""
                     },
-                                    {
+                    {
                             "name": "RTP 1",
                             "image": "http://3.bp.blogspot.com/-KZuUXV7b6M8/VhNF75ML75I/AAAAAAAAGOQ/TBFBhSGz88Y/s1600/RTP1.PNG",
                             "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/19.ts"
                     },
-                                    {
+                    {
                             "name": "RTP 2",
                             "image": "http://3.bp.blogspot.com/-RBc-PTf3-RI/UqyWRyGesKI/AAAAAAAAAUE/YUgteoZ7d7E/s200/imagesLPLBF395.jpg",
                             "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/123.ts"
                     },
-                                    {
+                    {
                             "name": "TVI",
                             "image": "http://1.bp.blogspot.com/-wNqIzaYlbGQ/VhOdgriWyPI/AAAAAAAAGTs/DqfQRyDy868/s1600/TVI.png",
                             "url": "http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8"
                     },
-                                    {
+                    {
                             "name": "SIC",
                             "image": "http://3.bp.blogspot.com/-bjYohBQxBoM/VhNNjYeFU7I/AAAAAAAAGO8/gzTgZ0DWito/s1600/SIC%2Blogo.png",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/6.ts
+                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/6.ts"
                     },
-                                    {
+                    {
                             "name": "Rtp3",
                             "image": "http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png",
                             "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1070.ts"
                     },
-                                    {
+                    {
                             "name": "TVI 24",
                             "image": "http://1.bp.blogspot.com/-04BfgDemehk/VhNU8ZVE5RI/AAAAAAAAGPs/mk1I7bTWqE4/s1600/Tvi24.png",
                             "url": "http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8"
                     },
-                                    {
+                    {
                             "name": "SIC Noticias",
                             "image": "http://1.bp.blogspot.com/-xAngo4RrtGs/VhNSEKtkxiI/AAAAAAAAGPU/aH8Gwjwe6aE/s1600/SIC%2BNoticias.jpg",
                             "url": "rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html"
@@ -424,27 +424,27 @@
                             "image": "http://1.bp.blogspot.com/-Wy8eiOgDnrU/VhggLLxKeTI/AAAAAAAAuf8/2RknFrCz4os/s1600/AQUINTA.png",
                             "url": "http://109.48.88.239:9981/stream/channelid/1783810022?ticket=FFA5A84D28F7ECF332DF30FAE3AB9D5121DC8124&profile=pass"
                     },
-                                    {
+                    {
                             "name": "RTP INTERNACIONAL",
                             "image": "http://www.fphoquei.pt/files/large/a56ae453dd198af",
                             "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1773.ts"
                     },
-                                    {
+                    {
                             "name": "EURONEWS",
                             "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832",
                             "url": "http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8"
                     },
-									{
+		    {
                         "name": "TVI Ficção",
                         "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/12.ts"
                     },
-									{
+		    {
                         "name": "+ TVI",
                         "image": "https://upload.wikimedia.org/wikipedia/en/5/56/%2BTVI_logo.png",
                         "url": "http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8"
                     },
-									{
+		    {
                             "name": "RTP MADEIRA",
                             "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
                             "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/62.ts"
@@ -464,27 +464,27 @@
                             "image": "http://s20.postimg.org/qodr70i7x/rtp_africa.png",
                             "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/chunklist.m3u8"
                     },
-									{
+		    {
                         "name": "Abola TV (PT)",
                         "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/13.ts"
                     },
-									{
+		    {
                             "name": "PORTO CANAL Bosslulamen&Lacasitos",
                             "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
                             "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/398.ts"
                     },
-					{
+   		    {
                         "name": "Caça y Pesca",
                         "image": "http://4.bp.blogspot.com/-LXaNAwkPqak/VTaSNHOU67I/AAAAAAAAFDg/bGPtESadCcQ/s1600/caza%2By%2Bpesca.jpg",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/65.ts"
                     },
-					{
+		    {
                         "name": "CM TV",
                         "image": "http://4.bp.blogspot.com/-79rUnfByE0A/VhNXhQ8Q0JI/AAAAAAAAGP4/-7uoNFoYBbA/s1600/CM_TVpng.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/26.ts"
                     },
-					{
+		    {
                         "name": "CBS Reality",
                         "image": "http://3.bp.blogspot.com/-Ek6PEeT5LAg/VhPMXqa3_fI/AAAAAAAAGVk/5NS8_uiglic/s1600/CBS_Reality.png",
                         "url": "http://grandiptv.myftp.org:8000/live/test45/test45/1651.m3u8"
@@ -494,27 +494,27 @@
                         "image": "http://www.tvtuga.com/wp-content/uploads/2010/04/economico-tv.jpg",
                         "url": "http://213.13.26.11:1935/live/etv_direto/playlist.m3u8"
                     },
-					{
+		    {
                         "name": "National Geographic HD",
                         "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpusvf5GAksJ2Eb9lbRhu19Iuataavy4O50g3KyP5GA24cJB9kQ",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/297.ts"
                     },
-					{
+		    {
                         "name": "Nat Geo Wild",
                         "image": "http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/141.ts"
                     },
-					{
+		    {
                         "name": "Odiseia",
                         "image": "http://megatvonline.es/kaiserintv/logos/documentales/logoodisea.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/47.ts"
                     },
-					{
+		    {
                         "name": "FASHION TV HD",
                         "image": "http://files.paulolisboa.webnode.com.pt/200000014-5708b58030/fashiontvlogo.jpg",
                         "url": "rtmp://95.67.8.43:1935/live/fashionhd"
                     },
-					{
+		    {
                         "name": "TV LISBOA",
                         "image": "http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",
                         "url": "http://213.13.26.11:1935/live/tvldireto/livestream.m3u8"
@@ -534,12 +534,12 @@
                         "image": "http://3.bp.blogspot.com/-adoBh5WVbwQ/VhODhnlorpI/AAAAAAAAGSI/DFteSBFbjww/s1600/Fox-Crime.jpg",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/86.ts"
                     },
-					{
+		    {
                         "name": "FOX Life HD",
                         "image": "http://4.bp.blogspot.com/-Ct7fmLFCJSI/VhOA-w5pJBI/AAAAAAAAGR8/lwqLfU2g8Ao/s1600/fox-life.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/85.ts"
                     },
-					{
+		    {
                         "name": "FOX Movies",
                         "image": "http://2.bp.blogspot.com/-jRzG1Dkqqpg/VhN_KSkNSOI/AAAAAAAAGRw/Qdx088aX3Ec/s1600/Fox_Movies.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/79.ts"
@@ -549,51 +549,51 @@
                         "image": "http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/131.ts"
                     },
-									{
+		    {
                         "name": "Hollywood",
                         "image": "http://1.bp.blogspot.com/-BLDMTDfaSdo/VSrsDDtlfII/AAAAAAAAE0Q/utwqxSKD_DA/s1600/Hollywood.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/60.ts"
                     },
-									{
+		    {
                         "name": "SyFy",
                         "image": "http://img3.wikia.nocookie.net/__cb20110408015403/logopedia/images/d/dc/Syfy_hd.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/44.ts"
                     },
-									{
+		    {
                         "name": "AFRO Music",
                         "image": "http://1.bp.blogspot.com/-JFocXAe9vKE/VVsVpMmoPhI/AAAAAAAAFJg/DxauxeVau9k/s1600/Destaque%2BLan%25C3%25A7amento%2BAfro%2BMusic%2BChannel%2Bna%2BVodafone.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/142.ts"
                     },
-									{
+		    {
                         "name": "24 Kitchen HD",
                         "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/840.ts"
                     },
-								{
+		    {
                         "name": "TV SERIES",
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/848.ts"
-                 },
-				 {
+                    },
+		    {
                         "name": "TVCine 1 HD",
                         "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/836.ts"
-                 },
-				 {
+                    },
+		    {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/837.ts"
-               	 },
-                 {
+               	    },
+                    {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/838.ts"
-                 },
-                 {
+                    },
+                    {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
                         "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/839.ts"
-                 },
+                    },
                       
     ]
     },
