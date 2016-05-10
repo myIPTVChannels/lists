@@ -33,7 +33,7 @@
                             "url": "rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL"
                 },
                 {
-                            "name": "SPORT TV 1 acetream",
+                            "name": "SPORT TV 1 acestream",
                             "image": "http://i.imgur.com/upAVgqy.png",
                             "url": "acestream://bf31f0641c56bc891da56e233063f0f463c634c3"
                 },
@@ -59,16 +59,16 @@
                             "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/15.ts"
                 },
                 {
-                            "name": "SPORT TV 3 acetream",
+                            "name": "SPORT TV 3 acestream",
                             "image": "http://i.imgur.com/cgDpKT9.png",
                             "url": "acestream://5b718748ce434a97ff85ddeabfd5bb84e08de963"
                 },
 		{
-                            "name": "SPORT TV 4",
+                            "name": "SPORT TV 4 acestream",
                             "image": "http://i.imgur.com/nhNdD9k.png",
                             "url": "acestream://e02d9cd3da0079a46a69d08ff70eb4bd325370cd" 
                 {
-                            "name": "SPORT TV 5",
+                            "name": "SPORT TV 5 acestream",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
                             "url": "acestream://7ef4b8116fbb920103e2007c1bb9eb8845207643"
                 },
