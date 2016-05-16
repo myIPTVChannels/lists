@@ -20,12 +20,17 @@
 		{
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/2.ts"
+		    "url": "http://ksportiptv.com:1557/live/elvis/elvis/2184.ts"
                 },
                 {
                             "name": "SPORT TV 1 opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL"
+                },
+                {
+                    "name": "SPORT TV 1 opc1",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+		    "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/158.ts"
                 },
                 {
                             "name": "SPORT TV 1 acestream",
@@ -36,7 +41,7 @@
                 								{
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/10.ts"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2185.ts"
                 },
                 								{
                             "name": "SPORT TV 3",
@@ -66,7 +71,7 @@
                                 {
                             "name": "BENFICA TV 2",
                             "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
-                            "url": "acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262 "
+                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/718.ts"
                 },
                 
     ]
