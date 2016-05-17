@@ -23,12 +23,6 @@
 		    "url": "http://ksportiptv.com:1557/live/elvis/elvis/2184.ts"
                 },
                 {
-                    "name": "SPORT TV 1 test",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://www.tvdez.com/embed.php?c=sporttvalternativa&height=500&width=650&autostart=true",
-		    "isHost": "true"
-                },
-                {
                             "name": "SPORT TV 1 opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL"
