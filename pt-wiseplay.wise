@@ -25,7 +25,7 @@
                 {
                     "name": "SPORT TV 1 test",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://www.tvdez.com/embed.php?c=sporttvalternativa&width=650&height=500&autostart=true",
+		    "url": "http://www.tvdez.com/embed.php?c=sporttvalternativa&width=650&height=500&autostart=true&strech=",
 		    "isHost": "true"
                 },
                 {
