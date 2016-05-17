@@ -557,7 +557,8 @@
                     {
                         "name": "História test",
                         "image": "http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg",
-                        "url": "http://www.estadiofutebol.com/gratis/historia"
+                        "url": "http://www.estadiofutebol.com/gratis/historia",
+                        "referer": "http://liveflashplayer.com",
                         "isHost": "true"
                     },
 		    {
