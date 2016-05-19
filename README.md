@@ -11,9 +11,13 @@ Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqu
 ##Valores de banda larga recomendados para tecnologia IPTV
 
 – 0,5 MB/s: velocidade mínima para ver canais com 360p (má qualidade)
+
 – 1,5 MB/s: Velocidade mínima recomendada
+
 – 3 MB/s: canais com qualidade de DVD (SD) recomendado para ver 480p
+
 – 5 MB/s: recomendado para ver os canais em alta definição (HD) 720p
+
 - 10 MB/s: Recomendado para ver os canais em Full HD (FHD) 1080p
 
 ##Tutoriais
