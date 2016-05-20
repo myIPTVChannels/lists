@@ -33,9 +33,9 @@
 		    "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/158.ts"
                 },
                 {
-                            "name": "SPORT TV 1 acestream",
-                            "image": "http://i.imgur.com/upAVgqy.png",
-                            "url": "acestream://bf31f0641c56bc891da56e233063f0f463c634c3"
+                            "name": "SPORT TV 1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/280.ts"
                 },
                 
                 								{
@@ -49,24 +49,24 @@
                             "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/160.ts"
                 },
                 {
-                            "name": "SPORT TV 3 acestream",
+                            "name": "SPORT TV 3",
                             "image": "http://i.imgur.com/cgDpKT9.png",
-                            "url": "acestream://5b718748ce434a97ff85ddeabfd5bb84e08de963"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2186.ts"
                 },
 										{
-                            "name": "SPORT TV 4 acestream",
-                            "image": "http://i.imgur.com/nhNdD9k.png",
-                            "url": "acestream://e02d9cd3da0079a46a69d08ff70eb4bd325370cd"
+                            "name": "SPORT TV 4",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
+                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/283.ts"
                 },            
                 								{
-                            "name": "SPORT TV 5 acestream",
+                            "name": "SPORT TV 5",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
-                            "url": "acestream://7ef4b8116fbb920103e2007c1bb9eb8845207643"
+                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/284.ts"
                 },
                 {
                             "name": "BENFICA TV 1",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "acestream://f641b69c412e13179f5891981afefd7d119e4a93"
+                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/717.ts"
                 },
                                 {
                             "name": "BENFICA TV 2",
@@ -392,12 +392,12 @@
                     {
                             "name": "RTP 1",
                             "image": "http://3.bp.blogspot.com/-KZuUXV7b6M8/VhNF75ML75I/AAAAAAAAGOQ/TBFBhSGz88Y/s1600/RTP1.PNG",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/19.ts"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2166.ts"
                     },
                     {
                             "name": "RTP 2",
                             "image": "http://3.bp.blogspot.com/-RBc-PTf3-RI/UqyWRyGesKI/AAAAAAAAAUE/YUgteoZ7d7E/s200/imagesLPLBF395.jpg",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/123.ts"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2167.ts"
                     },
                     {
                             "name": "TVI",
@@ -407,12 +407,12 @@
                     {
                             "name": "SIC",
                             "image": "http://3.bp.blogspot.com/-bjYohBQxBoM/VhNNjYeFU7I/AAAAAAAAGO8/gzTgZ0DWito/s1600/SIC%2Blogo.png",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/6.ts"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2173.ts"
                     },
                     {
                             "name": "Rtp3",
                             "image": "http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1070.ts"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2168.ts"
                     },
                     {
                             "name": "TVI 24",
@@ -432,7 +432,7 @@
                     {
                             "name": "RTP INTERNACIONAL",
                             "image": "http://www.fphoquei.pt/files/large/a56ae453dd198af",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1773.ts"
+                            "url": ""
                     },
                     {
                             "name": "EURONEWS",
@@ -442,7 +442,7 @@
 		    {
                         "name": "TVI Ficção",
                         "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/12.ts"
+                        "url": ""
                     },
 		    {
                         "name": "+ TVI",
@@ -452,7 +452,7 @@
 		    {
                             "name": "RTP MADEIRA",
                             "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
-                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/62.ts"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2170.ts"
                     },
                     {
                             "name": "RTP MEMORIA",
@@ -462,7 +462,7 @@
                     {
                             "name": "RTP ACORES",
                             "image": "http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",
-                            "url": "http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/63.ts"
+                            "url": "http://ksportiptv.com:1557/live/elvis/elvis/2172.ts"
                     },
                     {
                             "name": "RTP AFRICA",
@@ -472,22 +472,22 @@
 		    {
                         "name": "Abola TV (PT)",
                         "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/13.ts"
+                        "url": ""
                     },
 		    {
                             "name": "PORTO CANAL Bosslulamen&Lacasitos",
                             "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
-                            "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/398.ts"
+                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/698.ts"
                     },
    		    {
                         "name": "Caça y Pesca",
                         "image": "http://4.bp.blogspot.com/-LXaNAwkPqak/VTaSNHOU67I/AAAAAAAAFDg/bGPtESadCcQ/s1600/caza%2By%2Bpesca.jpg",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/65.ts"
+                        "url": ""
                     },
 		    {
                         "name": "CM TV",
                         "image": "http://4.bp.blogspot.com/-79rUnfByE0A/VhNXhQ8Q0JI/AAAAAAAAGP4/-7uoNFoYBbA/s1600/CM_TVpng.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/26.ts"
+                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/692.ts"
                     },
 		    {
                         "name": "CBS Reality",
@@ -502,12 +502,12 @@
 		    {
                         "name": "National Geographic HD",
                         "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpusvf5GAksJ2Eb9lbRhu19Iuataavy4O50g3KyP5GA24cJB9kQ",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/297.ts"
+                        "url": ""
                     },
 		    {
                         "name": "Nat Geo Wild",
                         "image": "http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/141.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2196.ts"
                     },
 		    {
                         "name": "Odiseia",
@@ -527,32 +527,32 @@
                     {
                         "name": "AXN White HD",
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/127.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2192.ts"
                     },
                     {
                         "name": "FX",
                         "image": "http://canakanten.net/wp-content/uploads/fx.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1078.ts"
+                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/693.ts"
                     },
 		    {
                         "name": "FOX Crime HD",
                         "image": "http://3.bp.blogspot.com/-adoBh5WVbwQ/VhODhnlorpI/AAAAAAAAGSI/DFteSBFbjww/s1600/Fox-Crime.jpg",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/86.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2195.ts"
                     },
 		    {
                         "name": "FOX Life HD",
                         "image": "http://4.bp.blogspot.com/-Ct7fmLFCJSI/VhOA-w5pJBI/AAAAAAAAGR8/lwqLfU2g8Ao/s1600/fox-life.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/85.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2194.ts"
                     },
 		    {
                         "name": "FOX Movies",
                         "image": "http://2.bp.blogspot.com/-jRzG1Dkqqpg/VhN_KSkNSOI/AAAAAAAAGRw/Qdx088aX3Ec/s1600/Fox_Movies.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/79.ts"
+                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/695.ts"
                     },
 		    {
                         "name": "História",
                         "image": "http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/131.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2190.ts"
                     },
                     {
                         "name": "Hollywood",
@@ -562,7 +562,7 @@
 		    {
                         "name": "SyFy",
                         "image": "http://img3.wikia.nocookie.net/__cb20110408015403/logopedia/images/d/dc/Syfy_hd.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/44.ts"
+                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/722.ts"
                     },
 		    {
                         "name": "AFRO Music",
@@ -572,32 +572,32 @@
 		    {
                         "name": "24 Kitchen HD",
                         "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/840.ts"
+                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/691.ts"
                     },
 		    {
                         "name": "TV SERIES",
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/848.ts"
+                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/291.ts"
                     },
 		    {
                         "name": "TVCine 1 HD",
                         "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/836.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2178.ts"
                     },
 		    {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/837.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2179.ts"
                	    },
                     {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/838.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2180.ts"
                     },
                     {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/839.ts"
+                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2181.ts"
                     },
                       
     ]
