@@ -23,6 +23,13 @@
 		    "url": "http://ksportiptv.com:1557/live/elvis/elvis/2184.ts"
                 },
                 {
+		     "name": "Canal+ Acción (Opc.4)",
+		     "image": "http://4.bp.blogspot.com/-SwyAqO2wrls/UJqxMtvl6BI/AAAAAAAABVk/QM6Ik9ZQapQ/s400/Canal%252B%2BAcci%25C3%25B3n%2BHD.png",
+		     "url": "http://www.playerhd1.pw/embed.php?c=105599&width=650&height=400&autostart=true",
+		     "referer": "http://telefivegb.com/index.html",
+		     "isHost": "true"
+		},
+                {
                             "name": "SPORT TV 1 opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                             "url": "rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL"
