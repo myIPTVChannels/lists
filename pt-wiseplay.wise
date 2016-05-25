@@ -25,8 +25,7 @@
                 {
                         "name": "Teste",
                         "image": "https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png",
-                        "url": "http://www.estadiofutebol.com/gratis/nationalgeographic",
-                        "referer": "http://ucaster.eu/",
+                        "url": "rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500"
                 },
                 {
                         "name": "Sport Tv 1 HD",
