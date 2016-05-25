@@ -17,6 +17,7 @@
                     "url": "",
                     "referer": "",
                     "isHost": "" },
+                    "sportsdevil: "" },
 		{
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
@@ -25,7 +26,9 @@
                 {
                         "name": "Teste",
                         "image": "https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png",
-                        "url": "rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500"
+                        "url": "http://www.embeducaster.com/embedplayer/natgeoax/1/650/500"
+                        "referer": "http://www.embeducaster.com",
+                        "isHost": "true"
                 },
                 {
                         "name": "Sport Tv 1 HD",
