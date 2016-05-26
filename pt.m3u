@@ -1,5 +1,126 @@
 #EXTM3U
 
+#EXTINF:-1,[COLOR lime]------ Temporários --------[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,------ Portugal --------
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/937.ts
+#EXTINF:-1,PT: Spor tv 1
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/880.ts
+#EXTINF:-1,PT: SporTV 2
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/881.ts
+#EXTINF:-1,PT: SporTV 3
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/882.ts
+#EXTINF:-1,PT: SporTV 4
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/883.ts
+#EXTINF:-1,PT: SporTV 5
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/884.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/885.ts
+#EXTINF:-1,PT: Benfica TV 2
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/899.ts
+#EXTINF:-1,PT: Benfica TV 1
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/900.ts
+#EXTINF:-1,PT: TVCine 1
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/936.ts
+#EXTINF:-1,PT: TVCine 2
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/935.ts
+#EXTINF:-1,PT: TVCine 3
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/934.ts
+#EXTINF:-1,PT: TVCine 4
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/933.ts
+#EXTINF:-1,PT: TVCseries
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/930.ts
+#EXTINF:-1,PT: VeVo 1 HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/898.ts
+#EXTINF:-1,PT: VeVo 2 HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/897.ts
+#EXTINF:-1,PT: VeVo 3 HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/896.ts
+#EXTINF:-1,PT: AXN HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/915.ts
+#EXTINF:-1,PT: Axn White HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/916.ts
+#EXTINF:-1,PT: Axn Black HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/932.ts
+#EXTINF:-1,PT: Fox Comedy
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/923.ts
+#EXTINF:-1,PT: Fox HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/926.ts
+#EXTINF:-1,PT: Fox Life HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/925.ts
+#EXTINF:-1,PT: Fox Crime
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/901.ts
+#EXTINF:-1,PT: Canal Porto
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/919.ts
+#EXTINF:-1,PT: Toros tv
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/909.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/886.ts
+#EXTINF:-1,PT: TVI
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/889.ts
+#EXTINF:-1,PT: TVI+
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/887.ts
+#EXTINF:-1,PT: TV Globo
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/888.ts
+#EXTINF:-1,PT: SIC
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/924.ts
+#EXTINF:-1,PT: SIC Noticias
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/903.ts
+#EXTINF:-1,PT: Sic Radical
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/914.ts
+#EXTINF:-1,PT: SIC Caras
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/912.ts
+#EXTINF:-1,PT: Sic Mulher
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/913.ts
+#EXTINF:-1,PT: RTP Memoria
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/890.ts
+#EXTINF:-1,PT: RTP Madeira
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/891.ts
+#EXTINF:-1,PT: RTP Acores
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/893.ts
+#EXTINF:-1,PT: RTP 2
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/894.ts
+#EXTINF:-1,PT: RTP 1
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/895.ts
+#EXTINF:-1,PT: CM TV
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/908.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/931.ts
+#EXTINF:-1,PT: Record
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/917.ts
+#EXTINF:-1,PT: PFC
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/911.ts
+#EXTINF:-1,PT: Jim Jim
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/918.ts
+#EXTINF:-1,PT: SyFy
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/902.ts
+#EXTINF:-1,PT: MOV HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/929.ts
+#EXTINF:-1,PT: CartoonNet Work
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/920.ts
+#EXTINF:-1,PT: Motors TV
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/921.ts
+#EXTINF:-1,PT: Motor Vision HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/892.ts
+#EXTINF:-1,PT: EuroSpor News
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/922.ts
+#EXTINF:-1,PT: Hollywood
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/907.ts
+#EXTINF:-1,PT: EuroSport 2
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/927.ts
+#EXTINF:-1,PT: EuroSport
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/928.ts
+#EXTINF:-1,PT: Disney Junior
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/905.ts
+#EXTINF:-1,PT: Disney Channel
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/904.ts
+#EXTINF:-1,PT: Discovery HD
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/906.ts
+#EXTINF:-1,PT: Abola tv
+http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/910.ts
+===========================================================================================
+
 #EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
  
