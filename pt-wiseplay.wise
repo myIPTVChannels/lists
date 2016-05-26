@@ -17,12 +17,20 @@
                     "url": "",
                     "referer": "",
                     "isHost": "" },
+                    "sportsdevil": "" },
                 
                 {
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
 		    "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/280.ts"
                 },
+                {
+                    "name": "teste",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+		    "sportsdevil": "http://cdn2.zuuk.org/sporttv.php?width=599&height=399",
+		    "referer": "http://cdn2.zuuk.org/"
+                },
+                
                 {
                         "name": "Sport Tv 1 HD",
                         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",
