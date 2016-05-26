@@ -52,16 +52,10 @@ http://0.0.0.0
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1,Telessistema  Rep. Dominicana
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1,ANTENA LATINA Rep. Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,Telesitemas 11 Rep. Dominicana
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 #EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Antena Latina Rep. Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Musavision Rep. Dominicana
-http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 #EXTINF:-1,TeleNord Rep. Dominicana
 rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf 
 #EXTINF:-1,CDN 37 Rep. Dominicana
@@ -90,17 +84,6 @@ http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1,[COLOR lime]---Chile---[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1,Canal 9 Chile
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
-#EXTINF:-1,TV Chile
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1,TVN Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1,Arica TV Chile
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-
-#EXTINF:-1,Canal Mega
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 
 #EXTINF:-1,TV Familia
 http://tvstream02.creowebcl.com:80/8090/8090/playlist.m3u8
@@ -161,23 +144,10 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1,[COLOR lime]---Nicaragua---[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1,Canal 2 Nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1,Viva Nicaragua Canal 13
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
-------------------------------------------------------------------------------------
-#EXTINF:-1,[COLOR lime]---Panama---[/COLOR]
-http://0.0.0.0
-
-#EXTINF:-1,Telemetro Panama
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
-#EXTINF:-1,RPC Panama
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,SER TV Panama
-rtmp://216.224.177.132/live/sertv
-
-------------------------------------------------------------------------------------
+----------------------------------------------------------------
 #EXTINF:-1,[COLOR lime]---Paraguay---[/COLOR]
 http://0.0.0.0
 
@@ -198,8 +168,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 #EXTINF:-1,Canal 4 Arequipa Peru
 http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,RBC Peru
-http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
+
 
 
 #EXTINF:-1,[COLOR blue]------------CANALES--------------[/COLOR][COLOR red]--------LATINOAMERICA----------------[/COLOR]
@@ -240,21 +209,13 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 #EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Antena Latina Rep. Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Musavision Rep. Dominicana
-http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 #EXTINF:-1,TeleNord Rep. Dominicana
 rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf 
-#EXTINF:-1,CDN 37 Rep. Dominicana
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 
 ------------------------------------------------------------------------------------
 #EXTINF:-1,[COLOR lime]---Mexico---[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1,AZTECA NOTICIAS
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,El Trece HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
