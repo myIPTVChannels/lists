@@ -2,30 +2,6 @@
 #EXTINF:0, [COLOR yellow]--Portuguese--[/COLOR] 
 http://0.0.0.0
 
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title="Portugal", Nickelodeon
-http://cp.dmbshare.net:8000/live/whelan/whelan/3470.ts
-
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/srpsux1433342898.png" group-title="Portugal", Canal Panda
-http://cp.dmbshare.net:8000/live/whelan/whelan/3468.ts
-
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png" group-title="Portugal", Disney Junior
-http://cp.dmbshare.net:8000/live/whelan/whelan/3484.ts
-
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png" group-title="Portugal", Jim Jam [COLOR red]OFF[/COLOR]
-http://www.t12v.com:8000/live/prevot/prevot/1423.ts
-
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title="Portugal", Disney Channel
-http://cp.dmbshare.net:8000/live/whelan/whelan/3485.ts
-
-#EXTINF:-1, Baby TV
-http://cp.dmbshare.net:8000/live/whelan/whelan/3497.ts
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png" group-title="Portugal", SIC Kids[COLOR red]OFF[/COLOR]
-http://www.t12v.com:8000/live/prevot/prevot/1164.ts
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png" group-title="Portugal", Cartoon Network Portugal
-http://cp.dmbshare.net:8000/live/whelan/whelan/3491.ts
-
 #EXTINF:0, [COLOR yellow]--English--[/COLOR] 
 http://0.0.0.0
 
@@ -37,49 +13,6 @@ http://bit.do/bkWKR
 
 #EXTINF:0, Musiq 1 tv
 http://212.79.96.134:8005/
-
-#EXTINF:0, Baby
-http://0100dyndns.tv:7879/live/khaleed/khaleed/852.ts
-
-
-#EXTINF:0, [COLOR yellow]--Spanish--[/COLOR]
-http://0.0.0.0
-
-#EXTINF:0, Boomerang
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, CARTOON NETWORK
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, CBeebies
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, Disney Channel
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, DISNEY XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, DISCOVERY KIDS
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, Disney Jr
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, Nickelodeon
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE02-954/1369-20160121T130440.ts
-
-#EXTINF:0, NICK JR
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, Nickelodeon (Nick)
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, TIIN
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:0, Tooncast
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 
 
