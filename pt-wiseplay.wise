@@ -27,7 +27,7 @@
                 {
                     "name": "teste",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://cdn2.zuuk.org/sporttv.php?width=599&height=399",
+		    "url": "http://cdn2.zuuk.org/sporttv.php?width=599&height=399&autostart=true",
 		    "referer": "http://cdn2.zuuk.org/",
 		    "isHost": "true"
                 },
