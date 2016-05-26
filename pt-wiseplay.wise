@@ -17,8 +17,8 @@
                     "url": "",
                     "referer": "",
                     "isHost": "" },
-                    "sportsdevil: "" },
-		{
+                
+                {
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
 		    "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/280.ts"
@@ -43,8 +43,7 @@
                         "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
                          "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/280.ts"
                 },
-                
-                								{
+                {
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/158.ts"
@@ -69,11 +68,11 @@
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
                             "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/717.ts"
                 },
-                                {
+                {
                             "name": "BENFICA TV 2",
                             "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
                             "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/718.ts"
-                },
+                }
                 
     ]
     },
