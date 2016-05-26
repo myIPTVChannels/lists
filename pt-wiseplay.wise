@@ -2,7 +2,7 @@
     "name": "LISTA DESPORTO - GERAL",
     "author": "Bosslulamen&Lacasitos",
     "url": "http://git.io/v8TRX",
-    "Update": "(13/05/2016)",
+    "Update": "(24/05/2016)",
     "contact": "luilulas@hotmail.com",
     "groups": [
     {
@@ -17,9 +17,7 @@
                     "url": "",
                     "referer": "",
                     "isHost": "" },
-                    "sportsdevil": "" },
-                
-                {
+		{
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
 		    "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/280.ts"
