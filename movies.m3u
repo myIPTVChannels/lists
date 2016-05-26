@@ -8,26 +8,6 @@ http://37.203.209.34:443/mobile/flash24sd/live.m3u8
 #EXTINF:0 tvg-logo="sbt.png" tvg-logo="http://www.tvaovivolista.com/sbt.png", SBT HQ
 http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,TVCine 1
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/2.ts
-#EXTINF:-1,TVCine 2
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/29.ts
-#EXTINF‬:-1,TVCine 3
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/31.ts
-#EXTINF:-1,TVCine 4
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/30.ts
-#EXTINF:-1,TV Series
-http://xtream.iptv-streamer.com:8000/live/mVFNifqPOj/gjM5jcHfI3/1355.m3u8
-
-#EXTINF:-1,TVCine 1 HD
-http://evolive-tv.com:8000/live/balla/balla/300.m3u8
-#EXTINF:-1,TVCine 2 HD
-http://evolive-tv.com:8000/live/balla/balla/301.m3u8
-#EXTINF:-1,TVCine 3 HD
-http://evolive-tv.com:8000/live/balla/balla/302.m3u8
-#EXTINF:-1,TVCine 4 HD
-http://evolive-tv.com:8000/live/balla/balla/303.m3u8
-
 
 #EXTINF:-1, [B]--- Filmes ---[/B]
 http://0.0.0.0
@@ -35,173 +15,8 @@ http://0.0.0.0
 http://0.0.0.0
 #EXTINF:-1, [COLOR blue]efectuar procura manual ([COLOR red]addon opensubtitles[/COLOR])[/COLOR]
 http://0.0.0.0
-==================================================DUAL==AUDIO========================================
-#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/everest_ver2_xlg.jpg", Everest [COLOR yellow][ITA/ENG][/COLOR][COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://bit.do/bM7pT
-#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/true-story-poster-gallery.jpg",True Story [COLOR yellow][ITA/ENG][/COLOR][COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://bit.do/bM7rx
-#EXTINF:-1 tvg-logo="http://www.impawards.com/2015/posters/criminal_activities.jpg", Criminal  Activities[COLOR yellow][ITA/ENG][/COLOR][COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://bit.do/bM7sb
-#EXTINF:-1 tvg-logo="http://www.impawards.com/intl/uk/2014/posters/theory_of_everything.jpg",The Theory of Everything [COLOR yellow][ITA/ENG][/COLOR][COLOR blue](2014)[/COLOR] [COLOR red][720p][/COLOR]
-http://bit.do/bM7sL
-#EXTINF:-1 tvg-logo="http://www.impawards.com/intl/uk/2015/posters/little_chaos_ver2.jpg",A Little Chaos [COLOR yellow][ITA/ENG][/COLOR][COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://bit.do/bM7ua
-#EXTINF:-1 tvg-logo="http://www.impawards.com/2015/posters/avengers_age_of_ultron_ver12.jpg",Avengers Age Of Ultron [COLOR yellow][ITA/ENG][/COLOR][COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://bit.do/bM7vW
-#EXTINF:-1 tvg-logo="http://www.impawards.com/2015/posters/insurgent.jpg",Insurgent [COLOR yellow][ITA/ENG][/COLOR][COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://bit.do/bM7wq
-======================================================================================
 
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/1524575/l_1524575_d9a2607c.jpg", The Vatican Tapes [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][B][1080p][/B][/COLOR]
-http://bit.do/bsvZw
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/2637276/l_2637276_46424313.jpg",  TED 2  [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsvZB
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_09/2015/3733778/l_3733778_dc3adbb4.jpg", Pay The Ghost  [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsvZE
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_05/2015/3623726/l_3623726_ad4c052b.jpg", Ricki and the Flash  [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsvZ3
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_09/2015/4622340/l_4622340_ca5cc164.jpg", Curious.George.3.Back.to.the.Jungle [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsv2o
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_09/2015/4420110/l_4420110_74b6d30f.jpg", Invisible Sister  [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsv2s
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_02/2014/3029476/l_3029476_55e3dfbe.jpg", Pressure [B][COLOR blue](2014) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsv2x
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/14_11/2015/3280916/l_3280916_0a05a002.jpg", The.Atticus.Institute [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsv2W
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_12/2015/3162938/l_3162938_02f11626.jpg", The.True.Cost [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsv3w
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/2140379/l_2140379_bac77b9f.jpg", SELF/LESS  [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsv3D
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_02/2015/3181776/l_3181776_c3a6d58e.jpg", Momentum [B][COLOR blue](2015) [/B][/COLOR][COLOR red][B][1080p][/B][/COLOR]
-http://bit.do/bsv3M
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_03/2015/2381941/l_2381941_3875905c.jpg", Focus [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Focus%20(2015)/Focus.2015.720p.BluRay.x264.YIFY.mp4
 
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_02/2014/3735554/l_3735554_3c52ce6d.jpg", Freetown [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Freetown%20(2015)/Freetown.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/14_10/2014/2820852/l_2820852_73c8be89.jpg", Furious Seven [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Furious%20Seven%20(2015)/Furious.Seven.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_02/2015/2637294/l_2637294_849bb61e.jpg", Hot Tub Time Machine 2 [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Hot%20Tub%20Time%20Machine%202%20(2015)/Hot.Tub.Time.Machine.2.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/3236120/l_3236120_80fa2334.jpg", I'll See You in My Dreams [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/I'll%20See%20You%20in%20My%20Dreams%20(2015)%20%5b1080p%5d/Ill.See.You.in.My.Dreams.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_03/2015/3195644/l_3195644_9f5fc24f.jpg", Insidious Chapter 3 [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Insidious%20Chapter%203%20(2015)%20%5b1080p%5d/Insidious.Chapter.3.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/13_10/2014/2917388/l_2917388_f0c92f31.jpg", Kidnapping Mr. Heineken [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Kidnapping%20Mr.%20Heineken%20(2015)%20%5b1080p%5d/Kidnapping.Mr..Heineken.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_03/2014/2493486/l_2493486_6d338aa5.jpg", Last Knights [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Last%20Knights%20(2015)/Last.Knights.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_06/2015/3442990/l_3442990_d7eb9d62.jpg", Lila and Eve [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Lila%20and%20Eve%20(2015)%20%5b1080p%5d/Lila.and.Eve.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_03/2015/1810683/l_1810683_4b89deed.jpg", Little Boy [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Little%20Boy%20(2015)/Little.Boy.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/14_07/2015/1392190/l_1392190_3518c3e1.jpg", Mad Max Fury Road [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Mad%20Max%20Fury%20Road%20(2015)%20%5b1080p%5d/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/1881002/l_1881002_5d523630.jpg", Maggie [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Maggie%20(2015)/Maggie.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_05/2015/2268016/l_2268016_701d2a28.jpg", Magic Mike XXL [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Magic%20Mike%20XXL%20(2015)%20%5b1080p%5d/Magic.Mike.XXL.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_05/2014/2893490/l_2893490_68961b28.jpg", Manglehorn (2014) [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Manglehorn%20(2014)%20%5b1080p%5d/Manglehorn.2014.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_03/2015/3369806/l_3369806_68bb3351.jpg", Max [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Max%20(2015)%20%5b1080p%5d/Max.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/2381249/l_2381249_776d8196.jpg", Mission Impossible 5 Rogue Nation [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/Mission%20Impossible%205%20Rogue%20Nation%20HQCAM%20LAT%20X264%20AC3-MRG/mi.mkv
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/3478232/l_3478232_50648868.jpg", Mythica The Darkspore [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/Mythica%20The%20Darkspore%20(2015)/Mythica.The.Darkspore.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_07/2014/1957938/l_1957938_29d02758.jpg", Narcopolis [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Narcopolis%20(2015)%20%5b1080p%5d/Narcopolis.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_26595.jpg", P.O.E. Project of Evil (P.O.E. 2) (2012) [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/P.O.E.%20Project%20of%20Evil%20(P.O.E.%202)%20(2012)%20%5b1080p%5d/P.O.E..Project.of.Evil.P.O.E..2.2012.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_07/2015/3622592/l_3622592_35b84b78.jpg", Paper Towns [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Paper%20Towns%20(2015)%20%5b1080p%5d/Paper.Towns.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/14_11/2015/3450650/l_3450650_f52d9e44.jpg", Paul Blart Mall Cop 2 [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/Paul%20Blart%20Mall%20Cop%202%20(2015)/Paul.Blart.Mall.Cop.2.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_03/2015/2848292/l_2848292_562da324.jpg", Pitch Perfect 2 [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/Pitch%20Perfect%202%20(2015)/Pitch.Perfect.2.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_08/2015/2120120/l_2120120_d1703d02.jpg", Pixels [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Pixels%20(2015)%20%5b1080p%5d/Pixels.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_02/2015/1029360/l_1029360_f8230158.jpg", Poltergeist [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Poltergeist%20(2015)%20%5b1080p%5d/Poltergeist.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_05/2015/4530832/l_4530832_e23831bb.jpg", Road Wars [COLOR blue](2015)[/COLOR] [COLOR red][720p][/COLOR]
-http://www.watch-simpsons.com/downloads/Road%20Wars%20(2015)/Road.Wars.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/2126355/l_2126355_57106119.jpg", San Andreas [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/San%20Andreas%20(2015)%20%5b1080p%5d/San.Andreas.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_01/2015/2872750/l_2872750_01968cb2.jpg", Shaun the Sheep Movie [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Shaun%20the%20Sheep%20Movie%20(2015)%20%5b1080p%5d/Shaun.the.Sheep.Movie.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_05/2015/3205376/l_3205376_2bd75840.jpg", Slow West [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Slow%20West%20(2015)%20%5b1080p%5d/Slow.West.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_06/2015/1798684/l_1798684_2a34e48e.jpg", Southpaw [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Southpaw%20(2015)%20%5b1080p%5d/Southpaw.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/3247714/l_3247714_71cec800.jpg", Survivor [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/Survivor%20(2015)/Survivor.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_05/2015/1340138/l_1340138_225bd164.jpg", Terminator Genisys [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/Terminator%20Genisys%20(2015)%20%5b1080p%5d/Terminator.Genisys.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_01/2015/1655441/l_1655441_63bf67fe.jpg", The Age of Adaline [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Age%20of%20Adaline%20(2015)/The.Age.of.Adaline.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_03/2015/3877296/l_3877296_48176a1d.jpg", The Cokeville Miracle [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Cokeville%20Miracle%20(2015)%20%5b1080p%5d/The.Cokeville.Miracle.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_08/2015/3534602/l_3534602_7a327e1f.jpg", The D Train [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/The%20D%20Train%20(2015)%20%5b1080p%5d/The.D.Train.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_09/2015/1666801/l_c79a92ba.jpg", The DUFF [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/The%20DUFF%20(2015)/The.DUFF.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_07/2015/2309260/l_2309260_8de8f17b.jpg", The Gallows [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Gallows%20(2015)%20%5b1080p%5d/The.Gallows.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_01/2015/2515034/l_2515034_de2fe9d3.jpg", The Gunman [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Gunman%20(2015)/The.Gunman.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_01/2015/2918436/l_2918436_fe6d93b8.jpg", The Lazarus Effect [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Lazarus%20Effect%20(2015)/The.Lazarus.Effect.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_04/2015/2726560/l_2726560_4432dd67.jpg", The Longest Ride [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Longest%20Ride%20(2015)/The.Longest.Ride.2015.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_01/2015/1321869/l_1321869_dc8fec98.jpg", The Lovers [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Lovers%20(2015)%20%5b1080p%5d/The.Lovers.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_09/2015/2945796/l_2945796_805bfc24.jpg", The Rise of the Krays [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Rise%20of%20the%20Krays%20(2015)%20%5b1080p%5d/The.Rise.of.the.Krays.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/15_02/2015/3499458/l_3499458_c697a05c.jpg", The Walking Deceased [COLOR blue](2015)[/COLOR] [COLOR red][1080p][/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Walking%20Deceased%20(2015)%20%5b1080p%5d/The.Walking.Deceased.2015.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/posters/14_11/2015/884732/l_884732_d04d9db8.jpg", The Wedding Ringer [COLOR blue](2015)[/COLOR]
-http://www.watch-simpsons.com/downloads/The%20Wedding%20Ringer%20(2015)/The.Wedding.Ringer.2015.720p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/md/mdjvkmug.jpg", Escape Plan [COLOR blue](2013)[/COLOR] [COLOR red][SD][/COLOR] 
 http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4 
 ‪#EXTINF:-, tvg-logo="https://www.cinematerial.com/media/posters/md/x1/x1zhjkkb.jpg", Flight: Decisao de Risco [COLOR blue](2012)[/COLOR] [COLOR red][SD][/COLOR]
@@ -211,112 +26,10 @@ http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/0q/0qzo0h1r.jpg", Maleficent [COLOR blue](2014)[/COLOR] [COLOR red][SD][/COLOR]
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
 
--------------------
-#EXTINF:-1, [COLOR blue]Link ainda a testar[/COLOR]
-http://0.0.0.0
 
-
-
-#EXTINF:-1,
-http://0.0.0.0
-
-#EXTINF:-1, Ciné Fil
-http://teleclub.fr/cinefil.mp4
-#EXTINF:-1, Ciné Fil (2)
-http://tv.ut.cx/cinefil.mp4
-#EXTINF:-1, Cinetoile
-http://teleclub.fr/cinetoile.mp4
-#EXTINF:-1, Cinq+
-http://teleclub.fr/cinqplus.mp4
-#EXTINF:-1, Club 1
-http://teleclub.fr/club1.mp4
-#EXTINF:-1, Filmbox HD
-http://lag1.tv-mobile.org/prgw.m3u8
-#EXTINF:-1 tvg-logo="omeletelogo.jpg" tvg-logo="http://logos.iptvglobal.com.br/omeletelogo.jpg" group-title="Movies", Omelete Cinema  HD
-http://wowza1.videos.movile.com:8080/live/smil:cinema_1.smil/playlist.m3u8?iptvjonas
-#EXTINF:-1, TELECINE PREMIUM
-http://37.203.209.34:443/mobile/flash24/live.m3u8 
-
-#EXTINF:-1,
-http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="GRUPO.png",[COLOR yellow] Grupo Filmes A Editar [/COLOR] 
-
-#EXTINF:-1, TEENAGE MUTANT NINJA TURTLES
-http://37.187.171.219:8080/vod/TeenageMutantNinjaTurtles.mp4/index.m3u8
-#EXTINF:-1, THE COBBLER
-http://37.187.171.219:8080/vod/TheCobbler.mp4/index.m3u8
-#EXTINF:-1, THE BOY NEXT DOOR
-http://37.187.171.219:8080/vod/TheBoyNextDoor.mp4/index.m3u8
-#EXTINF:-1, THE LOVERS
-http://37.187.171.219:8080/vod/TheLovers.mp4/index.m3u8
-#EXTINF:-1, THE LONGEST RIDE
-http://37.187.171.219:8080/vod/TheLongestRide.mp4/index.m3u8
-#EXTINF:-1, MAZE RUNNER
-http://37.187.171.219:8080/vod/TheMazeRunner.mp4/index.m3u8
-#EXTINF:-1, HOBBIT BATTLE OF THE 5 ARMIES
-http://37.187.171.219:8080/vod/TheHobbitBattleOfTheFiveArmies.mp4/index.m3u8
-#EXTINF:-1, THE LAST SURVIVORS
-http://37.187.171.219:8080/vod/TheLastSurvivors.mp4/index.m3u8
-#EXTINF:-1, THE JUDGE
-http://37.187.171.219:8080/vod/TheJudge.mp4/index.m3u8
-#EXTINF:-1, DRACULA UNTOLD
-http://37.187.171.219:8080/vod/DraculaUntold.mp4/index.m3u8
-#EXTINF:-1, 300 RISE OF AN EMPIRE 3D
-http://37.187.171.219:8080/vod/300RiseofanEmpire3D.mp4/index.m3u8
-#EXTINF:-1, HOTEL TRANSYLVANIA
-http://37.187.171.219:8080/vod/HotelTransylvania.mp4/index.m3u8
-#EXTINF:-1, BLACK SEA
-http://37.187.171.219:8080/vod/BlackSea.mp4/index.m3u8
-#EXTINF:-1, EX MACHINA
-http://37.187.171.219:8080/vod/ExMachina.mp4/index.m3u8
-#EXTINF:-1, A MILLION WAYS TO DIE IN THE WEST
-http://37.187.171.219:8080/vod/AMillionWaystoDieintheWest.mp4/index.m3u8
-#EXTINF:-1, AMERICAN SNIPER
-http://37.187.171.219:8080/vod/AmericanSniper.mp4/index.m3u8
-#EXTINF:-1, 50 SHADES OF GREY
-http://37.187.171.219:8080/vod/FiftyShadesofGrey.mp4/index.m3u8
-#EXTINF:-1, HOT PURSUIT
-http://37.187.171.219:8080/vod/HotPursuit.mp4/index.m3u8
-#EXTINF:-1, EDGE OF TOMORROW
-http://37.187.171.219:8080/vod/EdgeofTomorrow.mp4/index.m3u8
-#EXTINF:-1, GONE GIRL
-http://37.187.171.219:8080/vod/GoneGirl.mp4/index.m3u8
-#EXTINF:-1, ALIEN OUTPOST
-http://37.187.171.219:8080/vod/AlienOutpost.mp4/index.m3u8
-#EXTINF:-1, BIRDMAN
-http://37.187.171.219:8080/vod/Birdman.mp4/index.m3u8
-#EXTINF:-1, ALOHA
-http://37.187.171.219:8080/vod/Aloha.mp4/index.m3u8
-#EXTINF:-1, HORRIBLE BOSSES
-http://37.187.171.219:8080/vod/HorribleBosses.mp4/index.m3u8
-#EXTINF:-1, GODZILLA
-http://37.187.171.219:8080/vod/Godzilla.mp4/index.m3u8
-#EXTINF:-1, DAWN OF THE LANET OF THE APES
-http://37.187.171.219:8080/vod/DawnofthePlanetoftheApes.mp4/index.m3u8
-#EXTINF:-1, EXODUS GODS AND KINGS
-http://37.187.171.219:8080/vod/ExodusGodsandKings.mp4/index.m3u8
-#EXTINF:-1, CAPTAIN AMERICA WINTER SOLDIER 3D
-http://37.187.171.219:8080/vod/CaptainAmericaTheWinterSoldier.mp4/index.m3u8
-#EXTINF:-1, INTERSTELLAR
-http://37.187.171.219:8080/vod/Interstellar.mp4/index.m3u8
-#EXTINF:-1, ANNABELLE
-http://37.187.171.219:8080/vod/Annabelle.mp4/index.m3u8
-#EXTINF:-1, HOW TO TRAIN YOUR DRAGON
-http://37.187.171.219:8080/vod/HowtoTrainYourDragon.mp4/index.m3u8
-#EXTINF:-1, BLENDED
-http://37.187.171.219:8080/vod/Blended.mp4/index.m3u8
-#EXTINF:-1, DIVERGANT
-http://37.187.171.219:8080/vod/Divergent.mp4/index.m3u8
-#EXTINF:-1, CINDERELLA
-http://37.187.171.219:8080/vod/Cinderella.mp4/index.m3u8
-#EXTINF:-1, 3 DAYS TO KILL
-http://37.187.171.219:8080/vod/3DaystoKill.mp4/index.m3u8
-#EXTINF:-1, I FRANKENSTEIN
-http://37.187.171.219:8080/vod/IFrankenstein.mp4/index.m3u8
-#EXTINF:-1, INTO THE WOODS
-http://37.187.171.219:8080/vod/IntotheWoods.mp4/index.m3u8
-
+http:0.0.0.0
  
 
 
@@ -332,12 +45,6 @@ http://www.deadlyblogger.com/NewRelease/origin.mp4
 http://www.deadlyblogger.com/NewRelease/xmen3.mp4 
 #EXTINF:-1, xmen first class 
 http://www.deadlyblogger.com/NewRelease/xmen4.mp4 
-#EXTINF:-1, Mad Max (1979) 720p BluRay 
-http://standalonecomplex.org/…/Mad.Max.1979.720p.BluRay.x26… 
-#EXTINF:-1, Mad Max (1981) 720p Bluray 
-http://standalonecomplex.org/…/Mad.Max.2.1981.720p.Bluray.x… 
-#EXTINF:-1, Mad Max Beyond Thunderdome (1985) 720p BluRay 
-http://standalonecomplex.org/…/Mad.Max.Beyond.Thunderdome.1… 
 #EXTINF:-1, Bad Boys 2 
 http://www.deadlyblogger.com/NewRelease/badboys2.mp4 
 #EXTINF:-1, Bad Words 
