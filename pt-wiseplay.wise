@@ -23,13 +23,6 @@
 		    "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/280.ts"
                 },
                 {
-                    "name": "teste",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://cdn2.zuuk.org/sporttv.php?width=599&height=399&autostart=true",
-		    "referer": "http://cdn2.zuuk.org/",
-		    "isHost": "true"
-                },
-                {
                         "name": "Sport Tv 1 HD",
                         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",
                         "url": "http://ruben-mota.mine.nu:9511/live/bernardo1/bernardo1/72.ts"
