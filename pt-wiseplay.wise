@@ -20,63 +20,72 @@
 		{
                     "name": "SPORT TV 1",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/280.ts"
-                },
-                {
-                    "name": "teste",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://cdn2.zuuk.org/sporttv.php?width=599&height=399&autostart=true",
-		    "isHost": "true"
+		    "url": "http://topiptv.net:5890/live/nostalgia/nostalgia/878.ts"
                 },
                 {
                         "name": "Sport Tv 1 HD",
                         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",
-                        "url": "http://ruben-mota.mine.nu:9511/live/bernardo1/bernardo1/72.ts"
+                        "url": "http://topiptv.net:5890/live/Robert/Robert/878.ts"
                 },
                 {
                         "name": "SPORT TV 1 opc1",
                         "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                        "url": "rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL"
+                        "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.t"
                 },
                 {
                     	"name": "SPORT TV 1 opc2",
                     	"image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    	"url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/158.ts"
-                },
-                {
-                        "name": "SPORT TV 1 opc3",
-                        "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                         "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/280.ts"
+		    	"url": "http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3007.ts"
                 },
                 {
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/158.ts"
+                            "url": "http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3003.ts"
+                },
+                {
+                            "name": "SPORT TV 2 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+                            "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts"
                 },
                 								{
                             "name": "SPORT TV 3",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "http://gold.sarimedia.tv:8000/live/colmar/colmar/160.ts"
+                            "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts"
+                },
+                {
+                            "name": "SPORT TV 3 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
+                            "url": "http://topiptv.net:5890/live/nostalgia/nostalgia/880.ts"
                 },
                 								{
                             "name": "SPORT TV 4",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/283.ts"
-                },            
+                            "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts"
+                },
+                {
+                            "name": "SPORT TV 4 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
+                            "url": "http://topiptv.net:5890/live/nostalgia/nostalgia/881.ts"
+                },
                 								{
                             "name": "SPORT TV 5",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
-                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/284.ts"
+                            "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts"
+                },
+                {
+                            "name": "SPORT TV 5 opc1",
+                            "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
+                            "url": "http://df1-premiere.zapto.org:8000/live/Manuel/Coke/928.ts"
                 },
                 {
                             "name": "BENFICA TV 1",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/717.ts"
+                            "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts"
                 },
                 {
                             "name": "BENFICA TV 2",
                             "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
-                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/718.ts"
+                            "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/806.ts"
                 }
                 
     ]
