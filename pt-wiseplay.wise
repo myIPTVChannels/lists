@@ -30,7 +30,7 @@
                 {
                         "name": "SPORT TV 1 opc1",
                         "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-                        "url": "http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.t"
+                        "url": "plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;streamtype=TSDOWNLOADER&amp;name= Sport tv 1HD"
                 },
                 {
                     	"name": "SPORT TV 1 opc2",
