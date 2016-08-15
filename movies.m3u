@@ -1,9 +1,12 @@
 #EXTM3U 
 #EXTINF:-1, [B]--- Filmes ---[/B]
 http://0.0.0.0
-#EXTINF:-1, [COLOR blue]As legendas poderam nao aparecer automaticamente[/COLOR]
+#EXTINF:-1, [COLOR blue]As legendas poderam não aparecer automaticamente[/COLOR]
 http://0.0.0.0
 #EXTINF:-1, [COLOR blue]efectuar procura manual ([COLOR red]addon opensubtitles[/COLOR])[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1, [COLOR red]Legendados[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://teaser-trailer.com/wp-content/uploads/demolition-movie-poster.jpg", Demolição [2016]
@@ -15,7 +18,12 @@ https://www.youtube.com/watch?v=1zrJi1w0Y8o
 #EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/11_01/2009/1235124/m_1235124_65f1e11d.jpg", O Retrato de Dorian Gray [2009]
 https://www.youtube.com/watch?v=-F3sLjWgXns
 
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/08_07/2007/795439/m_795439_94ad7854.jpg", Numb [2007]
+https://www.youtube.com/watch?v=N6x9gdVN39E
 
+=================================================================================================================================
+#EXTINF:-1, [COLOR red]Audio PT-pt ou PT-br (não dobrados)[/COLOR]
+http://0.0.0.0
 
-
-
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/14_06/2013/2616114/m_2616114_d79cf933.jpg", O Concurso [2013]
+https://www.youtube.com/watch?v=wCGOUqbNIWs
