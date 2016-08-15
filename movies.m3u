@@ -15,5 +15,7 @@ https://www.youtube.com/watch?v=-F3sLjWgXns
 #EXTINF:-1, tvg-logo="http://www.movieposterdb.com/img/posters/15_08/2015/1895587/m_1895587_d4ac3a32.jpg", Spotlight
 https://www.youtube.com/watch?v=C0PXML0-P_I
 
-#EXTINF:-1, tvg-logo="https://teaser-trailer.com/wp-content/uploads/demolition-movie-poster.jpg", Demolição
+#EXTINF:-1 tvg-logo="https://teaser-trailer.com/wp-content/uploads/demolition-movie-poster.jpg", Demolição
 https://www.youtube.com/watch?v=QMDWDwMYTgQ
+
+
