@@ -6,12 +6,15 @@ http://0.0.0.0
 #EXTINF:-1, [COLOR blue]efectuar procura manual ([COLOR red]addon opensubtitles[/COLOR])[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://teaser-trailer.com/wp-content/uploads/demolition-movie-poster.jpg", Demolição
+#EXTINF:-1 tvg-logo="https://teaser-trailer.com/wp-content/uploads/demolition-movie-poster.jpg", Demolição [2016]
 https://www.youtube.com/watch?v=QMDWDwMYTgQ
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/11_01/2009/1235124/m_1235124_65f1e11d.jpg", O Retrato de Dorian Gray
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/11_01/2009/1235124/m_1235124_65f1e11d.jpg", O Retrato de Dorian Gray [2009]
 https://www.youtube.com/watch?v=-F3sLjWgXns
-#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/15_08/2015/1895587/m_1895587_d4ac3a32.jpg", Spotlight
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/15_08/2015/1895587/m_1895587_d4ac3a32.jpg", Spotlight [2015]
 https://www.youtube.com/watch?v=C0PXML0-P_I
+#EXTINF:-1 tvg-logo="http://www.impawards.com/2012/posters/silver_linings_playbook.jpg", Guia para um final feliz [2012]
+https://www.youtube.com/watch?v=1zrJi1w0Y8o
+
 
 
 
