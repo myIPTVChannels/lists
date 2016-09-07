@@ -9,10 +9,10 @@ http://0.0.0.0
 #EXTINF:-1, [COLOR red]Legendados[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/02/20/07/469877.jpg", O Sono da Morte [2016]
-https://www.youtube.com/watch?v=VplPlrB3_kk
-#EXTINF:-1 tvg-logo="https://teaser-trailer.com/wp-content/uploads/demolition-movie-poster.jpg", Demolição [2016]
-https://www.youtube.com/watch?v=QMDWDwMYTgQ
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/15_08/2015/1895587/m_1895587_d4ac3a32.jpg", Spotlight [2015]
 https://www.youtube.com/watch?v=C0PXML0-P_I
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NDM5NTMwMF5BMl5BanBnXkFtZTgwMTkzMDA4NjE@._V1_.jpg", O Ultimo Turno [2014]
@@ -21,13 +21,22 @@ https://www.youtube.com/watch?v=gQEt0AqOcDQ
 https://www.youtube.com/watch?v=BnrYzZIySMU
 #EXTINF:-1 tvg-logo="https://addictedtohorrormovies.files.wordpress.com/2015/07/indigenous-torrent-movie-2015-download.jpg", Indigenous [2014]
 https://www.youtube.com/watch?v=0SrBgFZ0GQU
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/13_10/2013/2637848/m_2637848_26ef6525.jpg", Sirius [2013]
+https://www.youtube.com/watch?v=QUSJUprr13k
 #EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/13_01/2012/1045658/m_1045658_e9cbc30c.jpg", Guia para um final feliz [2012]
 https://www.youtube.com/watch?v=1zrJi1w0Y8o
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/11_01/2010/1565958/m_1565958_8164b68e.jpg", Românticos Anónimos [2010]
+https://www.youtube.com/watch?v=vovt6ZSI45Y
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/11_03/2010/1440292/m_1440292_d3db9b0f.jpg", Submarine [2010]
+https://www.youtube.com/watch?v=yf0hwAzwZ-Q
 #EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/11_01/2009/1235124/m_1235124_65f1e11d.jpg", O Retrato de Dorian Gray [2009]
 https://www.youtube.com/watch?v=-F3sLjWgXns
 #EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/08_07/2007/795439/m_795439_94ad7854.jpg", Numb [2007]
 https://www.youtube.com/watch?v=N6x9gdVN39E
-
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/06_03/2006/0438315/m_102718_0438315_77ca03fb.jpg", O Caminho do Guerreiro [2006]
+https://www.youtube.com/watch?v=ru7RMHpQPqc
+#EXTINF:-1 tvg-logo="http://www.movieposterdb.com/img/posters/12_11/2004/289879/t_289879_365cbc14.jpg", Efeito Borboleta [2004]
+https://www.youtube.com/watch?v=TRqzDoUg4u0
 
 
 =================================================================================================================================
