@@ -194,6 +194,8 @@ http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
 
 #EXTINF:0,[B][COLOR blue]--Djing--[/COLOR][/B]
 http://
+#EXTINF:0 group-title="Djing", Djing
+http://www.djing.com/tv/01.m3u8
 #EXTINF:0 group-title="Djing", Djing  
 http://cdn.djing.com/tv/05.m3u8
 #EXTINF:0 group-title="Djing", Djing HD
