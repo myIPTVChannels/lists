@@ -1,7 +1,27 @@
 #EXTM3U
 
-#EXTINF:0,[B][COLOR blue]Canais[/B][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1, SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+ 
+#EXTINF:-1, FIGHT SPORT 
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="hhttp://www.ampersandmedia.com/wp-content/uploads/2015/08/PC.png", POKER CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8u8
+ 
+#EXTINF:-1, DXTV SPORTS
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+ 
+#EXTINF:-1, UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1, FIGHTER CHANNEL (RUS) 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+#EXTINF:-1, KAZSPORT (KAZ)
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [FHD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&name=SportTV1
@@ -42,15 +62,8 @@ plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title="Plexus",Sport TV 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B] [B][COLOR grey]OFF[/COLOR][/B]
 plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10484.acelive&mode=1&name=sporttv5
 
-
-
-
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png" group-title="Plexus",BTV 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&name=BTV1
-
-
-#EXTINF:-1 tvg-logo="hhttp://www.ampersandmedia.com/wp-content/uploads/2015/08/PC.png", Poker Central 
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=BTV2
@@ -217,7 +230,6 @@ plugin://program.plexus/?mode=1&url=acestream://712534820510d6bc5e3146c581b37225
 
 #EXTINF:-1 group-title="Plexus",Outdoor Channel (UK) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a7e15080290f4accc21b1c4af88ca1f8fd51d68f&name=Outdoor UK
-
 
 #EXTINF:-1 group-title="Plexus",Caça e Pesca (RU) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://2b343a66a18f0084e6bcf6da7fe2414b31d03bbf&name=CAZA E PESCA RU
