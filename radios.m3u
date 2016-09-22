@@ -1,44 +1,28 @@
 #EXTM3U
 #EXTINF:0 radio="true" tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title="Portugal", 94FM
-http://195.8.58.150:35022/;stream.nsv
+http://195.8.58.150:35022/;stream.mp3
 #EXTINF:0 radio="true" tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Portugal", ANTENA 1
 mms://rdp.oninet.pt/antena1
-#EXTINF:0 radio="true" tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-title="Portugal", ANTENA 3
+#EXTINF:0 radio="true" tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-
+
+title="Portugal", ANTENA 3
 mms://rdp.oninet.pt/antena3
 #EXTINF:0 radio="true" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Portugal", AMÁLIA
 http://stream.radio.com.pt:9496/stream
 #EXTINF:0 radio="true" tvg-logo="http://cidade.iol.pt/images/logo.png" group-title="Portugal", CIDADE FM
 rtmp://195.23.102.206:1935/cidadefmlc playpath=cidadefmlc.sdp
-#EXTINF:0 radio="true" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Portugal", COMERCIAL
-rtmp://195.23.102.206/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf pageUrl=http://radiocomercial.iol.pt/player/webcam.asp
 #EXTINF:0 radio="true" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="Portugal", HIPER FM
 http://85.25.73.243:10460/
-#EXTINF:0 radio="true" tvg-logo="https://eclecticavenuerecords.files.wordpress.com/2011/11/logos_sonica_fuera1.jpg" group-title="Portugal", IBIZA SONICA
-http://stream2.wft.es:1025/;stream.mp3
-#EXTINF:0 radio="true" tvg-logo="http://m80.iol.pt/images/logo_final.png" group-title="Portugal", M80
-rtmp://195.23.102.206/m80lc playpath=m80lc.sdp swfUrl=m80.iol.pt/player/player.swf?v=1.0 live=1 pageUrl=http://m80.iol.pt/
-#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="https://www.phonostar.de/images/auto_created/Radio_Marginal184x184.png", Rádio Marginal
-mms://stream.radio.com.pt/ROLI-ENC-499
 #EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Portugal", MEGA FM
 http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.radionovaera.pt/media/logo2.png", Rádio Nova Era
-mms://stream.radio.com.pt/ROLI-ENC-478
 #EXTINF:0 radio="true" tvg-logo="http://rfm.sapo.pt/images/logo_webr_oceano.png" group-title="Portugal", OCEANO PACIFICO
 http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
 #EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.orbital.pt/imagem.php?1454265689194", Orbital
 http://stream.radio.com.pt/ROLI-ENC-401
-#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png", Rádio Oxigénio
-mms://stream.radio.com.pt/ROLI-ENC-498
-#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://static.radio.pt/images/broadcasts/80/74/27391/c175.png", Rádio Clube Emigrante
-http://198.24.186.218:8172/;?1425436566045.mp3
-
 #EXTINF:0 radio="true" tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" group-title="Portugal", RADAR
 http://stream.radio.com.pt:8497/stream
-#EXTINF:0 radio="true" tvg-logo="https://i3.radionomy.com/radios/400/70959338-55ee-4bdb-a4c8-dc10c482b8a3.jpg" group-title="Portugal", RADIO TOP 40
-http://31.12.64.204:8000/A-RADIO-TOP-40
-#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.radiorcs.pt/imagens/programas/logorcs.png", Rádio Clube de Sintra
-mms://stream.radio.com.pt/ROLI-ENC-445
-#EXTINF:0 radio="true" tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="Portugal", REGGAE RADIO 808
+#EXTINF:0 radio="true" tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" 
+group-title="Portugal", REGGAE RADIO 808
 http://66.225.205.5:80
 #EXTINF:0 radio="true" tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Portugal", RENASCENÇA
 http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
@@ -48,12 +32,6 @@ http://7719.live.streamtheworld.com/RFM_SC
 http://11073.live.streamtheworld.com/GR80SRFMAAC?
 #EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2011/07/logoClubbingPlayer.png" group-title="Portugal", RFM CLUBBING
 http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
-#EXTINF:0 radio="true" group-title="Portugal" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png", Rádio TSF
-mmsh://emdirecto.tsf.pt/tsfdirecto?MSWMExt=.asf
-#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone.jpg" group-title="Portugal", VODAFONE FM
-rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
-#EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/logo_smooth.png" group-title="Portugal", SMOOTH FM
-rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp
 #EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Portugal", SUPER FM
 http://94.23.76.235:9956/
 
