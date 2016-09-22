@@ -1,42 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://seebo.com.au/wp-content/uploads/2015/03/Channel_logos/ip/for_site/1HD.png", 1HD
-http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0, 365 Music TV
-http://188.138.9.107:8000/365music/index.m3u8
-#EXTINF:0, 365 Music TV HD (2)
-http://stream.365music.ru:8000/365music/365music.m3u8
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:0, Albmusic HD (Albania)
-rtmp://188.138.17.8:1935/albuk/albmus.stream
 #EXTINF:0, AMAZING TV HD
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, Atomic TV SD
-rtmp://5.154.185.153/live/live.flv
-#EXTINF:0, B4U MUSIC UK [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://397f52be3d31ad84658ae3488ce8646d66d04c43&name=B4UMusic
-#EXTINF:0, BIG POND MUSIC SD
-mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
-#EXTINF:0, BIM TV
-rtmp://188.254.62.124:11935/live/video2
-#EXTINF:0, BRAVA
-http://82.135.224.135:88/udp/239.255.2.17:1234$OPT:network-caching=100
 #EXTINF:0, CAPITAL TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0, CineStreamTV HD / Nation 720P
-http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:0, CLUBLAND SD
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cmc-tv.com/images/camuslogo.gif", CMC TV SD-
 rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3 swfUrl=http://http.vitalstreamcdn.com/flashskins/V2Player.swf live=1 pageUrl=http://www.cmc-tv.com/ 
-#EXTINF:0, Dance TV HD [COLOR red]OFF[/COLOR]
-http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
-#EXTINF:0, DELUXE MUSIC [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://fb3553b94340ac9fc821eb9e33bfbd440c9c9726&name=Deluxe
-#EXTINF:0, DEEN TV MUSIC SD
-http://iphone-streaming.ustream.tv/ustreamVideo/15274797/streams/live/playlist.m3u8
 #EXTINF:0, dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, dream TV HD
@@ -45,20 +19,12 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, ELECTROSOUND TV HD
 rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:0, Film ON TV Clubbing HD
-http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:0, Fun 1 TV
 mms://portal.satplus.cz/TV_FUN1
 #EXTINF:0, FRESH TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:0, Global Star
 http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8
-#EXTINF:0, Gold TV SD
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
-#EXTINF:0, Greek Music Hits SD-
-mmsh://wpso.com:200/music
-#EXTINF:0, HEAVY METAL TV
-rtmp://70.166.98.130:1935/hmtv/myStream
 #EXTINF:0, HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, HEART TV HD (2)
@@ -67,20 +33,12 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0, JIM TV [COLOR red]OFF[/COLOR]
-http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
 #EXTINF:0, KAZAKISTAN hit TV HD
 http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
 #EXTINF:0, HIT TV SD
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:0, HIT TV SD (2)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:0, HIT TV SD (3)
-http://0100dyndns.tv:7879/live/tazia/tazia/864.m3u8
 #EXTINF:0, M1
 http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
-#EXTINF:0, M2O Music
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, M2O Music FSD
 http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/4050.m3u8
 #EXTINF:0, M6 MUSIC SD
@@ -103,30 +61,18 @@ http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
 http://u.to/jaacAg
 #EXTINF:0, Music BOX France (80s) SD [COLOR red]OFF[/COLOR]
 http://teleclub.fr/musicbox.mp4
-#EXTINF:0, Musica Israel
-http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w73941894_b1392000.m3u8
 #EXTINF:0, NOW MUSIC
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
 #EXTINF:0, Ócko Gold SD
 http://81.201.52.159:8012
-#EXTINF:0, Ócko Hits
-http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
-#EXTINF:0, Ócko TV HD
-http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
 #EXTINF:0, OH TV 
 http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, Planet Pop
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0, Penki TV [COLOR red]OFF[/COLOR]
-rtmp://bb.5ci.lt/live/PenkiTV_VGA
 #EXTINF:0, PIK
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0, PMC IRAN
-http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
-#EXTINF:0, Pop Beat TV SD [COLOR red]OFF[/COLOR]
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/pop_beat_tv-tablet.3gp/pop_beat_tv-tablet.3gp-mr648k.m3u8
 #EXTINF:0, RADIO U TV 
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:0, Real Jamaica TV
@@ -135,42 +81,24 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:0, Rock One HD
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:0, Rotana Music (Arabic) HD
-http://0100dyndns.tv:7879/live/tazia/tazia/564.m3u8
 #EXTINF:0, Rouge TV SD
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 #EXTINF:0, Rouge TV SD (2)
 http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
 #EXTINF:0, Rouge TV SD (3)
 http://rtmp.infomaniak.ch/livecast/rougetv/bratumarian.m3u8
-#EXTINF:0, Single TV SD [COLOR red]OFF[/COLOR]
-http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
 #EXTINF:0, Spirit TV HD
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
-#EXTINF:0, sporttime.tv sports music FSD
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0, Top Music
-http://5.35.240.130:30005
 #EXTINF:0, tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 #EXTINF:0, TVM Channel HD
 http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:0, UMF TV
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
-#EXTINF:0, UTV
-http://82.76.249.77:80/utvedge/utvlive/index.m3u8
-#EXTINF:0, W9 SD
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:0, WOS TV (Netherland) HD
-http://0100dyndns.tv:7879/live/tazia/tazia/1131.m3u8
-#EXTINF:0, XITE TV (Netherland) FSD
-rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
-#EXTINF:0, XITE TV (Netherland) FSD (2)
-http://0100dyndns.tv:7879/live/tazia/tazia/1132.m3u8
-#EXTINF:0, XITE TV Party (Netherland) FSD
-http://highvolume02.streampartner.nl:1935/vleugels/livestream/playlist.m3u8
+
+===================================================================================================
 
 
 #EXTINF:0,[B][COLOR yellow]--Black Music--[/COLOR][/B]
