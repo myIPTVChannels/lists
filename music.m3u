@@ -167,32 +167,24 @@ http://195.189.238.82/streaming/juce/16/tvrec/playlist.m3u8
 #EXTINF:0 group-title="JuCeTV", JuCeTV US
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 
+===============================================================================
+
 #EXTINF:-1,[B][COLOR orange]--Latino--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Latino", Anadolu TV
 rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
-#EXTINF:0 group-title="Latino", BANDAMAX
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="Latino", CANTINAZO TV SD
 http://tinyurl.com/pz9hfsy
-#EXTINF:0 group-title="Latino", Mi Gente TV SD-
-http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u
 #EXTINF:0 group-title="Latino", MIMUSICA HD
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:0 group-title="Latino", MIMUSICA HD (2)
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0 group-title="Latino", Onda Latina SD
-http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="Latino", QUIERO MÚSICA SD-
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0 group-title="Latino", QUIERO MÚSICA (2)
 mms://200.42.92.6:1755/qmusica
-#EXTINF:0 group-title="Latino", RITMOSON
-http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="Latino", SI! TV HD (Latino)
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:0 group-title="Latino", Soy FM TV HD
-http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
 #EXTINF:0 group-title="Latino", Telemusica HD
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 #EXTINF:0 group-title="Latino", Televitrola HD
@@ -203,10 +195,6 @@ rtmp://186.155.200.118:1935/live/Televitrola
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:0 group-title="Latino", Ultra Fiesta HD
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
-#EXTINF:0 group-title="Latino", Ultra Fiesta SD
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
-#EXTINF:0 group-title="Latino", TELEHIT HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="Latino", TV Polanco Colombia
 rtmp://186.155.200.118:1935/live/ColombiasuMusica
 #EXTINF:0 group-title="Latino", Ven FM TV
@@ -215,8 +203,6 @@ http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0 group-title="Latino", tigo MUSIC (2)
 http://tinyurl.com/nmlwdq8
-#EXTINF:0 group-title="Latino", Vivra SD-
-http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8
 
 #EXTINF:-1,[B][COLOR white]--MTV--[/COLOR][/B]
 http://
