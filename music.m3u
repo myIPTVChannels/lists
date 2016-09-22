@@ -204,40 +204,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0 group-title="Latino", tigo MUSIC (2)
 http://tinyurl.com/nmlwdq8
 
-#EXTINF:-1,[B][COLOR white]--MTV--[/COLOR][/B]
-http://
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yrutpr1433945579.png" group-title="MTV", MTV PT SD
-http://www.t12v.com:8000/live/prevot/prevot/1380.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/yrutpr1433945579.png" group-title="MTV", MTV SD
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="MTV", MTV Dance
-http://www.t12v.com:8000/live/prevot/prevot/805.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="MTV", MTV Dance SD
-http://tv3.noip.me/stream/RA9KFWMDAH/147.m3u8
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Russia
-http://www.iptvsaga.com/play/tv3/0182.m3u8
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Russia SD
-http://178.219.48.14:8000/mtv
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD
-http://latinochannels.2fh.co/canales/hls/mtv.m3u8
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Latina SD (2)
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png" group-title="MTV", MTV Azerbaijan
-http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxvsvt1433326477.png" group-title="MTV", MTV Live HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits HD
-http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits
-http://latinochannels.2fh.co/canales/hls/mtv-hits.m3u8
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits FSD
-http://www.t12v.com:8000/live/prevot/prevot/1083.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title="MTV", MTV Hits SD
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks
-http://78.30.254.27:8989/udp/239.0.0.143:4000
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title="MTV", MTV Rocks SD
-http://lag3.tv-mobile.org/prgc.m3u8
+=========================================================
 
 #EXTINF:-1,[B][COLOR blue]--ONE--[/COLOR][/B]
 http://
@@ -249,8 +216,6 @@ rtmp://rtmp.one.by/SD/1muz
 http://rtmp.one.by:1400
 #EXTINF:0 group-title="ONE", ONE 3 
 http://rtmp.one.by:1499
-#EXTINF:0 group-title="ONE", ONE 4
-rtmp://smit1237.asuscomm.com/hls/live_1080p
 #EXTINF:0 group-title="ONE", One Россия
 http://rtmp.one.by:2200
 #EXTINF:0 group-title="ONE", ONE Россия HD
