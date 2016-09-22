@@ -233,77 +233,7 @@ rtmp://91.201.78.3:1935/live/dancehd
 #EXTINF:0 group-title="ONE", ONE Jazz HD
 rtmp://91.201.78.3:1935/live/jazzhd
 
-#EXTINF:-1,[B][COLOR brown]--VIVA--[/COLOR][/B] 
-http://
-#EXTINF:0 group-title="VIVA", VIVA DE [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://026fea149c67730230be601de17b75ef7b7df5a4&name=VIVA
-
-
-#EXTINF:0,[B][COLOR red]--VEVO--[/COLOR][/B]
-http://
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Music FHD
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 FHD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 FHD (2)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 HD (3)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 FSD (1)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 SD (2)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/01/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 SD (3)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 SD (4)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
-
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 2 HD
-http://bit.do/VEVO-2-HD
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 3 HD
-http://bit.do/VEVO-3-HD
-
-
-
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Hip Hop TV FHD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Hip Hop TV FHD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Hip Hop TV HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Hip Hop TV FSD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Hip Hop TV SD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Hip Hop TV SD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/01/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Hip Hop TV SD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Nashville - The Best Country 24/7 FHD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Nashville - The Best Country 24/7 FHD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Nashville - The Best Country 24/7 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Nashville - The Best Country 24/7 FSD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Nashville - The Best Country 24/7 SD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/01/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Nashville - The Best Country 24/7 SD (1)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
-#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Nashville - The Best Country 24/7 SD (2)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
-
-#EXTINF:0,[B][COLOR purple]--VH1--[/COLOR][/B]
-http://
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 SD
-http://www.t12v.com:8000/live/prevot/prevot/499.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 HD
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png" group-title="VH1", VH1 Classic
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="VH1", VH1 Europe
-http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
+=====================================================================
 
 #EXTINF:0,[B][COLOR pink]--VIRGIN--[/COLOR][/B]
 http://
