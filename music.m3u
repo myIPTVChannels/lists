@@ -112,14 +112,14 @@ http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", AKA Hip Hop
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
+====================================================================================================
+
 #EXTINF:0,[B][COLOR blue]--Djing--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Djing", Djing
 http://www.djing.com/tv/01.m3u8
 #EXTINF:0 group-title="Djing", Djing  
 http://cdn.djing.com/tv/05.m3u8
-#EXTINF:0 group-title="Djing", Djing HD
-http://www.djing.com/tv/h-05.m3u8
 #EXTINF:0 group-title="Djing", Djing Ibiza HD-
 http://www.djing.com/tv/d-05.m3u8
 #EXTINF:0 group-title="Djing", Djind Underground
@@ -136,6 +136,8 @@ http://www.djing.com/tv/i-05.m3u8
 http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:0 group-title="Djing", Djind Dancefloor SD
 http://www.djing.com/tv/dancefloor.m3u8
+
+=========================================================================0
 
 #EXTINF:0,[B][COLOR yellow]--ESKA--[/COLOR][/B]
 http://
