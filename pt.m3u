@@ -1,5 +1,95 @@
 #EXTM3U
 
+#EXTINF:-1,LINKS TEMPORARIOS
+http://0.0.0.0
+#EXTINF:-1,Cinemundo
+http://83.78.191.43:3011
+#EXTINF:-1,CMTV
+http://83.78.191.43:3012
+#EXTINF:-1,TVI
+http://83.78.191.43:3017
+#EXTINF:-1,E! Entertainment
+http://83.78.191.43:3018
+#EXTINF:-1,Eurosport 2
+http://83.78.191.43:3019
+#EXTINF:-1,FOX Comedy
+http://83.78.191.43:3020
+#EXTINF:-1,FOX
+http://83.78.191.43:3021
+#EXTINF:-1,FOX News
+http://83.78.191.43:3022
+#EXTINF:-1,Histѓria
+http://83.78.191.43:3024
+#EXTINF:-1,Jim Jam
+http://83.78.191.43:3026
+#EXTINF:-1,Hollywood
+http://83.78.191.43:3025
+#EXTINF:-1,Kombat Sport
+http://83.78.191.43:3027
+#EXTINF:-1,MCM POP
+http://83.78.191.43:3028
+#EXTINF:-1,Motors TV
+http://83.78.191.43:3031
+#EXTINF:-1,Odisseia
+http://83.78.191.43:3032
+#EXTINF:-1,Porto Canal
+http://83.78.191.43:3034
+#EXTINF:-1,Real Madrid TV
+http://83.78.191.43:3036
+#EXTINF:-1,RTP 1
+http://83.78.191.43:3038
+#EXTINF:-1,RTP 2
+http://83.78.191.43:3039
+#EXTINF:-1,RTP 3
+http://83.78.191.43:3040
+#EXTINF:-1,RTP Сfrica
+http://83.78.191.43:3041
+#EXTINF:-1,SIC
+http://83.78.191.43:3042
+#EXTINF:-1,SIC Caras
+http://83.78.191.43:3043
+#EXTINF:-1,SIC Notэcias
+http://83.78.191.43:3045
+#EXTINF:-1,SIC K
+http://83.78.191.43:3044
+#EXTINF:-1,SIC Radical
+http://83.78.191.43:3046
+#EXTINF:-1,SPORT TV 1
+http://83.78.191.43:3047
+#EXTINF:-1,SPORT TV 2
+http://83.78.191.43:3048
+#EXTINF:-1,SPORT TV 4
+http://83.78.191.43:3049
+#EXTINF:-1,Syfy
+http://83.78.191.43:3050
+#EXTINF:-1,TVCine 2
+http://83.78.191.43:3054
+#EXTINF:-1,TVCine 1
+http://83.78.191.43:3053
+#EXTINF:-1,TV Record
+http://83.78.191.43:3052
+#EXTINF:-1,TVCine 3
+http://83.78.191.43:3055
+#EXTINF:-1,TVI 24
+http://83.78.191.43:3057
+#EXTINF:-1,TVCine 4
+http://83.78.191.43:3056
+#EXTINF:-1,TVSщries
+http://83.78.191.43:3059
+#EXTINF:-1,TVI Ficчуo
+http://83.78.191.43:3058
+#EXTINF:-1,National Geographic
+http://83.78.191.43:3062
+#EXTINF:-1,SPORT TV 3
+http://83.78.191.43:3063
+#EXTINF:-1,AXN
+http://83.78.191.43:3065
+#EXTINF:-1,Baby TV
+http://83.78.191.43:3066
+#EXTINF:-1,MTV Portugal
+http://83.78.191.43:3067
+====================================================00
+
 #EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
