@@ -88,7 +88,9 @@ http://83.78.191.43:3065
 http://83.78.191.43:3066
 #EXTINF:-1,MTV Portugal
 http://83.78.191.43:3067
-====================================================00
+====================================================
+#EXTINF:-1,
+http://0.0.0.0
 
 #EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
