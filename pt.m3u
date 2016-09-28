@@ -1,15 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
-http://83.78.191.43:2038/
  
 #EXTINF:-1 tvg-name="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png", RTP 2 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-name="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png", RTP 2 [SD]
-http://83.78.191.43:2039/
 
 #EXTINF:-1 tvg-name="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
 http://c.securestreaming.xyz:1935/live/sichjdebiUW6/chunklist_w89969947.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODA1MiZoYXNoX3ZhbHVlPWI0Y2VjNzdkOWFmNzc5MTlmNjkwOGU0MTE2N2NlZmIzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D   conn=S:OK
@@ -29,17 +23,11 @@ http://c.securestreaming.xyz:1935/live/tvia801o/chunklist_w530903838.m3u8?v&Toke
 #EXTINF:-1 tvg-name="rtp3" audio-track="pt" tvg-logo="http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png", RTP 3
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 
-#EXTINF:-1 tvg-name="rtp3" audio-track="pt" tvg-logo="http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png", RTP 3
-http://83.78.191.43:2040/
-
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png", RTP Açores [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
  
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png", RTP África [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png", RTP África [SD]
-http://83.78.191.43:2041/
  
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png", RTP Madeira [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
@@ -65,9 +53,6 @@ rtmp://178.162.199.155/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f
 #EXTINF:-1 tvg-name="siccaras" audio-track="pt "tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS [FSD]
 http://www.t12v.com:8000/live/prevot/prevot/1422.ts
 
-#EXTINF:-1 tvg-name="siccaras" audio-track="pt" tvg-logo="http://quinto-canal.com/wp-content/uploads/2013/10/sic-caras.jpg", SIC CARAS
-http://83.78.191.43:2043/
-
 #EXTINF:-1 tvg-name="sicmulher" audio-track="pt" tvg-logo="http://c8.quickcachr.fotos.sapo.pt/i/B221392d3/14580886_63Vde.jpeg", SIC MULHER
 http://178.162.199.138:8088/live/sicm02/playlist.m3u8?id=85250&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5 
 
@@ -76,9 +61,6 @@ http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvificcao" tvg-logo="http://www.tvi.iol.pt/img/logo-TVI_FICCAO.png?v3", TVI FICCAO
-http://83.78.191.43:2058/
 
 #EXTINF:-1 tvg-id="tvificcao" tvg-logo="http://www.tvi.iol.pt/img/logo-TVI_FICCAO.png?v3", TVI FICCAO
 http://46.28.50.116:8088/live/tvicrl/playlist.m3u8?id=24273&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
@@ -91,9 +73,6 @@ http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
 
 #EXTINF:-1 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
 rtsp://213.13.26.11:1935/live/portocanal
-
-#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CMTV [FSD]
-http://83.78.191.43:2012/
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png", Euronews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
