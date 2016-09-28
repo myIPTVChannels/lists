@@ -149,34 +149,21 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 #EXTINF:-1,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 audio-track="eng",Rever daqui para baixo
-http://
-
-
-#EXTINF:-1,Eska Tv
-http://stream.smcloud.net/live/eskatv/aylist.m3u8
-#EXTINF:-1,Eska Best Music Hd
-http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
-#EXTINF:-1,Eska Best Music
-rtmp://stream.smcloud.net:1935/live2/best/best_720p
-#EXTINF:-1,Eska Vox Hd
-http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
-#EXTINF:-1,Eska Rock Tv
-rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
 #EXTINF:-1,RADIO 105 TV
 rtmp://fms.105.net/live/105Test1
-#EXTINF:-1,EUROPA PLUS TV
-rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
-#EXTINF:-1,Telemusica
-http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+
 #EXTINF:-1,VM Music
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
+
 #EXTINF:-1,Clubland TV
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
 #EXTINF:-1,Planet POP
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
 #EXTINF:-1,AKA Hip Hop
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
 #EXTINF:-1,Djing HD
 http://www.djing.com/tv/h-05.m3u8
 #EXTINF:-1,Djing Dancefloor HD
@@ -191,16 +178,22 @@ http://www.djing.com/tv/a-05.m3u8
 http://www.djing.com/tv/i-05.m3u8
 #EXTINF:-1,Djing DJS
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
-#EXTINF:-1,Kiss TV
+
+#EXTINF:-1,HITS TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
 #EXTINF:-1,Virgin TV 1
 http://fms.105.net:1935/live/virgin1/playlist.m3u8
 #EXTINF:-1,Virgin TV 2
 rtmp://fms.105.net:1935/live/virgin2
-#EXTINF:-1,Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
 #EXTINF:-1,M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 audio-track="eng",Rever daqui para baixo
+http://
+
+
 #EXTINF:-1,Zoom Music TV
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_150.sdp/playlist.m3u8
 #EXTINF:-1,Gold TV
