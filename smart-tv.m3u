@@ -44,266 +44,115 @@ http://213.13.26.11:1935/live/portocanal/magellan.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/artv.png",AR TV Parlamento
 rtsp://www.canal.parlamento.pt/Live
 
-
-#EXTINF:-1,Canais não Revistos___________
-http://
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
-btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:-1,Viasat Sport
-http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,Sports TV
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
-#EXTINF:-1,НТВ+ Спорт Плюс
-http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+
 #EXTINF:-1,Fox Sports AU
 http://motorsport.hopto.org:8080/
 
 #EXTINF:-1,Eurosport FR  HD
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Bein Sports 1
-http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:-1,Bein Sports 2
-http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1,Bein Sports 3 
-http://180.250.29.12/jhos/beib3_3/1424681986/playlist.m3u8
-#EXTINF:-1,Sport Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-#EXTINF:-1,CDN Sports Max
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
 #EXTINF:-1,Rete Sport 8
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-#EXTINF:-1,Turmen Sports
-http://tv.online.tm/hls/ch004_md/index.m3u8
-#EXTINF:-1,NBA HD
-http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
-#EXTINF:-1,ESPN Brasil
-http://37.203.209.34:443/mobile/flash01sd/IPTVGLOBAL.m3u8
 
-#EXTINF:-1,SPORTV
-http://37.203.209.34:443/mobile/bob05sd/IPTVGLOBAL.m3u8
-#EXTINF:-1,SPORTV 3 
-http://37.203.209.34:443/mobile/bob06sd/IPTVGLOBAL.m3u8
-#EXTINF:-1,SPORTV 3 
-http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
 #EXTINF:-1,TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
-#EXTINF:-1,PFC 24Hrs 
-http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
-#EXTINF:-1,E+I Maxx SD
-http://37.203.209.34:443/mobile/flash48/IPTVGLOBAL.m3u8
 
-#EXTINF:-1,DXTV
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1,Slovak Sport 1
-rtmp://195.168.51.178/live/ss1HD
-#EXTINF:-1,Slovak Sport 2
-rtmp://195.168.51.178/live/ss2hd
-#EXTINF:-1,BT/Sky
-rtmp://secure.hdcast.org/justforvip/llive1
-#EXTINF:-1,IRAK Iraqiya Sport
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:-1,Sports Night
-rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1,Ring
-http://lag1.tv-mobile.org/prgr.m3u8 
-#EXTINF:-1,Diema Sport 2
-http://lag1.tv-mobile.org/prgt.m3u8
-#EXTINF:-1,NFL Network
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-#EXTINF:-1,Nbc Sports Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,Sport Time TV 1
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1,Sport Time TV 2
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1,Sport Time TV 3
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200	
-#EXTINF:-1,Sport Time TV 4
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200	
-#EXTINF:-1,Sport Time TV 5
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200	
-#EXTINF:-1,Sport Time TV 6
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200		
-#EXTINF:-1,Sport Time TV 7
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200	
-#EXTINF:-1,Kaz Sport
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 #EXTINF:-1,BS TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
+
 #EXTINF:-1,100 Live Sport
 mms://100automoto.tv/100livesport
+
 #EXTINF:-1,Bmw
 mms://100automoto.tv/bmw
+
 #EXTINF:-1,Electric
 mms://100automoto.tv/channel_electric
+
 #EXTINF:-1,Italy
 mms://100automoto.tv/channel_italy
+
 #EXTINF:-1,Mercedes
 mms://100automoto.tv/channel_mercedes
+
 #EXTINF:-1,Porsche
 mms://100automoto.tv/channel_porsche
-#EXTINF:-1,Motorsport 1
-http://motorsport.hopto.org:8081/
-
-#EXTINF:-1 ,Fight Network
-http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
-#EXTINF:0, UFC - ULTIMATE FIGHTING CHAMPIONSHIP
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
-#EXTINF:-1, Canal Combate 
-http://bit.ly/IPTVGlobal-combate
-#EXTINF:-1, Canal Combate 
-rtmp://109.236.88.32/livepkgr/combate live=1
-#EXTINF:0,BOX NATION
-http://s3.iptvapi.com:8081/BOX/index.m3u8
-#EXTINF:-1, WWE
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
-#EXTINF:-1, XTREME IMPACTS
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1, KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-
-#EXTINF:-1 audio-track="eng",Nickelodeon
-http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
-#EXTINF:-1 audio-track="eng",Nickelodeon
-http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
-#EXTINF:-1 audio-track="eng",Nick Jr.
-http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
-#EXTINF:-1 audio-track="eng",Cartoon Network
-http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
-
-#EXTINF:-1,Cinemax 
-http://lag2.tv-mobile.org/prgb.m3u8 
-#EXTINF:-1,AXN 
-http://lag2.tv-mobile.org/prgd.m3u8 
-#EXTINF:-1,HBO 
-http://lag2.tv-mobile.org/prgp.m3u8 
-#EXTINF:-1,Filmbox 
-http://lag1.tv-mobile.org/prgw.m3u8
 
 #EXTINF:-1,TVE1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+
 #EXTINF:-1,TVE1
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+
 #EXTINF:-1,TVE2
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
 #EXTINF:-1,TVE2
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-#EXTINF:-1,TDP
-http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,TDP
-http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+
 #EXTINF:-1,TVE 24H
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
 #EXTINF:-1,TVE 24H
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1,TravelTve
-rtmp://87.106.219.140:1935/live/myStream_2
-#EXTINF:-1,Cuatro
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_12@168472/index_0_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Telecinco
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
-#EXTINF:-1,Telecinco
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-#EXTINF:-1,Antena 3
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,LaSexta
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
 #EXTINF:-1,LaSexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
 #EXTINF:-1,LaSexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Neox
-http://a3live-lh.akamaihd.net/i/neox/neox_1@35261/master.m3u8
-#EXTINF:-1,Galicia
-http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1,Galicia America
-http://media3.crtvg.es/live/tvga/playlist.m3u8
-#EXTINF:-1,Galicia Europa
-http://media3.crtvg.es/live/tvge/playlist.m3u8
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
-#EXTINF:-1,Tele B
-http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8
-#EXTINF:-1,Tele Bilbao 
-rtmp://178.32.53.254/telebilbao/livestream 
-#EXTINF:-1,Levante TV
-rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
-#EXTINF:1,Mediterranea TV
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1,Asturias
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
 #EXTINF:-1,Extremadura Tv
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
 #EXTINF:-1,Castilla La Mancha
 http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:-1,Castilla La Mancha
-http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
-#EXTINF:-1,Tv Miami Life
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+
 #EXTINF:-1,ETB
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+
 #EXTINF:-1,ElCorreoTV
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+
 #EXTINF:-1,IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1,RTVB 
-http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8 
-#EXTINF:-1,TV4 
-http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8 
-
-#EXTINF:-1,HD Fashion
-rtmp://95.67.8.43:1935/live/fashionhd
 
 #EXTINF:-1,One
 http://rtmp.one.by:2300
-#EXTINF:-1, O2 Music
-http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8
+
 #EXTINF:-1,Vox Tv
 rtmp://stream.smcloud.net:1935/live2/vox/vox_720p
+
 #EXTINF:-1,M6 Music
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1,VH1 Classic
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
+
 #EXTINF:-1,City
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
 #EXTINF:-1,Dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1,1 Hd
-http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+
 #EXTINF:-1,1 HD
-rtmp://109.239.142.62:1935/live/livestream3
-#EXTINF:-1,Capital Tv
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+
+#EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Heart Tv
+
+#EXTINF:-1,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,Vevo 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,Vevo 1
-http://pvr.tvip.ga/9001.m3u8
-#EXTINF:-1,Vevo 1
-http://pvr.tvip.ga/9002.m3u8
-#EXTINF:-1,Vevo 2
-http://pvr.tvip.ga/9003.m3u8
-#EXTINF:-1,Vevo 2
-http://pvr.tvip.ga/9004.m3u8
-#EXTINF:-1,Vevo 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,Vevo 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Vevo 3
-http://pvr.tvip.ga/9005.m3u8
-#EXTINF:-1,Vevo 3
-http://pvr.tvip.ga/9006.m3u8
-#EXTINF:-1 audio-track="eng",Bridge TV
-http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
+
+#EXTINF:-1 audio-track="eng",Rever daqui para baixo
+http://
+
+
 #EXTINF:-1,Eska Tv
 http://stream.smcloud.net/live/eskatv/aylist.m3u8
 #EXTINF:-1,Eska Best Music Hd
