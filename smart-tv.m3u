@@ -190,103 +190,38 @@ rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:-1,M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 audio-track="eng",Rever daqui para baixo
-http://
-
-
-#EXTINF:-1,Zoom Music TV
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_150.sdp/playlist.m3u8
-#EXTINF:-1,Gold TV
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
-#EXTINF:-1,Miami Music TV
-http://74.208.152.93/music/stream3/stream.m3u8
-#EXTINF:-1,Music India
-http://hlshinextra-lh.akamaihd.net/i/ams4_musicind@124573/index_1100_av.m3u8?e=e745d0932c6d36ab&hdnea=ip=124.197.50.67~st=1427274120~exp=1427274420~acl=*~data=0~hmac=ccb65cdb812846dfd3c6cd7e6d6c8611702b8dc8ff5a1f5443399810f625a359&attributes=off
-#EXTINF:-1,TV Polanco
-http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8
 #EXTINF:-1,For Music TV
 http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
-#EXTINF:-1,Polo Party TV
-rtmp://stream.smcloud.net:1935/live2/polo_party/polo_party_720p
-#EXTINF:-1,Polo Party Polska
-http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
+
 #EXTINF:-1,Radio 5 TV
 rtmp://fms.105.net:1935/live/105Test1
-#EXTINF:-1,b4U Music
-http://46.249.213.87/iPhone/HLS_TS/broadcast/befouryoumusic-tablet.3gp/befouryoumusic-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,Ven FM TV
-http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
-#EXTINF:-1,Soy FM TV
-http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Cool Radio Music Videos
-http://cdn6.iviplanet.com:1935/AVRA/myStream.sdp/playlist.m3u8
+
 #EXTINF:-1,Dream TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
 #EXTINF:-1,Indies Live
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1,Ultrafiesta
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+
 #EXTINF:-1,Amazing TV
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1,Mezzo
-http://188.93.94.46:80/mezzo/index.m3u8
-#EXTINF:-1,Zik
-http://vm-edge-nolanet.la.net.ua/tv/9050.m3u8
+
 #EXTINF:-1,PIK SD
 rtmp://fms.pik-tv.com/live/piktv2pik2tv
 #EXTINF:-1,PIC HD
 rtmp://fms.pik-tv.com/live/piktv3pik3tv
+
 #EXTINF:-1,Golspel TV 
 rtmp://188.165.135.22/gospeltv/livestream
 
-#EXTINF:-1,Univision
-http://209.133.208.202:1935/app/turbomax-hds-channel/playlist.m3u8
-#EXTINF:-1,Gala Tv
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-#EXTINF:-1,Azteca 7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,Azteca Trece 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1,Canal de las Estrellas
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,Canal de las Estrellas
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1,Canal de las Estrellas
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
 #EXTINF:-1,PROYECTO 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:-1,Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1, Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-#EXTINF:-1,Telemundo
-http://209.133.208.162:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
-#EXTINF:-1,Telemundo
-http://69.46.21.170:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
-#EXTINF:-1,Telemundo
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,Canal 4
-rtmp://159.16.243.10/live/canal4/canal4
-#EXTINF:-1,Canal 7
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Ocho Tv
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,multimedios
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
-#EXTINF:-1,Azteca Noticias 
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,TV Peru
-http://iphone-streaming.ustream.tv/uhls/17419715/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,Canal 2 Los Mochis Mexico
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
-#EXTINF:-1,Canal 2 Obregon Mexico
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
-#EXTINF:-1,Cinemax
-http://201.161.59.7/cinemax.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Canal Once
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Tele Caribe
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/playlist_b750000.m3u8
+
+#EXTINF:-1 audio-track="eng",Rever daqui para baixo
+http://
+
 #EXTINF:-1,Mega HD
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:-1,America TV
