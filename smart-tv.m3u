@@ -1,40 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png",RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png",RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png",RTP 1
-http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png",RTP 2
-http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
-http://213.13.26.11:1935/live/sic/cookiemonster.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
-http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ss/sic_pt.png",SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
-http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png",SIC Noticias
-http://213.13.26.12:1935/live/sicnoticias/cookiemonster.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png",Economico TV
-rtmp://213.13.26.11/live/etv_direto
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png",Economico TV
-http://213.13.26.12:1935/live/etv_direto/cookiemonster.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvi_pt.png",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png",RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png",RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png",RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png",RTP MEMORIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png",SIC MULHER
+http://178.162.199.138:8088/live/sicm02/playlist.m3u8?id=85250&wowzasessionid=3614641695&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvi_24.png",TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HVBkpWS.png",PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/magellan.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/artv.png",AR TV Parlamento
 rtsp://www.canal.parlamento.pt/Live
-#EXTINF:-1,Cancao Nova
-http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
-#EXTINF:-1,Capelinha Santuario Fatima
-http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
-#EXTINF:-1,Disney Junior BR
-http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas FHD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas HD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas SD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master.m3u8
+
+#EXTINF:-1,Canais não Revistos___________
+http://
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
+btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
