@@ -1,97 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1,LINKS TEMPORARIOS
-http://0.0.0.0
-#EXTINF:-1,Cinemundo
-http://83.78.191.43:3011
-#EXTINF:-1,CMTV
-http://83.78.191.43:3012
-#EXTINF:-1,TVI
-http://83.78.191.43:3017
-#EXTINF:-1,E! Entertainment
-http://83.78.191.43:3018
-#EXTINF:-1,Eurosport 2
-http://83.78.191.43:3019
-#EXTINF:-1,FOX Comedy
-http://83.78.191.43:3020
-#EXTINF:-1,FOX
-http://83.78.191.43:3021
-#EXTINF:-1,FOX News
-http://83.78.191.43:3022
-#EXTINF:-1,Histѓria
-http://83.78.191.43:3024
-#EXTINF:-1,Jim Jam
-http://83.78.191.43:3026
-#EXTINF:-1,Hollywood
-http://83.78.191.43:3025
-#EXTINF:-1,Kombat Sport
-http://83.78.191.43:3027
-#EXTINF:-1,MCM POP
-http://83.78.191.43:3028
-#EXTINF:-1,Motors TV
-http://83.78.191.43:3031
-#EXTINF:-1,Odisseia
-http://83.78.191.43:3032
-#EXTINF:-1,Porto Canal
-http://83.78.191.43:3034
-#EXTINF:-1,Real Madrid TV
-http://83.78.191.43:3036
-#EXTINF:-1,RTP 1
-http://83.78.191.43:3038
-#EXTINF:-1,RTP 2
-http://83.78.191.43:3039
-#EXTINF:-1,RTP 3
-http://83.78.191.43:3040
-#EXTINF:-1,RTP Сfrica
-http://83.78.191.43:3041
-#EXTINF:-1,SIC
-http://83.78.191.43:3042
-#EXTINF:-1,SIC Caras
-http://83.78.191.43:3043
-#EXTINF:-1,SIC Notэcias
-http://83.78.191.43:3045
-#EXTINF:-1,SIC K
-http://83.78.191.43:3044
-#EXTINF:-1,SIC Radical
-http://83.78.191.43:3046
-#EXTINF:-1,SPORT TV 1
-http://83.78.191.43:3047
-#EXTINF:-1,SPORT TV 2
-http://83.78.191.43:3048
-#EXTINF:-1,SPORT TV 3
-http://83.78.191.43:3063
-#EXTINF:-1,SPORT TV 4
-http://83.78.191.43:3049
-#EXTINF:-1,Syfy
-http://83.78.191.43:3050
-#EXTINF:-1,TVCine 2
-http://83.78.191.43:3054
-#EXTINF:-1,TVCine 1
-http://83.78.191.43:3053
-#EXTINF:-1,TV Record
-http://83.78.191.43:3052
-#EXTINF:-1,TVCine 3
-http://83.78.191.43:3055
-#EXTINF:-1,TVI 24
-http://83.78.191.43:3057
-#EXTINF:-1,TVCine 4
-http://83.78.191.43:3056
-#EXTINF:-1,TVSщries
-http://83.78.191.43:3059
-#EXTINF:-1,TVI Ficчуo
-http://83.78.191.43:3058
-#EXTINF:-1,National Geographic
-http://83.78.191.43:3062
-#EXTINF:-1,AXN
-http://83.78.191.43:3065
-#EXTINF:-1,Baby TV
-http://83.78.191.43:3066
-#EXTINF:-1,MTV Portugal
-http://83.78.191.43:3067
-====================================================
-#EXTINF:-1,
-http://0.0.0.0
-
 #EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
@@ -149,10 +56,19 @@ rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 #EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC NOTICIAS
 http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
+http://www.t12v.com:8000/live/prevot/prevot/1159.ts
+
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
+rtmp://178.162.199.155/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/599/399 conn=S:OK
+
+#EXTINF:-1 tvg-name="siccaras" audio-track="pt "tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS [FSD]
+http://www.t12v.com:8000/live/prevot/prevot/1422.ts
+
 #EXTINF:-1 tvg-name="siccaras" audio-track="pt" tvg-logo="http://quinto-canal.com/wp-content/uploads/2013/10/sic-caras.jpg", SIC CARAS
 http://83.78.191.43:2043/
 
-#EXTINF:-1 tvg-name="sicmilher" audio-track="pt" tvg-logo="http://c8.quickcachr.fotos.sapo.pt/i/B221392d3/14580886_63Vde.jpeg", SIC MULHER
+#EXTINF:-1 tvg-name="sicmulher" audio-track="pt" tvg-logo="http://c8.quickcachr.fotos.sapo.pt/i/B221392d3/14580886_63Vde.jpeg", SIC MULHER
 http://178.162.199.138:8088/live/sicm02/playlist.m3u8?id=85250&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5 
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
@@ -167,13 +83,19 @@ http://83.78.191.43:2058/
 #EXTINF:-1 tvg-id="tvificcao" tvg-logo="http://www.tvi.iol.pt/img/logo-TVI_FICCAO.png?v3", TVI FICCAO
 http://46.28.50.116:8088/live/tvicrl/playlist.m3u8?id=24273&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção [FSD]
+http://c.securestreaming.xyz:1935/live/tvificcao3dVQo/chunklist_w1769820660.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzQzMTY4MiZoYXNoX3ZhbHVlPTU5NDRlNThmZTg1OTFhMDZkZDA3ZDU4ZjBlNzEyNzkzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png", + TVI [FSD]
+http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
+
 #EXTINF:-1 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
 rtsp://213.13.26.11:1935/live/portocanal
 
 #EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CMTV [FSD]
 http://83.78.191.43:2012/
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png", EURONEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png", Euronews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png", Euronews [SD]
@@ -184,33 +106,21 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
 #EXTINF:0 tvg-id="tvL" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png", tvL [SD]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
- 
+
 #EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg", TV CABO VERDE
 rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
- 
+
 #EXTINF:0 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png", TPA Internacional [SD]
 rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
+
+#EXTINF:0, TCV
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?
 
 #EXTINF:0 tvg-id="ARTV" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png", ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
 
 #EXTINF:0 tvg-id="TV CIENCIA .pt" tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/TV-Ciencia.jpg", TV CIÊNCIA [SD]
 mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
-
-#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
-http://www.t12v.com:8000/live/prevot/prevot/1159.ts
-
-#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
-rtmp://178.162.199.155/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/599/399 conn=S:OK
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS [FSD]
-http://www.t12v.com:8000/live/prevot/prevot/1422.ts
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png", + TVI [FSD]
-http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção [FSD]
-http://c.securestreaming.xyz:1935/live/tvificcao3dVQo/chunklist_w1769820660.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzQzMTY4MiZoYXNoX3ZhbHVlPTU5NDRlNThmZTg1OTFhMDZkZDA3ZDU4ZjBlNzEyNzkzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
 
 #EXTINF:-1 tvg-id="CancaoNova.PT" tvg-logo="http://diocesedelorena.com/wp-content/uploads/2013/12/Marca-Can%C3%A7%C3%A3o-Nova-2010.png", Canção Nova
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
