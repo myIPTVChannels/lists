@@ -54,7 +54,7 @@ http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 #EXTINF:0 tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png",ARTV [SD]
 http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/KodiPortugal.pt.m3u8
 
-#EXTINF:-1 tvg-id="CancaoNova.PT" tvg-logo="http://diocesedelorena.com/wp-content/uploads/2013/12/Marca-Can%C3%A7%C3%A3o-Nova-2010.png",CANÇÃO NOVA [SD]
+#EXTINF:-1 tvg-id="CancaoNova.PT" tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANÇÃO NOVA [SD]
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTUÁRIO DE FÁTIMA [FSD]
