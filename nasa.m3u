@@ -1,22 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NTV-1 (Public)" tvg-logo="public.jpg" group-title="NASA TV",[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV-1 (Public)" tvg-logo="public.jpg" group-title="NASA TV",[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/5/9/2/1592587/1592587_nasatv_public_hr_1330362002,640x360,b:1.jpg",NASA PUBLIC HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1 tvg-id="NTV-2 (Education)" tvg-logo="edu.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV-2 (Education)" tvg-logo="edu.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
-http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
-#EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/10414700/streams/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,640x360,b:1.jpg",NASA TV MEDIA HD
 http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
-#EXTINF:-1 tvg-id="ISS (Live)" tvg-logo="iss.jpg" group-title="NASA TV",[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ISS (Live)" tvg-logo="iss.jpg" group-title="NASA TV",[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg",LIVE ISS STREAM HD
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-#EXTINF:-1 tvg-id="THIRD ROCK RADIO (Radio)" tvg-logo="radio.jpg" group-title="NASA RADIO",[COLOR yellow][B]THIRD ROCK RADIO[/B][/COLOR]
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://player.streamguys.com/thirdrock/sgplayer/include/assets/img/ThirdRockRadio500x500.jpg",THIRD ROCK RADIO MP3
 http://rfcmedia2.streamguys1.com/thirdrock.mp3
-#EXTINF:-1,[COLOR blue][B]By: [I]Rui Moreira[/I][/B][/COLOR]
- 
-IMPORTANT NOTE - All links that are in my channels list are not of my authorship, but the hours of research and organization of the lists, this merit is all mine! Please do not remove the credits "By: Rui Moreira".
