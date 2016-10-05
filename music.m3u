@@ -155,6 +155,8 @@ http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:0,[B][COLOR blue]--ESKA/Polo--[/COLOR][/B]
 http://
+#EXTINF:-1, ESKATV Music
+rtmp://stream.smcloud.net/live/eskatv
 #EXTINF:-1, Polo TV
 http://stream.smcloud.net/live/polotv/index.m3u8
 #EXTINF:-1, VOX Music TV
