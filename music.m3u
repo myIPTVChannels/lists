@@ -33,6 +33,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 #EXTINF:0, INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1, JOIZ DE
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
 #EXTINF:0, KAZAKISTAN hit TV HD
 http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
 #EXTINF:0, HIT TV SD
@@ -203,6 +205,13 @@ http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0 group-title="Latino", tigo MUSIC (2)
 http://tinyurl.com/nmlwdq8
+
+===============================================================================
+
+#EXTINF:-1,[B][COLOR white]--MTV--[/COLOR][/B]
+http://
+#EXTINF:-1 group-title="MTV", MTV Live HD
+http://109.226.64.90:4022/udp/232.0.2.51:1234
 
 =========================================================
 
