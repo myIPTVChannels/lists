@@ -5,12 +5,16 @@ http://92.249.129.152/stream/1music.m3u8
 http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:-1, ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:0, AMAZING TV HD
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, CAPITAL TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1, CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:0, CLUBLAND SD
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cmc-tv.com/images/camuslogo.gif", CMC TV SD-
@@ -19,8 +23,6 @@ rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CM
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, dream TV HD
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0, dream TV HD (2)
-http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, ELECTROSOUND TV HD
 rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:0, Fun 1 TV
@@ -71,6 +73,8 @@ http://teleclub.fr/musicbox.mp4
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, NRJ TV
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
+#EXTINF:0, NRJ TV (2)
+rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
 #EXTINF:0, Ócko Gold SD
 http://81.201.52.159:8012
 #EXTINF:0, OH TV 
@@ -79,12 +83,14 @@ http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wo
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, PIK
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0, RADIO U TV 
+#EXTINF:0, RADIO U TV
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:0, Real Jamaica TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:0, Retro TV
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+#EXTINF:-1, Rock
+rtmp://91.201.78.3/live/rockhd
 #EXTINF:0, Rock One HD
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:0, Rouge TV SD
@@ -97,10 +103,10 @@ http://rtmp.infomaniak.ch/livecast/rougetv/bratumarian.m3u8
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-tvm3
+#EXTINF:0, tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
 #EXTINF:0, TVD1 HD
-http://stream02.tvd1.hu:8081/tvd1p_live/hd/playlist.m3u8 
+http://stream02.tvd1.hu:8081/tvd1p_live/hd/playlist.m3u8
 #EXTINF:0, TVM Channel HD
 http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:0, UMF TV
@@ -147,7 +153,16 @@ http://www.djing.com/tv/dancefloor.m3u8
 
 =========================================================================
 
-#EXTINF:0,[B][COLOR white]--Italia--[/COLOR][/B]
+#EXTINF:0,[B][COLOR blue]--ESKA/Polo--[/COLOR][/B]
+http://
+#EXTINF:-1, Polo TV
+http://stream.smcloud.net/live/polotv/index.m3u8
+#EXTINF:-1, VOX Music TV
+rtmp://stream.smcloud.net/live/vox2/stream1#plugin_player
+
+=========================================================================
+
+#EXTINF:0,[B][COLOR green]--Italia--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Italia", For Music TV
 http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
@@ -159,6 +174,8 @@ http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 #EXTINF:0 group-title="Italia", Rádio CAPITAL TiVu SD
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:0 group-title="Italia", Radio Luna Partenopeo TV
+mmsh://83.216.165.134/rltv?MSWMExt=.asf
 #EXTINF:0 group-title="Italia", RADIO MONTE CARLO TV (2)
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:0 group-title="Italia", RADIO MONTE CARLO TV (3)
@@ -177,7 +194,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 
 ===============================================================================
 
-#EXTINF:-1,[B][COLOR orange]--Latino--[/COLOR][/B]
+#EXTINF:-1,[B][COLOR brown]--Latino--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="Latino", Anadolu TV
 rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
@@ -221,7 +238,7 @@ http://109.226.64.90:4022/udp/232.0.2.51:1234
 
 =========================================================
 
-#EXTINF:-1,[B][COLOR blue]--ONE--[/COLOR][/B]
+#EXTINF:-1,[B][COLOR orange]--ONE--[/COLOR][/B]
 http://
 #EXTINF:0 group-title="ONE", ONE 1 HD
 http://rtmp.one.by:1300
@@ -287,3 +304,26 @@ http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:0 group-title=”Turkia”, TRT OKUL
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+
+=======================================================
+
+#EXTINF:-1,[B][COLOR blue]--Russia--[/COLOR][/B]
+http://
+#EXTINF:-1, 9 Волна
+rtmp://176.9.127.102/live/myStream_1
+#EXTINF:-1, Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1, ПИК ТВ
+rtmp://78.140.209.14:1935/live/piktv3pik3tv
+#EXTINF:-1, Первый музыкальный HD(Белорусь)
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1, Разом TV
+rtmp://91.192.180.10:5119/live/razomtv
+#EXTINF:-1, Первый городской Киров
+rtmp://yellow.ether.tv/live/kirov/broadcast4
+#EXTINF:-1, Рівне 1
+rtmp://91.197.220.19:19351/live/ams
+#EXTINF:-1, ТВА Чернівці
+rtmp://gigaz.wi.com.ua/hallDemoHLS/TBALife
+#EXTINF:-1, Фестивальная-12 (Екатеринбург)
+http://78.140.209.14/unost/festival/chunklist.m3u8
