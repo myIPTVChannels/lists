@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, 1 Music Channel
+http://92.249.129.152/stream/1music.m3u8
+#EXTINF:-1, 1HD Music Television
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 #EXTINF:0, 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0, AMAZING TV HD
@@ -93,8 +97,10 @@ http://rtmp.infomaniak.ch/livecast/rougetv/bratumarian.m3u8
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
 #EXTINF:0, Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0, tvm3
+tvm3
 http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+#EXTINF:0, TVD1 HD
+http://stream02.tvd1.hu:8081/tvd1p_live/hd/playlist.m3u8 
 #EXTINF:0, TVM Channel HD
 http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:0, UMF TV
