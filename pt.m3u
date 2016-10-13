@@ -15,6 +15,78 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-id="rtpn.pt" audio-track="pt" tvg-logo="http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png", RTP 3 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png",PORTO CANAL [FSD]
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png",ECONÓMICO TV [FSD]
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/medium",RTP MEMÓRIA [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/medium",RTP INTERNACIONAL [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-ID="" tvg-name="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="",CMTV [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/635.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="",TVI REALITY [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/638.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 1 HD" tvg-logo="" group-title="https://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",SPORTV 1 [HD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/632.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 2" tvg-logo="" group-title="https://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png",SPORT TV 2 [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/645.m3u8
+
+#EXTINF:-1 tvg-ID="BTV 1 HD" tvg-name="BTV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="",BTV 1 [HD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/17.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="PANDA" tvg-logo="https://www.thelogodb.com/images/media/logo/qwttxw1435106935.png" group-title="",PANDA [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/642.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 1" tvg-logo="https://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png" group-title="",TVCINE 1 [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/636.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 4" tvg-logo="https://www.thelogodb.com/images/media/logo/tuyupp1436898345.png" group-title="",TVCINE 4 [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/637.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rwptru1436892145.png" group-title="",FOX [HD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/639.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME" tvg-logo="https://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png" group-title="",FOX CRIME [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/647.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="https://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png" group-title="",SYFY [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/646.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yusrru1445113463.png" group-title="",AXN [HD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/640.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA" tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="",HISTORIA [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/644.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ODISSEIA" tvg-logo="https://www.thelogodb.com/images/media/logo/vpyypr1462122978.png" group-title="",ODISSEIA [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/643.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title="",NAT GEO WILD [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/634.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CBS REALITY" tvg-logo="https://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group-title="",CBS REALITY [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/641.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="https://www.thelogodb.com/images/media/logo/rprruu1433942038.png" group-title="",TLC [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/653.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AFROMUSIC" tvg-logo="https://www.thelogodb.com/images/media/logo/yywtqx1456252794.png" group-title="",AFROMUSIC [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/652.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TV RECORDE" tvg-logo="https://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="",TV RECORD [SD]
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/648.m3u8
+
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium",RTP AÇORES [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
@@ -24,26 +96,11 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://img0.rtp.pt/EPG/imgth/phpThumb.php?src=/common/img/channels/logos/gray-negative/vertical/rtparena.png&w=250&q=100&f=png",RTP ARENA [FSD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=especiaiscam2015 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/medium",RTP INTERNACIONAL [SD]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
-
 #EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/medium",RTP MADEIRA [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/medium",RTP MEMÓRIA [SD]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
-
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png",PORTO CANAL [FSD]
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
-
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium",EURONEWS PT [SD]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png",ECONÓMICO TV [FSD]
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
 #EXTINF:0 tvg-id="n/a" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",TVL [SD]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
