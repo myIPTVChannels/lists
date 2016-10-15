@@ -23,6 +23,11 @@
           	   "url": "http://www.liveonlinetv247.info/embed/sporttv1.php?width=650&height=480",
           	   "isHost": true
         	},
+		{
+                    "name": "SPORT TV 1 teste",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+		    "url": "http://89.248.168.18:8081/live/sporttv1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAxNiAxMTo1MzowNCBQTSZoYXNoX3ZhbHVlPVoyOTAwdkZRcjZNRVpjbWFLUEN1b2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTg4LjExNC4xMTEuMjQ0JnN0cm1fbGVuPTE2"
+                },
 		
 		{
                     "name": "SPORT TV 1 opc1",
