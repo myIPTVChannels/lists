@@ -24,14 +24,8 @@
           	   "isHost": true
         	},
 		{
-                    "name": "SPORT TV 1 teste",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://89.248.168.18:8081/live/sporttv1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAxNiAxOjExOjIxIEFNJmhhc2hfdmFsdWU9dE1hTjNnelAvaUFwR0Z6QXFXanZLUT09JnZhbGlkbWludXRlcz0xMCZpZD0xODguMTE0LjExMS4yNDQmc3RybV9sZW49MTY="
-                },
-		
-		{
                     "name": "SPORT TV 1 opc1",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+                    "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
 		    "url": "http://163.172.37.71:8789/live/karimos/test/320.ts"
                 },
 		{
