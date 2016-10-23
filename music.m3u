@@ -43,6 +43,8 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
 #EXTINF:0, KAZAKISTAN hit TV HD
 http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
+#EXTINF:0 tvg-logo="", Heavy Metal TV
+rtmp://70.166.98.130:1935/hmtv/myStream
 #EXTINF:0, HIT TV SD
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:0, M1
@@ -111,6 +113,8 @@ http://stream02.tvd1.hu:8081/tvd1p_live/hd/playlist.m3u8
 http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:0, UMF TV
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="", UTV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8
 
 ===================================================================================================
 
@@ -123,6 +127,8 @@ http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Black Music", A-One Россия HD (2)
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Black Music", Afro Music
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 #EXTINF:0 group-title="Black Music", AKA Hip Hop
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
