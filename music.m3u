@@ -227,7 +227,7 @@ rtmp://186.155.200.118:1935/live/ColombiasuMusica
 #EXTINF:0 group-title="Latino", Ven FM TV
 http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
 #EXTINF:0 group-title="Latino", tigo MUSIC
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8#IptvPlay
 #EXTINF:0 group-title="Latino", tigo MUSIC (2)
 http://tinyurl.com/nmlwdq8
 
@@ -307,6 +307,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:0 group-title=”Turkia”, TRT OKUL
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
 
+=======================================================
+
+#EXTINF:-1,[B][COLOR white]--VH1--[/COLOR][/B]
+http://
+#EXTINF:-1, tvg-logo="http://i1-news.softpedia-static.com/images/news2/The-Technology-Behind-Google-s-Music-Beta-Smart-Playlist-Feature-Instant-Mix-2.png" group-title="VH1", VH1 Music
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1671.ts
 =======================================================
 
 #EXTINF:-1,[B][COLOR blue]--Russia--[/COLOR][/B]
