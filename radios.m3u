@@ -36,6 +36,8 @@ http://94.23.76.235:9956/
 http://ruc2.cidadedecoimbra.com:8000/
 #EXTINF:0 radio="true" tvg-logo="http://www.radiozero.pt/webnovo/wp-content/uploads/2015/01/RadioZeroLogoHorizontal127.png" group-title="Portugal", Rádio Zero
 http://stream.radiozero.pt:8000/zero128.mp3
+#EXTINF:0 radio="true" tvg-logo="https://www.radioquantica.com/images/quantica-logo.png" group-title="Portugal", Rádio Quântica
+http://stream2.radioquantica.com:8000/stream
 
 
 #EXTINF:0 radio="true",[B][COLOR mediumslateblue]--di.fm--[/COLOR][/B]
