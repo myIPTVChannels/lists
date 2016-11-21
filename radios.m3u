@@ -3,9 +3,7 @@
 http://195.8.58.150:35022/;stream.mp3
 #EXTINF:0 radio="true" tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Portugal", ANTENA 1
 mms://rdp.oninet.pt/antena1
-#EXTINF:0 radio="true" tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-
-
-title="Portugal", ANTENA 3
+#EXTINF:0 radio="true" tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-title="Portugal", ANTENA 3
 mms://rdp.oninet.pt/antena3
 #EXTINF:0 radio="true" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Portugal", AMÁLIA
 http://stream.radio.com.pt:9496/stream
@@ -34,6 +32,10 @@ http://11073.live.streamtheworld.com/GR80SRFMAAC?
 http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
 #EXTINF:0 radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Portugal", SUPER FM
 http://94.23.76.235:9956/
+#EXTINF:0 radio="true" tvg-logo="http://www.ruc.pt/wp-content/themes/ruc/images/logo.png" group-title="Portugal", Rádio Universidade de Coimbra
+http://ruc2.cidadedecoimbra.com:8000/
+#EXTINF:0 radio="true" tvg-logo="http://www.radiozero.pt/webnovo/wp-content/uploads/2015/01/RadioZeroLogoHorizontal127.png" group-title="Portugal", Rádio Zero
+http://stream.radiozero.pt:8000/zero128.mp3
 
 
 #EXTINF:0 radio="true",[B][COLOR mediumslateblue]--di.fm--[/COLOR][/B]
