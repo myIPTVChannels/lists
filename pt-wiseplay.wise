@@ -20,7 +20,7 @@
 		{
           	   "name": "SPORT TV 1",
           	   "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
-          	   "url": "http://www.liveonlinetv247.info/embed/sporttv1.php?width=650&height=480",
+          	   "url": "https://www.liveonlinetv247.info/watch.php?title=Sport%20TV%201&channel=sporttv1",
           	   "isHost": true
         	},
 		{
@@ -31,7 +31,7 @@
 		{
                     "name": "SPORT TV 1 opc2",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts"
+		    "url": "acestream://efd141507ea2b52e220e9c2ddb61fbf2ce6e3b2a"
                 },
                 {
                             "name": "SPORT TV 2",
