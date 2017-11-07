@@ -26,7 +26,7 @@
 		{
                     "name": "SPORT TV 1 opc1",
                     "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
-		    "url": "http://163.172.37.71:8789/live/karimos/test/320.ts"
+		    "url": "acestream://efd141507ea2b52e220e9c2ddb61fbf2ce6e3b2a"
                 },
 		{
                     "name": "SPORT TV 1 opc2",
