@@ -4,16 +4,6 @@
     "url": "http://git.io/v8TRX",
     "Update": "(09/11/2017)",
     "contact": "soeusei@hotmail.com",
-    "info":"Links diretos aos canais Arenavison mediante Acestream, incluindo na lista a agenda donde poderas encontrar que desporto da, quando da e donde da. DISFRUTEM!!!!! ",
-    "url": "http://w3ubin.com/N1tYE5qNz.w3u",
-    {"name": "App necesaria para ver os canais Acetream PULSA AQUI PARA DESCARGAR E INSTALAR",
-    "image": "https://mintguide.org/uploads/posts/2015-06/1435413057_linux_mint_ace_stream.png",
-    "url": "http://play.google.com/store/apps/details?id=org.acestream.media",
-    "embed":true},
-    {"name": "Agenda",
-   "image": "http://arenavisiononline.com/Home/images/header.png",
-   "url": "http://arenavision.us/iguide",
-   "embed":true},
     "groups": [
     {
     "name": "DESPORTO PORTUGAL",
@@ -28,12 +18,6 @@
                     "referer": "",
                     "isHost": "" },
 		 
-		{
-          	   "name": "SPORT TV 1",
-          	   "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
-          	   "url": "https://www.liveonlinetv247.info/watch.php?title=Sport%20TV%201&channel=sporttv1",
-		   "isHost": true
-        	},
 		{
                     "name": "SPORT TV 1 opc1",
                     "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
