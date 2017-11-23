@@ -26,7 +26,9 @@
 		{
                     "name": "SPORT TV 1 opc2",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://streamsport.online/Sport1PT.html"
+		    "url": "http://g1.securestream.streamsport.online/stream/MGU4MDk2Yjk2ZWY5Nzg3YmVkNjY1YThlOTQwY2U2NTA=/Sport1PT.m3u8"
+		    "referer": "http://streamsport.online/Sport1PT.html"
+		    "isHost": "true"
 		},
                 {
                             "name": "SPORT TV 2",
