@@ -397,7 +397,7 @@
                     {
                             "name": "SIC",
                             "image": "http://3.bp.blogspot.com/-bjYohBQxBoM/VhNNjYeFU7I/AAAAAAAAGO8/gzTgZ0DWito/s1600/SIC%2Blogo.png",
-                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/704.ts"
+                            "url": "http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8"
                     },
                     {
                             "name": "Rtp3",
@@ -407,12 +407,12 @@
                     {
                             "name": "TVI 24",
                             "image": "http://1.bp.blogspot.com/-04BfgDemehk/VhNU8ZVE5RI/AAAAAAAAGPs/mk1I7bTWqE4/s1600/Tvi24.png",
-                            "url": "http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8"
+                            "url": "https://video-auth7.iol.pt/live_tvi24/live_tvi24/live_tvi24/live_tvi24-1/playlist.m3u8?mag"
                     },
                     {
                             "name": "SIC Noticias",
                             "image": "http://1.bp.blogspot.com/-xAngo4RrtGs/VhNSEKtkxiI/AAAAAAAAGPU/aH8Gwjwe6aE/s1600/SIC%2BNoticias.jpg",
-                            "url": "rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html"
+                            "url": "http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag"
                     },
                     {
                             "name": "TVI REALITY (O Desafio)",
@@ -467,7 +467,7 @@
 		    {
                             "name": "PORTO CANAL Bosslulamen&Lacasitos",
                             "image": "http://marketingportugal.pt/images/uploads/Porto-Canal.jpg",
-                            "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/698.ts"
+                            "url": "http://213.13.26.11:1935/live/portocanal/bosslula.m3u8"
                     },
    		    {
                         "name": "Caça y Pesca",
@@ -776,8 +776,8 @@
 				                {
                         "name": "HOOT (+18)",
                         "image": "http://nowwatchtvlive.me/wp-content/uploads/2014/06/hot_pt.png",
-                        "url": "http://www.ponlatv.com/channel.php?file=105488&width=650&height=400&autostart=true",
-                        "referer": "http://cinestrenostv.tv/canales/emision1/hot.html",
+                        "url": "http://cinestrenostv.tv/canales/xxx/hot.php?file=105488&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/envivo/hot.html",
                         "isHost": "true"
                 },         
                 				{
