@@ -774,8 +774,8 @@
 							"url": ""
                 },
 				                {
-                        "name": "HOOT (+18)",
-                        "image": "http://nowwatchtvlive.me/wp-content/uploads/2014/06/hot_pt.png",
+                        "name": "HOT (+18)",
+                        "image": "http://1.bp.blogspot.com/-Tc4P2CpPyhU/VQnT2SRFGII/AAAAAAAADwI/3eskjalPAG4/s1600/HOT%2Blogo.png",
                         "url": "http://cinestrenostv.tv/canales/xxx/hot.php?file=105488&width=650&height=400&autostart=true",
                         "referer": "http://cinestrenostv.tv/canales/envivo/hot.html",
                         "isHost": "true"
@@ -794,17 +794,11 @@
                         "referer": "http://vercanalestv.com/tv/argentina/canal-venus.html",
                         "isHost": "true"
                 },
-				
-				                {
-                        "name": "SHOT TV (+18)",
-                        "image": "http://1.bp.blogspot.com/-Tc4P2CpPyhU/VQnT2SRFGII/AAAAAAAADwI/3eskjalPAG4/s1600/HOT%2Blogo.png",
-                        "url": "http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8"
-                },
-				{
+	  	{
                         "name": "HUSTLER HD (+18)",
                         "image": "http://2.bp.blogspot.com/-s_vH9n7wx4c/VEskP0BJm4I/AAAAAAAABy8/5aEsFLDtNOs/s320/hustlerHD3D.png",
-                        "url": "http://tv.verdirectotv.org/channel.php?file=103894&width=650&height=400&autostart=true",
-                        "referer": "http://cinestrenostv.tv/canales/emision2/hustlertv.html",
+                        "url": "http://cinestrenostv.tv/canales/nacionales/hustlertv.php?file=103894&width=650&height=400&autostart=true",
+                        "referer": "http://cinestrenostv.tv/canales/envivo/hustlertv.html",
                         "isHost": "true"
                 },
                 {
