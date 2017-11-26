@@ -783,7 +783,7 @@
                 				{
                         "name": "Playboy TV (+18)",
                         "image": "http://i.imgur.com/bDcrR.png",
-                        "url": "http://cinestrenostv.tv/canales/xxx/hot.php?file=104003&width=650&height=400&autostart=true",
+                        "url": "http://cinestrenostv.tv/canales/xxx/playboy.php?file=104003&width=650&height=400&autostart=true",
                         "referer": "http://cinestrenostv.tv/canales/envivo/playboy.html",
                         "isHost": "true"
                 },
