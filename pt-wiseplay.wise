@@ -615,19 +615,21 @@
 					{
 			"name": "La 1 HD",
 			"image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
-			"url": "http://cinestrenostv.tv/canales/nacionales/tve1.php??file=105959&width=650&height=400&autostart=true",
+			"url": "http://cinestrenostv.tv/canales/nacionales/tve1.php?file=105959&width=650&height=400&autostart=true",
 			"referer": "http://cinestrenostv.tv/canales/envivo/tve1.html",
 	    		"isHost": "true"
 		},
                 {
                         "name": "La 2",
                         "image": "http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png",
-                        "url": "http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8"
+                        "url": "http://cinestrenostv.tv/canales/nacionales/tve2.php?file=105959&width=650&height=400&autostart=true",
+			"referer": "http://cinestrenostv.tv/canales/envivo/tve2.html",
+	    		"isHost": "true"
                 },
                 {
 			"name": "Antena 3 HD",
 			"image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antena3hd.png/200px-Antena3hd.png",
-			"url": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8"
+			"url": "http://cinestrenostv.tv/canales/nacionales/tve2.php"
 		},
 		{
 			"name": "Cuatro HD",
