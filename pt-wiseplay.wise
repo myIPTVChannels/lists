@@ -615,7 +615,9 @@
 					{
 			"name": "La 1 HD",
 			"image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
-			"url": "http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8"
+			"url": "http://cinestrenostv.tv/canales/nacionales/tve1.php??file=105959&width=650&height=400&autostart=true",
+			"referer": "http://cinestrenostv.tv/canales/envivo/tve1.html",
+	    		"isHost": "true"
 		},
                 {
                         "name": "La 2",
@@ -657,14 +659,14 @@
                         "image": "http://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png",
                         "url": "http://www.ponlatv.com/channel.php?file=103990&width=650&height=400&autostart=true",
                         "referer": "http://verdirectotv.com/tv/nacionales/divinity.html",
-                        "isHost": "true"
+	                "isHost": "true"
         },
         {
             "name": "FDF",
             "image": "http://www.formulatv.com/fotos/a/76000/76431/padbf9eho699ynmv5c4fa5578f9aca2_logo-factoria-de-ficcion.png",
             "url": "http://www.ponlatv.com/channel.php?file=103951&width=650&height=400&autostart=true",
-            "referer": "http://cinestrenostv.tv/canales/emision/fdf.html",
-            "isHost": "true"
+            "referer": "http://cinestrenostv.tv/canales/envivo/fdf.html",
+	    "isHost": "true"
         },
         {
             "name": "DW Español",
