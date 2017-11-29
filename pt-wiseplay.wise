@@ -619,6 +619,15 @@
 			"referer": "http://cinestrenostv.tv/canales/envivo/tve1.html",
 	    		"isHost": "true"
 		},
+		{
+			"name": "La 1 HD test",
+			"image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
+			"url": "sportsdevil>http://zagaiptv.eklablog.com/tve1-spain-p1157476",
+			"referer": "http://zagaiptv.eklablog.com",
+	    		"isHost": "true"
+		},
+		<sportsdevil>http://zagaiptv.eklablog.com/tve1-spain-p1157476</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
                 {
                         "name": "La 2",
                         "image": "http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png",
@@ -813,44 +822,14 @@
                         "isHost": "true"
                 },
                 {
-                        "name": "BABESTATION XTREME (+18)",
-                        "image": "http://1.bp.blogspot.com/-1-2Ckt35cPQ/VfSlRxDjhrI/AAAAAAAAGHA/_LN_-agfyYg/s1600/Babestation%2Bxtreme.jpg",
-                        "url": "http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8"
-                },
-                {
-                        "name": "PRIVATE (+18)",
-                        "image": "http://4.bp.blogspot.com/-41NvpahoKCg/VP0A_q9-I3I/AAAAAAAADTM/QsVRZfHhnO8/s1600/private_tv_logo.jpg",
-                        "url": "http://178.33.126.213:1935/leved/privateCom/.m3u8"
-                },
-                {
                         "name": "SATISFACTION HD TV (+18)",
                         "image": "http://4.bp.blogspot.com/-f6S9RF4TFU4/VQnRVfRBIbI/AAAAAAAADv8/f5gEYBjUhug/s1600/Satisfaction-HD-logo.png",
                         "url": "rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499"
                 },
                 {
-                        "name": "SEXZONE HD (+18)",
-                        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShpsjBas8u0R0SJGlSRD5ruqUM77wQd6htBtWgFfnIOApt9XsQ",
-                        "url": "http://46.182.25.34:1935/tv/1420/playlist.m3u8"
-                },
-                {
                         "name": "JASMIN TV (+18)",
                         "image": "http://2.bp.blogspot.com/-_iYjF9FAbvE/VQABPqCHGDI/AAAAAAAADjc/GZHsIkn1rio/s1600/JASMIN%2BTV_n.jpg",
                         "url": "http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8"
-                },
-                {
-                        "name": "Babestation CAM 1 (+18)",
-                        "image": "http://1.bp.blogspot.com/-YWIMT66bvyw/VQAF5CEMnZI/AAAAAAAADjo/tqeKHHrHM5U/s1600/Babestation_Logo.jpg",
-                        "url": "http://46.105.116.159:1935/cellcast/encoder72/.m3u8"
-                },
-                {
-                        "name": "Babestation CAM 2 (+18)",
-                        "image": "http://1.bp.blogspot.com/-YWIMT66bvyw/VQAF5CEMnZI/AAAAAAAADjo/tqeKHHrHM5U/s1600/Babestation_Logo.jpg",
-                        "url": "http://178.33.126.213:1935/cellcast/encoder32/.m3u8"
-                },
-                {
-                        "name": "LIVE SEX LATINAS (+18)",
-                        "image": "http://1.bp.blogspot.com/-CgX9yk5CGDI/VQAJyK_2_sI/AAAAAAAADj0/5KSMoWjwZoM/s1600/live%2Bsex%2Blatinas.jpg",
-                        "url": "http://178.33.126.213:1935/leved/livesexlatinas/.m3u8"
                 },
                 {
                         "name": "Miami TV (+18)",
