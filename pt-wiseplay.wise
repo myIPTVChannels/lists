@@ -19,26 +19,28 @@
                     "isHost": "" },
 		 
 		{
+                    "name": "SPORT TV 1",
+                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
+		    "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92472.ts"
+		},
+		{
                     "name": "SPORT TV 1 Acetream",
                     "image": "http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",
 		    "url": "acestream://efd141507ea2b52e220e9c2ddb61fbf2ce6e3b2a"
                 },
 		{
-                    "name": "SPORT TV 1 opc2",
-                    "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/9574.m3u8"
-		},
-		{
                     "name": "SPORT TV 1 test",
                     "image": "http://weblinks.altervista.org/LOGHI/sptv1.png",
-		    "url": "http://footdirect24.com/ch1/live1.php?file=29320&width=300&height=250&autostart=true",
-		    "referer": "http://streamsport.online/Sport1PT.html",
+		    "url": "http://footdirect24.com/ch1/live1.php?file=29320&width=620&height=420&autostart=true",
+		    "referer": "http://footdirect24.com",
                         "isHost": "true"
 		},
 		{
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://sharecast.eu/embed.php?ch=live2-bipmr"
+                            "url": "http://footdirect24.com/ch1/live2.php?file=29320&width=620&height=420&autostart=true",
+		    	    "referer": "http://streamsport.online/Sport1PT.html",
+                                "isHost": "true"
                 },
                 {
                             "name": "SPORT TV 2 opc1",
@@ -63,13 +65,8 @@
                 {
                             "name": "BENFICA TV 1",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://163.172.37.71:8789/live/karimos/test/342.ts"
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92500.ts"
                 },
-                {
-                            "name": "BENFICA TV 2",
-                            "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
-                            "url": "http://163.172.37.71:8789/live/karimos/test/344.ts"
-                }
                 
     ]
     },
@@ -389,17 +386,17 @@
                     {
                             "name": "RTP 1",
                             "image": "http://3.bp.blogspot.com/-KZuUXV7b6M8/VhNF75ML75I/AAAAAAAAGOQ/TBFBhSGz88Y/s1600/RTP1.PNG",
-                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/699.ts"
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92536.ts"
                     },
                     {
                             "name": "RTP 2",
                             "image": "http://3.bp.blogspot.com/-RBc-PTf3-RI/UqyWRyGesKI/AAAAAAAAAUE/YUgteoZ7d7E/s200/imagesLPLBF395.jpg",
-                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/700.ts"
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92537.ts"
                     },
                     {
                             "name": "TVI",
                             "image": "http://1.bp.blogspot.com/-wNqIzaYlbGQ/VhOdgriWyPI/AAAAAAAAGTs/DqfQRyDy868/s1600/TVI.png",
-                            "url": "http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8"
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92564.ts"
                     },
                     {
                             "name": "SIC",
@@ -409,7 +406,7 @@
                     {
                             "name": "Rtp3",
                             "image": "http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png",
-                            "url": ""
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92538.ts"
                     },
                     {
                             "name": "TVI 24",
@@ -422,9 +419,9 @@
                             "url": "http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag"
                     },
                     {
-                            "name": "TVI REALITY (O Desafio)",
+                            "name": "TVI REALITY (A Quinta)",
                             "image": "http://www.tvi.iol.pt/img/reality/topo.jpg",
-                            "url": "http://109.48.88.239:9981/stream/channelid/1783810022?ticket=FFA5A84D28F7ECF332DF30FAE3AB9D5121DC8124&profile=pass"
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92567.ts"
                     },
                     {
                             "name": "RTP INTERNACIONAL",
@@ -439,7 +436,7 @@
 		    {
                         "name": "TVI Ficção",
                         "image": "http://2.bp.blogspot.com/-Oudsj99sYSE/VhNY5sDbY0I/AAAAAAAAGQE/_0gw8OFKY8U/s1600/TVI_FICCAO.jpg",
-                        "url": ""
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92445.ts"
                     },
 		    {
                         "name": "+ TVI",
@@ -449,7 +446,7 @@
 		    {
                             "name": "RTP MADEIRA",
                             "image": "http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png",
-                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/703.ts"
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92490.ts"
                     },
                     {
                             "name": "RTP MEMORIA",
@@ -459,7 +456,7 @@
                     {
                             "name": "RTP ACORES",
                             "image": "http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",
-                            "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/701.ts"
+                            "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92539.ts"
                     },
                     {
                             "name": "RTP AFRICA",
@@ -469,7 +466,7 @@
 		    {
                         "name": "Abola TV (PT)",
                         "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",
-                        "url": ""
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92495.ts"
                     },
 		    {
                             "name": "PORTO CANAL Bosslulamen&Lacasitos",
@@ -484,7 +481,7 @@
 		    {
                         "name": "CM TV",
                         "image": "http://4.bp.blogspot.com/-79rUnfByE0A/VhNXhQ8Q0JI/AAAAAAAAGP4/-7uoNFoYBbA/s1600/CM_TVpng.png",
-                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/692.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92509.ts"
                     },
 		    {
                         "name": "CBS Reality",
@@ -499,17 +496,17 @@
 		    {
                         "name": "National Geographic HD",
                         "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpusvf5GAksJ2Eb9lbRhu19Iuataavy4O50g3KyP5GA24cJB9kQ",
-                        "url": ""
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92530.ts"
                     },
 		    {
                         "name": "Nat Geo Wild",
                         "image": "http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/716.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92531.ts"
                     },
 		    {
                         "name": "Odiseia",
                         "image": "http://megatvonline.es/kaiserintv/logos/documentales/logoodisea.png",
-                        "url": ""
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92533.ts"
                     },
 		    {
                         "name": "FASHION TV HD",
@@ -524,7 +521,7 @@
                     {
                         "name": "AXN White HD",
                         "image": "http://2.bp.blogspot.com/-o_MrKq-85v8/VhOGV2hBliI/AAAAAAAAGSU/szQvYokvxRc/s1600/AXN%2BWHITE.png",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/292.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92498.ts"
                     },
                     {
                         "name": "FX",
@@ -534,32 +531,32 @@
 		    {
                         "name": "FOX Crime HD",
                         "image": "http://3.bp.blogspot.com/-adoBh5WVbwQ/VhODhnlorpI/AAAAAAAAGSI/DFteSBFbjww/s1600/Fox-Crime.jpg",
-                        "url": "http://ksportiptv.com:1557/live/elvis/elvis/2195.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92491.ts"
                     },
 		    {
                         "name": "FOX Life HD",
                         "image": "http://4.bp.blogspot.com/-Ct7fmLFCJSI/VhOA-w5pJBI/AAAAAAAAGR8/lwqLfU2g8Ao/s1600/fox-life.png",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/696.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92478.ts"
                     },
 		    {
                         "name": "FOX Movies",
                         "image": "http://2.bp.blogspot.com/-jRzG1Dkqqpg/VhN_KSkNSOI/AAAAAAAAGRw/Qdx088aX3Ec/s1600/Fox_Movies.png",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/695.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92518.ts"
                     },
 		    {
                         "name": "História",
                         "image": "http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/715.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92492.ts"
                     },
                     {
                         "name": "Hollywood",
                         "image": "http://1.bp.blogspot.com/-BLDMTDfaSdo/VSrsDDtlfII/AAAAAAAAE0Q/utwqxSKD_DA/s1600/Hollywood.png",
-                        "url": "http://ptbrvirtual.no-ip.net:8000/live/brunosofiamagalhaez@gmail.com/z0LyEB0MvT/13.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92522.ts"
                     },
 		    {
                         "name": "SyFy",
                         "image": "http://img3.wikia.nocookie.net/__cb20110408015403/logopedia/images/d/dc/Syfy_hd.png",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/722.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92552.ts"
                     },
 		    {
                         "name": "AFRO Music",
@@ -569,32 +566,32 @@
 		    {
                         "name": "24 Kitchen HD",
                         "image": "http://3.bp.blogspot.com/-2CAU6-WCdKQ/VhO5TQF_VXI/AAAAAAAAGU4/EEMOeffnDSI/s1600/24Kitchen.png",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/691.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92493.ts"
                     },
 		    {
                         "name": "TV SERIES",
                         "image": "http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",
-                        "url": "http://worldtv.noip.me:8000/live/Ozkan/Erdem/291.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92562.ts"
                     },
 		    {
                         "name": "TVCine 1 HD",
                         "image": "http://4.bp.blogspot.com/-BY_dBtKgFZI/VhN-LIbC3OI/AAAAAAAAGRo/M3TBaGLuw9k/s1600/TVC1.png",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/287.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92555.ts"
                     },
 		    {
                         "name": "TV CINE 2",
                         "image": "http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/288.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92556.ts"
                	    },
                     {
                         "name": "TV CINE 3",
                         "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/289.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92557.ts"
                     },
                     {
                         "name": "TV CINE 4",
                         "image": "http://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134",
-                        "url": "http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/290.ts"
+                        "url": "http://iptvhosting.org.uk:83/live/ruben/ruben/92558.ts"
                     },
                       
     ]
