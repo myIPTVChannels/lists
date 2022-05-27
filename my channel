@@ -1,0 +1,1265 @@
+#EXTM3U
+
+#EXTINF:-1, [B][COLOR blue]CANAIS INTERNACIONAIS[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1, [B][COLOR red]Gracias a TV ONLINE 2016 (Youtube) por el video[/COLOR][/B]
+https://www.youtube.com/watch?v=D-4IT5JhCos
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Bolivia---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Red PAT Bolivia
+http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Colombia---[/COLOR]
+http://0.0.0.0.0
+
+#EXTINF:-1,Canal Capital Colombia
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1,Canal U Colombia
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Teleamiga Colombia
+http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Anzoategui TV Venezuela
+rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
+#EXTINF:-1,Canal 11 Venezuela
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:-1,Sulavision Venezuela
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,TRT Venezuela
+rtmp://edge.wms28.lorini.net/trttv/trttv
+#EXTINF:-1,TVO Canal 23 Venezuela
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal i  Venezuela
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF:-1,Vale TV  Venezuela
+rtmp://edge.wms28.lorini.net/valetv/valetv
+#EXTINF:-1,Telecaribe Venezuela
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Rep. Dominicana---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Tele Antillas  Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,Telessistema  Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Telesitemas 11 Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,TeleNord Rep. Dominicana
+rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf 
+#EXTINF:-1,CDN 37 Rep. Dominicana
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Costa Rica---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,SINART Canal Trece Costa Rica
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+#EXTINF:-1,SMO TV Costa Rica
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:-1,Colosal TV Costa Rica
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,Tv UNO Costa Rica
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,TV Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+#EXTINF:-1,Extra TV Canal 42 Costa Rica
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1,CB24 Noticias Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Chile---[/COLOR]
+http://0.0.0.0
+
+
+#EXTINF:-1,TV Familia
+http://tvstream02.creowebcl.com:80/8090/8090/playlist.m3u8
+#EXTINF:-1, Chile Vision
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1,Canal 13 
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1,Canal 13 C 
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Ecuador---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Ecuavisa Ecuador
+rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 
+#EXTINF:-1,TVS Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+#EXTINF:-1,UCSG TV Ecuador
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:-1,Digital TV Canal 28 Macas Ecuador
+http://enhd.co:1935/9208/9208/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---El Salvador---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Megavision Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 33 El Salvador
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TRV El Salvador
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Guatemala---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,TV Maya Guatemala
+http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Campus TV Guatemala
+http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Honduras---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Teleceiba Honduras
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1,Teleprogreso Honduras
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1,Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Nicaragua---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Viva Nicaragua Canal 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+----------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Paraguay---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Telefuturo Paraguay
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 13 Paraguay
+rtmp://70.36.100.38:1935/live playpath=canal13_hq.stream swfUrl=http://www.rpc.com.py/swf/player_web04.swf 
+#EXTINF:-1,Intercable Canal 10 Paraguay
+rtmp://67.159.60.37/intercable playpath=intercable  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf?
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Peru---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Capital TV Peru
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1,UCV Satelital Peru
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:-1,Canal 4 Arequipa Peru
+http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
+
+
+
+#EXTINF:-1,[COLOR blue]------------CANALES--------------[/COLOR][COLOR red]--------LATINOAMERICA----------------[/COLOR]
+http://0.0.0.0:1234
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Anzoategui TV Venezuela
+rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
+#EXTINF:-1,Canal 11 Venezuela
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:-1,Sulavision Venezuela
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,TRT Venezuela
+rtmp://edge.wms28.lorini.net/trttv/trttv
+#EXTINF:-1,TVO Canal 23 Venezuela
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal i  Venezuela
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF:-1,Vale TV  Venezuela
+rtmp://edge.wms28.lorini.net/valetv/valetv
+#EXTINF:-1,Telecaribe Venezuela
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Rep. Dominicana---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,Tele Antillas  Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,Telessistema  Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,ANTENA LATINA Rep. Dominicana
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1,Telesitemas 11 Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,TeleNord Rep. Dominicana
+rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf 
+
+------------------------------------------------------------------------------------
+#EXTINF:-1,[COLOR lime]---Mexico---[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,Multimedios TV
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:-1,TV Pacifico Culiacan
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1,CANAL 7 MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1,CANAL 2 Mochis TV
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
+#EXTINF:-1,TVMAS HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Canal 22
+rtmp://192.96.217.230/live/smrtv.sdp
+#EXTINF:-1,TELEMAR Campeche
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:-1,TRC Campeche
+rtmp://video7.stream.mx:1935/8024/8024
+#EXTINF:-1,Canal 10 Chiapas
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF:-1,CANAL 53 UANL TV
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:-1,Michoacan al dia
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:-1,Canal Nuestra Vision Michoacan
+http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
+#EXTINF:-1,Canal 5 Salina Cruz
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1,Canal 10 Durango
+rtmp://wms.tecnoxia.com:80/8096//8096
+#EXTINF:-1,5 TV Coahuila
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1,RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,TV Acapulco
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:-1,C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1,Cultura Guadalajara
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+#EXTINF:-1,2 TV Morelia
+http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8
+#EXTINF:-1,Multimedios Nuevo León
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:-1,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,5 TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1,EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1,Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1,TRECEVISION YUCATAN
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,QUINCE TV ZACATECAS
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
+#EXTINF:-1,CANAL 15 FRESNILLO
+rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
+#EXTINF:-1,TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:-1,TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,TV RADIO Y TELEVISION MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,Aprende
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:-1,TV Pacifico Obregón
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1,TELEMAX
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF:-1,Canal 2 YAQUI TV
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
+#EXTINF:-1,Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+
+#EXTM3U 
+#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal", RTP 3 [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal", SIC Notícias [SD]
+http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal", TVI24 [FSD]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EconomicoTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal",Económico TV [FSD]
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal", Euronews [SD]
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal", Euronews [SD]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal", TPA Internacional [FSD]
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwwxru1438374081.png" group title="World", Sky News [1080p] (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y60wDzZt8yg
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png" group title="World", France 24 [HD] (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qKEk1YCOz8Q
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png" group title="World", France 24 [HD] (English) (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p7t_GWXmgFk
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png" group title="World", France 24 [HD] (Arabic) (Youtube)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=55IL8QtH0Ao
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uyyvps1434018285.png" group title="World", RT USA [HD]
+http://rt-lh.akamaihd.net/i/ch_04@325608/index_720p_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uyyvps1434018285.png" group title="World", RT UK [HD]
+http://rt-lh.akamaihd.net/i/ch_06@325610/index_720p_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yywurx1452283188.png" group title="World", PRESS TV [HD]
+http://presstv-ch03.level3.hls.live.cdn.overon.es/livehigh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8a/CBS_HD.png" group title="World", CBS [HD]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png" group title="World", Aljazeera English
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
+
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/ABC_News_2013b.png" group title="World", ABC News [HD]
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png" group title="World", Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vptvpr1437950713.png" group title="World", Bloomberg (2)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/vqsspx1443638480.png" group title="World", i24news
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/xxtsyv1436895578.png" group title="World", Deutsche Welle (Europe)
+http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qqtssw1436894339.png" group title="World", TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/sxryur1433426110.png" group title="World", CCTV News
+http://77.36.61.45:8010/CCTVNews.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qttvuy1436846679.png" group title="World", NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qxyuys1434616490.png" group title="World", Sky TG 24 (ITA)
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/utysqs1452178014.png" group title="World", WGN 9 CW
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png" group title="World", Aljazeera Arabic
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+
+#EXTINF:0 tvg-logo="http://www.quadplay.tv/images/ch/al_maghribia.png" group title="World", Al Maghribia
+http://178.33.88.130:888/udp/239.102.0.198:1234
+
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-Sueq2cYIIZk/UJ1F9_r4tqI/AAAAAAAAA4I/kz8u05qYi34/s1600/Palestine+today+TV+Channel+Frequency.png" group title="World", Palestin Today
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group title="World", SamaTv
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0, [COLOR yellow]--Portuguese--[/COLOR] 
+http://0.0.0.0
+
+-------------------------------------------------------------------------------
+#EXTINF:0, [COLOR yellow]--English--[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:0, CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:0, Nickelodeon FHD (Rus/Eng)
+http://bit.do/bkWKR
+
+#EXTINF:0, Musiq 1 tv
+http://212.79.96.134:8005/
+
+
+
+#EXTINF:-1 tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2017/06/homem-aranha-regresso-a-casa-poster-1.jpg", Homem-Aranha: Regresso a Casa [2017]
+https://3.bp.blogspot.com/O12O_ir8ZdImC6y3-APgHkIxPK4sS905FhPbO1g8zK-B5hNVsffcV5Yeon7DW6eRA8FG3W7N-5YHCFq_g0vDlyYeCe1_j8nQVcHE2Y35B8mOMAC7f1R05iB-K1mE96JkKonT-gO9_GxE2xe85qB9g0y4ZtHX83GLXC3Ki4AgTGYEIXkSPqYQ49rFpIGFcFtJBmHqBrrg-cfTiCu60MzYuTLDgBKiFSP-bMnH2i-WILAV2QJoNXly8C2s1QrTjIc-HrOK06vavY_yxujwTEs0-mW5KCqJ1qWQo7MMUxA8sNtWTBEi0JH6I2JUuCnEYRRXaVBdP6bCZ2FZc77CkWIysGW5eSkTSgKbztg630Qd9v1EZgqbKYBzUGfMBGJ-7KeaLuxylOUbR1USimJGhXislyOcX6gqfoB5TsEMKsc6atAN1jx_sXEvzfgo2omXoQzoUSZWhrFXwewFv3uEoLWCiRDVp7Pc5LYKvygKI5KHzTluuqnvAOynqUkOqYMZcIQXsHy2wfxydPLo1Z8DPYXAcQQ7f7HdlxLhcqb4DjxZYWN9RSXJZ8SnusBEH5kkfX5FCY54DYyZp0WT7r2e022UT-EEvJLN3X2KzlcxlUQmslE=m37?hash=c43f3802be4dffef18e79d6339938b45?hash=66d714c04e707a838d0c1455fa004035
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/17/05/17/09/31/312127.jpg", Planeta dos Macacos: A Guerra [2017]
+https://3.bp.blogspot.com/kJftGa-IKIEzWkO8JaXa5tRIKu1c27du3uQkCCGD8wkHxZPE0k92l-P4NuBE5a-tV0jTLs5Exmvxfm_FKaQ6Y2gfvJYqAqJF74DkUb4omGo8UTYlmbOMePdFRxpzxPzrzCQaTwjC2FlCqr5oR_7OqU_7AHLGetYrHkP5Vvt8A5A3pblYpE70ku_K9ILHSgdObKTvcntJiApok8QgF6LNpRcsTNjXWH6qBEwW_FPI8tKgr1NMF9YwVZv3T8TwXhMkXjwLokKr_QGH6sCl_pp-VqD1mXf9BeseShSgcgILcbQ9V87duvpJASlN4jH7yK7PWmPCu0wkuY-sqX-M9nVmEspWqbWcaf1dAFDbFsSA84GvpnjObFCcEl9AoLLxfzjczwEleOwbPzpk21iODirOtu7teaBlbcJ0m0otQp3vopDezzvNNiOg1L4vgsqg1fbDqKbDH6EKlOElUZG4w4MwN5aUL4Hm05yaB-FKGI8YDlVLOxZONvnb8Gtlt86CiavTg4XogrVlBomgjAUgq23FyWzVvrnNCmBrqL3G2L3lNeGROC9cLXbtWCYS7RNDOHbB_896b7MDhOYhGs45wc5U80v4_H4kb3Wm6M3HHXxscLI=m37?hash=910b1fdbd52857c9991c1a8b6ad3f7c4?hash=b1b5722bf815e835a775524bfb21a6aa
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/17/06/19/09/39/095017.jpg", Wind River [2017]
+https://3.bp.blogspot.com/1z-EfSjGNBZWdJsgVRzAskxA8-h8hicWm6kH7Z9200Oe2v32-AMIpJnRWFBYhGw-jjhT-dAHwVMqj2vcBDZj69d6h3u3031YYJM6R__q0RrohKzzxHws2CrJvbJ2AANjSwcRIzpV8a766VUVaZSKaJecQdq9Ss2WLJM_OJKZxCt8965xbms6NZL7L62seVbMR35l4S8XnN3KuRvpJ5X0NvHXy6hAhvY_sicQz0_LU9RAyxRL_cgXsK9iWqQpouePyVYMt1XKS3Duwa3qe8Y9wY67d54mHA5x0jf44Ey_SKpBHT_SCSyx80l5ajTTPgEemTDm7oCaYEGCYgU7T3ju5hc-Y1mESBwizES6VGdsWLhjRJU-n9JQ0O-VUy6UzMO9Hd3Uw74mA-AKHZ8iyNIRGtHFETRfJSeVTCo-eQHEZ01yb4d35pea_87sszjpSxfK2YRPt7TkGV8z-bWgbIcEQ_J0C_zOaBTUszC3JagAjH2XDCH4rjTzQxCH0BINkNKjHHM1MDIx1r7xEiI--GIY_T_4rCS6XjTJNKiSsy_b5JFsKy-pMzerQK44m6fUKaohb79L3uWaugGpALUxC2hCevQkNKjV3zg1kwb1tbAlsg=m37?hash=49f11bccfc90ac5ad6ac07f2ff68a234?hash=e283715bfbb630f4ece9ce503ed61c2f
+
+#EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2016/12/transformers-the-last-knight-poster-1.jpeg", Transformers: O Último Cavaleiro [2017]
+https://3.bp.blogspot.com/aFJiSVP3HAWb89fud6o7a1o3xgrDZOkAqo77D5i4Pgz0LMrSMtoslQ52NHuCvBNx2j-KHVVSCu084dU2A7cO1185mWv1rFxFK8T_Qt88Z7o-Tvffb_3oYkGo2AE3rK91nVRk47bc8BdleF2Y7rw7UDsdSjAtYxNQ5kweFlAgWGejAtVo6klv5CeDo498H9DfgN-Ke4yteN7Ou8mbcGcO2o_awuIbuPIfMNgEizDu_YZDO98Z67olQ4pcSnH8h3JPieOZTV6lBAn9hBgZPMkeMMuOdS9wAPm_bZ__k5DB0TxEuyeCINs4VTBOrS7Yq3bt5_jLgbXaJhxF2c7Lt5j09kcb_3axOFMcEz2_Xxp-boVWcufOp_GIGBeGV4dshLmK_5XesQXtfy1OqM6DT_Et_RM59dD3BFmoxymuOR2nWeTRLvQLqJDJVXqSqb1v4xkdOTfxiduisW2vf2MhMwoacNO1aLheOuTUhDy87q1Stug80HOe0m3cvYgwdSpCG-r3m651rCW2cE-0jXxsvESMRfP3aWVrO6hGu5UjjIIRQZgG9TjyhIk0z84wWV2ZndPnqnZv6LGgP_vEcv5f-WFC7w4YGdQDA0sZ7LFhfPM8OnU=m18?hash=bedfd8977799eef1ff1d20ccd9b2bd67?hash=68318c9fb06c20ec4a2b5cdecc0e4651
+
+#EXTINF:-1, SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+ 
+#EXTINF:-1, FIGHT SPORT 
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="hhttp://www.ampersandmedia.com/wp-content/uploads/2015/08/PC.png", POKER CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8u8
+ 
+#EXTINF:-1, DXTV SPORTS
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+ 
+#EXTINF:-1, UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1, FIGHTER CHANNEL (RUS) 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+#EXTINF:-1, KAZSPORT (KAZ)
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [FHD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&name=SportTV1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&mode=1&name=SportTV1
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Plexus",Sport TV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&name=SportTV2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Plexus",Sport TV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&mode=1&name=SportTV2
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Plexus",Sport TV 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0b5582153832ddc45e407c71f3504736b642d59d&name=SportTV3
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Plexus",Sport TV 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORTTV3
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png" group-title="Plexus",Sport TV 4 [FSD] [B][COLOR red]Plexus[/COLOR][/B] [B][COLOR grey]OFF[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&name=SportTV4
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png" group-title="Plexus",Sport TV 4 [FSD] [B][COLOR red]Plexus[/COLOR][/B] [B][COLOR grey]OFF[/COLOR][/B]
+plugin://plugin.video.p2p-streams/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHY WUwWHZiVXU3SzVSNWhaaEE9PQ/10483.acelive&mode=1&name=SportTV4
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png",Sport TV 5 [FSD]
+http://bit.do/bPcH4
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title="Plexus",Sport TV 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B] [B][COLOR grey]OFF[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://d8fcf49c7a32023b416353014e348489af56b904&name=SportTV5
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title="Plexus",Sport TV 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B] [B][COLOR grey]OFF[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10484.acelive&mode=1&name=sporttv5
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title="Plexus",Sport TV 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B] [B][COLOR grey]OFF[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10484.acelive&mode=1&name=sporttv5
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png" group-title="Plexus",BTV 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&name=BTV1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=BTV2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" group-title="Plexus",BTV 2 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&name=btv2
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport Klub 2 HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8ceba9805d3cdf5baa7a41167a943e41493fbe1e&name=SportKlub2
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport Klub 3 HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&name=SportKlub3
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="Plexus",Sky Sports 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10351.acelive&amp;mode=1&amp;name=sky1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png" group-title="Plexus",Sky Sports 1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://9eae8bfcaf6841b27117604cd552d5d47b18fa2b&name=Sky Sports 1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png" group-title="Plexus",Sky Sports 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12738.acelive&amp;mode=1&amp;name=skysports2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png" group-title="Plexus",Sky Sports 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/6909.acelive&amp;mode=1&amp;name=skysports3
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png" group-title="Plexus",Sky Sports 4 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12739.acelive&amp;mode=1&amp;name=skysports4
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png" group-title="Plexus",Sky Sports 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10285.acelive&amp;mode=1&amp;name=skysports5
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="Plexus",Sky Sports F1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&name=SKYSPORTS F1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png" group-title="Plexus",BT Sport 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&name=BTSPORT1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png" group-title="Plexus",BT Sport 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://7e8a66f8acc92f39e52634761f391693a4134585&name=BTSPORT2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png" group-title="Plexus",BT Sport/ESPN [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&name=BTSPORTESPN
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png" group-title="Plexus",BeIN Sports 1 France [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd&name=BEINSPORTS1FR
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png" group-title="Plexus",BeIN Sports 2 France [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&name=BEINSPORTS2FR
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 1 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://2b75abd2543e6d1795a5440627400d4e5550d4c4&name=ARENAVISION1
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 2 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4779001d883917b72e1e9a0614bc23e159a0b01a&name=ARENAVISION2
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 3 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://07ecdbd6b325d8a99bc70d132c5a7713a969a8e2d&name=ARENAVISION3
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 4 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a3129a2d6cde0d459b0fdf83018e560c0bd580b2&name=ARENAVISION4
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 5 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://1f766a925794576da5091e3c78fa20b545ae2725&name=ARENAVISION5
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 6 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://141aa1564dd659c0fd0ce7f4a73a75ec492605f4&name=ARENAVISION6
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 7 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://5bca4c52fc8c133c0713ed76a3285a57a3a58dd0&name=ARENAVISION7
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 8 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://f579ebfc36c4f3b3ebd27bddbf215b44ae56b030&name=ARENAVISION8
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 9 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://eb704b094c20015eb5641134183f6fc69980cf29&name=ARENAVISION9
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 10 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3a0339c143dacdb8985acaa699c41faa806d2446&name=ARENAVISION10
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 11 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://6af6dae8a062ce9cf43567f6bdfd53656e7725d2&name=ARENAVISION11
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 12 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4cb8bd6810dae6bf9e744f3f337a5880d73fcba3&name=ARENAVISION12
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 13 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0b134b8d74381783fb70f9a18db575d647ed497c&name=ARENAVISION13
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 14 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://847d04e8dcbc5a54999fcb0d6e2eb75dca756239&name=ARENAVISION14
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 15 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://47f86954bc03a9d1e17638ecb0391ef62d76b078&name=ARENAVISION15
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 16 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://25217dd411de7e247989552e9ba41499ed96fc05&name=ARENAVISION16
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 17 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://41ccd9e0318452a42f1c97f139f80e0de7c57d8a&name=ARENAVISION17
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 18 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e559236ce91321651f10fc3767e1da37200efb89&name=ARENAVISION18
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 19 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b2825d1f94b08f246051365a75ad3b9198832705&name=ARENAVISION19
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/FAVICON_AV2015.png" group-title="Plexus",ArenaVision 20 [HD/FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://719565f991bcd94e288999bebd1512f28b788bb7&name=ARENAVISION20
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title="Plexus",Arena Sport 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://037943cf5049c5f534385ea9e720dbbf6df11fdd&name=ARENASPORT1
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png" group-title="Plexus",Arena Sport 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://480f33fd6e95653faef453d416685d2c4c5cc232&name=ARENASPORT2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png" group-title="Plexus",Arena Sport 3 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&name=ARENASPORT3
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title="Plexus",Arena Sport 4 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d&name=arenasport4
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title="Plexus",Arena Sport 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://5f90220cfbbf558ffdf9a5e4187a34efa93f8f05&name=arenasport4
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="Plexus",Eurosport (UK) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&name=Eurosport UK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tytyxu1444912725.png" group-title="Plexus",Eurosport HD (RU) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://ba1357f923f026700355e3511a7f6ff34e259245&name=Eurosport RU
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="Plexus",Eurosport 2 (UK) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8d441efa70182c65291a1b739ec0c6eaa48d6921&name=Eurosport 2 UK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vspsqp1444912735.png" group-title="Plexus",Eurosport 2 HD (RU) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://74fd2713e970b1135df5ac65d17502b810059f34&name=Eurosport 2 RU
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wpttyu1433780385.png" group-title="Plexus",Premier Sports [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3679ef19d27763ab671159036927fe3ff077e865&name=PREMIER SPORTS
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rutxrt1434542965.png" group-title="Plexus",C More Tennis [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://1328e97497116ef4dc90bc0eee91d88480a81b72&name=C MORE TENNIS
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/svtrtx1433355701.png" group-title="Plexus",CANAL+ Deportes [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b7b5b339e21754e81797a7be2e1b031fa323fe01&name=CANAL+ DEPORTES
+
+#EXTINF:-1 tvg-logo="http://adrian.kodistream.info/adryan/Logos/deportes2.jpg" group-title="Plexus",Canal+ Deportes 2 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://eb7263149ec1b5210c1dfe9307ca0699ceb2f139&name=Canal+ Deportes 2
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1453834181.png" group-title="Plexus",Canal+ Futbol [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4d485425a414d36f0a5c4fe53bb2e1043aed7d86&name=Canal+ Futbol
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpxsq1435144103.png" group-title="Plexus",Canal+ Liga [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://25ac320248637096698f13f8e93ca001c73b3a31&name=Canal+ Liga
+
+#EXTINF:-1 group-title="Plexus",Motors TV [HD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://6c2e7a477661b0fa09cc0a9824ad38a73d08c9de&name=MOTORS TV
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyxuqs1453834780.png" group-title="Plexus",Movistar F1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0d321ea1e93dc14da93c48f51b859f9d4bbf64ce&name=Movistar F1
+
+#EXTINF:-1 group-title="Plexus",Outdoor Channel (UK) [HD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://712534820510d6bc5e3146c581b372256af0a365&name=Outdoor UK HD
+
+#EXTINF:-1 group-title="Plexus",Outdoor Channel (UK) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a7e15080290f4accc21b1c4af88ca1f8fd51d68f&name=Outdoor UK
+
+#EXTINF:-1 group-title="Plexus",Caça e Pesca (RU) [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://2b343a66a18f0084e6bcf6da7fe2414b31d03bbf&name=CAZA E PESCA RU
+
+#EXTINF:-1 group-title="Plexus",CT Sport [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://6502893c51bcabc817fc6856a94988bd81a172b4&name=CT SPORT
+
+#EXTINF:-1 group-title="Plexus",DIGI Sport 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://7525fc778e3f751b430d4cf626e187268e67a1d5&name=DIGI SPORT 1
+
+#EXTINF:-1 group-title="Plexus",DIGI Sport 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://843675d1c8f68003732db7d73557155dafc5ba03&name=DIGI SPORT 2
+
+#EXTINF:-1 group-title="Plexus",Extreme Sports [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://7c34839b5079a058fad6962447e77166374592a5&name=EXTREME SPORTS
+
+#EXTINF:-1 group-title="Plexus",Fight Club [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://f5ee6d8181c138f4e487dadef26cd4e7ebdbb63a&name=FIGHT CLUB
+
+#EXTINF:-1 group-title="Plexus",FUTBOLL 1 UKR [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://de4399e863a1cf2167fe5db65f2285da3e1d2c2e&name=FUTBOLL 1 UKR
+
+#EXTINF:-1 group-title="Plexus",NOVASPORT [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9&name=NOVASPORT
+
+#EXTINF:-1 group-title="Plexus",NOVA SPORT BG [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://7437157eccc3c23fef405bf277e0d635329428cf&name=NOVA SPORT BG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_(Bulgaria)_logo.png" group-title="Plexus",Nova Sport BG [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://af863cf043df2cb8f63f2026d971e95d0a5c94e6&name=
+
+#EXTINF:-1 group-title="Plexus",nSPORT+ [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9&name=nSPORT+
+
+#EXTINF:-1 group-title="Plexus",POLSAT SPORT [FHD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://dfb1115adb7c8740bea94431bdadf2e19fc9bd99&name=POLSAT SPORT
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuusrx1453835139.png" group-title="Plexus",Polsat Sport HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://bf52d0e0068079ed2ac884a07ba2e31e0949f718&name=
+
+#EXTINF:-1 group-title="Plexus",POLSAT SPORT EXTRA [FHD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://ed20cc93e89e6b232ee9e515b7cdeed57fd773b5&name=POLSAT SPORT EXTRA
+
+#EXTINF:-1 group-title="Plexus",POLSAT SPORT EXTRA [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4c0c928a085aaa180288be1d749ccfd4aed253be&name=POLSAT SPORT EXTRA
+
+#EXTINF:-1 group-title="Plexus",SETANTA SPORTS [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&name=SETANTA SPORTS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsuuw1445657091.png" group-title="Plexus",Setanta Sports + HD [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b3620883a7d43ed90067111f5f44b6dd495cc498&name=
+
+#EXTINF:-1 group-title="Plexus",SETANTA SPORTS EUROASIA  [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4f341d4014b588016bdc636b906b880af6a26e63&name=SETANTA SPORTS EUROASIA 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yvxwts1453835354.png" group-title="Plexus",Setanta Sports Eurasia [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e00c2ac746a81d4f2192baec0d06d264c3fb3381&name=
+
+#EXTINF:-1 group-title="Plexus",SETANTA SPORTS EUROASIA + [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&name=SETANTA SPORTS EUROASIA +
+
+#EXTINF:-1 group-title="Plexus",SPORT 1 CZ [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60&name=SPORT 1 CZ
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport 1 Cz [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://224647f6b35f20a68f72633d588a8f208a896bcc&name=
+
+#EXTINF:-1 group-title="Plexus",SPORT 2 CZ [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://923bfb351663df55f2708a82eeadb50225bc213d&name=SPORT 2 CZ
+
+#EXTINF:-1 group-title="Plexus",SPORT 1 DE [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3a619efa4e9efb342affe2042a80647497ef5dbd&name=SPORT 1 DE
+
+#EXTINF:-1 group-title="Plexus",SPORT 1 LT [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3ab9ae81a0f6a99c1317e98ba2b39547bf9c4276&name=SPORT 1 LT
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Sport 1 LT [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e11d4acac424daa996e838e4ebf5b8a182061abe&name=
+
+#EXTINF:-1 group-title="Plexus",SPORT 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a13c2dcd8796d78e3a196e0397b0818f78f41d3d&name=SPORT 5
+
+#EXTINF:-1 group-title="Plexus",SUPER TENNIS [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://c0348d263ba7bbb3044b156f806999b0ead8d93e&name=SUPER TENNIS
+
+#EXTINF:-1 group-title="Plexus",TELEDEPORTE [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://c6635313ebda29534b908d1e67d724d443236a0a&name=TELEDEPORTE
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Teledeporte [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://95daaab70cdec45f6ee2f1447502b53b473b7bc3&name=
+
+#EXTINF:-1 group-title="Plexus",TPOPEN [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://1a42fa588512dadda85b2025b661c848abbfcb37&name=TPOPEN
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Viasat Golf [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://02ae9c43ec33c33ad239a094923b9a14681c207c&name=
+
+#EXTINF:-1 group-title="Plexus",VIASAT FOTBOLL [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d&name=VIASAT FOTBOLL
+
+#EXTINF:-1 group-title="Plexus",VIASAT HOCKEY [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://548d364053e6650458e3f347dfbda0dd852781da&name=VIASAT HOCKEY
+
+#EXTINF:-1 group-title="Plexus",VIASAT MOTOR [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b70983ba89591f00e2602a35e957a2d856a6d58c&name=VIASAT MOTOR
+
+#EXTINF:-1 group-title="Plexus",VIASAT BALTIC [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3bea2f854be3b3fc2f6192347c5161611c70fb5f&name=VIASAT BALTIC
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Viasat TV3 Sport 1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://f7b5faa515b1ff88635857649a3ca1a96cd6a93d&name=
+#EXTINF:-1 tvg-logo="" group-title="Plexus",Viasat TV3 Sport 2 DN [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://747791c28682e20b4fd1b7242e0401f98ea724a1&name=
+
+#EXTINF:-1 group-title="Plexus",BELARUS 5 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://b391b04a8981d61883d5189f1566cdb0922b1a4b&name=BELARUS 5
+
+#EXTINF:-1 group-title="Plexus",RUSSIA 1 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://afaea040838fe53e59dc4b19da823805e40e8b2e&name=RUSSIA 1
+
+#EXTINF:-1 group-title="Plexus",RUSSIA 2 [FSD] [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://9b2f157bbf780304222b552bee0abe9439dc9a21&name=RUSSIA 2
+
+#EXTINF:-1 group-title="UK",[B][COLOR blue]»»» UK Sports Channels «««[/COLOR][/B]
+http://0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/6/3/63341/espn_brasil.png", ESPN BRASIL [SD]
+http://213.163.65.116:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.noticiasemoda.com.br/wp-content/uploads/2012/02/fox-sports-brasil1-300x200.jpg", FOX SPORTS [SD]
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="UK",Sky Sports F1 [FSD]
+rtmpe://134.19.185.204:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png" group-title="UK",BT Sport 1 [FSD]
+rtmpe://134.19.185.165:1935/livedge playpath=mamahdbtsport1 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png" group-title="UK",BT Sport 2 [FSD]
+rtmpe://109.202.103.22:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
+
+#EXTINF:-1 group-title="UK",BT Sport Europe [FSD]
+rtmpe://134.19.185.236:1935/livedge playpath=mamahdbteu swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
+
+
+#EXTINF:-1 tvg-logo="" group-title="Plexus",TSN 1 [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225&name=
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png" group-title="UK",Eurosport (UK) [FSD]
+http://live.p2pcast.tv:8010/tv2/500839.m3u8?sf=NTVlM2YwYTBiYTg4Nw==&token=4ouoLcAg93qmnkcaSsEArw|Referer=http://cdn.p2pcast.tv/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
+
+#EXTINF:-1 group-title="UK",Motors TV [FSD]
+rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
+
+#EXTINF:-1 group-title="UK",Sports Tonight Live HD [HD]
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10
+
+#EXTINF:-1 group-title="USA",[B][COLOR blue]»»» USA Sports Channels «««[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png" group-title="USA",NBC Golf Channel [FSD]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png" group-title="USA",NBC Golf Channel [HD]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png" group-title="USA",NBC Golf Channel [FHD]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 group-title="USA",NFL Now [HD]
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Network (National) [FHD]
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Arizona [HD]
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Bay Area [HD]
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Los Angeles [FHD]
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Moutain [FHD]
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Oregon [FHD]
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Washington [FHD]
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+====================================================================================================================
+
+#EXTINF:-1,[B][COLOR blue]»»» Internacional / Em Testes «««[/COLOR][/B]
+http://0.0.0.1234
+
+=================================================
+#EXTINF:0 channelId=”-1″ , ESPN +
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:0 channelId=”355″ , ESPN 3
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:0 channelId=”1328″ , FOX SPORTS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:0 channelId=”170″ , FOX SPORTS 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:0 channelId=”2540″ , ESPN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:0 channelId=”344″ , ESPN 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:0 channelId=”-1″ , ESPN + HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0 channelId=”357″ , ESPN 3 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0 channelId=”2891″ , FOX SPORTS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0 channelId=”179″ , FOX SPORTS 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0 channelId=”1263″ , ESPN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0 channelId=”-1″ , ESPN 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:0 channelId=”-1″ , : Real Madrid Tv HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+=====================================================
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png",Eurosport France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trrqwt1433356293.png" group-title="Plexus",Real Madrid TV (Спорт) [B][COLOR red]Plexus[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://3981706bfdaacc532fd3b8a070efc7fcee44c96c&name=
+
+#EXTINF:-1,FOX Motorsport
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1,Live Motor Sport 4
+http://motorsport.hopto.org:8084/
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png",Sporttime TV 1 [FSD]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png",Sporttime TV 2 [FSD]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png",Sporttime TV 3 [FSD]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png",Sporttime TV 4 [FSD]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png",Sporttime TV 5 [FSD]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png",Sporttime TV 6 [FSD]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png",Sporttime TV 7 [FSD]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1, Sports TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1, Sports1
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to
+
+#EXTINF:-1, Sports3
+rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+
+#EXTINF:-1, Sports4
+rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+
+#EXTINF:-1, IRAK Iraqiya Sport
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+
+#EXTINF:-1, ARABIC-BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+
+#EXTM3U
+#EXTINF:0,=== Adult 18+ ===
+http://
+#EXTINF:0, Adult XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0, Asian Porn 1
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:0, Asian Porn 2
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:0, Asian Porn 3
+http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
+#EXTINF:0, Ask TV 
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+#EXTINF:0, Bella Club 
+http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
+#EXTINF:0, BabeStation X-Treme
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTINF:0, BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0, BSX
+http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=1294940186
+#EXTINF:0, BSX
+http://0100dyndns.tv:7879/live/tazia/tazia/557.m3u8
+#EXTINF:0, Boys Mania
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:0, ButGo
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+#EXTINF:0, CLARO ADULTO
+http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO (2)
+http://wowza1.videos.movile.com:8080/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM
+http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM (2)
+http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, Exotica TV HD
+http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3588.ts
+#EXTINF:0, erotic 1
+http://0100dyndns.tv:7879/live/tazia/tazia/155.m3u8
+#EXTINF:0, erotic 2
+http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, erotic 3
+http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, erotic 4
+http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, FilmOn
+http://0100dyndns.tv:7879/live/tazia/tazia/154.m3u8
+#EXTINF:0, Flower (RU)
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:0, Hustler TV
+http://91.213.59.190:8000/239.0.0.199
+#EXTINF:0, HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:0, Hot Shots TV
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0, Jasmin TV HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0, Japao Hot
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:0, Корея 1 
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#EXTINF:0, LiveSex
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+#EXTINF:0, Livething Premium 
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:0, Nefertisex 1
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:0, Nefertisex 2
+http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8
+#EXTINF:0, Nefertisex 3
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+#EXTINF:0, Nefertisex 4
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:0, Nefertisex 5
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0, Nefertisex 6
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:0, Nefertisex 7
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:0, Nefertisex 8
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:0, Nefertisex 9
+http://62.210.82.241:8081/private/private/live.m3u8
+#EXTINF:0, Nefertisex 10
+http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
+#EXTINF:0, Nuart-TV
+http://91.213.59.190:8000/239.0.1.156
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", O-LA-LA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:0, PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:0, PASSI XXX
+http://0100dyndns.tv:7879/live/tazia/tazia/153.m3u8
+#EXTINF:0, Playy
+http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
+#EXTINF:0, PLAY 2
+http://0100dyndns.tv:7879/live/tazia/tazia/152.m3u8
+#EXTINF:0, Private.com
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:0, Русская Ночь
+http://91.213.59.190:8000/239.0.0.198
+#EXTINF:0, Redlight HD
+http://91.213.59.190:8000/239.0.1.27
+#EXTINF:0, SAKURA (Koreia)
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:0, Sexstation 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:0, Spice
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+#EXTINF:0, Venus
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:0, Venus HD (2)
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:0, WowGirls.com
+http://0100dyndns.tv:7879/live/tazia/tazia/151.m3u8
+#EXTINF:0, XXX0
+http://188.165.220.116:8081/live2/37/playlist.m3u8
+#EXTINF:0, XXX1
+http://188.165.220.116:8081/live/68/playlist.m3u8
+#EXTINF:0, XXX2
+http://188.165.220.116:8081/live2/43/playlist.m3u8
+#EXTINF:0, 21 Sextury.com
+http://188.165.220.116:8081/live/62/playlist.m3u8
+
+#EXTINF:0, === [B][COLOR red]AceStream/Plexus[/COLOR][/B] ===
+http://
+#EXTINF:0, brazzers-tv-europe
+plugin://program.plexus/?mode=1&url=acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1&name=brazzers-tv-europe
+#EXTINF:0, candy
+plugin://program.plexus/?mode=1&url=acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff&name=candy
+#EXTINF:0, candyman
+plugin://program.plexus/?mode=1&url=acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8&name=candyman
+#EXTINF:0, centoxcento-tv
+plugin://program.plexus/?mode=1&url=acestream://c12fb25dd0389272b6632778584dad2698f4b3ea&name=centoxcento-tv
+#EXTINF:0, eroxxx-hd
+plugin://program.plexus/?mode=1&url=acestream://b9511ea6be2739814eb9ac95db82572767b0f367&name=eroxxx-hd
+#EXTINF:0, exotica-tv
+plugin://program.plexus/?mode=1&url=acestream://822fed2c7a6acd2e05ceefab0c2afed00f64e5fa&name=exotica-tv
+#EXTINF:0, hustler-hd
+plugin://program.plexus/?mode=1&url=acestream://2d8915e2357b581712152ee0c3f4ca2a3112942f&name=hustler-hd
+#EXTINF:0, hustler-tv
+plugin://program.plexus/?mode=1&url=acestream://5ab50fbb36c6e04eac57b36e930ea9d126e4dc36&name=hustler-tv
+#EXTINF:0, nuart-tv
+plugin://program.plexus/?mode=1&url=acestream://662c6ad696aa6567e24a9b14fd9e9526720ae243&name=nuart-tv
+#EXTINF:0, o-la-la
+plugin://program.plexus/?mode=1&url=acestream://edc6f1a8b654b648715e640a731c3e0596f486d1&name=o-la-la
+#EXTINF:0, pink-o-tv
+plugin://program.plexus/?mode=1&url=acestream://765e2401b0aa154545f4b55cc32860b523f7f96b&name=pink-o-tv
+#EXTINF:0, playboy-tv
+plugin://program.plexus/?mode=1&url=acestream://1a786800a0d58cff383b5015c885ac1b1e840654&name=playboy-tv
+#EXTINF:0, redlight-hd
+plugin://program.plexus/?mode=1&url=acestream://3bf1a9355957947311d0ebae5f14a846aea92b91&name=redlight-hd
+#EXTINF:0, satisfaction-hd
+plugin://program.plexus/?mode=1&url=acestream://75f4f8f069172d77258a8250a5cfd59a123ca286&name=satisfaction-hd
+#EXTINF:0, sextosenso
+plugin://program.plexus/?mode=1&url=acestream://7a120f14c9f0f6676fd863116b3eaa2d7c712701&name=sextosenso
+#EXTINF:0, Venus
+plugin://program.plexus/?mode=1&url=acestream://71b41b3bebb9c4e6c2e55f29f5427b9efeae6f95&name=Venus
+#EXTINF:0, tgirls-tv
+plugin://program.plexus/?mode=1&url=acestream://b48874056e1e987efeee256b5f96fa116233108d&name=tgirls-tv
+#EXTINF:0, xxl
+plugin://program.plexus/?mode=1&url=acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027&name=xxl
+#EXTINF:0, xxx
+plugin://program.plexus/?mode=1&url=acestream://bdfd5523a9d54474f5572e209352746794adcb83&name=xxx
+
+#EXTINF:0,=== Live ===
+http://
+#EXTINF:0, Live Sex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM1
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM2
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM3
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM4
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+
+#EXTINF:0,=== Movies ===
+http://
+#EXTINF:-1, Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:0,1
+http://ru-porn.Tv/videofile?id=11750&hq=high&ex=mp4
+#EXTINF:0,2
+http://ru-porn.Tv/videofile?id=14686&hq=high&ex=mp4
+#EXTINF:0,3
+http://ru-porn.Tv/videofile?id=12826&hq=high&ex=mp4
+#EXTINF:0,4
+http://ru-porn.Tv/videofile?id=13284&hq=high&ex=mp4
+#EXTINF:0,5
+http://ru-porn.tv/videofile?id=14660&hq=high&ex=mp4
+#EXTINF:0,6
+http://ru-porn.tv/videofile?id=14625&hq=high&ex=mp4
+#EXTINF:0,7
+http://ru-porn.tv/videofile?id=14336&hq=high&ex=mp4
+#EXTINF:0,8
+http://ru-porn.tv/videofile?id=14553&hq=high&ex=mp4
+#EXTINF:0,9
+http://ru-porn.tv/videofile?id=14585&hq=high&ex=mp4
+#EXTINF:0,10
+http://ru-porn.tv/videofile?id=14434&hq=high&ex=mp4
+#EXTINF:0,11
+http://ru-porn.tv/videofile?id=14556&hq=high&ex=mp4
+#EXTINF:0,12
+http://ru-porn.tv/videofile?id=14458&hq=high&ex=mp4
+#EXTINF:0,13
+http://ru-porn.tv/videofile?id=14527&hq=high&ex=mp4
+#EXTINF:0,14
+http://ru-porn.tv/videofile?id=14382&hq=high&ex=mp4
+#EXTINF:0,15
+http://ru-porn.tv/videofile?id=14441&hq=high&ex=mp4
+#EXTINF:0,16
+http://ru-porn.tv/videofile?id=14390&hq=high&ex=mp4
+#EXTINF:0,17
+http://ru-porn.tv/videofile?id=13709&hq=high&ex=mp4
+#EXTINF:0,18
+http://ru-porn.tv/videofile?id=14517&hq=high&ex=mp4
+#EXTINF:0,19
+http://ru-porn.tv/videofile?id=14345&hq=high&ex=mp4
+#EXTINF:0,20
+http://ru-porn.tv/videofile?id=14283&hq=high&ex=mp4
+#EXTINF:0,21
+http://ru-porn.tv/videofile?id=14398&hq=high&ex=mp4
+#EXTINF:0,22
+http://ru-porn.tv/videofile?id=14266&hq=high&ex=mp4
+#EXTINF:0,23
+http://ru-porn.tv/videofile?id=91&hq=high&ex=mp4
+#EXTINF:0,24
+http://ru-porn.tv/videofile?id=2359&hq=medium&ex=mp4
+#EXTINF:0,25
+http://ru-porn.tv/videofile?id=2384&hq=medium&ex=mp4
+#EXTINF:0,26
+http://ru-porn.tv/videofile?id=10743&hq=medium&ex=mp4
+#EXTINF:0,27
+http://ru-porn.tv/videofile?id=10766&hq=high&ex=mp4
+#EXTINF:0,28
+http://ru-porn.tv/videofile?id=10789&hq=high&ex=mp4
+#EXTINF:0,29
+http://ru-porn.tv/videofile?id=10792&hq=medium&ex=mp4
+#EXTINF:0,30
+http://ru-porn.tv/videofile?id=10800&hq=low&ex=mp4
+#EXTINF:0,31
+http://ru-porn.tv/videofile?id=10777&hq=low&ex=mp4
+#EXTINF:0,32
+http://ru-porn.tv/videofile?id=10785&hq=high&ex=mp4
+#EXTINF:0,33
+http://ru-porn.tv/videofile?id=10711&hq=high&ex=mp4
+#EXTINF:0,34
+http://ru-porn.tv/videofile?id=10696&hq=medium&ex=mp4
+#EXTINF:0,35
+http://ru-porn.tv/videofile?id=10695&hq=medium&ex=mp4
+#EXTINF:0,36
+http://ru-porn.tv/videofile?id=10704&hq=high&ex=mp4
+#EXTINF:0,37
+http://ru-porn.tv/videofile?id=10703&hq=medium&ex=mp4
+#EXTINF:0,38
+http://ru-porn.tv/videofile?id=10668&hq=medium&ex=mp4
+#EXTINF:0,39
+http://ru-porn.tv/videofile?id=10639&hq=medium&ex=mp4
+#EXTINF:0,40
+http://ru-porn.tv/videofile?id=10630&hq=medium&ex=mp4
+#EXTINF:0,41
+http://ru-porn.tv/videofile?id=10641&hq=medium&ex=mp4
+#EXTINF:0,42
+http://ru-porn.tv/videofile?id=10660&hq=medium&ex=mp4
+#EXTINF:0,43
+http://ru-porn.tv/videofile?id=10616&hq=medium&ex=mp4
+#EXTINF:0,44
+http://ru-porn.tv/videofile?id=10608&hq=high&ex=mp4
+#EXTINF:0,45
+http://ru-porn.tv/videofile?id=10607&hq=high&ex=mp4
+#EXTINF:0,46
+http://ru-porn.tv/videofile?id=10598&hq=medium&ex=mp4
+#EXTINF:0,47
+http://ru-porn.tv/videofile?id=10591&hq=medium&ex=mp4
+#EXTINF:0,48
+http://ru-porn.tv/videofile?id=11174&hq=high&ex=mp4
+#EXTINF:0,49
+http://ru-porn.tv/videofile?id=11188&hq=high&ex=mp4
+#EXTINF:0,50
+http://ru-porn.tv/videofile?id=11182&hq=high&ex=mp4
+#EXTINF:-1,X_MOVIE_1
+http://0100dyndns.tv:7879/movie/tazia/tazia/679.mp4
+#EXTINF:-1,X_MOVIE_2
+http://0100dyndns.tv:7879/movie/tazia/tazia/680.mp4
+#EXTINF:-1,X_MOVIE_3
+http://0100dyndns.tv:7879/movie/tazia/tazia/681.mp4
+#EXTINF:-1,X_MOVIE_4
+http://0100dyndns.tv:7879/movie/tazia/tazia/682.mp4
+#EXTINF:-1,X_MOVIE_5
+http://0100dyndns.tv:7879/movie/tazia/tazia/683.mp4
+#EXTINF:-1,X_MOVIE_6
+http://0100dyndns.tv:7879/movie/tazia/tazia/684.mp4
+#EXTINF:-1,X_MOVIE_7
+http://0100dyndns.tv:7879/movie/tazia/tazia/685.mp4
+#EXTINF:-1,X_MOVIE_8
+http://0100dyndns.tv:7879/movie/tazia/tazia/686.mp4
+#EXTINF:-1,X_MOVIE_9
+http://0100dyndns.tv:7879/movie/tazia/tazia/687.mp4
+#EXTINF:-1,X_MOVIE_10
+http://0100dyndns.tv:7879/movie/tazia/tazia/688.mp4
+#EXTINF:-1,X_MOVIE_11
+http://0100dyndns.tv:7879/movie/tazia/tazia/692.mp4
+#EXTINF:-1,X_MOVIE_12
+http://0100dyndns.tv:7879/movie/tazia/tazia/693.mp4
+#EXTINF:-1,X_MOVIE_13
+http://0100dyndns.tv:7879/movie/tazia/tazia/694.mp4
+#EXTINF:-1,X_MOVIE_14
+http://0100dyndns.tv:7879/movie/tazia/tazia/695.mp4
+#EXTINF:-1,X_MOVIE_15
+http://0100dyndns.tv:7879/movie/tazia/tazia/696.mp4
+#EXTINF:-1,X_MOVIE_16
+http://0100dyndns.tv:7879/movie/tazia/tazia/697.mp4
+#EXTINF:-1,X_MOVIE_17
+http://0100dyndns.tv:7879/movie/tazia/tazia/698.mp4
+#EXTINF:-1,X_MOVIE_18
+http://0100dyndns.tv:7879/movie/tazia/tazia/699.mp4
+#EXTINF:-1,X_MOVIE_19
+http://0100dyndns.tv:7879/movie/tazia/tazia/700.mp4
+#EXTINF:-1,X_MOVIE_20
+http://0100dyndns.tv:7879/movie/tazia/tazia/701.mp4
